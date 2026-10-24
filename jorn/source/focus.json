@@ -1,0 +1,1067 @@
+{
+  "slug": "focus-jorn",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "title": {
+    "nl": "Mijn 10 focus-tips",
+    "en": "My 10 focus habits"
+  },
+  "subtitle": {
+    "nl": "Minder prikkels en een rustiger hoofd. Per tip de exacte instelling, het getal uit het onderzoek en waarom het werkt.",
+    "en": "Fewer interruptions and a calmer head. For each habit: the exact setting, the number from the research and why it works."
+  },
+  "description": {
+    "nl": "De 10 focus-tips die Jorn Kirkels ondernemers geeft, met de exacte instellingen en de studies erbij.",
+    "en": "The 10 focus habits Jorn Kirkels gives entrepreneurs, with the exact settings and the studies behind them."
+  },
+  "intro": {
+    "nl": "De meeste ondernemers die ik spreek, worden de hele dag gestoord: meldingen, chats, mail en losse taken in hun hoofd. Aan het eind van de dag ligt het belangrijkste werk er dan nog. Ik ken het van mezelf: ik dronk meer dan acht koppen koffie per dag en reageerde op alles. Daarom bouw ik systemen die het werk voor je doen, zodat je minder wilskracht nodig hebt. Deze pagina begint met wat bijna niemand weet, daarna mijn eigen stack en dan de 10 tips.",
+    "en": "Most entrepreneurs I talk to get interrupted all day: notifications, chats, email and loose tasks in their head. By the end of the day, the most important work is still waiting. I know it from myself: I used to drink more than eight cups of coffee a day and react to everything. That's why I build systems that do the work for you, so you need less willpower. This page starts with what almost nobody knows, then my own stack, then the 10 habits."
+  },
+  "closing": {
+    "nl": "Begin met één tip. Doe die een week en kijk wat het doet. Werkt het, pak dan de volgende. Bouw systemen, zodat je niet op wilskracht hoeft te leunen. Mijn ochtend- en avondroutine staan in mijn guide 'Elke ochtend fit wakker worden'.",
+    "en": "Start with one habit. Run it for a week and see what it does. Works? Add the next one. Build systems, so you don't have to rely on willpower. You'll find my morning and evening routine in my guide 'Wake up rested every morning'."
+  },
+  "cta": {
+    "button_url": "#start-trial",
+    "title": {
+      "nl": "Maak je focus-plan persoonlijk",
+      "en": "Make your focus plan personal"
+    },
+    "steps": {
+      "nl": [
+        [
+          "Aanmelden",
+          "Klik op de knop en laat je gegevens achter."
+        ],
+        [
+          "Koppelen",
+          "Koppel je wearable, of krijg 30 dagen gratis een WHOOP."
+        ],
+        [
+          "Analyse",
+          "We lezen 30+ waarden uit, zoals je slaap, HRV en herstel: de basis onder je focus. Je krijgt je protocol per video."
+        ],
+        [
+          "Opvolging",
+          "In een call kijken we of je dagen rustiger en scherper worden."
+        ]
+      ],
+      "en": [
+        [
+          "Sign up",
+          "Click the button and leave your details."
+        ],
+        [
+          "Connect",
+          "Link your wearable, or get a free 30-day WHOOP."
+        ],
+        [
+          "Analyse",
+          "We read 30+ biometrics, like your sleep, HRV and recovery: the base your focus runs on. You get your protocol by video."
+        ],
+        [
+          "Follow-up",
+          "A call to see if your days get calmer and sharper."
+        ]
+      ]
+    }
+  },
+  "sections": [
+    {
+      "title": {
+        "nl": "Wat bijna niemand weet",
+        "en": "What almost nobody knows"
+      },
+      "text": {
+        "nl": "Vijf bevindingen die je zelden hoort, uit onderzoek en uit mijn eigen data, met wat je ermee doet.",
+        "en": "Five findings you rarely hear, from research and from my own data, with what to do about them."
+      },
+      "facts": [
+        {
+          "stat": {
+            "nl": "2,8 sec",
+            "en": "2.8 sec"
+          },
+          "title": {
+            "nl": "Een onderbreking van 2,8 seconden verdubbelde het aantal fouten.",
+            "en": "A 2.8-second interruption doubled the number of mistakes."
+          },
+          "text": {
+            "nl": "Mensen deden een taak in vaste stappen. Na een onderbreking van gemiddeld 2,8 seconden vergisten ze zich twee keer zo vaak in welke stap aan de beurt was. Na 4,4 seconden was dat drie keer zo vaak. Laat tijdens focuswerk dus alleen mensen door die echt dringend zijn (tip 3).",
+            "en": "People did a task in a fixed order of steps. After an interruption of 2.8 seconds on average, they lost track of which step came next twice as often. After 4.4 seconds, it was three times as often. So during focused work, only let through people who are truly urgent (habit 3)."
+          },
+          "label": {
+            "nl": "Experiment uit 2014",
+            "en": "Experiment from 2014"
+          }
+        },
+        {
+          "stat": {
+            "nl": "1 melding",
+            "en": "1 alert"
+          },
+          "title": {
+            "nl": "Alleen een melding krijgen kostte ongeveer net zoveel aandacht als bellen of appen.",
+            "en": "Just getting a notification cost about as much attention as calling or texting."
+          },
+          "text": {
+            "nl": "Een melding is een seintje van je telefoon: een geluid, een trilling of een rood bolletje. Mensen raakten hun telefoon niet aan en presteerden toch slechter op een aandachtstaak als er meldingen binnenkwamen. Laat alleen meldingen aan van mensen die je direct nodig hebben (tip 1).",
+            "en": "A notification is a signal from your phone: a sound, a buzz or a red dot. People didn't touch their phone, yet they did worse on an attention task when notifications came in. Keep notifications only from people who need you right away (habit 1)."
+          },
+          "label": {
+            "nl": "Experiment uit 2015",
+            "en": "Experiment from 2015"
+          }
+        },
+        {
+          "stat": {
+            "nl": "57%",
+            "en": "57%"
+          },
+          "title": {
+            "nl": "Minder vaak een app geopend na 6 weken met de app one sec.",
+            "en": "Fewer app openings after 6 weeks with the one sec app."
+          },
+          "text": {
+            "nl": "one sec laat je even wachten voordat een app als Instagram opengaat, en geeft je een knop om af te zien. In 36% van de keren sloten mensen de app meteen weer. Een van de onderzoekers heeft one sec bedacht.",
+            "en": "one sec makes you wait a moment before an app like Instagram opens, and gives you a button to back out. People closed the app straight away 36% of the time. One of the researchers created one sec."
+          },
+          "label": {
+            "nl": "Studie met 280 mensen",
+            "en": "Study of 280 people"
+          }
+        },
+        {
+          "stat": {
+            "nl": "4",
+            "en": "4"
+          },
+          "title": {
+            "nl": "Je hoofd houdt maar zo'n 4 dingen tegelijk vast.",
+            "en": "Your mind holds only about 4 things at once."
+          },
+          "text": {
+            "nl": "Je werkgeheugen is het kladblok van je hoofd: de plek waar je iets even vasthoudt terwijl je nadenkt. De bekende schatting was 7 dingen. Nieuwer onderzoek komt op ongeveer 4. Elke taak die je probeert te onthouden, neemt dus een flink deel van die ruimte in. Zet hem in één lijst (tip 7).",
+            "en": "Your working memory is your mind's notepad: where you hold something for a moment while you think. The well-known estimate was 7 things. Newer research puts it at about 4. So every task you try to remember takes up a big share of that space. Put it in one list (habit 7)."
+          },
+          "label": {
+            "nl": "Overzicht van het onderzoek",
+            "en": "Review of the research"
+          }
+        },
+        {
+          "stat": {
+            "nl": "86 → 152 ms",
+            "en": "86 → 152 ms"
+          },
+          "title": {
+            "nl": "Mijn HRV, nadat ik van zo'n 800 naar 30 tot 60 mg cafeïne per dag ging.",
+            "en": "My HRV after I went from about 800 to 30 to 60 mg of caffeine a day."
+          },
+          "text": {
+            "nl": "HRV (hartslagvariabiliteit) is het kleine verschil in tijd tussen je hartslagen, in milliseconden (ms). Een hogere HRV betekent meestal dat je lichaam goed hersteld is; hij zakt na slaaptekort, alcohol of stress. Ik veranderde meer dan alleen mijn cafeïne, dus ik weet niet welk deel wat deed. Verander jij iets, meet dan je HRV een paar weken ervoor en erna.",
+            "en": "HRV (heart rate variability) is the small variation in time between your heartbeats, in milliseconds (ms). A higher HRV usually means your body has recovered well; it drops after too little sleep, alcohol or stress. I changed more than just my caffeine in that time, so I don't know which part did what. Changing something yourself? Track your HRV for a few weeks before and after."
+          },
+          "label": {
+            "nl": "Mijn eigen data",
+            "en": "My own data"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "23294345"
+        },
+        {
+          "pmid": "26121498"
+        },
+        {
+          "pmid": "36795756"
+        },
+        {
+          "pmid": "40895095"
+        },
+        {
+          "pmid": "29549064"
+        },
+        {
+          "pmid": "29486547"
+        },
+        {
+          "pmid": "11515286"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 1",
+        "en": "Part 1"
+      },
+      "title": {
+        "nl": "Mijn focus-stack",
+        "en": "My focus stack"
+      },
+      "subtitle": {
+        "nl": "Wat ik elke dag gebruik. Het meeste kun je vandaag instellen.",
+        "en": "What I use every day. You can set up most of it today."
+      }
+    },
+    {
+      "title": {
+        "nl": "Op mijn telefoon en aan mijn bureau",
+        "en": "On my phone and at my desk"
+      },
+      "markers": [
+        {
+          "name": {
+            "nl": "De app one sec",
+            "en": "The one sec app"
+          },
+          "note": {
+            "nl": "Voordat een app als Instagram opengaat, laat one sec me een paar seconden wachten en ademen. Vaak sluit ik hem dan weer (tip 6).",
+            "en": "Before an app like Instagram opens, one sec makes me wait a few seconds and take a breath. Often I close it again (habit 6)."
+          }
+        },
+        {
+          "name": {
+            "nl": "Berichten om 8.00, 12.00 en 18.00 uur",
+            "en": "Messages at 8.00, 12.00 and 18.00"
+          },
+          "note": {
+            "nl": "Daartussen staan mijn chats en mail dicht. 's Ochtends maak ik eerst mijn chats leeg, zodat mijn team verder kan (tip 4).",
+            "en": "In between, my chats and email stay closed. In the morning I clear my chats first, so my team can get on (habit 4)."
+          }
+        },
+        {
+          "name": {
+            "nl": "Twee nummers op één telefoon",
+            "en": "Two numbers on one phone"
+          },
+          "note": {
+            "nl": "Met een eSIM, een digitale simkaart, heb je twee nummers op één telefoon. Alleen mijn familie en goede vrienden hebben mijn privénummer. Belt iemand dat nummer, dan is het altijd belangrijk (tip 3).",
+            "en": "With an eSIM, a digital SIM card, you can have two numbers on one phone. Only my family and close friends have my personal number. A call on that number is always important (habit 3)."
+          }
+        },
+        {
+          "name": {
+            "nl": "Eén lijst voor elke taak",
+            "en": "One list for every task"
+          },
+          "note": {
+            "nl": "Elke taak en elk idee zet ik binnen een paar seconden in Todoist, met een snelkoppeling (tip 7). Daarna plan ik ze in mijn agenda met Akiflow.",
+            "en": "Every task and idea goes into Todoist within a few seconds, with a shortcut (habit 7). Then I plan them into my calendar with Akiflow."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een koptelefoon met noise cancelling",
+            "en": "Noise-cancelling headphones"
+          },
+          "note": {
+            "nl": "Een koptelefoon die het geluid om je heen wegfiltert. Ik gebruik vaak binaural beats: twee net iets andere tonen, één in elk oor. Andere opties zijn stilte of brown noise, een laag en gelijkmatig geruis. Dat binaural beats je hersengolven bijsturen, is onzeker: van 14 studies vonden 5 dat effect en 8 niet.",
+            "en": "Headphones that filter out the sound around you. I often use binaural beats: two slightly different tones, one in each ear. Other options are silence or brown noise, a low and even rumble. The idea that binaural beats tune your brainwaves is shaky: of 14 studies, 5 found that effect and 8 didn't."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een loopband onder mijn bureau",
+            "en": "A walking pad under my desk"
+          },
+          "note": {
+            "nl": "Met een vest van 10 kilo zet ik 30.000 tot 40.000 stappen per dag. Mijn rusthartslag (hoe vaak je hart per minuut klopt als je stilzit) ging in 12 maanden van 53 naar 37. Ik veranderde meer dan één ding.",
+            "en": "With a 10 kg weighted vest I get 30,000 to 40,000 steps a day. My resting heart rate (how often your heart beats per minute when you sit still) went from 53 to 37 in 12 months. I changed more than one thing."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een lichttherapiebril",
+            "en": "Light therapy glasses"
+          },
+          "note": {
+            "nl": "Een bril die fel licht in je ogen geeft, voor donkere ochtenden (tip 9).",
+            "en": "Glasses that shine bright light into your eyes, for dark mornings (habit 9)."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een wearable",
+            "en": "A wearable"
+          },
+          "note": {
+            "nl": "Een ring of horloge die je slaap en hartslag meet. Elke ochtend schrijf ik eerst op hoe ik denk dat ik sliep, en dan kijk ik naar mijn HRV.",
+            "en": "A ring or watch that tracks your sleep and heart rate. Every morning I first write down how I think I slept, then I check my HRV."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "37205669"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Van acht koppen koffie naar bijna niets",
+        "en": "From eight cups of coffee to almost nothing"
+      },
+      "text": {
+        "nl": "Ik dronk vroeger meer dan acht koppen koffie per dag, zo'n 800 mg cafeïne. Nu neem ik 30 tot 60 mg per dag, uit capsules. 150 mg is voor mij al te veel.",
+        "en": "I used to drink more than eight cups of coffee a day, about 800 mg of caffeine. Now I take 30 to 60 mg a day, from capsules. For me, 150 mg is already too much."
+      },
+      "items": [
+        {
+          "nl": "Ik stapte over op cafeïnevrije koffie. Die is niet helemaal vrij van cafeïne: in een studie zat er tot 14 mg in een grote beker (zo'n halve liter) en tot 16 mg in een espresso. Drink je er veel van? Tel het dan mee.",
+          "en": "I switched to decaf. Decaf isn't completely free of caffeine: in one study, a large cup (about half a litre) had up to 14 mg and a shot of espresso up to 16 mg. Drink a lot of it? Then count it."
+        },
+        {
+          "nl": "Mijn cafeïne neem ik als capsule, zodat ik precies weet hoeveel het is.",
+          "en": "I take my caffeine as a capsule, so I know exactly how much it is."
+        },
+        {
+          "nl": "Ter vergelijking: EFSA, de Europese autoriteit voor voedselveiligheid, ziet bij gezonde volwassenen geen reden tot zorg tot 200 mg in één keer en 400 mg per dag. Zwanger of geef je borstvoeding? Dan is de grens 200 mg per dag.",
+          "en": "For comparison: EFSA, the European food safety authority, sees no safety concern for healthy adults up to 200 mg at once and 400 mg a day. Pregnant or breastfeeding? Then the limit is 200 mg a day."
+        },
+        {
+          "nl": "Bouw je af? Doe het stap voor stap. In onderzoek kreeg de helft van de mensen hoofdpijn als ze in één keer stopten. De klachten begonnen na 12 tot 24 uur en duurden 2 tot 9 dagen, soms al bij mensen die maar 100 mg per dag gewend waren.",
+          "en": "Cutting down? Do it step by step. When people stopped all at once, half of them got a headache. The symptoms started after 12 to 24 hours and lasted 2 to 9 days, sometimes even in people used to just 100 mg a day."
+        }
+      ],
+      "after": {
+        "nl": "Wat het met mijn HRV deed, zie je bovenaan. Hoe laat je je laatste cafeïne neemt, staat in tip 8.",
+        "en": "You can see what it did to my HRV at the top. When to take your last caffeine is in habit 8."
+      },
+      "sources": [
+        {
+          "pmid": "17132260"
+        },
+        {
+          "label": {
+            "nl": "EFSA (2015): veiligheid van cafeïne",
+            "en": "EFSA (2015): Scientific Opinion on the safety of caffeine"
+          },
+          "note": {
+            "nl": "Gezonde volwassenen: tot 200 mg per keer en 400 mg per dag geen reden tot zorg; zwanger of borstvoeding: tot 200 mg per dag",
+            "en": "Healthy adults: no safety concern up to 200 mg at once and 400 mg a day; pregnant or breastfeeding: up to 200 mg a day"
+          },
+          "url": "https://doi.org/10.2903/j.efsa.2015.4102"
+        },
+        {
+          "pmid": "15448977"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Mijn supplementen voor focus",
+        "en": "My supplements for focus"
+      },
+      "text": {
+        "nl": "Dit neem ik zelf, met mijn dosis erbij. Daarnaast staat de officiële grens en wat het onderzoek zegt. Wat jij nodig hebt, zie je in je bloed en je data.",
+        "en": "This is what I take myself, with my dose. Next to it: the official limit and what the research says. What you need shows up in your blood and your data."
+      },
+      "items": [
+        {
+          "nl": "L-theanine, een aminozuur uit thee, samen met mijn cafeïne: 60 tot 120 mg L-theanine bij 30 tot 60 mg cafeïne. Een aminozuur is een bouwsteen van eiwit. Er is geen officiële bovengrens. EFSA keurde in 2011 geen gezondheidsclaim goed voor L-theanine en denken of ontspanning. In een kleine studie van Unilever, een theemaker, met 27 mensen gaf 50 mg cafeïne met 100 mg L-theanine snellere en betere prestaties bij een taak waarin je moet wisselen, en minder afleiding.",
+          "en": "L-theanine, an amino acid from tea, together with my caffeine: 60 to 120 mg of L-theanine with 30 to 60 mg of caffeine. An amino acid is a building block of protein. There's no official upper limit. In 2011 EFSA approved no health claim for L-theanine and thinking or relaxation. In a small study by Unilever, a tea maker, with 27 people, 50 mg of caffeine with 100 mg of L-theanine gave faster and more accurate performance on a task where you switch between things, and less distraction."
+        },
+        {
+          "nl": "CDP-choline (citicoline), een stof die je lichaam afbreekt tot onder meer choline, een bouwstof voor je hersencellen. Ik neem 500 mg per dag. Dat is ook het maximum dat een supplement in de EU per dag mag geven. Het is niet bedoeld voor kinderen en kan botsen met sommige medicijnen. EFSA vond in 2024 geen bewezen effect op het geheugen. Maar één studie bij gezonde mensen vond een effect, bij 500 mg per dag, 12 weken lang. Een studie met 1 gram per dag vond niets.",
+          "en": "CDP-choline (citicoline), a substance your body breaks down into, among other things, choline: a building block for your brain cells. I take 500 mg a day. That's also the most a supplement may give per day in the EU. It isn't meant for children and can interact with some medicines. In 2024, EFSA found no proven effect on memory. Only one study in healthy people found an effect, at 500 mg a day for 12 weeks. A study with 1 gram a day found none."
+        },
+        {
+          "nl": "Een B-complex, één pil met de B-vitamines, zoals B6, B12 en foliumzuur. Ik neem 1 capsule per dag van een 'gemethyleerde' versie: een deel van de B-vitamines zit er al in de vorm in die je lichaam gebruikt. Kijk hoeveel B6 er in de jouwe zit. EFSA legde de veilige bovengrens voor volwassenen op 12 mg B6 per dag. Te veel B6, lange tijd, kan je zenuwen beschadigen: tintelingen, een doof gevoel of pijn in je handen en voeten. Lareb, het Nederlandse bijwerkingencentrum, kreeg ook meldingen van mensen die 12 mg of minder namen. En in 16 studies met 6.276 mensen hielp B12, alleen of in een B-complex, niet voor denken of stemming bij mensen zonder duidelijk tekort. Of je een tekort hebt, zie je in je bloed.",
+          "en": "A B complex, one pill with the B vitamins, such as B6, B12 and folic acid. I take 1 capsule a day of a 'methylated' one: some of the B vitamins in it are already in the form your body uses. Check how much B6 is in yours. EFSA set the safe upper limit for adults at 12 mg of B6 a day. Too much B6 for a long time can damage your nerves: tingling, numbness or pain in your hands and feet. Lareb, the Dutch centre for side effects, also had reports from people taking 12 mg or less. And in 16 studies with 6,276 people, B12 on its own or in a B complex didn't help thinking or mood in people without a clear deficiency. Whether you're low shows up in your blood."
+        },
+        {
+          "nl": "Bromantane. Ik gebruik het voor meer mentale energie bij zwaar denkwerk. In Rusland is het een medicijn tegen aanhoudende vermoeidheid. In de EU is het geen toegelaten medicijn of supplement, en het staat op de dopinglijst. Het onderzoek komt bijna helemaal uit Rusland. In een grote studie kregen alle 728 deelnemers met aanhoudende vermoeidheid het middel, en de meesten voelden zich na 4 weken beter. Er was geen groep zonder het middel, dus je weet niet hoeveel daarvan door het middel kwam. Bij gezonde vrijwilligers deed één dosis het beter bij mentale vermoeidheid. Bij ratten verhoogt het de aanmaak van dopamine, een signaalstof in je hersenen.",
+          "en": "Bromantane. I use it for more mental drive during hard thinking work. In Russia it's a medicine for persistent fatigue. In the EU it isn't an approved medicine or supplement, and it's on the doping list. The research comes almost entirely from Russia. In one large study all 728 participants with persistent fatigue got the drug, and most felt better after 4 weeks. There was no group without the drug, so you can't tell how much of that came from the drug. In healthy volunteers, a single dose helped with mental fatigue. In rats it increases the production of dopamine, a chemical messenger in your brain."
+        }
+      ],
+      "caution_label": {
+        "nl": "Start nooit zonder data.",
+        "en": "Never start without data."
+      },
+      "caution": {
+        "nl": "Het verkeerde supplement kan klachten erger maken. Laat eerst meten wat je nodig hebt. Gebruik je medicijnen, of ben je zwanger? Bespreek het dan eerst met je huisarts. Sport je in competitie? Bromantane staat op de dopinglijst.",
+        "en": "The wrong supplement can make symptoms worse. Measure what you need first. Taking any medication, or pregnant? Talk to your GP first. Compete in sport? Bromantane is on the doping list."
+      },
+      "sources": [
+        {
+          "pmid": "38966137"
+        },
+        {
+          "label": {
+            "nl": "EU-besluit 2014/423: citicoline als nieuw voedingsmiddel",
+            "en": "EU Decision 2014/423: citicoline as a novel food"
+          },
+          "note": {
+            "nl": "Supplementen: maximaal 500 mg per dag, niet voor kinderen; EFSA: kan een wisselwerking hebben met bepaalde medicijnen",
+            "en": "Supplements: at most 500 mg a day, not for children; EFSA: may interact with specific medicines"
+          },
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014D0423"
+        },
+        {
+          "pmid": "33809274"
+        },
+        {
+          "pmid": "37207271"
+        },
+        {
+          "label": {
+            "nl": "Lareb (2024): zenuwschade door supplementen met vitamine B6",
+            "en": "Lareb (2024): nerve damage from supplements with vitamin B6"
+          },
+          "note": {
+            "nl": "238 meldingen, waarvan 79 bij een dagdosis van 12 mg of minder",
+            "en": "238 reports, 79 of them at a daily dose of 12 mg or less"
+          },
+          "url": "https://www.lareb.nl/news/zenuwschade-door-gebruik-van-voedingssupplementen-met-vitamine-b6/"
+        },
+        {
+          "pmid": "20559263"
+        },
+        {
+          "pmid": "19642584"
+        },
+        {
+          "pmid": "17854844"
+        },
+        {
+          "label": {
+            "nl": "WADA: lijst met verboden middelen (S6, stimulantia: bromantan)",
+            "en": "WADA Prohibited List (S6, stimulants: bromantan)"
+          },
+          "note": {
+            "nl": "World Anti-Doping Agency",
+            "en": "World Anti-Doping Agency"
+          },
+          "url": "https://www.wada-ama.org/en/prohibited-list"
+        },
+        {
+          "pmid": "18681988"
+        },
+        {
+          "label": {
+            "nl": "EFSA (2011): L-theanine en gezondheidsclaims",
+            "en": "EFSA (2011): L-theanine and health claims"
+          },
+          "note": {
+            "nl": "EFSA Journal 9(6):2238",
+            "en": "EFSA Journal 9(6):2238"
+          },
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2011.2238"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 2",
+        "en": "Part 2"
+      },
+      "title": {
+        "nl": "Je telefoon",
+        "en": "Your phone"
+      },
+      "subtitle": {
+        "nl": "Minder prikkels die je aandacht wegtrekken.",
+        "en": "Fewer triggers that pull your attention away."
+      }
+    },
+    {
+      "title": {
+        "nl": "1. Zet niet-essentiële meldingen uit",
+        "en": "1. Turn off non-essential notifications"
+      },
+      "text": {
+        "nl": "Alleen al een melding krijgen kost aandacht (zie bovenaan). Alles uitzetten werkte ook niet het best. In een studie met 237 mensen werden mensen zonder meldingen juist onrustiger en banger om iets te missen. Wie meldingen in 3 blokken per dag kreeg, voelde zich oplettender en minder gestrest.",
+        "en": "Just getting a notification costs attention (see the top). Turning everything off didn't work best either. In a study of 237 people, those with no notifications at all became more anxious and more afraid of missing out. Those who got them in 3 batches a day felt more attentive and less stressed."
+      },
+      "items": [
+        {
+          "nl": "Laat alleen meldingen aan van mensen en apps die je direct nodig hebben.",
+          "en": "Keep notifications only from people and apps that need you right away."
+        },
+        {
+          "nl": "Bundel de rest. iPhone: Instellingen > Berichtgeving > Geplande samenvatting, om 8.00, 12.00 en 18.00 uur.",
+          "en": "Bundle the rest. iPhone: Settings > Notifications > Scheduled Summary, at 8.00, 12.00 and 18.00."
+        },
+        {
+          "nl": "Zet de rode bolletjes uit: Berichtgeving > kies een app > Badges.",
+          "en": "Turn off the red dots: Notifications > pick an app > Badges."
+        }
+      ],
+      "after": {
+        "nl": "Dopamine is de signaalstof in je hersenen achter het 'ik wil'-gevoel. Bij apen bouwde die het sterkst op als een beloning 50% kans had, dus zo onzeker mogelijk. Een melding is zo'n onzekere beloning, al is dat bij mensen met hun telefoon nog niet gemeten.",
+        "en": "Dopamine is the chemical messenger in your brain behind the 'I want' feeling. In monkeys it built up most when a reward had a 50% chance, as uncertain as it gets. A notification is that kind of uncertain reward, though this hasn't been measured in people with their phones."
+      },
+      "sources": [
+        {
+          "pmid": "26121498"
+        },
+        {
+          "label": "Fitz et al. 2019, Computers in Human Behavior",
+          "note": {
+            "nl": "237 mensen, 2 weken: geen meldingen gaf meer onrust, 3 blokken per dag hielp de aandacht",
+            "en": "237 people, 2 weeks: no notifications raised anxiety, 3 batches a day helped attention"
+          },
+          "url": "https://doi.org/10.1016/j.chb.2019.07.016"
+        },
+        {
+          "pmid": "9858756"
+        },
+        {
+          "pmid": "12649484"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "2. Houd je chats opgeruimd met het archief",
+        "en": "2. Keep your chats tidy with the archive"
+      },
+      "text": {
+        "nl": "Een chatlijst zonder einde zit vol open lussen: dingen die nog niet af zijn en op de achtergrond door je hoofd blijven gaan. Zo maak je er een inbox van:",
+        "en": "An endless chat list is full of open loops: things that aren't finished and keep running in the back of your mind. This is how to turn it into an inbox:"
+      },
+      "items": [
+        {
+          "nl": "WhatsApp: archiveer al je chats in één keer (Instellingen > Chats, op Android onder Chatgeschiedenis).",
+          "en": "WhatsApp: archive all your chats at once (Settings > Chats, on Android under Chat history)."
+        },
+        {
+          "nl": "Zet daar 'Chats gearchiveerd houden' UIT. Dan haalt een nieuw bericht de chat vanzelf terug in je lijst. Staat hij aan, dan blijft dat bericht in het archief, meestal zonder melding.",
+          "en": "Turn 'Keep chats archived' OFF there. Then a new message brings the chat back into your list by itself. With it on, that message stays in the archive, usually without a notification."
+        },
+        {
+          "nl": "Klaar met een chat? Archiveer hem.",
+          "en": "Done with a chat? Archive it."
+        },
+        {
+          "nl": "Mail: laat een filter alles met 'afmelden' of 'unsubscribe' erin automatisch archiveren.",
+          "en": "Email: set a filter that archives anything containing 'unsubscribe' automatically."
+        },
+        {
+          "nl": "Slack: open Unreads (⌘ Shift A op een Mac, Ctrl Shift A op Windows). Met Esc markeer je een gesprek als gelezen, zo werk je ze één voor één af. Zie je Unreads niet? Zet het aan bij de instellingen van je zijbalk.",
+          "en": "Slack: open Unreads (⌘ Shift A on a Mac, Ctrl Shift A on Windows). Esc marks a conversation as read, so you work through them one by one. Don't see Unreads? Switch it on in your sidebar settings."
+        }
+      ],
+      "after": {
+        "nl": "Een meta-analyse uit 2026 (een studie die veel studies samenvoegt) vond bij duizenden werkenden: wie meer onafgemaakt werk had, dacht in de vrije tijd vaker aan werk. Dat is een verband. Of een lege chatlijst je focus verbetert, is niet onderzocht.",
+        "en": "A 2026 meta-analysis (a study that pools many studies) of thousands of workers found that those with more unfinished work thought about work more often in their free time. That's a link. Whether an empty chat list improves your focus hasn't been studied."
+      },
+      "sources": [
+        {
+          "pmid": "41554526"
+        },
+        {
+          "label": {
+            "nl": "WhatsApp Helpcentrum",
+            "en": "WhatsApp Help Center"
+          },
+          "note": {
+            "nl": "Archiveren, en wat 'Chats gearchiveerd houden' doet",
+            "en": "Archiving, and what 'Keep chats archived' does"
+          },
+          "url": "https://faq.whatsapp.com/1426887324388733"
+        },
+        {
+          "label": {
+            "nl": "Slack Help Center",
+            "en": "Slack Help Center"
+          },
+          "note": {
+            "nl": "Al je ongelezen berichten bekijken, en sneltoetsen in Unreads",
+            "en": "View all your unread messages, and Unreads keyboard shortcuts"
+          },
+          "url": "https://slack.com/help/articles/226410907-View-all-your-unread-messages"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "3. Bepaal wie je mag bellen",
+        "en": "3. Decide who can reach you"
+      },
+      "text": {
+        "nl": "Een focusstand is een instelling op je telefoon die oproepen en meldingen tegenhoudt, behalve van de mensen die jij kiest. Een onderbreking van 2,8 seconden verdubbelde al het aantal fouten (zie bovenaan).",
+        "en": "A focus mode is a setting on your phone that holds back calls and notifications, except from the people you choose. An interruption of 2.8 seconds already doubled the number of mistakes (see the top)."
+      },
+      "items": [
+        {
+          "nl": "iPhone: Instellingen > Focus > kies een focus > Personen. Android: 'Niet storen' > Personen.",
+          "en": "iPhone: Settings > Focus > pick a focus > People. Android: 'Do not disturb' > People."
+        },
+        {
+          "nl": "Kies alleen je gezin en je belangrijkste contacten. Zet op je iPhone 'Herhaalde oproepen' aan: wie binnen 3 minuten opnieuw belt, komt toch door.",
+          "en": "Pick only your family and your most important contacts. On iPhone, turn on 'Repeated Calls': anyone who calls again within 3 minutes gets through."
+        },
+        {
+          "nl": "Laat de focus op vaste tijden vanzelf aangaan, bijvoorbeeld tijdens je deep work (tip 5).",
+          "en": "Let the focus turn on by itself at set times, for example during your deep work (habit 5)."
+        },
+        {
+          "nl": "Twee nummers op één telefoon (zie mijn stack)? Geef je privénummer alleen aan familie en goede vrienden. Dan is een oproep op dat nummer altijd de moeite waard.",
+          "en": "Two numbers on one phone (see my stack)? Give your personal number only to family and close friends. Then a call on that number is always worth answering."
+        },
+        {
+          "nl": "Zet in je voicemail wanneer je terugbelt, bijvoorbeeld tussen 13.00 en 18.00 uur.",
+          "en": "Say in your voicemail when you call back, for example between 13.00 and 18.00."
+        },
+        {
+          "nl": "Gebruik je WhatsApp Business? Zet dan een afwezigheidsbericht met dezelfde tijden: Tools > Afwezigheidsbericht > Schema.",
+          "en": "Use WhatsApp Business? Set an away message with the same times: Tools > Away message > Schedule."
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "23294345"
+        },
+        {
+          "label": {
+            "nl": "WhatsApp Helpcentrum",
+            "en": "WhatsApp Help Center"
+          },
+          "note": {
+            "nl": "Een afwezigheidsbericht instellen in WhatsApp Business",
+            "en": "How to use away messages in WhatsApp Business"
+          },
+          "url": "https://faq.whatsapp.com/2565868990219715"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 3",
+        "en": "Part 3"
+      },
+      "title": {
+        "nl": "Je werkdag",
+        "en": "Your workday"
+      },
+      "subtitle": {
+        "nl": "Vaste momenten, één taak tegelijk en een leeg hoofd.",
+        "en": "Set times, one task at a time and a clear head."
+      }
+    },
+    {
+      "title": {
+        "nl": "4. Check berichten en mail op vaste momenten",
+        "en": "4. Check messages and email at set times"
+      },
+      "text": {
+        "nl": "Bij elke check wissel je van taak. Je hoofd moet de ene taak loslaten en de andere oppakken, en vaak blijft een deel van je aandacht hangen bij wat je net deed. Dat heet aandachtsresidu.",
+        "en": "Every check is a task switch. Your mind has to let go of one task and pick up the other, and part of your attention often stays stuck on what you were just doing. That's called attention residue."
+      },
+      "items": [
+        {
+          "nl": "Kies 3 vaste momenten. Ik doe 8.00, 12.00 en 18.00 uur.",
+          "en": "Pick 3 set times. Mine are 8.00, 12.00 and 18.00."
+        },
+        {
+          "nl": "Ga dan WhatsApp, Slack en mail af tot er niets meer openstaat, met een vaste eindtijd. Sluit daarna alles.",
+          "en": "Then go through WhatsApp, Slack and email until nothing is left open, with a fixed end time. Close everything after."
+        },
+        {
+          "nl": "Reageer in die ronde op iedereen, ook al is het alleen: 'Check, staat in mijn systeem.' Zet de taak daarna in je lijst (tip 7). Mensen voelen zich gehoord en jij hoeft het niet te onthouden.",
+          "en": "Reply to everyone in that round, even if it's just: 'Got it, it's in my system.' Then put the task on your list (habit 7). People feel heard, and you don't have to remember it."
+        },
+        {
+          "nl": "Spreek met je team af: bellen is voor dringende dingen, de rest gaat via een bericht. Wat ik merk: als mensen weten dat je op vaste momenten reageert, worden hun berichten duidelijker.",
+          "en": "Agree with your team: calling is for urgent things, messages are for the rest. What I notice: once people know you reply at set times, their messages get clearer."
+        }
+      ],
+      "after": {
+        "nl": "Bij 124 volwassenen gaf een week lang 3 keer per dag mail checken (in de praktijk zo'n 5 keer) minder stress dan een week checken wanneer ze wilden (zo'n 13 keer). In twee experimenten liet een taak afronden onder wat tijdsdruk minder aandacht achter bij die taak; daar is de eindtijd voor. Na een taakwissel ben je trager en maak je meer fouten. Voorbereiden maakt dat kleiner.",
+        "en": "In 124 adults, a week of checking email 3 times a day (in practice about 5 times) gave less daily stress than a week of checking whenever they liked (about 13 times). In two experiments, finishing a task under some time pressure left less attention behind on it; that's what the end time is for. After a task switch you're slower and make more mistakes. Preparing makes that smaller."
+      },
+      "sources": [
+        {
+          "label": "Kushlev & Dunn 2015, Computers in Human Behavior",
+          "note": {
+            "nl": "124 volwassenen: een week lang 3 keer per dag mail checken (gemiddeld 4,7 keer) gaf minder stress dan onbeperkt (12,5 keer)",
+            "en": "124 adults: a week of checking email 3 times a day (4.7 times on average) lowered daily stress compared with unlimited checking (12.5 times)"
+          },
+          "url": "https://doi.org/10.1016/j.chb.2014.11.005"
+        },
+        {
+          "label": "Leroy 2009, Organizational Behavior and Human Decision Processes",
+          "note": {
+            "nl": "Twee experimenten: aandacht blijft hangen bij een onafgemaakte taak, en de volgende taak gaat slechter",
+            "en": "Two experiments: attention lingers on an unfinished task, and the next task suffers"
+          },
+          "url": "https://doi.org/10.1016/j.obhdp.2009.04.002"
+        },
+        {
+          "pmid": "12639695"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "5. Begin je dag met je belangrijkste taak",
+        "en": "5. Start your day with your most important task"
+      },
+      "text": {
+        "nl": "Deep work is werk waarvoor je al je aandacht nodig hebt, zoals een strategie of een lastig voorstel. De meeste ondernemers raad ik daarvoor 9.00 tot 12.00 uur aan.",
+        "en": "Deep work is work that needs all of your attention, like a strategy or a difficult proposal. For most entrepreneurs I recommend 9 to 12 for it."
+      },
+      "items": [
+        {
+          "nl": "Zet die taak de avond ervoor als vast blok in je agenda.",
+          "en": "Put that task in your calendar the evening before, as a fixed block."
+        },
+        {
+          "nl": "Minder dan 3 mensen in je team? Begin dan meteen met je deep work. Groter team? Doe eerst een korte inboxronde, zoals ik, zodat je team verder kan. Sluit daarna alles.",
+          "en": "Fewer than 3 people on your team? Then start your deep work straight away. A bigger team? Do a short inbox round first, like I do, so your team can get on. Then close everything."
+        },
+        {
+          "nl": "Blokkeer je chat-apps op je laptop tot 12.00 uur, op een vast schema, met een app-blokker zoals 1Focus (Mac) of Freedom (Windows). Laat je mail open, zodat je inlogcodes nog binnenkomen. De app-limiet van Apple zelf helpt hier weinig: je tikt op 'Negeer limiet' en je bent erin.",
+          "en": "Block your chat apps on your laptop until 12.00, on a fixed schedule, with an app blocker such as 1Focus (Mac) or Freedom (Windows). Keep email open, so your login codes still come in. Apple's own app limit doesn't help much here: you tap 'Ignore Limit' and you're in."
+        },
+        {
+          "nl": "Verdeel je lijst in deep work en busy work: klein, druk werk. Deep work doe je 's ochtends. Kleine taken, zoals een document versturen, en meetings plan je 's middags.",
+          "en": "Split your list into deep work and busy work: small, routine tasks. Deep work goes in the morning. Small tasks, like sending a document, and meetings go in the afternoon."
+        },
+        {
+          "nl": "Echte avondmens? Leg je blok later. Je chronotype, of je van nature een ochtend- of avondmens bent, bepaalt mee wanneer je het scherpst bent.",
+          "en": "A true evening person? Put your block later. Your chronotype, whether you're naturally a morning or an evening person, helps decide when you're sharpest."
+        },
+        {
+          "nl": "Neem na zwaar denkwerk een pauze van meer dan 10 minuten.",
+          "en": "After hard thinking work, take a break of more than 10 minutes."
+        }
+      ],
+      "after": {
+        "nl": "In 22 studies gaven pauzes van hooguit 10 minuten iets meer energie. Betere prestaties gaven ze alleen bij lichtere taken, en hoe langer de pauze, hoe groter dat effect. Na zwaar werk heb je volgens de onderzoekers waarschijnlijk meer dan 10 minuten nodig.",
+        "en": "In 22 studies, breaks of up to 10 minutes gave a little more energy. They only improved performance on lighter tasks, and the longer the break, the bigger that effect. After demanding work, the researchers say you probably need more than 10 minutes."
+      },
+      "sources": [
+        {
+          "pmid": "18066734"
+        },
+        {
+          "pmid": "36044424"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "6. Maak je telefoon saai",
+        "en": "6. Make your phone boring"
+      },
+      "text": {
+        "nl": "Wat helpt, is wrijving: een kleine drempel die je het moment geeft om te kiezen.",
+        "en": "What helps is friction: a small hurdle that gives you the moment to choose."
+      },
+      "items": [
+        {
+          "nl": "Zet one sec op de apps die je het vaakst zonder reden opent. Kies een wachttijd van een paar seconden en stel in op welke uren hij aanstaat, bijvoorbeeld alleen 's ochtends. In de studie werkte de knop om af te zien het best, en het wachten hielp ook. De tekst die je laat nadenken, deed niets.",
+          "en": "Put one sec on the apps you open most often for no reason. Pick a wait of a few seconds and set the hours it's on, for example only in the mornings. In the study, the button to back out worked best, and the wait helped too. The message that makes you think did nothing."
+        },
+        {
+          "nl": "Zet je scherm op grijstinten (zwart-wit): Instellingen > Toegankelijkheid > Weergave en tekstgrootte > Kleurfilters > Grijstinten. Zet er geen snelkoppeling op om het weer uit te zetten. Hoe meer moeite kleur terugzetten kost, hoe langer je het aan laat.",
+          "en": "Switch your screen to greyscale (black and white): Settings > Accessibility > Display & Text Size > Colour Filters > Greyscale. Don't add a shortcut to switch it off again. The more effort it takes to get colour back, the longer you leave it on."
+        },
+        {
+          "nl": "Verberg de apps die je het meest trekken achter Face ID: houd de app ingedrukt, tik op 'Vereis Face ID' en dan op 'Verberg en vereis Face ID'. Ze gaan naar een vergrendelde map onderaan je appbibliotheek.",
+          "en": "Hide the apps that pull you in most behind Face ID: hold the app, tap Require Face ID, then Hide and Require Face ID. They move to a locked folder at the bottom of your App Library."
+        },
+        {
+          "nl": "Haal je andere apps van je beginscherm ('Verwijder van beginscherm', niet 'Verwijder app') en zoek ze op als je ze nodig hebt.",
+          "en": "Take your other apps off your home screen (Remove from Home Screen, not Delete App) and search for them when you need them."
+        },
+        {
+          "nl": "Doe hetzelfde op je laptop: een leeg dock en bureaublad, en apps openen door te zoeken, met Spotlight (⌘ spatie) of een app als Raycast.",
+          "en": "Do the same on your laptop: an empty dock and desktop, and open apps by searching, with Spotlight (⌘ Space) or an app like Raycast."
+        }
+      ],
+      "after": {
+        "nl": "Grijstinten verlaagden bij 112 mensen direct de schermtijd, al veranderde hun welzijn niet. Je telefoon uit het zicht leggen helpt minder dan vaak gedacht. Een bekende studie uit 2017 vond dat een telefoon op tafel je werkgeheugen (wat je hoofd op dat moment vasthoudt) verlaagde. Een herhaling met een vooraf vastgelegd plan vond geen verschil tussen tafel, tas of andere kamer. Een meta-analyse van 22 studies vond wel een nadelig effect, met grote verschillen tussen studies. Wegleggen kost niets, dus doe het toch.",
+        "en": "In 112 people, greyscale cut screen time straight away, though their wellbeing didn't change. Keeping your phone out of sight helps less than people think. A well-known 2017 study found that a phone on the desk lowered working memory (what your mind is holding at that moment). A replication with its plan fixed in advance found no difference between desk, bag or another room. A meta-analysis of 22 studies did find a negative effect, with big differences between studies. Putting it away costs nothing, so do it anyway."
+      },
+      "meta": {
+        "nl": [
+          "Studie naar one sec: een van de onderzoekers heeft de app bedacht"
+        ],
+        "en": [
+          "one sec study: one of the researchers created the app"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "36795756"
+        },
+        {
+          "pmid": "36577008"
+        },
+        {
+          "label": "Ward et al. 2017, Journal of the Association for Consumer Research",
+          "note": {
+            "nl": "Telefoon op tafel verlaagde het werkgeheugen; een latere herhaling vond geen effect",
+            "en": "Phone on the desk lowered working memory; a later replication found no effect"
+          },
+          "url": "https://doi.org/10.1086/691462"
+        },
+        {
+          "pmid": "36007374"
+        },
+        {
+          "pmid": "37754029"
+        },
+        {
+          "label": {
+            "nl": "Apple Support",
+            "en": "Apple Support"
+          },
+          "note": {
+            "nl": "Apps vergrendelen of verbergen op je iPhone (iOS 18 of nieuwer)",
+            "en": "Lock or hide apps on your iPhone (iOS 18 or later)"
+          },
+          "url": "https://support.apple.com/guide/personal-safety/lock-or-hide-apps-on-your-iphone-ipsd0be4c185/web"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "7. Haal het uit je hoofd",
+        "en": "7. Get it out of your head"
+      },
+      "text": {
+        "nl": "Je werkgeheugen, het kladblok van je hoofd, houdt maar zo'n 4 dingen tegelijk vast. De bekende schatting van 7 bleek te ruim. Zet open taken dus ergens anders neer:",
+        "en": "Your working memory, your mind's notepad, holds only about 4 things at once. The famous estimate of 7 turned out to be too generous. So put open tasks somewhere else:"
+      },
+      "items": [
+        {
+          "nl": "Eén plek voor alles, bijvoorbeeld een app als Todoist. Praat je liever? Een app als SuperWhisper maakt van je stem tekst.",
+          "en": "One place for everything, for example an app like Todoist. Prefer talking? An app like SuperWhisper turns your voice into text."
+        },
+        {
+          "nl": "Zorg dat een taak toevoegen minder dan 3 seconden kost. Duurt het langer, dan blijft je hoofd hem toch vasthouden. Zorg ook dat je je oude taken niet ziet als je iets toevoegt, anders trekken die je erin.",
+          "en": "Make adding a task take less than 3 seconds. Any slower, and your mind keeps holding on to it. Also make sure you don't see your old tasks while you add one, or they pull you in."
+        },
+        {
+          "nl": "iPhone: maak in de app Opdrachten een opdracht met de Todoist-actie om een taak toe te voegen, zo ingesteld dat de app niet opengaat. Zet hem op je toegangsscherm of je actieknop. Mac: geef hem een toetscombinatie, bijvoorbeeld ⌥ A in Raycast.",
+          "en": "iPhone: in the Shortcuts app, make a shortcut with Todoist's action to add a task, set so the app doesn't open. Put it on your lock screen or Action Button. Mac: give it a key combination, for example ⌥ A in Raycast."
+        },
+        {
+          "nl": "Schrijf bij elke taak wat, wanneer en waar. Pas dan laat je hoofd hem los.",
+          "en": "For each task, write down what, when and where. Only then does your mind let it go."
+        },
+        {
+          "nl": "Plan één keer per dag de taken uit je lijst in je agenda. Ik doe dat met Akiflow.",
+          "en": "Once a day, plan the tasks from your list into your calendar. I use Akiflow for that."
+        },
+        {
+          "nl": "Schrijf voor het slapen 5 minuten je takenlijst voor de komende dagen, zo specifiek mogelijk.",
+          "en": "Before bed, spend 5 minutes writing your to-do list for the next few days, as specific as you can."
+        }
+      ],
+      "after": {
+        "nl": "In experimenten bleven onafgemaakte doelen door het hoofd spelen, tot mensen er een concreet plan voor maakten. In een slaaplab vielen 57 jonge volwassenen sneller in slaap na 5 minuten een takenlijst schrijven dan na opschrijven wat ze al gedaan hadden. Hoe specifieker de lijst, hoe sneller.",
+        "en": "In experiments, unfinished goals kept running through people's heads until they made a specific plan for them. In a sleep lab, 57 young adults fell asleep faster after 5 minutes of writing a to-do list than after writing down what they had already done. The more specific the list, the faster."
+      },
+      "sources": [
+        {
+          "pmid": "11515286"
+        },
+        {
+          "pmid": "21688924"
+        },
+        {
+          "pmid": "29058942"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 4",
+        "en": "Part 4"
+      },
+      "title": {
+        "nl": "Je lichaam",
+        "en": "Your body"
+      },
+      "subtitle": {
+        "nl": "Slaap, licht en beweging: de basis onder je focus.",
+        "en": "Sleep, light and movement: the base under your focus."
+      }
+    },
+    {
+      "title": {
+        "nl": "8. Stop met cafeïne 8 tot 9 uur voor bedtijd",
+        "en": "8. Stop caffeine 8 to 9 hours before bed"
+      },
+      "text": {
+        "nl": "Adenosine is een stof die zich overdag in je hersenen ophoopt en je slaperig maakt. Cafeïne blokkeert de plek waar adenosine zich vastmaakt, en neem je het te laat, dan doet het dat 's nachts nog.",
+        "en": "Adenosine is a substance that builds up in your brain during the day and makes you sleepy. Caffeine blocks the spot where adenosine attaches, and if you take it too late, it's still doing that at night."
+      },
+      "items": [
+        {
+          "nl": "Een kop koffie (zo'n 100 mg): minstens 8,8 uur voor bed. Slaap je om 23.00 uur, dan is 14.00 uur je laatste kop.",
+          "en": "A cup of coffee (about 100 mg): at least 8.8 hours before bed. Asleep at 23.00? Then 14.00 is your last cup."
+        },
+        {
+          "nl": "Een standaard portie pre-workout, een sportpoeder (zo'n 220 mg): minstens 13 uur voor bed.",
+          "en": "A standard serving of pre-workout, a training powder (about 220 mg): at least 13 hours before bed."
+        },
+        {
+          "nl": "Tel alles mee: ook thee, cola en energiedrankjes bevatten cafeïne, en cafeïnevrije koffie een beetje.",
+          "en": "Count all of it: tea, cola and energy drinks contain caffeine too, and decaf a little."
+        },
+        {
+          "nl": "Blijf onder de 100 mg per dag. Ik stop zelf 10 uur voor bed.",
+          "en": "Stay under 100 mg a day. I stop 10 hours before bed."
+        }
+      ],
+      "after": {
+        "nl": "In 24 studies kostte cafeïne gemiddeld 45 minuten slaap. In een proef met 23 mannen had 100 mg geen meetbaar effect, zelfs 4 uur voor bed. 400 mg verstoorde de slaap nog als ze het 12 uur voor bed namen, en bij 8 en 12 uur merkten ze dat zelf niet.",
+        "en": "In 24 studies, caffeine cost 45 minutes of sleep on average. In a trial of 23 men, 100 mg had no measurable effect, even 4 hours before bed. 400 mg still disturbed sleep when taken 12 hours before bed, and at 8 and 12 hours the men didn't notice it themselves."
+      },
+      "sources": [
+        {
+          "pmid": "35575450"
+        },
+        {
+          "pmid": "36870101"
+        },
+        {
+          "pmid": "39377163"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "9. Pak 's ochtends daglicht",
+        "en": "9. Get daylight in the morning"
+      },
+      "text": {
+        "nl": "Je interne klok, een ritme van ongeveer 24 uur in je lichaam, bepaalt wanneer je alert bent en wanneer je slaperig wordt. Licht in je ogen zet die klok gelijk. Toch zaten mensen in een groot Amerikaans onderzoek 87% van hun tijd in een gebouw en nog eens 6% in een auto.",
+        "en": "Your internal clock, a rhythm of roughly 24 hours in your body, decides when you're alert and when you get sleepy. Light in your eyes sets that clock. Yet in a large American survey, people spent 87% of their time inside buildings and another 6% in vehicles."
+      },
+      "items": [
+        {
+          "nl": "Ga 's ochtends zo vroeg mogelijk naar buiten.",
+          "en": "Go outside as early in the morning as you can."
+        },
+        {
+          "nl": "Op donkere ochtenden draag ik een lichttherapiebril.",
+          "en": "On dark mornings I wear light therapy glasses."
+        }
+      ],
+      "after": {
+        "nl": "Kantoormedewerkers met veel ochtendlicht vielen 's avonds sneller in slaap, vooral in de winter. In een Nederlandse studie werden mensen die later op de dag hun eerste licht kregen, 's nachts vaker wakker. Dat licht je direct alerter maakt, is minder zeker: in 68 studies voelden mensen zich bij feller licht vaak alerter, maar reactietesten lieten dat zelden zien.",
+        "en": "Office workers who got a lot of morning light fell asleep faster at night, especially in winter. In a Dutch study, people whose first light came later in the day woke up more often at night. Whether light makes you more alert directly is less certain: in 68 studies, people often felt more alert in brighter light, but reaction tests rarely showed it."
+      },
+      "sources": [
+        {
+          "pmid": "11477521"
+        },
+        {
+          "pmid": "28526259"
+        },
+        {
+          "pmid": "29040758"
+        },
+        {
+          "pmid": "28912014"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "10. Wandel 10 minuten na het eten",
+        "en": "10. Walk 10 minutes after eating"
+      },
+      "text": {
+        "nl": "Na het eten stijgt je bloedsuiker, de hoeveelheid suiker in je bloed. Spieren die werken, nemen een deel van die suiker op.",
+        "en": "After a meal your blood sugar, the amount of sugar in your blood, goes up. Working muscles take up some of that sugar."
+      },
+      "items": [
+        {
+          "nl": "Loop na de lunch en na het avondeten 10 minuten.",
+          "en": "Walk for 10 minutes after lunch and after dinner."
+        },
+        {
+          "nl": "Middagdip? Loop eerst 10 minuten stevig door voordat je iets zoets pakt.",
+          "en": "Afternoon dip? Walk briskly for 10 minutes before you reach for something sweet."
+        },
+        {
+          "nl": "Zit je veel? Onderbreek het met korte stukjes lopen. Daarom heb ik een loopband onder mijn bureau.",
+          "en": "Sitting a lot? Break it up with short bits of walking. That's why I have a walking pad under my desk."
+        }
+      ],
+      "after": {
+        "nl": "Bij 41 mensen met diabetes type 2 gaf 10 minuten wandelen na elke maaltijd een 12% lagere bloedsuiker dan één keer 30 minuten per dag, na het avondeten zelfs 22%. Wandelpauzes werkten beter dan alleen opstaan. Bij 18 mensen gaf 10 minuten stevig wandelen 2 uur lang meer energie, en een snoepreep een uur later juist meer moeheid. Op je denkwerk is het effect van één keer bewegen klein (79 studies).",
+        "en": "In 41 people with type 2 diabetes, walking 10 minutes after each meal gave 12% lower blood sugar than one 30-minute walk a day, and 22% after dinner. Walking breaks worked better than just standing up. In 18 people, a brisk 10-minute walk gave more energy for 2 hours, while a sweet snack gave more tiredness an hour later. The effect of a single bout of exercise on your thinking is small (79 studies)."
+      },
+      "sources": [
+        {
+          "pmid": "27747394"
+        },
+        {
+          "pmid": "35147898"
+        },
+        {
+          "pmid": "3820066"
+        },
+        {
+          "pmid": "22480735"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Zien wat werkt: je slaap en je HRV",
+        "en": "Seeing what works: your sleep and HRV"
+      },
+      "text": {
+        "nl": "Je gevoel is een slechte meter. In een slaaplab presteerden mensen die 2 weken lang 6 uur per nacht in bed lagen, op aandachtstesten net zo slecht als na tot 2 nachten zonder slaap. Zelf merkten ze dat amper. Een wearable, een ring of horloge die je 's nachts draagt, laat zien hoe lang je slaapt en wat je HRV doet.",
+        "en": "How you feel is a poor guide. In a sleep lab, people who spent 6 hours a night in bed for 2 weeks did as badly on attention tests as after up to 2 nights without sleep. They hardly noticed it themselves. A wearable, a ring or watch you wear at night, shows how long you sleep and what your HRV does."
+      },
+      "items": [
+        {
+          "nl": "Schrijf 's ochtends eerst op hoe je denkt dat je sliep, en kijk dan pas naar je cijfers. Dat doe ik elke ochtend.",
+          "en": "In the morning, first write down how you think you slept, and only then look at your numbers. I do this every morning."
+        },
+        {
+          "nl": "Kijk naar je trend over weken, minder naar één nacht.",
+          "en": "Look at your trend over weeks rather than at a single night."
+        },
+        {
+          "nl": "Leg je mindere focusdagen naast je slaap en HRV. Zo zie je wat voor jou het verschil maakt, zoals late cafeïne.",
+          "en": "Put your weaker focus days next to your sleep and HRV. That shows what makes the difference for you, like late caffeine."
+        }
+      ],
+      "after": {
+        "nl": "Zes bekende wearables hadden in een slaaplab 86 tot 89% van de tijd goed of iemand sliep of wakker was. Bij slaapfases, zoals diepe slaap en droomslaap, was dat 50 tot 65%. Kijk dus vooral naar je slaapduur. In 20 studies hing een lagere HRV samen met slechter denkwerk, al is het aantal studies klein. In de trial hieronder lezen we je slaap en HRV voor je uit.",
+        "en": "In a sleep lab, six well-known wearables were right 86 to 89% of the time about whether someone was asleep or awake. For sleep stages, such as deep sleep and dream sleep, that was 50 to 65%. So focus mostly on how long you sleep. In 20 studies, lower HRV went together with worse performance on thinking tasks, though the number of studies is small. In the trial below, we read your sleep and HRV for you."
+      },
+      "meta": {
+        "nl": [
+          "Wearable-studie: de onderzoeksgroep krijgt steun van WHOOP, dat niet meedeed aan de studie"
+        ],
+        "en": [
+          "Wearable study: the research group receives support from WHOOP, which wasn't involved in the study"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "12683469"
+        },
+        {
+          "pmid": "36016077"
+        },
+        {
+          "pmid": "31354419"
+        }
+      ]
+    }
+  ]
+}

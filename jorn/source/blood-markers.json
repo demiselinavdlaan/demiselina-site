@@ -1,0 +1,1803 @@
+{
+  "slug": "bloedwaarden",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "title": {
+    "nl": "De bloedwaarden die ik laat meten",
+    "en": "The blood markers I get tested"
+  },
+  "subtitle": {
+    "nl": "En wat ze zeggen over je energie en focus.",
+    "en": "And what they say about your energy and focus."
+  },
+  "description": {
+    "nl": "8 bloedwaarden voor energie en focus: wat bijna niemand weet, hoe je je test voorbereidt en hoe ik een uitslag lees. Van Jorn Kirkels, oprichter van Cellular.",
+    "en": "8 blood markers for energy and focus: what almost nobody knows, how to prepare for your test and how I read a result. By Jorn Kirkels, founder of Cellular."
+  },
+  "intro": {
+    "nl": "Je huisarts kijkt of je bloedwaarden binnen het referentiebereik vallen: het bereik waarin de meeste gezonde mensen zitten. Zo weet je of je waarschijnlijk ziek bent. Ik wil ook weten waar mijn waarden binnen dat bereik zitten, en hoe ze bewegen als ik iets verander. Zo kwam ik erachter dat mijn schildklier traag werkte: ik at volgens het boekje, sportte elke dag en kwam toch 10 kilo aan. Deze pagina begint met wat bijna niemand weet, dan hoe je je bloedtest voorbereidt en leest, dan alle 84 waarden die ik laat meten, en daarna de 8 die ik het belangrijkst vind voor energie en focus.",
+    "en": "Your GP checks whether your blood results fall within the reference range: the range most healthy people fall within. That tells you whether you're probably ill. I also want to know where my results sit within that range, and how they move when I change something. That's how I found out my thyroid was running slow: I ate by the book, trained every day and still gained 10 kg. This page starts with what almost nobody knows, then how to prepare for your blood test and read it, then all 84 markers I get tested, and after that the 8 I find most important for energy and focus."
+  },
+  "sections": [
+    {
+      "title": {
+        "nl": "Wat bijna niemand weet",
+        "en": "What almost nobody knows"
+      },
+      "text": {
+        "nl": "Vijf dingen die veranderen hoe je een bloeduitslag leest.",
+        "en": "Five things that change how you read a blood result."
+      },
+      "facts": [
+        {
+          "stat": {
+            "nl": "1 op 20",
+            "en": "1 in 20"
+          },
+          "title": {
+            "nl": "Ook gezonde mensen vallen buiten het bereik",
+            "en": "Healthy people fall outside the range too"
+          },
+          "text": {
+            "nl": "Een lab bepaalt zijn referentiebereik door gezonde mensen te meten en de middelste 95% van hun uitslagen te houden. Zo valt ongeveer 1 op de 20 gezonde uitslagen er per definitie buiten. Hoe meer waarden je laat meten, hoe groter de kans dat er een net buiten valt. Zit één waarde net buiten het bereik? Laat hem dan eerst opnieuw meten, op dezelfde manier.",
+            "en": "A lab sets its reference range by testing healthy people and keeping the middle 95% of their results. So about 1 in 20 healthy results falls outside it by definition. The more markers you test, the more likely one lands just outside. Is one result just outside the range? Then have it retested first, the same way."
+          },
+          "label": {
+            "nl": "Overzicht over referentiewaarden",
+            "en": "Review of reference ranges"
+          }
+        },
+        {
+          "stat": {
+            "nl": "9 van 23",
+            "en": "9 of 23"
+          },
+          "title": {
+            "nl": "Biotine kan je schildkliertest vertekenen",
+            "en": "Biotin can throw off your thyroid test"
+          },
+          "text": {
+            "nl": "Biotine is een B-vitamine in veel supplementen voor haar, huid en nagels. Veel labtests gebruiken biotine om de gemeten stof vast te pakken. Bij 6 gezonde volwassenen die een week 10 mg per dag slikten, een gangbare dosis in supplementen, gaven 9 van 23 van die tests een verkeerde uitslag, ook schildkliertests. Je schildklier is de klier in je hals die het tempo van je stofwisseling bepaalt. Slik je biotine? Meld het vóór je bloedafname en vraag of je eerst moet stoppen.",
+            "en": "Biotin is a B vitamin in many hair, skin and nail supplements. Many lab tests use biotin to catch the substance they measure. In 6 healthy adults who took 10 mg a day for a week, a common supplement dose, 9 of 23 of these tests gave a wrong result, thyroid tests included. Your thyroid is the gland in your neck that sets the pace of your metabolism. Do you take biotin? Mention it before your blood is taken, and ask whether to stop first."
+          },
+          "label": {
+            "nl": "Studie met 6 gezonde volwassenen",
+            "en": "Study of 6 healthy adults"
+          }
+        },
+        {
+          "stat": "< 50",
+          "title": {
+            "nl": "Een lage ferritine telt, ook als je hemoglobine goed is",
+            "en": "A low ferritin matters, even with a normal haemoglobin"
+          },
+          "text": {
+            "nl": "Ferritine is het eiwit dat ijzer opslaat, vooral in je lever: je ijzervoorraad. Verlies je ijzer, dan raakt eerst die voorraad leeg. Pas later daalt je hemoglobine: het eiwit dat zuurstof door je bloed vervoert. Bij 198 vrouwen met moeheid, een ferritine onder 50 µg/L en geen bloedarmoede (genoeg hemoglobine), daalde de moeheidsscore met 48% door ijzer en met 29% door placebo, een nepmiddel. Vraag daarom apart om ferritine.",
+            "en": "Ferritin is the protein that stores iron, mainly in your liver: your iron reserve. When you lose iron, that reserve empties first. Only later does your haemoglobin drop: the protein that carries oxygen in your blood. In 198 women with fatigue, a ferritin under 50 µg/L and no anaemia (enough haemoglobin), the fatigue score fell by 48% with iron and by 29% with placebo, a dummy pill. That's why you ask for ferritin separately."
+          },
+          "label": {
+            "nl": "Studie met 198 vrouwen",
+            "en": "Study of 198 women"
+          }
+        },
+        {
+          "stat": {
+            "nl": "5 jaar",
+            "en": "5 years"
+          },
+          "title": {
+            "nl": "Je insulinegevoeligheid daalt jaren voordat je glucose stijgt",
+            "en": "Insulin sensitivity drops years before glucose rises"
+          },
+          "text": {
+            "nl": "Insuline is het hormoon dat glucose, de suiker in je bloed, je cellen in brengt. Insulinegevoeligheid is hoe goed je cellen daarop reageren. Bij Britse ambtenaren die diabetes kregen, daalde die al sterk in de 5 jaar ervoor. Hun nuchtere glucose steeg pas in de laatste 3 jaar snel. Vraag dus ook om nuchtere insuline, en vergelijk die altijd bij hetzelfde lab: van 10 meetmethodes voor insuline zaten er 7 vaak meer dan 15% ernaast.",
+            "en": "Insulin is the hormone that moves glucose, the sugar in your blood, into your cells. Insulin sensitivity is how well your cells respond to it. In British civil servants who developed diabetes, it fell steeply in the 5 years before. Their fasting glucose only rose quickly in the last 3. Ask for fasting insulin too, and always compare it at the same lab: of 10 lab methods for insulin, 7 were often more than 15% off."
+          },
+          "label": {
+            "nl": "Studie met 6.538 mensen",
+            "en": "Study of 6,538 people"
+          }
+        },
+        {
+          "stat": {
+            "nl": "4,2 → 1,4",
+            "en": "4.2 → 1.4"
+          },
+          "title": {
+            "nl": "Mijn LDL daalde met twee derde",
+            "en": "My LDL fell by two thirds"
+          },
+          "text": {
+            "nl": "LDL is het deeltje dat cholesterol, een vetachtige stof, door je bloed vervoert. Een hoog LDL hangt samen met hart- en vaatziekten. Mijn LDL ging van 4,2 naar 1,4 mmol/L met drie veranderingen: meer dan 50 gram vezels per dag, alleen mager rundvlees zoals ossenhaas en schenkel, en 120 minuten zone 2 per week. Zone 2 is rustig duurwerk waarbij je nog kunt praten. Ter vergelijking: het Voedingscentrum adviseert mannen van 18 tot en met 49 jaar minstens 30 gram vezels per dag. Ik veranderde drie dingen tegelijk, dus welke het meest deed, weet ik niet. LDL hoort niet bij de 8 waarden hieronder; ik noem het om te laten zien hoe ver een bloedwaarde kan bewegen.",
+            "en": "LDL is the particle that carries cholesterol, a fatty substance, through your blood. A high LDL is linked to heart and vascular disease. Mine went from 4.2 to 1.4 mmol/L with three changes: more than 50 g of fibre a day, only lean beef such as tenderloin and shank, and 120 minutes of zone 2 a week. Zone 2 is steady cardio at a pace where you can still talk. For comparison, the Netherlands Nutrition Centre advises men aged 18 to 49 to eat at least 30 g of fibre a day. I changed three things at once, so I don't know which did most. LDL isn't one of the 8 markers below; I include it to show how far a blood value can move."
+          },
+          "label": {
+            "nl": "Mijn eigen data",
+            "en": "My own data"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "26981015"
+        },
+        {
+          "pmid": "28973622"
+        },
+        {
+          "pmid": "22777991"
+        },
+        {
+          "pmid": "19515410"
+        },
+        {
+          "pmid": "19325009"
+        },
+        {
+          "pmid": "28444290"
+        },
+        {
+          "label": {
+            "nl": "Voedingscentrum: vezels",
+            "en": "Netherlands Nutrition Centre: fibre"
+          },
+          "note": {
+            "nl": "Minstens 30 gram per dag voor mannen en 24 gram voor vrouwen van 18 tot en met 49 jaar",
+            "en": "At least 30 g a day for men and 24 g for women aged 18 to 49"
+          },
+          "url": "https://www.voedingscentrum.nl/encyclopedie/vezels.aspx"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "title": {
+        "nl": "Voor je bloedtest",
+        "en": "Before your blood test"
+      },
+      "subtitle": {
+        "nl": "Zo krijg je een uitslag waar je iets aan hebt, en zo lees je hem.",
+        "en": "How to get a result you can use, and how to read it."
+      }
+    },
+    {
+      "title": {
+        "nl": "Zo bereid je je bloedtest voor",
+        "en": "How to prepare for your blood test"
+      },
+      "text": {
+        "nl": "Hoe en wanneer je prikt, bepaalt een deel van je uitslag. Met deze 7 stappen kun je je metingen later ook eerlijk vergelijken:",
+        "en": "How and when you have blood taken partly decides your result. With these 7 steps you can also compare your tests fairly later:"
+      },
+      "items": [
+        {
+          "nl": "Prik 's ochtends, het liefst tussen 8 en 10 uur. Testosteron, het belangrijkste mannelijke geslachtshormoon, is 's ochtends het hoogst, en de richtlijn adviseert het dan te meten.",
+          "en": "Have it done in the morning, ideally between 8 and 10. Testosterone, the main male sex hormone, is highest in the morning, and the guideline advises measuring it then."
+        },
+        {
+          "nl": "Kom nuchter: niets eten vanaf de avond ervoor, water mag. Dat is nodig voor glucose en insuline.",
+          "en": "Come fasted: nothing to eat from the evening before; water is fine. Glucose and insulin need it."
+        },
+        {
+          "nl": "Slik je biotine? Meld het en vraag of je eerst moet stoppen.",
+          "en": "Take biotin? Mention it, and ask whether to stop first."
+        },
+        {
+          "nl": "Ziek of net verkouden? Stel je test uit. Een infectie laat CRP, een eiwit dat je lever bij ontsteking maakt, tot wel 1.000 keer stijgen, en ook je ferritine gaat omhoog.",
+          "en": "Ill or just over a cold? Postpone your test. An infection can raise CRP, a protein your liver makes during inflammation, up to 1,000-fold, and your ferritin goes up too."
+        },
+        {
+          "nl": "Prik steeds bij hetzelfde lab, op hetzelfde tijdstip. Labs meten verschillend, en veel waarden schommelen over de dag.",
+          "en": "Always test at the same lab, at the same time of day. Labs measure differently, and many markers swing through the day."
+        },
+        {
+          "nl": "Bewaar elke uitslag met het referentiebereik erbij. Vraag je huisarts of lab ook om je oude uitslagen: die heb je nodig om te vergelijken.",
+          "en": "Keep each result with its reference range. Ask your GP or lab for your older results too: you need them to compare."
+        },
+        {
+          "nl": "Vraag om de 8 waarden op deze pagina. Je huisarts meet bij moeheid meestal alleen een deel ervan.",
+          "en": "Ask for the 8 markers on this page. For fatigue, your GP usually tests only some of them."
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "29562364"
+        },
+        {
+          "pmid": "28973622"
+        },
+        {
+          "pmid": "29706967"
+        },
+        {
+          "label": {
+            "nl": "NHG-Standaard Anemie",
+            "en": "NHG (Dutch GP guideline): anaemia"
+          },
+          "note": {
+            "nl": "Ferritine stijgt bij een infectie of ontsteking",
+            "en": "Ferritin rises during an infection or inflammation"
+          },
+          "url": "https://richtlijnen.nhg.org/standaarden/anemie"
+        },
+        {
+          "pmid": "15327011"
+        },
+        {
+          "pmid": "39440596"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Zo lees ik een uitslag",
+        "en": "How I read a result"
+      },
+      "text": {
+        "nl": "Eén test is een momentopname. Ik kijk vooral hoe een waarde beweegt. Zo pak ik dat aan:",
+        "en": "One test is a snapshot. What I look at most is how a value moves. This is how I go about it:"
+      },
+      "items": [
+        {
+          "nl": "Vergelijk met je oude uitslagen. Zo zag ik dat mijn schildklier al langer aan de trage kant zat: oudere tests lieten het ook zien.",
+          "en": "Compare with your old results. That's how I saw my thyroid had been on the slow side for longer: older tests showed it too."
+        },
+        {
+          "nl": "Begin breed, en ga pas dieper als een waarde afwijkt. Bij de schildklier is dat eerst TSH, het signaal van je hersenen aan je schildklier. Vrij T4 en vrij T3, de schildklierhormonen zelf, komen pas als je TSH afwijkt.",
+          "en": "Start broad, and only go deeper when a value is off. For the thyroid, that means TSH first: the signal from your brain to your thyroid. Free T4 and free T3, the thyroid hormones themselves, only come next if your TSH is off."
+        },
+        {
+          "nl": "Wacht na een verandering minstens 6 tot 8 weken voor je opnieuw meet. In mijn ervaring hebben bloedwaarden zo lang nodig om te bewegen.",
+          "en": "After a change, wait at least 6 to 8 weeks before you retest. In my experience, that's how long blood values take to move."
+        },
+        {
+          "nl": "Meet daarna elk kwartaal of half jaar opnieuw, steeds op dezelfde manier.",
+          "en": "After that, retest every quarter or every six months, the same way each time."
+        }
+      ],
+      "after": {
+        "nl": "Mensen verschillen onderling veel meer dan één persoon van meting tot meting. Jouw waarden zitten daardoor meestal in een smal stuk van het bereik, dus een verschuiving kan voor jou iets zeggen, ook binnen het bereik. Of een verschil telt, zie je aan de reference change value: het kleinste verschil tussen twee van jouw uitslagen dat groter is dan de gewone schommeling van je lichaam en van de meting. Een lab kan die per waarde uitrekenen. Vraag ernaar als twee uitslagen verschillen.",
+        "en": "People differ from each other far more than one person differs from test to test. So your own results usually sit in a narrow part of the range, and a shift can mean something for you, even within range. The reference change value tells you whether a difference counts: the smallest gap between two of your results that is bigger than the normal swing of your body and of the test. A lab can work it out per marker. Ask for it when two results differ."
+      },
+      "sources": [
+        {
+          "pmid": "15327011"
+        },
+        {
+          "pmid": "21958344"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "title": {
+        "nl": "Alle waarden in mijn bloedtest",
+        "en": "Every marker in my blood test"
+      },
+      "subtitle": {
+        "nl": "De volledige lijst: 84 waarden in 10 groepen, elk in één zin uitgelegd.",
+        "en": "The full list: 84 markers in 10 groups, each explained in one line."
+      }
+    },
+    {
+      "title": {
+        "nl": "De volledige lijst",
+        "en": "The full list"
+      },
+      "text": {
+        "nl": "Dit is alles wat ik laat meten. De 8 waarden hierna leg ik uitgebreid uit, omdat ze voor energie en focus het meest zeggen. Een losse waarde zegt weinig: kijk naar het geheel en naar hoe het verandert. Bespreek een afwijkende waarde altijd met je huisarts.",
+        "en": "This is everything I get tested. I explain the 8 markers after this in depth, because they say the most about energy and focus. A single marker says little on its own: look at the whole picture and at how it changes. Always discuss an abnormal result with your GP."
+      },
+      "panel": {
+        "groups": [
+          {
+            "title": {
+              "nl": "Hematologie (volledig bloedbeeld)",
+              "en": "Haematology (full blood count)"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "Leukocyten (witte bloedcellen)",
+                  "en": "White blood cells (WBC)"
+                },
+                "note": {
+                  "nl": "Het aantal afweercellen in je bloed, die infecties bestrijden en vaak toenemen als je ziek bent.",
+                  "en": "The number of immune cells in your blood, which fight infections and often rise when you are ill."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Erytrocyten (rode bloedcellen)",
+                  "en": "Red blood cells (RBC)"
+                },
+                "note": {
+                  "nl": "Het aantal rode bloedcellen, die zuurstof van je longen naar de rest van je lichaam brengen.",
+                  "en": "The number of red blood cells, which carry oxygen from your lungs to the rest of your body."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Hemoglobine (Hb)",
+                  "en": "Haemoglobin"
+                },
+                "note": {
+                  "nl": "Het ijzerhoudende eiwit in je rode bloedcellen dat zuurstof vervoert, en een laag Hb hangt samen met moeheid.",
+                  "en": "The iron-rich protein in your red blood cells that carries oxygen, and a low level is linked to tiredness."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Hematocriet (Ht)",
+                  "en": "Haematocrit"
+                },
+                "note": {
+                  "nl": "Het deel van je bloed dat uit rode bloedcellen bestaat.",
+                  "en": "The share of your blood made up of red blood cells."
+                }
+              },
+              {
+                "name": {
+                  "nl": "MCV (gemiddelde celgrootte)",
+                  "en": "MCV (mean cell volume)"
+                },
+                "note": {
+                  "nl": "De gemiddelde grootte van je rode bloedcellen: kleine cellen hangen samen met weinig ijzer, grote met weinig B12 of foliumzuur.",
+                  "en": "The average size of your red blood cells: small cells are linked to low iron, large ones to low B12 or folate."
+                }
+              },
+              {
+                "name": {
+                  "nl": "MCH (hemoglobine per cel)",
+                  "en": "MCH (mean cell haemoglobin)"
+                },
+                "note": {
+                  "nl": "De gemiddelde hoeveelheid hemoglobine, het eiwit dat zuurstof vervoert, in één rode bloedcel.",
+                  "en": "The average amount of haemoglobin, the protein that carries oxygen, in one red blood cell."
+                }
+              },
+              {
+                "name": {
+                  "nl": "MCHC (hemoglobineconcentratie)",
+                  "en": "MCHC (mean cell haemoglobin concentration)"
+                },
+                "note": {
+                  "nl": "Hoe vol je rode bloedcellen gemiddeld zitten met hemoglobine, gemeten als de concentratie per cel.",
+                  "en": "How full your red blood cells are with haemoglobin on average, measured as its concentration per cell."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Trombocyten (bloedplaatjes)",
+                  "en": "Platelets"
+                },
+                "note": {
+                  "nl": "Kleine celdeeltjes die je bloed helpen stollen als je een wondje hebt.",
+                  "en": "Tiny cell fragments that help your blood clot when you have a wound."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Neutrofielen",
+                  "en": "Neutrophils"
+                },
+                "note": {
+                  "nl": "De meest voorkomende witte bloedcellen en je eerste verdediging tegen bacteriën.",
+                  "en": "The most common white blood cells and your first line of defence against bacteria."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Lymfocyten",
+                  "en": "Lymphocytes"
+                },
+                "note": {
+                  "nl": "Witte bloedcellen die virussen bestrijden en eerdere ziekteverwekkers onthouden, onder meer met antistoffen: eiwitten die ze markeren.",
+                  "en": "White blood cells that fight viruses and remember germs you met before, partly by making antibodies, proteins that tag germs."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Monocyten",
+                  "en": "Monocytes"
+                },
+                "note": {
+                  "nl": "Witte bloedcellen die naar je weefsels trekken om ziekteverwekkers en dode cellen op te ruimen.",
+                  "en": "White blood cells that move into your tissues to clear away germs and dead cells."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Eosinofielen",
+                  "en": "Eosinophils"
+                },
+                "note": {
+                  "nl": "Witte bloedcellen die meedoen bij allergieën en bij de afweer tegen parasieten, zoals wormen.",
+                  "en": "White blood cells involved in allergies and in fighting parasites, such as worms."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Basofielen",
+                  "en": "Basophils"
+                },
+                "note": {
+                  "nl": "De zeldzaamste witte bloedcellen, die histamine afgeven: een stof achter allergische reacties.",
+                  "en": "The rarest white blood cells, which release histamine, a substance behind allergic reactions."
+                }
+              },
+              {
+                "name": {
+                  "nl": "RDW (spreiding celgrootte)",
+                  "en": "RDW (red cell distribution width)"
+                },
+                "note": {
+                  "nl": "Hoeveel je rode bloedcellen in grootte verschillen, en een grotere spreiding hangt samen met weinig ijzer, B12 of foliumzuur.",
+                  "en": "How much your red blood cells differ in size, and a wider spread is linked to low iron, B12 or folate."
+                }
+              },
+              {
+                "name": {
+                  "nl": "MPV (gemiddelde plaatjesgrootte)",
+                  "en": "MPV (mean platelet volume)"
+                },
+                "note": {
+                  "nl": "De gemiddelde grootte van je bloedplaatjes: jonge plaatjes zijn groter, dus het zegt iets over hoe snel je nieuwe aanmaakt.",
+                  "en": "The average size of your platelets: young platelets are larger, so it hints at how fast you make new ones."
+                }
+              }
+            ]
+          },
+          {
+            "title": {
+              "nl": "IJzerstatus",
+              "en": "Iron studies"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "Ferritine",
+                  "en": "Ferritin"
+                },
+                "note": {
+                  "nl": "Het eiwit dat ijzer opslaat, dus je ijzervoorraad: een lage voorraad hangt samen met moeheid, en ontsteking verhoogt de waarde.",
+                  "en": "The protein that stores iron, so it shows your iron reserves: low stores are linked to tiredness, and inflammation raises it."
+                }
+              },
+              {
+                "name": {
+                  "nl": "IJzer (serum)",
+                  "en": "Serum iron"
+                },
+                "note": {
+                  "nl": "Hoeveel ijzer er nu in je bloed zit, een waarde die sterk wisselt over de dag en van dag tot dag.",
+                  "en": "How much iron is in your blood right now, which changes a lot during the day and from day to day."
+                }
+              },
+              {
+                "name": {
+                  "nl": "TIBC / transferrine",
+                  "en": "TIBC / transferrin"
+                },
+                "note": {
+                  "nl": "Transferrine vervoert ijzer door je bloed, en de TIBC laat zien hoeveel ijzer het in totaal kan dragen.",
+                  "en": "Transferrin is the protein that carries iron in your blood, and TIBC shows how much it can carry in total."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Transferrineverzadiging",
+                  "en": "Transferrin saturation"
+                },
+                "note": {
+                  "nl": "Welk percentage van je transferrine, de ijzerdrager in je bloed, ook echt ijzer draagt.",
+                  "en": "The percentage of transferrin, the iron carrier in your blood, that is actually carrying iron."
+                }
+              },
+              {
+                "name": {
+                  "nl": "UIBC (vrije ijzerbindingscapaciteit)",
+                  "en": "UIBC (unsaturated iron-binding capacity)"
+                },
+                "note": {
+                  "nl": "Het deel van de draagcapaciteit van transferrine dat nog vrij is en geen ijzer draagt.",
+                  "en": "The part of transferrin's carrying capacity that is still free and not yet holding iron."
+                }
+              }
+            ]
+          },
+          {
+            "title": {
+              "nl": "Stofwisseling en glucose",
+              "en": "Metabolic and glucose"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "Glucose (nuchter)",
+                  "en": "Fasting glucose"
+                },
+                "note": {
+                  "nl": "Hoeveel glucose er in je bloed zit na een nacht niet eten: de suiker die je lichaam als belangrijkste brandstof gebruikt.",
+                  "en": "How much glucose is in your blood after a night without food: the sugar your body uses as its main fuel."
+                }
+              },
+              {
+                "name": {
+                  "nl": "HbA1c",
+                  "en": "HbA1c"
+                },
+                "note": {
+                  "nl": "Het deel van je hemoglobine waar suiker aan vastzit: zo zie je je gemiddelde bloedsuiker van de afgelopen 2 tot 3 maanden.",
+                  "en": "The share of your haemoglobin with sugar attached, which shows your average blood sugar over the past 2 to 3 months."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Insuline (nuchter)",
+                  "en": "Fasting insulin"
+                },
+                "note": {
+                  "nl": "Het hormoon dat suiker je cellen in brengt, en een hoge nuchtere waarde kan betekenen dat je cellen minder goed reageren.",
+                  "en": "The hormone that moves sugar into your cells, and a high fasting level can mean your cells respond less well."
+                }
+              },
+              {
+                "name": {
+                  "nl": "HOMA-IR",
+                  "en": "HOMA-IR"
+                },
+                "note": {
+                  "nl": "Berekend uit je nuchtere glucose en insuline, schat het je insulineresistentie: hoe slecht je cellen op insuline reageren.",
+                  "en": "Calculated from fasting glucose and insulin, it estimates insulin resistance: how poorly your cells respond to insulin."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Natrium",
+                  "en": "Sodium"
+                },
+                "note": {
+                  "nl": "Het mineraal in keukenzout dat de vochtbalans in je lichaam regelt en je zenuwen en spieren laat werken.",
+                  "en": "The mineral in table salt that controls your body's water balance and helps your nerves and muscles work."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Kalium",
+                  "en": "Potassium"
+                },
+                "note": {
+                  "nl": "Een mineraal voor je zenuwen, spieren en hartritme, waarvan je nieren de hoeveelheid stabiel houden.",
+                  "en": "A mineral that keeps your nerves, muscles and heart rhythm working, and your kidneys keep its level steady."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Chloride",
+                  "en": "Chloride"
+                },
+                "note": {
+                  "nl": "Een mineraal dat samen met natrium je vochtbalans en de zuurgraad van je bloed stabiel houdt.",
+                  "en": "A mineral that works with sodium to keep your water balance and the acidity of your blood steady."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Bicarbonaat (CO2)",
+                  "en": "CO2 (bicarbonate)"
+                },
+                "note": {
+                  "nl": "Bicarbonaat voorkomt dat je bloed te zuur wordt en laat zien hoe goed je longen en nieren die balans bewaken.",
+                  "en": "Bicarbonate stops your blood from becoming too acidic and shows how well your lungs and kidneys keep that balance."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Calcium",
+                  "en": "Calcium"
+                },
+                "note": {
+                  "nl": "Een mineraal voor je botten, tanden, spieren, zenuwen en hartslag, waarvan je lichaam de bloedwaarde binnen nauwe grenzen houdt.",
+                  "en": "A mineral for your bones, teeth, muscles, nerves and heartbeat, and your body keeps its blood level within tight limits."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Fosfaat",
+                  "en": "Phosphorus"
+                },
+                "note": {
+                  "nl": "Een mineraal dat met calcium je botten en tanden bouwt en je cellen helpt energie op te slaan en te gebruiken.",
+                  "en": "A mineral that builds bones and teeth with calcium, and helps your cells store and use energy."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Albumine",
+                  "en": "Albumin"
+                },
+                "note": {
+                  "nl": "Het belangrijkste eiwit in je bloed, gemaakt door je lever, dat vocht in je bloedvaten houdt en stoffen vervoert.",
+                  "en": "The main protein in your blood, made by your liver, which keeps fluid in your blood vessels and carries substances around."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Globuline",
+                  "en": "Globulin"
+                },
+                "note": {
+                  "nl": "Een groep bloedeiwitten, waaronder de antistoffen van je afweer, meestal berekend als totaal eiwit min albumine.",
+                  "en": "A group of blood proteins that includes your immune system's antibodies, usually calculated as total protein minus albumin."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Albumine/globulineratio",
+                  "en": "Albumin/globulin ratio"
+                },
+                "note": {
+                  "nl": "Vergelijkt albumine met globulines, de twee grote groepen eiwitten in je bloed.",
+                  "en": "Compares albumin with globulins, the two main groups of protein in your blood."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Totaal eiwit",
+                  "en": "Total protein"
+                },
+                "note": {
+                  "nl": "Alle eiwit in je bloed bij elkaar, vooral albumine en globulines.",
+                  "en": "All the protein in your blood together, mainly albumin and globulins."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Ureum",
+                  "en": "BUN (urea)"
+                },
+                "note": {
+                  "nl": "Een afvalstof die je lever maakt bij de afbraak van eiwit en die je nieren via je urine afvoeren.",
+                  "en": "A waste product your liver makes when it breaks down protein, which your kidneys remove in your urine."
+                }
+              }
+            ]
+          },
+          {
+            "title": {
+              "nl": "Nieren",
+              "en": "Kidney"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "Kreatinine",
+                  "en": "Creatinine"
+                },
+                "note": {
+                  "nl": "Een afvalstof uit je spieren die je nieren uit je bloed filteren, dus de waarde hangt af van nierfunctie en spiermassa.",
+                  "en": "A waste product from your muscles that your kidneys filter out, so it depends on kidney function and muscle mass."
+                }
+              },
+              {
+                "name": {
+                  "nl": "eGFR",
+                  "en": "eGFR"
+                },
+                "note": {
+                  "nl": "Een schatting van hoeveel bloed je nieren per minuut filteren, meestal berekend uit kreatinine, leeftijd en geslacht.",
+                  "en": "An estimate of how much blood your kidneys filter each minute, usually calculated from creatinine, age and sex."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Cystatine C",
+                  "en": "Cystatin C"
+                },
+                "note": {
+                  "nl": "Een eiwit dat je cellen in een vast tempo maken: het toont je nierfiltratie, met minder invloed van spiermassa dan kreatinine.",
+                  "en": "A protein your cells make at a steady rate, showing kidney filtration with less influence from muscle mass than creatinine."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Urinezuur",
+                  "en": "Uric acid"
+                },
+                "note": {
+                  "nl": "Een afvalstof uit purines in cellen en voeding, en een hoge waarde hangt samen met jicht: pijnlijke, ontstoken gewrichten.",
+                  "en": "A waste product from purines in cells and food, and high levels are linked to gout, a painful joint condition."
+                }
+              }
+            ]
+          },
+          {
+            "title": {
+              "nl": "Lever",
+              "en": "Liver"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "ALAT (ALT)",
+                  "en": "ALT"
+                },
+                "note": {
+                  "nl": "Een leverenzym: een eiwit dat reacties in je cellen aanstuurt en in je bloed lekt als levercellen beschadigd raken.",
+                  "en": "A liver enzyme: a protein that drives reactions in your cells and leaks into your blood when liver cells are damaged."
+                }
+              },
+              {
+                "name": {
+                  "nl": "ASAT (AST)",
+                  "en": "AST"
+                },
+                "note": {
+                  "nl": "Een enzym in je lever, hart en spieren, dus het stijgt bij leverbelasting, maar ook na zware training.",
+                  "en": "An enzyme in your liver, heart and muscles, so it rises with liver strain but also after hard training."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Gamma-GT (GGT)",
+                  "en": "GGT (gamma-GT)"
+                },
+                "note": {
+                  "nl": "Een enzym in je lever en galwegen dat stijgt door alcohol, sommige medicijnen en belasting van je lever.",
+                  "en": "An enzyme in your liver and bile ducts that rises with alcohol, some medicines and strain on your liver."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Alkalische fosfatase (AF)",
+                  "en": "ALP (alkaline phosphatase)"
+                },
+                "note": {
+                  "nl": "Een enzym uit vooral je lever, galwegen en botten, dat stijgt als de galafvoer stokt of als je botten sneller groeien.",
+                  "en": "An enzyme mainly from your liver, bile ducts and bones, which rises when bile flow is blocked or bones grow faster."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Bilirubine totaal",
+                  "en": "Total bilirubin"
+                },
+                "note": {
+                  "nl": "Een gele kleurstof uit de afbraak van oude rode bloedcellen, die je lever verwerkt en afvoert met gal, een verteringssap.",
+                  "en": "A yellow pigment from the breakdown of old red blood cells, which your liver processes and removes with bile, a digestive fluid."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Bilirubine direct",
+                  "en": "Direct bilirubin"
+                },
+                "note": {
+                  "nl": "Bilirubine die je lever al heeft verwerkt, klaar om via de gal je lichaam te verlaten.",
+                  "en": "Bilirubin your liver has already processed, ready to leave your body with bile."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Bilirubine indirect",
+                  "en": "Indirect bilirubin"
+                },
+                "note": {
+                  "nl": "Bilirubine die je lever nog niet heeft verwerkt, meestal berekend als totaal min direct bilirubine.",
+                  "en": "Bilirubin your liver has not processed yet, usually calculated as total minus direct bilirubin."
+                }
+              }
+            ]
+          },
+          {
+            "title": {
+              "nl": "Bloedvetten / hart en vaten",
+              "en": "Lipids / cardiovascular"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "Totaal cholesterol",
+                  "en": "Total cholesterol"
+                },
+                "note": {
+                  "nl": "Al het cholesterol in je bloed: een vetachtige stof waarmee je lichaam cellen en hormonen bouwt.",
+                  "en": "All the cholesterol in your blood, a fatty substance your body uses to build cells and hormones."
+                }
+              },
+              {
+                "name": {
+                  "nl": "HDL-cholesterol",
+                  "en": "HDL cholesterol"
+                },
+                "note": {
+                  "nl": "Cholesterol in HDL-deeltjes, die overtollig cholesterol uit je weefsels terug naar je lever brengen.",
+                  "en": "Cholesterol in HDL particles, which carry excess cholesterol from your tissues back to your liver."
+                }
+              },
+              {
+                "name": {
+                  "nl": "LDL-cholesterol",
+                  "en": "LDL cholesterol"
+                },
+                "note": {
+                  "nl": "Cholesterol in LDL-deeltjes, die het naar je weefsels brengen, en een hoog LDL hangt samen met hart- en vaatziekten.",
+                  "en": "Cholesterol in LDL particles, which carry it to your tissues, and a high level is linked to heart disease."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Triglyceriden",
+                  "en": "Triglycerides"
+                },
+                "note": {
+                  "nl": "De belangrijkste vetsoort in je bloed, een energiebron waarvan de waarde stijgt na het eten en door alcohol.",
+                  "en": "The main type of fat in your blood, used for energy, with levels that rise after eating and with alcohol."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Non-HDL-cholesterol",
+                  "en": "Non-HDL cholesterol"
+                },
+                "note": {
+                  "nl": "Totaal cholesterol min HDL: al het cholesterol in deeltjes die zich in je vaatwanden kunnen ophopen.",
+                  "en": "Total cholesterol minus HDL: all the cholesterol in particles that can build up in your blood vessel walls."
+                }
+              },
+              {
+                "name": {
+                  "nl": "TG/HDL-ratio",
+                  "en": "TG:HDL ratio"
+                },
+                "note": {
+                  "nl": "Vergelijkt triglyceriden met HDL-cholesterol, en een hoge verhouding hangt samen met insulineresistentie: cellen die slecht op insuline reageren.",
+                  "en": "Compares triglycerides with HDL cholesterol, and a high ratio is linked to insulin resistance, when cells respond poorly to insulin."
+                }
+              },
+              {
+                "name": {
+                  "nl": "ApoB",
+                  "en": "ApoB"
+                },
+                "note": {
+                  "nl": "Een eiwit op elk LDL-deeltje en verwante deeltjes, dus het telt de deeltjes die zich in je vaatwanden kunnen ophopen.",
+                  "en": "A protein on every LDL and similar particle, so it counts the particles that can build up in your vessel walls."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Lipoproteïne(a)",
+                  "en": "Lipoprotein(a)"
+                },
+                "note": {
+                  "nl": "Een LDL-achtig deeltje met een extra eiwit eraan, waarvan de hoogte vooral erfelijk is en samenhangt met hart- en vaatziekten.",
+                  "en": "An LDL-like particle with an extra protein attached, whose level is mostly set by your genes and linked to heart disease."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Omega-3-index",
+                  "en": "Omega-3 index"
+                },
+                "note": {
+                  "nl": "Het aandeel omega-3-vetten EPA en DHA in de buitenlaag van je rode bloedcellen: een maat voor je inname van de afgelopen maanden.",
+                  "en": "The share of omega-3 fats EPA and DHA in your red blood cell membranes, reflecting your intake over recent months."
+                }
+              },
+              {
+                "name": {
+                  "nl": "ApoA1",
+                  "en": "ApoA1"
+                },
+                "note": {
+                  "nl": "Het belangrijkste eiwit in HDL-deeltjes, dus een maat voor de deeltjes die cholesterol terug naar je lever brengen.",
+                  "en": "The main protein in HDL particles, so it reflects how many cholesterol-clearing particles you have."
+                }
+              },
+              {
+                "name": {
+                  "nl": "ApoB/ApoA1-ratio",
+                  "en": "ApoB/ApoA1 ratio"
+                },
+                "note": {
+                  "nl": "Vergelijkt ApoB, op deeltjes die zich in je vaatwanden kunnen ophopen, met ApoA1, op deeltjes die cholesterol afvoeren.",
+                  "en": "Compares ApoB, on particles that can build up in vessel walls, with ApoA1, on particles that clear cholesterol away."
+                }
+              },
+              {
+                "name": {
+                  "nl": "VLDL-cholesterol",
+                  "en": "VLDL cholesterol"
+                },
+                "note": {
+                  "nl": "Cholesterol in VLDL-deeltjes, die je lever maakt om triglyceriden te vervoeren, meestal berekend uit je triglyceriden.",
+                  "en": "Cholesterol in VLDL particles, which your liver makes to carry triglycerides, usually calculated from your triglycerides."
+                }
+              },
+              {
+                "name": {
+                  "nl": "LDL/HDL-ratio",
+                  "en": "LDL/HDL ratio"
+                },
+                "note": {
+                  "nl": "Vergelijkt LDL-cholesterol, dat naar je weefsels gaat, met HDL-cholesterol, dat terug naar je lever gaat.",
+                  "en": "Compares LDL cholesterol, which travels to your tissues, with HDL cholesterol, which goes back to your liver."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Totaal cholesterol/HDL-ratio",
+                  "en": "Total cholesterol/HDL ratio"
+                },
+                "note": {
+                  "nl": "Vergelijkt je totale cholesterol met je HDL-cholesterol, het deel dat cholesterol terug naar je lever brengt.",
+                  "en": "Compares your total cholesterol with your HDL cholesterol, the part that carries cholesterol back to your liver."
+                }
+              }
+            ]
+          },
+          {
+            "title": {
+              "nl": "Ontsteking",
+              "en": "Inflammation"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "hs-CRP",
+                  "en": "hs-CRP"
+                },
+                "note": {
+                  "nl": "Een eiwit dat je lever maakt bij ontsteking, en deze gevoelige test meet ook lichte, langdurige ontsteking.",
+                  "en": "A protein your liver makes during inflammation, and this sensitive test also picks up mild, long-lasting inflammation."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Homocysteïne",
+                  "en": "Homocysteine"
+                },
+                "note": {
+                  "nl": "Een tussenstof uit eiwit die B12, foliumzuur en B6 helpen opruimen, en een hoge waarde hangt samen met hart- en vaatziekten.",
+                  "en": "A by-product of protein that B12, folate and B6 help clear, and high levels are linked to heart disease."
+                }
+              }
+            ]
+          },
+          {
+            "title": {
+              "nl": "Schildklier",
+              "en": "Thyroid"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "TSH",
+                  "en": "TSH"
+                },
+                "note": {
+                  "nl": "Een hormoon uit je hypofyse, een klier onder je hersenen, dat je schildklier vertelt hoe hard hij moet werken.",
+                  "en": "A hormone from your pituitary gland, at the base of your brain, that tells your thyroid how hard to work."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Vrij T3",
+                  "en": "Free T3"
+                },
+                "note": {
+                  "nl": "Het actieve schildklierhormoon, vooral gemaakt uit T4 in je weefsels, dat bepaalt hoe snel je cellen energie verbruiken.",
+                  "en": "The active thyroid hormone, mostly made from T4 in your tissues, which sets how fast your cells use energy."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Vrij T4",
+                  "en": "Free T4"
+                },
+                "note": {
+                  "nl": "Het belangrijkste hormoon van je schildklier: het vrije deel nemen je weefsels op en zetten ze om in actief T3.",
+                  "en": "The main hormone your thyroid makes: your tissues take up the free part and turn it into active T3."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Anti-TPO",
+                  "en": "Anti-TPO"
+                },
+                "note": {
+                  "nl": "Antistoffen tegen TPO, een enzym waarmee je schildklier hormoon maakt, en een verhoogde waarde wijst op een afweerreactie tegen je schildklier.",
+                  "en": "Antibodies against TPO, an enzyme your thyroid needs for its hormones, and high levels point to an immune attack on it."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Anti-Tg",
+                  "en": "Anti-Tg"
+                },
+                "note": {
+                  "nl": "Antistoffen tegen thyreoglobuline, het eiwit waarin je schildklier zijn hormonen maakt en opslaat: ook een teken van een afweerreactie.",
+                  "en": "Antibodies against thyroglobulin, the protein your thyroid uses to make and store hormones: also a sign of an immune reaction."
+                }
+              }
+            ]
+          },
+          {
+            "title": {
+              "nl": "Hormonen",
+              "en": "Hormones"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "Testosteron (totaal)",
+                  "en": "Total testosterone"
+                },
+                "note": {
+                  "nl": "Het belangrijkste mannelijke geslachtshormoon, dat vrouwen ook in kleinere hoeveelheden maken, voor spieren, botten en zin in seks.",
+                  "en": "The main male sex hormone, which women also make in smaller amounts, and it supports muscle, bone and sex drive."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Vrij testosteron",
+                  "en": "Free testosterone"
+                },
+                "note": {
+                  "nl": "Het kleine deel van je testosteron dat niet aan eiwitten vastzit en dat je weefsels direct kunnen gebruiken.",
+                  "en": "The small part of your testosterone not bound to proteins, which your tissues can use directly."
+                }
+              },
+              {
+                "name": {
+                  "nl": "SHBG",
+                  "en": "SHBG"
+                },
+                "note": {
+                  "nl": "Een eiwit uit je lever dat geslachtshormonen in je bloed bindt, en zo mee bepaalt hoeveel testosteron en oestradiol vrij blijven.",
+                  "en": "A protein from your liver that binds sex hormones in your blood, which affects how much testosterone and oestradiol stay free."
+                }
+              },
+              {
+                "name": {
+                  "nl": "DHEA-S",
+                  "en": "DHEA-S"
+                },
+                "note": {
+                  "nl": "Een hormoon uit je bijnieren dat je lichaam kan omzetten in testosteron en oestrogeen, en de waarde daalt met de leeftijd.",
+                  "en": "A hormone from your adrenal glands that your body can turn into testosterone and oestrogen, and levels fall with age."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Cortisol (ochtend)",
+                  "en": "Cortisol (morning)"
+                },
+                "note": {
+                  "nl": "Het stresshormoon uit je bijnieren, dat 's ochtends piekt en je helpt wakker te worden.",
+                  "en": "The stress hormone from your adrenal glands, on top of your kidneys, which peaks in the morning to help you wake up."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Vrije androgeenindex (FAI)",
+                  "en": "Free androgen index (FAI)"
+                },
+                "note": {
+                  "nl": "Vergelijkt totaal testosteron met SHBG om te schatten hoeveel testosteron vrij kan werken, vooral gebruikt bij vrouwen.",
+                  "en": "Compares total testosterone with SHBG to estimate how much testosterone is free to act, used mostly in women."
+                }
+              },
+              {
+                "name": {
+                  "nl": "LH",
+                  "en": "LH"
+                },
+                "note": {
+                  "nl": "Een hormoon uit je hypofyse dat je eierstokken of zaadballen aanstuurt: het start de eisprong en laat zaadballen testosteron maken.",
+                  "en": "A pituitary hormone that steers the ovaries or testes: it triggers ovulation in women and testosterone production in men."
+                }
+              },
+              {
+                "name": {
+                  "nl": "FSH",
+                  "en": "FSH"
+                },
+                "note": {
+                  "nl": "Een hormoon uit je hypofyse dat je eierstokken of zaadballen aanstuurt: het laat eicellen rijpen en helpt zaadcellen aanmaken.",
+                  "en": "A pituitary hormone that steers the ovaries or testes: it helps eggs mature in women and sperm form in men."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Oestradiol",
+                  "en": "Oestradiol"
+                },
+                "note": {
+                  "nl": "De belangrijkste vorm van oestrogeen, bij vrouwen vooral gemaakt in de eierstokken, bij mannen in kleine hoeveelheden uit testosteron.",
+                  "en": "The main form of oestrogen, made mostly in the ovaries in women and in small amounts from testosterone in men."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Prolactine",
+                  "en": "Prolactin"
+                },
+                "note": {
+                  "nl": "Een hormoon uit je hypofyse dat de melkproductie aanzet, en een hoge waarde kan de menstruatiecyclus verstoren en testosteron verlagen.",
+                  "en": "A pituitary hormone that drives breast milk production, and high levels can disturb the menstrual cycle and lower testosterone."
+                }
+              },
+              {
+                "name": {
+                  "nl": "IGF-1",
+                  "en": "IGF-1"
+                },
+                "note": {
+                  "nl": "Een groeifactor die je lever maakt op signaal van groeihormoon, en zo een maat voor hoeveel groeihormoon je aanmaakt.",
+                  "en": "A growth factor your liver makes on a signal from growth hormone, so it reflects how much growth hormone you make."
+                }
+              }
+            ]
+          },
+          {
+            "title": {
+              "nl": "Vitamines en mineralen",
+              "en": "Vitamins and minerals"
+            },
+            "markers": [
+              {
+                "name": {
+                  "nl": "Vitamine D (25-OH)",
+                  "en": "Vitamin D (25-OH)"
+                },
+                "note": {
+                  "nl": "De opslagvorm van vitamine D in je bloed, uit zonlicht en voeding, nodig voor je botten, spieren en afweer.",
+                  "en": "The storage form of vitamin D in your blood, from sunlight and food, needed for your bones, muscles and immune system."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Vitamine B12",
+                  "en": "Vitamin B12"
+                },
+                "note": {
+                  "nl": "Een vitamine voor de aanmaak van rode bloedcellen en gezonde zenuwen, en een duidelijk tekort hangt samen met moeheid.",
+                  "en": "A vitamin you need to make red blood cells and keep nerves healthy, and a clear shortage is linked to tiredness."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Foliumzuur (B9)",
+                  "en": "Folate (B9)"
+                },
+                "note": {
+                  "nl": "Een B-vitamine voor celdeling en de aanmaak van rode bloedcellen, die samen met B12 homocysteïne helpt afbreken.",
+                  "en": "A B vitamin for cell division and making red blood cells, which also helps B12 clear homocysteine."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Koper",
+                  "en": "Copper"
+                },
+                "note": {
+                  "nl": "Een mineraal dat je nodig hebt om ijzer te verwerken, energie te maken en bindweefsel zoals huid en pezen te bouwen.",
+                  "en": "A mineral you need to process iron, make energy and build connective tissue, such as skin and tendons."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Zink",
+                  "en": "Zinc"
+                },
+                "note": {
+                  "nl": "Een mineraal dat je in kleine hoeveelheden nodig hebt voor je afweer, wondgenezing, smaak en honderden enzymen.",
+                  "en": "A mineral you need in small amounts for your immune system, wound healing, taste and hundreds of enzymes."
+                }
+              },
+              {
+                "name": {
+                  "nl": "Magnesium (serum)",
+                  "en": "Magnesium (serum)"
+                },
+                "note": {
+                  "nl": "Een mineraal voor spieren, zenuwen en energie, maar je bloed bevat er weinig van, dus een normale uitslag kan een lage voorraad verbergen.",
+                  "en": "A mineral for muscles, nerves and energy, and since little sits in your blood, a normal result can hide low stores."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "label": {
+            "nl": "MedlinePlus: Medical Tests",
+            "en": "MedlinePlus: Medical Tests"
+          },
+          "note": {
+            "nl": "Uitleg per bloedtest van de Amerikaanse National Library of Medicine",
+            "en": "Plain-language guides to each blood test from the US National Library of Medicine"
+          },
+          "url": "https://medlineplus.gov/lab-tests/"
+        },
+        {
+          "label": {
+            "nl": "Lab Tests Online UK",
+            "en": "Lab Tests Online UK"
+          },
+          "note": {
+            "nl": "Uitleg per labtest, geschreven door Britse laboratoriumartsen en klinisch chemici",
+            "en": "Test guides written by UK laboratory doctors and scientists, run by the Association for Laboratory Medicine"
+          },
+          "url": "https://labtestsonline.org.uk/"
+        },
+        {
+          "label": {
+            "nl": "NHG-Standaard Anemie",
+            "en": "Dutch GP guideline on anaemia (NHG)"
+          },
+          "note": {
+            "nl": "Hemoglobine, en ferritine als maat voor je ijzervoorraad, behalve bij een ontsteking",
+            "en": "Haemoglobin, and ferritin as a measure of your iron stores, except during inflammation"
+          },
+          "url": "https://richtlijnen.nhg.org/standaarden/anemie"
+        },
+        {
+          "label": {
+            "nl": "Von Schacky, 2008: de omega-3-index",
+            "en": "Von Schacky, 2008: the omega-3 index"
+          },
+          "note": {
+            "nl": "Definitie van de omega-3-index: het aandeel EPA en DHA in de membranen van rode bloedcellen",
+            "en": "Defines the omega-3 index as the share of EPA and DHA in red blood cell membranes"
+          },
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17876200/"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "title": {
+        "nl": "Zuurstof en ijzer",
+        "en": "Oxygen and iron"
+      },
+      "subtitle": {
+        "nl": "Hoe je bloed zuurstof naar je spieren en hersenen brengt.",
+        "en": "How your blood carries oxygen to your muscles and brain."
+      }
+    },
+    {
+      "title": {
+        "nl": "Hemoglobine",
+        "en": "Haemoglobin"
+      },
+      "text": {
+        "nl": "Hemoglobine (Hb) is het eiwit in je rode bloedcellen dat zuurstof naar je spieren en hersenen brengt; de zuurstof hecht aan het ijzer erin. Om rode bloedcellen te maken heeft je lichaam onder meer ijzer, vitamine B12 en foliumzuur (een andere B-vitamine) nodig. Te weinig hemoglobine heet bloedarmoede (anemie).",
+        "en": "Haemoglobin (Hb) is the protein in your red blood cells that carries oxygen to your muscles and brain; the oxygen binds to the iron inside it. To make red blood cells, your body needs iron, vitamin B12 and folate (another B vitamin), among other things. Too little haemoglobin is called anaemia."
+      },
+      "after": {
+        "nl": "Bloedarmoede hangt samen met moeheid, dus Hb zit in het standaard bloedonderzoek van de huisarts bij moeheid. Een normale Hb zegt wel weinig over je ijzervoorraad: die raakt eerst leeg, en pas daarna daalt je Hb. Kijk daarom ook naar je ferritine.",
+        "en": "Anaemia is linked to fatigue, so Hb is part of the GP's standard blood test for fatigue. A normal Hb says little about your iron reserve, though: that empties first, and only then does your Hb drop. So look at your ferritin too."
+      },
+      "meta": {
+        "nl": [
+          "Referentie: mannen 8,5-11,0 · vrouwen 7,5-10,0 mmol/L (NHG)",
+          "Huisarts: standaard bij moeheid"
+        ],
+        "en": [
+          "Reference range: men 8.5-11.0 · women 7.5-10.0 mmol/L (NHG)",
+          "GP: standard for fatigue"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "25946282"
+        },
+        {
+          "label": {
+            "nl": "NHG-Standaard Anemie",
+            "en": "NHG (Dutch GP guideline): anaemia"
+          },
+          "note": {
+            "nl": "Referentiewaarden voor Hb, en ferritine als maat voor je ijzervoorraad",
+            "en": "Hb reference ranges, and ferritin as a measure of your iron reserve"
+          },
+          "url": "https://richtlijnen.nhg.org/standaarden/anemie"
+        },
+        {
+          "pmid": "39440596"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Ferritine",
+        "en": "Ferritin"
+      },
+      "text": {
+        "nl": "Ferritine is het eiwit dat ijzer opslaat: je ijzervoorraad. Een klein deel komt in je bloed, dus hoe groter je voorraad, hoe hoger je ferritine. Een infectie of ontsteking verhoogt ferritine los van je voorraad. Zo kan een normale ferritine een lage voorraad verbergen. Lees hem daarom samen met je CRP: is die verhoogd, dan zegt je ferritine minder.",
+        "en": "Ferritin is the protein that stores iron: your iron reserve. A small amount enters your blood, so the bigger your reserve, the higher your ferritin. An infection or inflammation raises ferritin regardless of your reserve. So a normal ferritin can hide a low reserve. That's why you read it together with your CRP: if that's raised, your ferritin tells you less."
+      },
+      "after": {
+        "nl": "Een overzicht van 18 studies bevestigt de studie met 198 vrouwen hierboven: bij een lage voorraad zonder bloedarmoede nam de moeheid af met ijzer. De conditie bij inspanningstests werd niet beter. In 15 van die 18 studies deden alleen vrouwen mee; bij mannen is dit veel minder onderzocht.",
+        "en": "A review of 18 studies confirms the trial of 198 women above: with a low reserve and no anaemia, iron eased fatigue. Fitness in exercise tests didn't improve. 15 of those 18 studies included only women; in men this has been studied much less."
+      },
+      "caution_label": {
+        "nl": "Start nooit zonder data.",
+        "en": "Never start without data."
+      },
+      "caution": {
+        "nl": "Is je ferritine laag? Begin dan niet zelf met ijzer. Bespreek het met je huisarts: die zoekt eerst uit waarom hij laag is, en kiest dan de behandeling.",
+        "en": "Is your ferritin low? Don't start iron on your own. Discuss it with your GP, who first looks for the reason it's low and then decides on the treatment."
+      },
+      "meta": {
+        "nl": [
+          "Referentie: mannen 25-250 · vrouwen 20-150 µg/L (verschilt per lab)",
+          "Huisarts: meestal alleen bij een lage Hb"
+        ],
+        "en": [
+          "Reference range: men 25-250 · women 20-150 µg/L (varies by lab)",
+          "GP: usually only if Hb is low"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "22777991"
+        },
+        {
+          "pmid": "29626044"
+        },
+        {
+          "label": {
+            "nl": "NHG-Standaard Anemie",
+            "en": "NHG (Dutch GP guideline): anaemia"
+          },
+          "note": {
+            "nl": "Ferritine als maat voor je ijzervoorraad, behalve bij een infectie, en wat de huisarts bij een tekort doet",
+            "en": "Ferritin as a measure of your iron store, except during an infection, and what the GP does about a shortage"
+          },
+          "url": "https://richtlijnen.nhg.org/standaarden/anemie"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "title": {
+        "nl": "Vitamines",
+        "en": "Vitamins"
+      },
+      "subtitle": {
+        "nl": "Twee vitamines die veel mensen slikken zonder test.",
+        "en": "Two vitamins many people take without a test."
+      },
+      "text": {
+        "nl": "Ik schat dat 80% van de supplementen die mensen slikken zonder bloedtest niets specifieks voor ze doet. Is je voorraad al vol, dan doet extra niets. Daarom meet ik eerst.",
+        "en": "I'd estimate that 80% of the supplements people take without a blood test do nothing specific for them. If your store is already full, extra does nothing. That's why I measure first."
+      }
+    },
+    {
+      "title": {
+        "nl": "Vitamine B12",
+        "en": "Vitamin B12"
+      },
+      "text": {
+        "nl": "Vitamine B12 zit vooral in vlees, vis, eieren en zuivel. Je hebt het nodig voor je zenuwen en om rode bloedcellen te maken. Is er te weinig, dan hoopt de stof MMA (methylmalonzuur) zich op in je bloed.",
+        "en": "Vitamin B12 is found mainly in meat, fish, eggs and dairy. You need it for your nerves and to make red blood cells. When there's too little, a substance called MMA (methylmalonic acid) builds up in your blood."
+      },
+      "after": {
+        "nl": "Een losse B12-waarde kan misleiden: een lage waarde is niet altijd een tekort, en een tekort komt ook voor bij een normale waarde. Zit je in het grijze gebied (148-260 pmol/L)? Vraag dan ook om MMA; ik lees die twee samen. Bij vegetariërs en vooral veganisten vond een overzicht van 18 studies vaak een tekort. Zonder duidelijk tekort hielp extra B12 in 16 studies niet voor geheugen of stemming. Of een licht lage waarde samenhangt met moeheid, is volgens de Nederlandse huisartsen onduidelijk.",
+        "en": "A single B12 result can mislead: a low level isn't always a deficiency, and a deficiency can occur with a normal level. In the grey zone (148-260 pmol/L)? Ask for MMA as well; I read the two together. In vegetarians, and most of all vegans, a review of 18 studies often found a deficiency. Without a clear deficiency, extra B12 didn't help memory or mood across 16 studies. Whether a slightly low level is linked to fatigue is unclear, according to Dutch GPs."
+      },
+      "caution_label": {
+        "nl": "Start nooit zonder data.",
+        "en": "Never start without data."
+      },
+      "caution": {
+        "nl": "Ik neem B12 in de gemethyleerde vorm, methylcobalamine, een van de vormen die ook in voeding zitten. Een dosis heb ik nooit genoemd, dus de getallen hier zijn niet van mij. Volgens het Voedingscentrum hebben de meeste mensen geen B12-supplement nodig. Neem je er toch een, dan is het advies voor volwassenen maximaal 2,8 µg per dag; veganisten krijgen het advies die hoeveelheid elke dag te nemen. Er is geen officiële bovengrens, maar bij sommige mensen geeft B12 puistjes die op acne lijken. In een reeks van 5 vrouwen verdwenen die 3 tot 6 weken na het stoppen.",
+        "en": "I take B12 in its methylated form, methylcobalamin, one of the forms also found in food. I've never named a dose for it, so the numbers here aren't mine. According to the Netherlands Nutrition Centre, most people don't need a B12 supplement. If you take one anyway, adults are advised to keep it to 2.8 µg a day; vegans are advised to take that amount every day. There's no official upper limit, but in some people B12 causes spots that look like acne. In a series of 5 women, they cleared 3 to 6 weeks after stopping."
+      },
+      "meta": {
+        "nl": [
+          "Referentie: 145-569 pmol/L · grijs gebied 148-260 (NHG) · MMA als extra test",
+          "Huisarts: alleen met reden"
+        ],
+        "en": [
+          "Reference range: 145-569 pmol/L · grey zone 148-260 (NHG) · MMA as an extra test",
+          "GP: only with a reason"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "27446930"
+        },
+        {
+          "pmid": "23356638"
+        },
+        {
+          "pmid": "33809274"
+        },
+        {
+          "label": {
+            "nl": "NHG-Standpunt over vitamine B12-tekort",
+            "en": "NHG (Dutch GP) position paper on vitamin B12 deficiency"
+          },
+          "note": {
+            "nl": "Grenswaarde 148 pmol/L, grijs gebied 148-260, en het onduidelijke verband met moeheid",
+            "en": "Cut-off 148 pmol/L, grey zone 148-260, and the unclear link with fatigue"
+          },
+          "url": "https://www.henw.org/system/files/download/hw5709-472.pdf"
+        },
+        {
+          "label": {
+            "nl": "Voedingscentrum: vitamine B12",
+            "en": "Netherlands Nutrition Centre: vitamin B12"
+          },
+          "note": {
+            "nl": "Geen bovengrens; de meeste mensen hebben geen supplement nodig; maximaal 2,8 µg per dag uit een supplement; advies voor veganisten",
+            "en": "No upper limit; most people need no supplement; at most 2.8 µg a day from a supplement; advice for vegans"
+          },
+          "url": "https://www.voedingscentrum.nl/encyclopedie/vitamine-b12.aspx"
+        },
+        {
+          "pmid": "28594082"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Vitamine D",
+        "en": "Vitamin D"
+      },
+      "text": {
+        "nl": "Vitamine D maak je vooral zelf aan in je huid, onder invloed van zonlicht. Je lever maakt er 25-hydroxyvitamine D van, de voorraadvorm die het lab meet. Vitamine D helpt je calcium op te nemen voor sterke botten, en speelt een rol in je spieren en je afweer.",
+        "en": "You make vitamin D mainly in your skin, under sunlight. Your liver turns it into 25-hydroxyvitamin D, the storage form the lab measures. Vitamin D helps you absorb calcium for strong bones, and plays a part in your muscles and your immune system."
+      },
+      "after": {
+        "nl": "In de winter is je waarde vaak lager: bij 55.844 Europeanen zat in de winter 18% onder 30 nmol/L, in de zomer 8%. Noteer dus de maand van je test en vergelijk winter met winter. Bij 120 jonge volwassenen met moeheid en een waarde onder 50 nmol/L nam de moeheid meer af na één dosis vitamine D dan na placebo. Over een streefwaarde zijn experts het oneens: de Endocrine Society (2024) noemt er geen, en raadt af om gezonde mensen zonder reden standaard te testen. Slik je vitamine D? Neem het bij je eerste maaltijd, zoals ik adviseer. Zit daar vet in, dan neem je meer op: bij 50 ouderen gaf een maaltijd met vet 32% meer vitamine D3 in het bloed dan een maaltijd zonder vet.",
+        "en": "Your level is often lower in winter: among 55,844 Europeans, 18% were below 30 nmol/L in winter, against 8% in summer. So note the month of your test, and compare winter with winter. In 120 young adults with fatigue and a level below 50 nmol/L, fatigue eased more after a single dose of vitamin D than after placebo. Experts don't agree on a target: the Endocrine Society (2024) names none, and advises against routinely testing healthy people without a reason. Do you take vitamin D? I advise taking it with your first meal. If that meal contains fat, more gets in: in 50 older adults, a meal with fat gave 32% more vitamin D3 in the blood than a fat-free meal."
+      },
+      "caution_label": {
+        "nl": "Start nooit zonder data.",
+        "en": "Never start without data."
+      },
+      "caution": {
+        "nl": "In 2023 nam ik elke ochtend vitamine D3 met K2; K2 is een andere vitamine die vaak in dezelfde capsule zit. Een dosis heb ik nooit genoemd, dus dit zijn niet mijn getallen. Het Voedingscentrum adviseert 10 µg per dag (400 IE, de eenheid op veel verpakkingen) voor bepaalde groepen. Voorbeelden zijn mensen met een donkere huid, mensen die overdag weinig buiten komen en vrouwen van 50 tot en met 69 jaar. Voor iedereen van 70 en ouder is het advies 20 µg. EFSA, de Europese autoriteit voor voedselveiligheid, legt de veilige bovengrens voor volwassenen op 100 µg (4.000 IE) per dag. Voor vitamine K heeft EFSA geen bovengrens vastgesteld.",
+        "en": "In 2023 I took vitamin D3 with K2 every morning; K2 is another vitamin that's often in the same capsule. I've never named a dose, so these aren't my numbers. The Netherlands Nutrition Centre advises 10 µg a day (400 IU, the unit on many labels) for certain groups. Examples are people with dark skin, people who rarely go outside in the daytime and women aged 50 to 69. Everyone aged 70 and over is advised 20 µg. EFSA, the European food safety authority, sets the safe upper limit for adults at 100 µg (4,000 IU) a day. For vitamin K, EFSA has set no upper limit."
+      },
+      "meta": {
+        "nl": [
+          "Referentie: 30 nmol/L of hoger (Gezondheidsraad, 4-70 jaar)",
+          "Huisarts: niet standaard"
+        ],
+        "en": [
+          "Reference range: 30 nmol/L or higher (Dutch Health Council, ages 4-70)",
+          "GP: not standard"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "26864360"
+        },
+        {
+          "pmid": "28033244"
+        },
+        {
+          "pmid": "38828931"
+        },
+        {
+          "pmid": "25441954"
+        },
+        {
+          "label": {
+            "nl": "Gezondheidsraad: Evaluatie van de voedingsnormen voor vitamine D (2012)",
+            "en": "Dutch Health Council: evaluation of the dietary reference values for vitamin D (2012)"
+          },
+          "note": {
+            "nl": "Streefwaarde van ten minste 30 nmol/L voor 4 tot 70 jaar",
+            "en": "Target of at least 30 nmol/L for ages 4 to 70"
+          },
+          "url": "https://www.gezondheidsraad.nl/documenten/adviezen/2012/09/26/evaluatie-van-de-voedingsnormen-voor-vitamine-d"
+        },
+        {
+          "label": {
+            "nl": "Voedingscentrum: vitamine D",
+            "en": "Netherlands Nutrition Centre: vitamin D"
+          },
+          "note": {
+            "nl": "Wie 10 of 20 µg per dag extra moet nemen, en de bovengrens van 100 µg voor volwassenen",
+            "en": "Who should take an extra 10 or 20 µg a day, and the upper limit of 100 µg for adults"
+          },
+          "url": "https://www.voedingscentrum.nl/encyclopedie/vitamine-d.aspx"
+        },
+        {
+          "label": {
+            "nl": "EFSA: veilige bovengrenzen voor vitamines en mineralen (2025)",
+            "en": "EFSA: tolerable upper intake levels for vitamins and minerals (2025)"
+          },
+          "note": {
+            "nl": "Vitamine D 100 µg per dag voor volwassenen; geen bovengrens voor vitamine K",
+            "en": "Vitamin D 100 µg a day for adults; no upper limit for vitamin K"
+          },
+          "url": "https://www.efsa.europa.eu/sites/default/files/assets/UL_Summary_tables.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "title": {
+        "nl": "Stofwisseling",
+        "en": "Metabolism"
+      },
+      "subtitle": {
+        "nl": "Je tempo en je brandstof: schildklier, bloedsuiker en insuline.",
+        "en": "Your pace and your fuel: thyroid, blood sugar and insulin."
+      }
+    },
+    {
+      "title": {
+        "nl": "Schildklier: TSH, vrij T4 en vrij T3",
+        "en": "Thyroid: TSH, free T4 and free T3"
+      },
+      "text": {
+        "nl": "Je schildklier is een klier in je hals. Zijn hormonen bepalen het tempo van je stofwisseling: hoeveel energie je cellen verbruiken, je hartslag, je lichaamswarmte. Het werkt als een thermostaat:",
+        "en": "Your thyroid is a gland in your neck. Its hormones set the pace of your metabolism: how much energy your cells use, your heart rate, your body heat. It works like a thermostat:"
+      },
+      "items": [
+        {
+          "nl": "Je hypofyse, een kleine klier onder je hersenen, maakt TSH (schildklierstimulerend hormoon): het signaal aan je schildklier om hormoon te maken. Werkt je schildklier te traag, dan stijgt TSH. Daarom is TSH meestal de eerste test.",
+          "en": "Your pituitary, a small gland under your brain, makes TSH (thyroid-stimulating hormone): the signal to your thyroid to make hormone. When your thyroid is too slow, TSH rises. That's why TSH is usually the first test."
+        },
+        {
+          "nl": "Je schildklier maakt vooral T4, een voorraadvorm. Je weefsels zetten die om in T3, de actieve vorm. Vrij T4 en vrij T3 zijn het deel dat niet aan eiwitten in je bloed vastzit, en dus kan werken.",
+          "en": "Your thyroid mainly makes T4, a storage form. Your tissues turn it into T3, the active form. Free T4 and free T3 are the part not bound to proteins in your blood, so the part that can work."
+        }
+      ],
+      "after": {
+        "nl": "Bij een milde afwijking, een te hoge TSH met een normaal vrij T4, bracht behandelen met schildklierhormoon in 21 studies met 2.192 volwassenen de TSH terug binnen het bereik. De klachten namen niet af. Sinds 2025 raadt de Nederlandse huisartsenrichtlijn die behandeling niet meer aan, en vrij T3 voegt volgens die richtlijn in de huisartsenpraktijk niets toe. Is je TSH licht verhoogd? Kijk dan ook naar de andere waarden op deze pagina.",
+        "en": "For a mild change, a high TSH with a normal free T4, treatment with thyroid hormone brought TSH back into range across 21 studies with 2,192 adults. Symptoms didn't ease. Since 2025 the Dutch GP guideline no longer recommends that treatment, and says free T3 adds nothing in general practice. Is your TSH slightly high? Then look at the other markers on this page too."
+      },
+      "caution_label": {
+        "nl": "Mijn eigen data.",
+        "en": "My own data."
+      },
+      "caution": {
+        "nl": "Mijn TSH zat rond de 5, boven het bereik. Ik at keto (bijna geen koolhydraten), helemaal volgens het boekje, en sportte elke dag. Toch kwam ik 10 kilo aan. Oudere tests lieten zien dat mijn schildklier al eerder aan de trage kant zat. Het enige wat ik veranderde: meer koolhydraten eten, ongeveer 200 tot 250 gram per dag. In 2 maanden viel ik 10 kilo af, kwam mijn energie terug en zag mijn volgende bloedtest er goed uit. Voeding kan deze waarden verschuiven: bij 11 gezonde volwassenen verlaagde 3 weken keto de T3, terwijl de TSH gelijk bleef. Eet je keto? Laat je schildklier dan opnieuw meten.",
+        "en": "My TSH was around 5, above the range. I was eating keto (almost no carbohydrates), by the book, and training every day. I still gained 10 kg. Older tests showed my thyroid had been on the slow side before. The only thing I changed was eating more carbohydrates, about 200 to 250 g a day. In 2 months I lost 10 kg, my energy came back and my next blood test looked good. Diet can shift these values: in 11 healthy adults, 3 weeks of keto lowered T3, while TSH stayed the same. Do you eat keto? Then have your thyroid retested."
+      },
+      "meta": {
+        "nl": [
+          "Referentie: TSH 0,27-4,2 mU/L · vrij T4 en vrij T3 verschillen per lab",
+          "Huisarts: TSH standaard bij moeheid · vrij T4 alleen bij een afwijkende TSH · vrij T3 niet"
+        ],
+        "en": [
+          "Reference range: TSH 0.27-4.2 mU/L · free T4 and free T3 vary by lab",
+          "GP: TSH standard for fatigue · free T4 only if TSH is abnormal · free T3 not"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "30285179"
+        },
+        {
+          "label": {
+            "nl": "NHG-Standaard Schildklieraandoeningen (herzien 2025)",
+            "en": "NHG (Dutch GP guideline): thyroid disorders (revised 2025)"
+          },
+          "note": {
+            "nl": "Wat de huisarts meet, en het beleid bij een milde afwijking",
+            "en": "What the GP measures, and the approach to a mild change"
+          },
+          "url": "https://richtlijnen.nhg.org/standaarden/schildklieraandoeningen"
+        },
+        {
+          "pmid": "35658056"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Glucose en insuline (nuchter)",
+        "en": "Glucose and insulin (fasting)"
+      },
+      "text": {
+        "nl": "Glucose is suiker in je bloed, de belangrijkste brandstof voor je cellen en je hersenen. Insuline is het hormoon uit je alvleesklier, een orgaan achter je maag, dat glucose je cellen in brengt, als een sleutel. Schommelt iemands energie door de dag, dan is bloedsuiker een van de eerste dingen waar ik naar kijk.",
+        "en": "Glucose is sugar in your blood, the main fuel for your cells and your brain. Insulin is the hormone from your pancreas, an organ behind your stomach, that moves glucose into your cells, like a key. When someone's energy swings through the day, blood sugar is one of the first things I look at."
+      },
+      "items": [
+        {
+          "nl": "Reageren je cellen minder goed op insuline, dan heet dat insulineresistentie. Je alvleesklier maakt dan extra insuline, en zo kan je nuchtere glucose lang normaal blijven.",
+          "en": "When your cells respond less well to insulin, that's called insulin resistance. Your pancreas then makes extra insulin, so your fasting glucose can stay normal for a long time."
+        },
+        {
+          "nl": "HOMA-IR is een rekensom met je nuchtere glucose en insuline. Het schat hoe goed je cellen op insuline reageren.",
+          "en": "HOMA-IR is a calculation using your fasting glucose and insulin. It estimates how well your cells respond to insulin."
+        }
+      ],
+      "after": {
+        "nl": "Vraag daarom ook om nuchtere insuline (zie de 5 jaar bovenaan), en vergelijk die steeds bij hetzelfde lab. HOMA-IR heeft geen vaste Nederlandse grens, dus volg vooral je eigen verloop.",
+        "en": "That's why you ask for fasting insulin too (see the 5 years at the top), and always compare it at the same lab. HOMA-IR has no fixed Dutch cut-off, so follow your own trend above all."
+      },
+      "meta": {
+        "nl": [
+          "Referentie: nuchtere glucose onder 6,1 mmol/L · 6,1-6,9 verhoogd · 7,0 of hoger is de diabetesgrens (NHG)",
+          "Nuchtere insuline en HOMA-IR: geen vaste Nederlandse grens, verschilt per lab",
+          "Huisarts: glucose standaard bij moeheid, insuline niet"
+        ],
+        "en": [
+          "Reference range: fasting glucose below 6.1 mmol/L · 6.1-6.9 raised · 7.0 or higher is the diabetes threshold (NHG)",
+          "Fasting insulin and HOMA-IR: no fixed Dutch cut-off, varies by lab",
+          "GP: glucose standard for fatigue, insulin not"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "19515410"
+        },
+        {
+          "pmid": "19325009"
+        },
+        {
+          "pmid": "15161807"
+        },
+        {
+          "label": {
+            "nl": "NHG-Standaard Diabetes mellitus type 2",
+            "en": "NHG (Dutch GP guideline): type 2 diabetes"
+          },
+          "note": {
+            "nl": "Grenzen voor nuchtere glucose",
+            "en": "Fasting glucose thresholds"
+          },
+          "url": "https://richtlijnen.nhg.org/standaarden/diabetes-mellitus-type-2"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "title": {
+        "nl": "Ontsteking en hormonen",
+        "en": "Inflammation and hormones"
+      },
+      "subtitle": {
+        "nl": "Lichte ontsteking, en testosteron bij mannen.",
+        "en": "Low-grade inflammation, and testosterone in men."
+      }
+    },
+    {
+      "title": "hs-CRP",
+      "text": {
+        "nl": "Ontsteking is hoe je afweer reageert op schade of een infectie. CRP (C-reactief proteïne) is een eiwit dat vooral je lever dan maakt. De hs-CRP (hooggevoelige CRP) meet ook heel kleine hoeveelheden, zodat je lichte ontsteking ziet: een waarde die zonder infectie licht verhoogd blijft. Voor mij is het een van de drie belangrijkste waarden om te checken. De andere twee zijn VO2max (hoeveel zuurstof je lichaam kan gebruiken bij zware inspanning) en HRV (hoeveel de tijd tussen je hartslagen varieert).",
+        "en": "Inflammation is how your immune system responds to damage or infection. CRP (C-reactive protein) is a protein your liver then makes. The hs-CRP (high-sensitivity CRP) test also picks up very small amounts, so you see low-grade inflammation: a level that stays slightly raised without an infection. For me, it's one of the three most important values to check. The other two are VO2 max (how much oxygen your body can use during hard exercise) and HRV (how much the time between your heartbeats varies)."
+      },
+      "after": {
+        "nl": "Bij 4.847 Britse ambtenaren zonder moeheid hadden mensen met een CRP van 1 mg/L of hoger 28% meer kans om in de 3 jaar daarna moe te worden. CRP reageert ook op kleine prikkels: ongeveer een derde van de Amerikanen zit tussen 3 en 10 mg/L. Beoordeel dus nooit één uitslag, en vraag om de hs-CRP: de gewone CRP-test laat deze kleine verhogingen niet zien. In mijn ervaring heeft voeding er het meeste effect op, daarna slecht slapen en stress.",
+        "en": "Among 4,847 British civil servants without fatigue, people with a CRP of 1 mg/L or higher had 28% higher odds of becoming fatigued over the next 3 years. CRP also reacts to small triggers: about a third of Americans have a level between 3 and 10 mg/L. Never judge a single result, and ask for hs-CRP: the regular CRP test doesn't show these small rises. In my experience, food has the biggest effect on it, then poor sleep and stress."
+      },
+      "meta": {
+        "nl": [
+          "Referentie: onder 10 mg/L (verschilt per lab) · gevoelige grenzen 1 en 3 mg/L",
+          "Huisarts: gewone CRP of bezinking (BSE, een andere maat voor ontsteking), niet de gevoelige hs-CRP"
+        ],
+        "en": [
+          "Reference range: below 10 mg/L (varies by lab) · sensitive cut-offs 1 and 3 mg/L",
+          "GP: regular CRP or ESR (another measure of inflammation), not the sensitive hs-CRP"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "23151405"
+        },
+        {
+          "pmid": "29706967"
+        },
+        {
+          "pmid": "16443421"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Testosteron en SHBG (mannen)",
+        "en": "Testosterone and SHBG (men)"
+      },
+      "text": {
+        "nl": "Testosteron is het belangrijkste mannelijke geslachtshormoon. Het speelt een rol bij je spieren, je botten en je zin in seks. Het meeste testosteron zit in je bloed vast aan SHBG (sex hormone binding globulin), een eiwit uit je lever. Zolang het vastzit, kan het je cellen niet bereiken. Alleen het kleine vrije deel kan dat.",
+        "en": "Testosterone is the main male sex hormone. It plays a part in your muscles, your bones and your sex drive. Most testosterone in your blood is bound to SHBG (sex hormone binding globulin), a protein from your liver. While bound, it can't reach your cells. Only the small free part can."
+      },
+      "after": {
+        "nl": "Bij 21.074 mannen verschilde testosteron nauwelijks tussen 17 en 70 jaar. Een hoger BMI (je gewicht ten opzichte van je lengte), hooguit 75 minuten intensief sporten per week en diabetes hingen wel samen met een lager testosteron. Bij mannen van 65 en ouder met een lage waarde gaf een jaar behandeling met testosteron niet meer energie en geen beter geheugen. De richtlijn adviseert een lage uitslag te herhalen. Is je SHBG afwijkend, of zit je testosteron rond de ondergrens? Vraag dan om vrij testosteron. Ik kijk naar de waarde die het lab uitrekent uit je totale testosteron en je SHBG: die is nauwkeuriger dan een directe meting, en de richtlijn noemt die berekening ook.",
+        "en": "In 21,074 men, testosterone barely differed between the ages of 17 and 70. A higher BMI (your weight relative to your height), at most 75 minutes of vigorous exercise a week and diabetes were linked to lower testosterone. In men aged 65 and over with a low level, a year of testosterone treatment didn't improve energy or memory. The guideline advises repeating a low result. Is your SHBG abnormal, or your testosterone near the lower limit? Then ask for free testosterone. I look at the value the lab calculates from your total testosterone and your SHBG: it's more accurate than a direct test, and the guideline names that calculation too."
+      },
+      "meta": {
+        "nl": [
+          "Referentie: testosteron 8,6-29 nmol/L (mannen) · SHBG verschilt per lab",
+          "Huisarts: niet standaard"
+        ],
+        "en": [
+          "Reference range: testosterone 8.6-29 nmol/L (men) · SHBG varies by lab",
+          "GP: not standard"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "37639720"
+        },
+        {
+          "pmid": "29562364"
+        },
+        {
+          "pmid": "26886521"
+        },
+        {
+          "pmid": "28241356"
+        },
+        {
+          "label": {
+            "nl": "EFSA: veilige bovengrenzen voor vitamines en mineralen (2025)",
+            "en": "EFSA: tolerable upper intake levels for vitamins and minerals (2025)"
+          },
+          "note": {
+            "nl": "Boor: 10 mg per dag voor volwassenen",
+            "en": "Boron: 10 mg a day for adults"
+          },
+          "url": "https://www.efsa.europa.eu/sites/default/files/assets/UL_Summary_tables.pdf"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "nl": "Pas als je opnieuw meet, zie je wat je routines, je voeding en je slaap doen. Daarom begint alles wat we bij Cellular doen met meten. Je hoeft daarvoor niet op een bloedtest te wachten: in de trial bekijken we eerst je biomarkers uit je wearable, zoals je slaap en je rusthartslag. Heb je er geen? Dan krijg je 30 dagen gratis een WHOOP. Bespreek een afwijkende waarde altijd met je huisarts.",
+    "en": "Only when you retest do you see what your routines, your food and your sleep are doing. That's why everything we do at Cellular starts with measuring. You don't have to wait for a blood test: in the trial we first look at your biomarkers from your wearable, such as your sleep and resting heart rate. Don't have one? You get a free 30-day WHOOP. Always discuss an abnormal result with your GP."
+  },
+  "cta": {
+    "button_url": "#start-trial",
+    "title": {
+      "nl": "Begin met je eerste biomarkers",
+      "en": "Start with your first biomarkers"
+    },
+    "steps": {
+      "nl": [
+        [
+          "Aanmelden",
+          "Klik op de knop en laat je gegevens achter."
+        ],
+        [
+          "Koppelen",
+          "Koppel je wearable. Heb je er geen? Dan krijg je 30 dagen gratis een WHOOP."
+        ],
+        [
+          "Analyse",
+          "We bekijken je eerste biomarkers: 30+ waarden zoals HRV, rusthartslag en slaap. Je krijgt je protocol per video."
+        ],
+        [
+          "Opvolging",
+          "In een call bespreken we je uitkomst en wat je volgende stap is."
+        ]
+      ],
+      "en": [
+        [
+          "Sign up",
+          "Click the button and leave your details."
+        ],
+        [
+          "Connect",
+          "Link your wearable. Don't have one? You get a free 30-day WHOOP."
+        ],
+        [
+          "Analyse",
+          "We look at your first biomarkers: 30+ values like HRV, resting heart rate and sleep. You get your protocol by video."
+        ],
+        [
+          "Follow-up",
+          "A call to go through your results and your next step."
+        ]
+      ]
+    }
+  }
+}

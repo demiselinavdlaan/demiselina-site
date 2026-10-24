@@ -1,0 +1,1212 @@
+{
+  "slug": "energie-jorn",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "title": {
+    "nl": "Waarom je om 15.00 uur instort",
+    "en": "Why you crash at 3pm"
+  },
+  "subtitle": {
+    "nl": "Wat er 's middags in je lichaam gebeurt, wat je dip dieper maakt en wat je eraan kunt doen.",
+    "en": "What happens in your body in the afternoon, what makes the dip deeper, and what you can do about it."
+  },
+  "description": {
+    "nl": "Waarom je energie rond 15.00 uur wegzakt en wat helpt, met de studies erbij. Van Jorn Kirkels, oprichter van Cellular.",
+    "en": "Why your energy drops around 3pm and what helps, with the studies behind it. By Jorn Kirkels, founder of Cellular."
+  },
+  "intro": {
+    "nl": "'s Ochtends ben je scherp. Rond drie uur zakt het weg: je pakt sneller je telefoon en je keuzes worden slechter. Veel mensen vinden dat normaal. Dat hoeft het niet te zijn. Bij de meeste van de 400+ ondernemers met wie ik werkte, zat de oorzaak in hun biologie: in dingen die ze elke dag doen. Ik deed zelf alles volgens het boekje en voelde me toch niet goed. Pas toen ik ging meten, zag ik wat werkte. Hieronder eerst wat bijna niemand weet over die dip, daarna mijn plan voor je dag.",
+    "en": "In the morning you're sharp. Around three it fades: you reach for your phone sooner and your decisions get worse. Most people think that's normal. It doesn't have to be. With most of the 400+ entrepreneurs I've worked with, the cause was their biology: things they do every day. I did everything by the book myself and still didn't feel good. Only when I started measuring did I see what worked. Below you'll find what almost nobody knows about that dip first, then my plan for your day."
+  },
+  "sections": [
+    {
+      "title": {
+        "nl": "Wat bijna niemand weet",
+        "en": "What almost nobody knows"
+      },
+      "text": {
+        "nl": "Vijf bevindingen over je middag, elk met een getal en wat je ermee doet.",
+        "en": "Five findings about your afternoon, each with a number and what to do with it."
+      },
+      "facts": [
+        {
+          "stat": {
+            "nl": "16.00",
+            "en": "4pm"
+          },
+          "title": {
+            "nl": "Je dip komt ook als je niet luncht",
+            "en": "Your dip comes even if you skip lunch"
+          },
+          "text": {
+            "nl": "Je circadiane ritme is je interne klok: cellen in je hersenen die in ongeveer 24 uur bepalen wanneer je alert bent en wanneer je slaperig wordt. In de vroege middag geeft die klok een zwakker wakker-signaal. In een lab kregen mensen elk uur een kleine maaltijd, en toch werden ze midden op de dag slaperiger. In Engeland pieken ongelukken doordat iemand achter het stuur in slaap valt drie keer per dag, en één van die pieken ligt rond 16.00 uur. Plan in dat uur dus calls of werk dat je lopend kunt doen. Houd je zwaarste werk voor de ochtend.",
+            "en": "Your circadian rhythm is your body clock: cells in your brain that decide, over about 24 hours, when you're alert and when you get sleepy. In the early afternoon that clock sends a weaker wake signal. In a lab, people got a small meal every hour and still got sleepier in the middle of the day. In England, crashes caused by drivers falling asleep peak three times a day, and one of those peaks is around 4pm. So plan calls or work you can do on foot for that hour. Save your hardest work for the morning."
+          },
+          "label": {
+            "nl": "Labstudie en 679 ongelukken",
+            "en": "Lab study and 679 crashes"
+          }
+        },
+        {
+          "stat": {
+            "nl": "1 uur",
+            "en": "1 hour"
+          },
+          "title": {
+            "nl": "Iets zoets maakt je binnen een uur vermoeider",
+            "en": "Something sweet leaves you more tired within the hour"
+          },
+          "text": {
+            "nl": "In een overzicht van 31 studies gaf suiker geen betere stemming. In het eerste uur erna voelden mensen zich vermoeider en minder alert. In een andere studie gaf een snoepreep eerst wat energie, en een uur later meer moeheid. Een stevige wandeling van 10 minuten gaf dezelfde 18 mensen tot 2 uur meer energie. Loop bij je dip dus eerst 10 minuten stevig door.",
+            "en": "Across 31 studies, sugar didn't improve mood. In the first hour afterwards, people felt more tired and less alert. In another study, a chocolate bar gave a small lift at first and more tiredness an hour later. A brisk 10-minute walk gave the same 18 people more energy for up to 2 hours. So when your dip comes, walk briskly for 10 minutes first."
+          },
+          "label": {
+            "nl": "Overzicht van 31 studies",
+            "en": "Review of 31 studies"
+          }
+        },
+        {
+          "stat": {
+            "nl": "30 of 90 min",
+            "en": "30 or 90 min"
+          },
+          "title": {
+            "nl": "Een dutje: 30 of 90 minuten, 6 uur na het opstaan",
+            "en": "A nap: 30 or 90 minutes, 6 hours after waking"
+          },
+          "text": {
+            "nl": "Een slaapcyclus is één ronde door lichte slaap, diepe slaap en droomslaap, en duurt ongeveer 90 minuten. Met 90 minuten maak je er één helemaal af en word je wakker in lichte slaap. Met 30 minuten ben je bij het wakker worden eerst even suf: dat heet slaapinertie, en het trekt meestal binnen een half uur weg. Plan je dutje ongeveer 6 uur na het opstaan: sta je om 7.00 uur op, dan rond 13.00 uur. Heb je elke dag een dutje nodig, kijk dan eerst naar je nachten.",
+            "en": "A sleep cycle is one round through light sleep, deep sleep and dream sleep, and takes about 90 minutes. With 90 minutes you finish one cycle and wake from light sleep. With 30 minutes you're groggy for a bit when you wake: that's called sleep inertia, and it usually wears off within half an hour. Plan your nap about 6 hours after you get up: up at 7am, then around 1pm. Need a nap every day? Look at your nights first."
+          },
+          "label": {
+            "nl": "Mijn advies",
+            "en": "My advice"
+          }
+        },
+        {
+          "stat": {
+            "nl": "6 uur",
+            "en": "6 hours"
+          },
+          "title": {
+            "nl": "Twee weken 6 uur slaap: je werkt slechter en merkt het nauwelijks",
+            "en": "Two weeks on 6 hours' sleep: you perform worse and barely notice"
+          },
+          "text": {
+            "nl": "Slaapdruk is de drang om te slapen die opbouwt zolang je wakker bent. Slaap je te kort, dan neem je een deel mee naar de volgende dag. In een labstudie lagen gezonde volwassenen 14 nachten lang 4, 6 of 8 uur in bed. Bij 6 uur werden hun prestaties elke dag wat slechter. Na de eerste dagen voelden ze zich nauwelijks slaperiger. Tel je uren daarom, bijvoorbeeld met een wearable (een ring of horloge dat je slaap meet), en mik op minstens 7.",
+            "en": "Sleep pressure is the urge to sleep that builds up while you're awake. If you sleep too little, you carry some of it into the next day. In a lab study, healthy adults spent 14 nights with 4, 6 or 8 hours in bed. At 6 hours their performance got a little worse every day. After the first few days, they hardly felt any sleepier. So count your hours, for example with a wearable (a ring or watch that tracks your sleep), and aim for at least 7."
+          },
+          "label": {
+            "nl": "Labstudie, 14 nachten",
+            "en": "Lab study, 14 nights"
+          }
+        },
+        {
+          "stat": {
+            "nl": "53 → 37",
+            "en": "53 → 37"
+          },
+          "title": {
+            "nl": "Mijn rusthartslag ging in 12 maanden van 53 naar 37",
+            "en": "My resting heart rate went from 53 to 37 in 12 months"
+          },
+          "text": {
+            "nl": "Je rusthartslag is hoe vaak je hart per minuut slaat als je helemaal in rust bent. In een overzicht van 191 studies verlaagde sport hem, duurtraining en yoga het duidelijkst. Ik liep op een loopband onder mijn bureau, met een gewichtsvest van 10 kilo: 30.000 tot 40.000 stappen per dag. Per week deed ik daarnaast 200 minuten in hartslagzone 2 (rustig: je kunt nog praten) en 30 tot 60 minuten in zone 4 of hoger (zo zwaar dat je nog maar een paar woorden kunt zeggen). Ik veranderde meer dan één ding, dus wat het meeste deed, weet ik niet. Je eerste stap kan vandaag: bel lopend.",
+            "en": "Your resting heart rate is how many times your heart beats per minute when you're fully at rest. Across 191 studies, exercise lowered it, endurance training and yoga most clearly. I walked on a walking pad under my desk with a 10 kg weighted vest: 30,000 to 40,000 steps a day. Each week I also did 200 minutes in heart rate zone 2 (easy: you can still talk) and 30 to 60 minutes in zone 4 or higher (so hard you can only say a few words). I changed more than one thing, so I don't know which part did the most. Your first step can be today: take your calls on foot."
+          },
+          "label": {
+            "nl": "Mijn eigen data",
+            "en": "My own data"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "15892914"
+        },
+        {
+          "pmid": "1455121"
+        },
+        {
+          "pmid": "7888930"
+        },
+        {
+          "pmid": "30951762"
+        },
+        {
+          "pmid": "3820066"
+        },
+        {
+          "pmid": "12683469"
+        },
+        {
+          "pmid": "26039963"
+        },
+        {
+          "pmid": "30513777"
+        },
+        {
+          "pmid": "12531174"
+        },
+        {
+          "pmid": "30252388"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "title": {
+        "nl": "Mijn plan tegen de dip",
+        "en": "My plan against the dip"
+      },
+      "subtitle": {
+        "nl": "Vul je tijden in. Je plan rekent mee.",
+        "en": "Fill in your times. Your plan updates."
+      },
+      "eyebrow": {
+        "nl": "Deel 1",
+        "en": "Part 1"
+      }
+    },
+    {
+      "title": {
+        "nl": "Jouw dag",
+        "en": "Your day"
+      },
+      "text": {
+        "nl": "Dit doe ik zelf en raad ik ondernemers aan, in één dag gezet. Je bedtijd reken ik terug vanaf je wektijd: 7,5 uur slaap plus een kwartier om in slaap te vallen.",
+        "en": "This is what I do myself and advise entrepreneurs, laid out as one day. I work out your bedtime from your wake-up time: 7.5 hours of sleep plus 15 minutes to fall asleep."
+      },
+      "plan": {
+        "inputs": [
+          {
+            "key": "wake",
+            "label": {
+              "nl": "Ik sta op om",
+              "en": "I get up at"
+            },
+            "default": "07:00"
+          },
+          {
+            "key": "lunch",
+            "label": {
+              "nl": "Ik lunch om",
+              "en": "I have lunch at"
+            },
+            "default": "12:30"
+          }
+        ],
+        "derived": {
+          "bed": {
+            "from": "wake",
+            "offset": -465
+          }
+        },
+        "order_from": {
+          "at": "wake",
+          "offset": 0
+        },
+        "rows": [
+          {
+            "at": "wake",
+            "offset": 0,
+            "to": 30,
+            "title": {
+              "nl": "Daglicht",
+              "en": "Daylight"
+            },
+            "text": {
+              "nl": "Ga binnen een half uur naar buiten, ook als het bewolkt is. Op donkere ochtenden draag ik een lichttherapiebril.",
+              "en": "Get outside within half an hour, even when it's cloudy. On dark mornings I wear light therapy glasses."
+            }
+          },
+          {
+            "at": "wake",
+            "offset": 120,
+            "to": 300,
+            "title": {
+              "nl": "Je zwaarste werk",
+              "en": "Your hardest work"
+            },
+            "text": {
+              "nl": "Dan ben je het scherpst. Plan je moeilijkste taak hier, met je telefoon uit het zicht.",
+              "en": "This is when you're sharpest. Put your hardest task here, with your phone out of sight."
+            }
+          },
+          {
+            "at": "lunch",
+            "offset": 0,
+            "title": {
+              "nl": "Lunch",
+              "en": "Lunch"
+            },
+            "text": {
+              "nl": "Eerst groente en eiwit (vlees, vis, ei), de koolhydraten (rijst, pasta, brood) als laatste. Eet koolhydraten nooit los en drink ze nooit: geen sap of frisdrank. Eet zo licht dat je niet vol zit. Laat de koolhydraten wel staan: over de hele dag raad ik minstens 2 gram per kilo lichaamsgewicht aan.",
+              "en": "Vegetables and protein (meat, fish, eggs) first, carbs (rice, pasta, bread) last. Never eat carbs on their own and never drink them: no juice or fizzy drinks. Eat light enough that you don't feel full. Keep the carbs in, though: over the whole day I advise at least 2 grams per kilo of body weight."
+            }
+          },
+          {
+            "at": "lunch",
+            "offset": 20,
+            "to": 30,
+            "title": {
+              "nl": "10 minuten wandelen",
+              "en": "Walk for 10 minutes"
+            },
+            "text": {
+              "nl": "Direct na het eten. Een rondje om het blok is genoeg.",
+              "en": "Straight after eating. Once round the block is enough."
+            }
+          },
+          {
+            "at": "bed",
+            "offset": -600,
+            "title": {
+              "nl": "Je laatste cafeïne",
+              "en": "Your last caffeine"
+            },
+            "text": {
+              "nl": "10 uur voor je bedtijd. Ik raad onder de 100 mg per dag aan, ongeveer één kop koffie. Tel thee, cola, energiedrank, pre-workout (sportpoeder met cafeïne) en pure chocolade mee.",
+              "en": "10 hours before bedtime. I advise under 100 mg a day, about one cup of coffee. Count tea, cola, energy drinks, pre-workout (gym powder with caffeine) and dark chocolate too."
+            }
+          },
+          {
+            "at": "wake",
+            "offset": 420,
+            "to": 540,
+            "title": {
+              "nl": "Je dip",
+              "en": "Your dip"
+            },
+            "text": {
+              "nl": "Rond deze tijd zakt bijna iedereen wat in. Plan hier calls, overleg of werk dat je lopend kunt doen. Loop 10 minuten stevig door; iets zoets maakt je een uur later vaak vermoeider.",
+              "en": "Around this time almost everyone flags a little. Put calls, meetings or work you can do on foot here. Walk briskly for 10 minutes; something sweet often leaves you more tired an hour later."
+            }
+          },
+          {
+            "at": "bed",
+            "offset": 0,
+            "title": {
+              "nl": "Bedtijd",
+              "en": "Bedtime"
+            },
+            "text": {
+              "nl": "Voor 7,5 uur slaap. Mijn avondroutine staat stap voor stap in mijn guide 'Elke ochtend fit wakker worden'.",
+              "en": "For 7.5 hours of sleep. My evening routine is in my guide 'Wake up rested every morning', step by step."
+            }
+          },
+          {
+            "time": {
+              "nl": "Hele dag",
+              "en": "All day"
+            },
+            "title": {
+              "nl": "Sta elk half uur op",
+              "en": "Stand up every half hour"
+            },
+            "text": {
+              "nl": "Loop een paar minuten, of bel lopend. Lopen werkt beter dan alleen staan.",
+              "en": "Walk for a few minutes, or take a call on foot. Walking works better than just standing."
+            }
+          }
+        ],
+        "note": {
+          "nl": "Dit is een startpunt. Wat bij jou het meeste doet, zie je pas als je het meet.",
+          "en": "This is a starting point. You only see what helps you most when you measure it."
+        }
+      },
+      "sources": [
+        {
+          "pmid": "28526259"
+        },
+        {
+          "pmid": "15892914"
+        },
+        {
+          "pmid": "3820066"
+        },
+        {
+          "pmid": "30381620"
+        },
+        {
+          "pmid": "36870101"
+        },
+        {
+          "pmid": "35147898"
+        },
+        {
+          "label": {
+            "nl": "EFSA: cafeïne",
+            "en": "EFSA: caffeine"
+          },
+          "note": {
+            "nl": "Hoeveel cafeïne er in koffie, thee, cola, energiedrank en chocolade zit",
+            "en": "How much caffeine is in coffee, tea, cola, energy drinks and chocolate"
+          },
+          "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Wat ik zelf gebruik",
+        "en": "What I use myself"
+      },
+      "text": {
+        "nl": "Dit gebruik ik zelf elke dag. Merken noem ik niet. Het meeste kun je vandaag regelen.",
+        "en": "This is what I use every day. I don't name brands. You can sort out most of it today."
+      },
+      "markers": [
+        {
+          "name": {
+            "nl": "Een loopband onder mijn bureau",
+            "en": "A walking pad under my desk"
+          },
+          "note": {
+            "nl": "Ik loop terwijl ik werk, met een gewichtsvest van 10 kilo. Zo kom ik op 30.000 tot 40.000 stappen per dag.",
+            "en": "I walk while I work, with a 10 kg weighted vest. That's how I get 30,000 to 40,000 steps a day."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een lichttherapiebril",
+            "en": "Light therapy glasses"
+          },
+          "note": {
+            "nl": "Een bril die fel licht in je ogen schijnt, voor donkere ochtenden met weinig daglicht.",
+            "en": "Glasses that shine bright light into your eyes, for dark mornings with little daylight."
+          }
+        },
+        {
+          "name": {
+            "nl": "Cafeïnevrije koffie, en cafeïne uit een capsule",
+            "en": "Decaf, and caffeine from a capsule"
+          },
+          "note": {
+            "nl": "Ik dronk vroeger meer dan acht koppen koffie per dag, zo'n 800 mg cafeïne. Nu drink ik cafeïnevrije koffie en neem ik 30 tot 60 mg cafeïne per dag uit capsules, zodat ik de dosis stap voor stap kan verlagen. Ik weet dat 150 mg al te veel is voor mij. Volgens EFSA, de Europese autoriteit voor voedselveiligheid, is tot 400 mg per dag veilig voor gezonde volwassenen, en 200 mg als je zwanger bent.",
+            "en": "I used to drink more than eight cups of coffee a day, about 800 mg of caffeine. Now I drink decaf and take 30 to 60 mg of caffeine a day from capsules, so I can lower the dose step by step. I know 150 mg is already too much for me. According to EFSA, the European food safety authority, up to 400 mg a day is safe for healthy adults, and 200 mg if you're pregnant."
+          }
+        },
+        {
+          "name": {
+            "nl": "Creatine",
+            "en": "Creatine"
+          },
+          "note": {
+            "nl": "Elke ochtend. Ik neem 5 gram per dag. Na een slechte nacht adviseer ik tot 20 gram. EFSA vond tot 3 gram per dag veilig. Waarom ik het neem en wat dat verschil betekent, lees je onder 'Na een korte nacht'.",
+            "en": "Every morning. I take 5 grams a day. After a bad night I advise up to 20 grams. EFSA judged up to 3 grams a day safe. Why I take it, and what that difference means, is under 'After a short night'."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een wearable",
+            "en": "A wearable"
+          },
+          "note": {
+            "nl": "Elke ochtend schrijf ik eerst op hoe ik denk dat ik sliep. Dan kijk ik naar mijn HRV (hartslagvariabiliteit): het kleine verschil in tijd tussen je hartslagen. Een hogere HRV betekent meestal dat je lichaam goed hersteld is; na een korte nacht of een stressvolle week daalt hij vaak.",
+            "en": "Every morning I first write down how I think I slept. Then I check my HRV (heart rate variability): the small variation in time between your heartbeats. A higher HRV usually means your body has recovered well; it often drops after a short night or a stressful week."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "40895095"
+        },
+        {
+          "pmid": "29486547"
+        },
+        {
+          "label": {
+            "nl": "EFSA (2015): veiligheid van cafeïne",
+            "en": "EFSA (2015): Scientific opinion on the safety of caffeine"
+          },
+          "note": {
+            "nl": "Veilige hoeveelheden voor volwassenen en in de zwangerschap, en het effect van 100 mg vlak voor bedtijd",
+            "en": "Safe amounts for adults and in pregnancy, and the effect of 100 mg close to bedtime"
+          },
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4102"
+        },
+        {
+          "label": {
+            "nl": "EFSA (2004): creatine monohydraat in voeding",
+            "en": "EFSA (2004): opinion on creatine monohydrate in foods"
+          },
+          "note": {
+            "nl": "Tot 3 gram per dag geeft naar verwachting geen risico; vermijd hoge oplaaddoses",
+            "en": "Up to 3 grams a day is unlikely to pose any risk; avoid high loading doses"
+          },
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2004.36"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 2",
+        "en": "Part 2"
+      },
+      "title": {
+        "nl": "Waarom het werkt",
+        "en": "Why it works"
+      },
+      "subtitle": {
+        "nl": "Wat er gebeurt met cafeïne, je lunch, je koolhydraten en een korte nacht. Daarna de basis in het kort.",
+        "en": "What happens with caffeine, your lunch, your carbs and a short night. Then the basics in short."
+      }
+    },
+    {
+      "title": {
+        "nl": "Cafeïne: minder, en eerder",
+        "en": "Caffeine: less, and earlier"
+      },
+      "text": {
+        "nl": "Adenosine is een stof die je hersenen aanmaken zolang je wakker bent. Hoe meer adenosine zich opstapelt, hoe groter je slaapdruk en hoe slaperiger je je voelt. Cafeïne zit in koffie, thee, cola, energiedrank, pre-workout en chocolade. Het blokkeert de plekken waar adenosine zich aan hecht. Zo werkt het:",
+        "en": "Adenosine is a substance your brain makes while you're awake. The more adenosine builds up, the higher your sleep pressure and the sleepier you feel. Caffeine is in coffee, tea, cola, energy drinks, pre-workout and chocolate. It blocks the spots adenosine attaches to. This is how it works:"
+      },
+      "items": [
+        {
+          "nl": "Je voelt je slaapdruk minder, terwijl hij er nog is.",
+          "en": "You feel your sleep pressure less, while it's still there."
+        },
+        {
+          "nl": "Cafeïne blijft uren in je lichaam. Hoe snel je het afbreekt, verschilt sterk per persoon.",
+          "en": "Caffeine stays in your body for hours. How fast you break it down varies a lot from person to person."
+        },
+        {
+          "nl": "Je slaapt korter en minder diep, vaak zonder dat je het merkt.",
+          "en": "You sleep less, and less deeply, often without noticing."
+        },
+        {
+          "nl": "De volgende middag heb je meer slaapdruk en pak je eerder koffie. Zo blijf je in een cirkel.",
+          "en": "The next afternoon you have more sleep pressure and reach for coffee sooner. That keeps you in a loop."
+        }
+      ],
+      "after": {
+        "nl": "In een overzicht van 24 studies kostte cafeïne gemiddeld 45 minuten slaap. Een gewone koffie (ongeveer 107 mg) moest minstens 8,8 uur voor bedtijd op zijn, een pre-workout 13,2 uur. Bij 23 jonge mannen had 100 mg geen meetbaar effect op hun slaap, zelfs 4 uur voor bedtijd. 400 mg, ongeveer vier koppen, verstoorde de slaap nog als ze het 12 uur voor bedtijd namen, en bij 8 en 12 uur merkten ze dat zelf niet. De hoeveelheid telt dus mee, naast het tijdstip. Stop je na dagelijks gebruik in één keer, dan kun je 2 tot 9 dagen hoofdpijn en moeheid krijgen, al vanaf 100 mg per dag. Bouw daarom stap voor stap af. Zo deed ik het: cafeïnevrije koffie voor de smaak, cafeïne uit een capsule zodat ik weet hoeveel ik neem, en dan de dosis stap voor stap omlaag. Ik ging van meer dan acht koppen per dag, ongeveer 800 mg, naar 30 tot 60 mg. In die periode ging mijn HRV van 86 naar 152 ms (milliseconden). Ik veranderde toen meer dan één ding, dus hoeveel daarvan door de cafeïne komt, weet ik niet.",
+        "en": "Across 24 studies, caffeine cost an average of 45 minutes of sleep. A normal coffee (about 107 mg) had to be finished at least 8.8 hours before bed, a pre-workout 13.2 hours. In 23 young men, 100 mg had no measurable effect on sleep, even 4 hours before bed. 400 mg, about four cups, still disturbed sleep when taken 12 hours before bed, and at 8 and 12 hours the men didn't notice it themselves. So the amount counts, as well as the timing. If you use caffeine daily and stop all at once, you can get headaches and tiredness for 2 to 9 days, from as little as 100 mg a day. So cut down step by step. This is how I did it: decaf for the taste, caffeine from a capsule so I know how much I take, and then the dose down step by step. I went from more than eight cups a day, about 800 mg, to 30 to 60 mg. Over that period my HRV went from 86 to 152 ms (milliseconds). I changed more than one thing at the time, so I don't know how much of that came from the caffeine."
+      },
+      "sources": [
+        {
+          "pmid": "35575450"
+        },
+        {
+          "pmid": "29514871"
+        },
+        {
+          "pmid": "36870101"
+        },
+        {
+          "pmid": "39377163"
+        },
+        {
+          "pmid": "15448977"
+        },
+        {
+          "label": {
+            "nl": "EFSA (2015): veiligheid van cafeïne",
+            "en": "EFSA (2015): Scientific opinion on the safety of caffeine"
+          },
+          "note": {
+            "nl": "Veilige hoeveelheden voor volwassenen en in de zwangerschap, en het effect van 100 mg vlak voor bedtijd",
+            "en": "Safe amounts for adults and in pregnancy, and the effect of 100 mg close to bedtime"
+          },
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4102"
+        },
+        {
+          "label": {
+            "nl": "EFSA: cafeïne",
+            "en": "EFSA: caffeine"
+          },
+          "note": {
+            "nl": "Hoeveel cafeïne er in koffie, thee, cola, energiedrank en chocolade zit",
+            "en": "How much caffeine is in coffee, tea, cola, energy drinks and chocolate"
+          },
+          "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine"
+        }
+      ],
+      "meta": {
+        "nl": [
+          "EFSA: tot 200 mg in één keer en 400 mg per dag is veilig voor gezonde volwassenen, zwanger tot 200 mg per dag",
+          "100 mg vlak voor bedtijd kan bij sommige volwassenen de slaap beïnvloeden",
+          "50 g pure chocolade bevat zo'n 25 mg, melkchocolade zo'n 10 mg"
+        ],
+        "en": [
+          "EFSA: up to 200 mg at once and 400 mg a day is safe for healthy adults, up to 200 mg a day in pregnancy",
+          "100 mg close to bedtime can affect sleep in some adults",
+          "50 g of dark chocolate has about 25 mg, milk chocolate about 10 mg"
+        ]
+      },
+      "caution_label": {
+        "nl": "Start nooit zonder data.",
+        "en": "Never start without data."
+      },
+      "caution": {
+        "nl": "Verander je je cafeïne, dan verandert je slaap mee. Meet je slaap en HRV een week ervoor en erna, zodat je ziet wat het bij jou doet.",
+        "en": "When you change your caffeine, your sleep changes with it. Track your sleep and HRV for a week before and after, so you see what it does for you."
+      }
+    },
+    {
+      "title": {
+        "nl": "Je lunch: kleiner, en koolhydraten als laatste",
+        "en": "Your lunch: smaller, with the carbs last"
+      },
+      "text": {
+        "nl": "Glucose is de suiker in je bloed: brandstof voor je cellen en je hersenen. Eet je koolhydraten (brood, pasta, rijst, aardappels, fruit, suiker), dan stijgt je glucose. Je alvleesklier, een orgaan achter je maag, maakt dan insuline. Insuline is een hormoon dat je cellen opent, zodat de glucose erin kan en je bloedsuiker weer daalt. Zo kan je lunch je dip dieper maken:",
+        "en": "Glucose is the sugar in your blood: fuel for your cells and your brain. When you eat carbohydrates (bread, pasta, rice, potatoes, fruit, sugar), your glucose rises. Your pancreas, an organ behind your stomach, then makes insulin. Insulin is a hormone that opens your cells so the glucose can get in, and your blood sugar falls again. This is how your lunch can make your dip deeper:"
+      },
+      "items": [
+        {
+          "nl": "Een grote maaltijd komt bovenop de dip van je klok. Het effect komt pas na een half uur, als je alweer aan het werk bent.",
+          "en": "A big meal adds to your clock's dip. The effect only shows after half an hour, once you're back at work."
+        },
+        {
+          "nl": "Snelle koolhydraten zonder eiwit of vezels laten je glucose snel stijgen, en je lichaam maakt veel insuline.",
+          "en": "Fast carbohydrates with no protein or fibre make your glucose rise fast, and your body makes a lot of insulin."
+        },
+        {
+          "nl": "2 tot 3 uur later zakt je glucose bij sommige mensen even onder het niveau van voor het eten. Dat hangt samen met eerder trek krijgen.",
+          "en": "2 to 3 hours later, some people's glucose briefly drops below where it was before the meal. That goes with getting hungry sooner."
+        },
+        {
+          "nl": "Eet je eerst groente en eiwit en de koolhydraten als laatste, dan stijgen glucose en insuline minder.",
+          "en": "Eat vegetables and protein first and the carbs last, and your glucose and insulin rise less."
+        }
+      ],
+      "after": {
+        "nl": "In een rijsimulator kregen 12 jonge mannen na een nacht van 5 uur een lichte lunch (305 kcal) of een zware (922 kcal). Na de zware lunch raakten ze vaker van hun rijstrook, al begon dat pas na het eerste half uur. Of vet of koolhydraten slaperiger maken, is niet duidelijk: studies spreken elkaar tegen. De grootte van je lunch telt dus het duidelijkst mee. Bij 8 gezonde jongeren stegen glucose en insuline het minst als ze de rijst als laatste aten. Een glucosemeter is een sensor op je arm die dag en nacht je glucose meet. Bij 1.070 mensen met zo'n meter voorspelde een dip 2 tot 3 uur na het eten meer trek later op de dag, al waren de verbanden klein. Artsen spreken pas van reactieve hypoglykemie, een echte suikerdip na het eten, als klachten samenvallen met een bloedsuiker onder 3,3 mmol/L. Mijn belangrijkste tip voor je lunch is daarom: eet koolhydraten nooit los, en drink ze nooit.",
+        "en": "In a driving simulator, 12 young men had a light lunch (305 kcal) or a heavy one (922 kcal) after a 5-hour night. After the heavy lunch they drifted out of their lane more often, although only after the first half hour. Whether fat or carbohydrates make you sleepier isn't clear: studies contradict each other. So the size of your lunch counts most clearly. In 8 healthy young people, glucose and insulin rose least when they ate the rice last. A glucose monitor is a sensor on your arm that measures your glucose day and night. In 1,070 people wearing one, a dip 2 to 3 hours after eating predicted more hunger later in the day, although the links were small. Doctors only speak of reactive hypoglycaemia, a real sugar crash after eating, when symptoms coincide with blood sugar below 3.3 mmol/L. That's why my biggest tip for your lunch is: never eat carbs on their own, and never drink them."
+      },
+      "meta": {
+        "nl": [
+          "Glucosedip-studie gedaan door onderzoekers van ZOE, een bedrijf dat voedingsadvies met glucosemeters verkoopt"
+        ],
+        "en": [
+          "Glucose dip study by researchers at ZOE, a company that sells nutrition advice using glucose monitors"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "22155490"
+        },
+        {
+          "pmid": "15892914"
+        },
+        {
+          "pmid": "9145937"
+        },
+        {
+          "pmid": "30381620"
+        },
+        {
+          "pmid": "33846643"
+        },
+        {
+          "pmid": "11119013"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Genoeg koolhydraten: minstens 2 gram per kilo",
+        "en": "Enough carbs: at least 2 grams per kilo"
+      },
+      "text": {
+        "nl": "Je schildklier is een klier in je hals die regelt hoe snel je lichaam energie verbruikt. Hij maakt een hormoon dat T4 heet. Je lichaam zet T4 om in T3: de actieve vorm, die je cellen sneller laat werken. Eet je wekenlang heel weinig koolhydraten, dan kan je lichaam minder T3 maken. Daarom laat ik koolhydraten niet weg. Mijn regel:",
+        "en": "Your thyroid is a gland in your neck that sets how fast your body uses energy. It makes a hormone called T4. Your body turns T4 into T3: the active form, which makes your cells work faster. If you eat very few carbs for weeks, your body can make less T3. That's why I don't cut carbs out. My rule:"
+      },
+      "items": [
+        {
+          "nl": "Eet minstens 2 gram koolhydraten per kilo lichaamsgewicht per dag. Bij 70 kilo is dat 140 gram.",
+          "en": "Eat at least 2 grams of carbs per kilo of body weight a day. At 70 kilos, that's 140 grams."
+        },
+        {
+          "nl": "Train je die dag, eet dan 50 tot 100 gram meer.",
+          "en": "On days you train, eat 50 to 100 grams more."
+        },
+        {
+          "nl": "Eet ze met groente en eiwit, nooit los, en drink ze niet.",
+          "en": "Eat them with vegetables and protein, never on their own, and don't drink them."
+        }
+      ],
+      "after": {
+        "nl": "Bij 11 gezonde mensen daalde T3 na drie weken op een dieet met evenveel calorieën maar heel weinig koolhydraten (15% van hun energie). Op een dieet met meer koolhydraten (55%) bleef T3 gelijk. TSH, het signaal van je hersenen aan je schildklier, veranderde bij geen van beide. Het was een kleine proefstudie, en energie werd niet gemeten. Bij mij liet een bloedtest zien dat mijn schildklier trager werkte, in een tijd dat ik het carnivoordieet volgde: bijna alleen vlees, dus heel weinig koolhydraten. Oudere bloedtesten lieten zien dat hij al langer aan de trage kant zat. De enige aanpassing die ik maakte, was weer meer koolhydraten eten, en ik voelde me veel beter. Ter vergelijking: volgens EFSA hebben je hersenen zo'n 130 gram glucose per dag nodig, en EFSA raadt aan 45 tot 60% van je energie uit koolhydraten te halen. Voor de meeste mensen is dat meer dan mijn minimum.",
+        "en": "In 11 healthy people, three weeks on a diet with the same calories but very few carbs (15% of their energy) lowered T3. On a diet with more carbs (55%), T3 stayed the same. TSH, the signal from your brain to your thyroid, didn't change on either diet. It was a small pilot study, and it didn't measure energy. For me, a blood test showed my thyroid was running slow at a time when I was on the carnivore diet: almost only meat, so very few carbs. Older blood tests showed it had been on the slow side for longer. The only change I made was to eat more carbs again, and I felt much better. For comparison: EFSA estimates your brain needs about 130 grams of glucose a day, and advises getting 45 to 60% of your energy from carbs. For most people that's more than my minimum."
+      },
+      "sources": [
+        {
+          "pmid": "35658056"
+        },
+        {
+          "label": {
+            "nl": "EFSA (2010): voedingsnormen voor koolhydraten en vezels",
+            "en": "EFSA (2010): Dietary reference values for carbohydrates and dietary fibre"
+          },
+          "note": {
+            "nl": "Je hersenen hebben zo'n 130 gram glucose per dag nodig; advies 45 tot 60% van je energie uit koolhydraten",
+            "en": "Your brain needs about 130 grams of glucose a day; advice of 45 to 60% of your energy from carbohydrates"
+          },
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1462"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Na een korte nacht: creatine",
+        "en": "After a short night: creatine"
+      },
+      "text": {
+        "nl": "Creatine is een stof die je spieren en hersenen gebruiken om snel energie te maken. Je krijgt 1 tot 2 gram per dag binnen uit vlees en vis, en je lichaam maakt zelf ongeveer evenveel. Daarom kan het helpen na een korte nacht:",
+        "en": "Creatine is a substance your muscles and brain use to make energy fast. You get 1 to 2 grams a day from meat and fish, and your body makes about the same amount itself. This is why it can help after a short night:"
+      },
+      "items": [
+        {
+          "nl": "Je cellen draaien op een brandstof die ATP heet. Creatine helpt die snel aan te vullen.",
+          "en": "Your cells run on a fuel called ATP. Creatine helps refill it quickly."
+        },
+        {
+          "nl": "Blijf je lang wakker, dan raakt die snelle energie in je hersenen meer op en gaat je denken trager.",
+          "en": "When you stay awake for a long time, the fast energy in your brain runs lower and your thinking slows down."
+        },
+        {
+          "nl": "Een gewone dagelijkse dosis verhoogt de creatine in je hersenen maar langzaam, over weken.",
+          "en": "A normal daily dose raises the creatine in your brain only slowly, over weeks."
+        },
+        {
+          "nl": "Een grote dosis in één keer veranderde in een studie binnen een paar uur de energie in de hersenen, en maakte de daling deels goed.",
+          "en": "In one study, a large single dose changed the energy in the brain within a few hours, and partly made up for the drop."
+        }
+      ],
+      "after": {
+        "nl": "In een lab bleven 29 gezonde mensen 21 uur wakker. Ze kregen één dosis creatine (0,2 gram per kilo, 14 gram bij 70 kilo) of een placebo, een nepmiddel. Met creatine daalden hun scores op logica-, reken- en reactietests minder: tot 12% beter. In een eerdere studie van dezelfde groep werkte een hogere dosis (0,35 gram per kilo) sterker. Een overzicht uit 2026 vond maar 5 van zulke studies: de eerste resultaten zijn gunstig, maar er is nog weinig onderzoek. Wat ik zelf doe: ik neem elke ochtend creatine. Ik raad 5 gram per dag aan, op elk moment van de dag, elke dag; opbouwen is niet nodig. Na een slechte nacht raad ik tot 20 gram aan. EFSA vond tot 3 gram per dag naar verwachting zonder risico, en raadt hoge doses af. 5 gram zit daar dus boven, 20 gram ver boven. Bij voetballers gaf 10 gram in één keer vaker diarree dan twee keer 5 gram, dus verdeel een grote dosis.",
+        "en": "In a lab, 29 healthy people stayed awake for 21 hours. They got one dose of creatine (0.2 grams per kilo, 14 grams at 70 kilos) or a placebo, a dummy pill. With creatine, their scores on logic, number and reaction tests dropped less: up to 12% better. In an earlier study by the same team, a higher dose (0.35 grams per kilo) worked more strongly. A 2026 review found only 5 studies like this: the early results look good, but there's little research so far. What I do myself: I take creatine every morning. I advise 5 grams a day, at any time of day, every day; you don't need to build it up. After a bad night, I advise up to 20 grams. EFSA judged up to 3 grams a day unlikely to pose any risk, and advises against high doses. So 5 grams is above that, and 20 grams is far above it. In footballers, 10 grams in one go caused diarrhoea more often than two doses of 5 grams, so split a large dose."
+      },
+      "caution_label": {
+        "nl": "Start nooit zonder data.",
+        "en": "Never start without data."
+      },
+      "caution": {
+        "nl": "Over hoge doses en je nieren bestaan twijfels. Heb je nierproblemen of gebruik je medicijnen? Vraag het eerst je huisarts. Houd na een korte nacht bij hoe je middag gaat, met en zonder creatine, zodat je ziet of het bij jou iets doet.",
+        "en": "There are doubts about high doses and your kidneys. Kidney problems, or taking medication? Ask your GP first. After a short night, note how your afternoon goes with and without creatine, so you see whether it does anything for you."
+      },
+      "sources": [
+        {
+          "pmid": "42075005"
+        },
+        {
+          "pmid": "38418482"
+        },
+        {
+          "pmid": "42261581"
+        },
+        {
+          "pmid": "18373286"
+        },
+        {
+          "label": {
+            "nl": "EFSA (2004): creatine monohydraat in voeding",
+            "en": "EFSA (2004): opinion on creatine monohydrate in foods"
+          },
+          "note": {
+            "nl": "Tot 3 gram per dag geeft naar verwachting geen risico; vermijd hoge oplaaddoses",
+            "en": "Up to 3 grams a day is unlikely to pose any risk; avoid high loading doses"
+          },
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2004.36"
+        },
+        {
+          "label": {
+            "nl": "Wetenschappelijk Comité voor de Menselijke Voeding (EU, 2000): veiligheid van creatine",
+            "en": "EU Scientific Committee on Food (2000): safety of creatine supplementation"
+          },
+          "note": {
+            "nl": "1 tot 2 gram per dag uit eten en uit je eigen lichaam; twijfels over hoge doses en je nieren",
+            "en": "1 to 2 grams a day from food and from your own body; doubts about high doses and kidney function"
+          },
+          "url": "https://ec.europa.eu/food/fs/sc/scf/out70_en.pdf"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "De basis",
+        "en": "The basics"
+      },
+      "text": {
+        "nl": "Dit weet je vast al. Kort op een rij, met het onderzoek erbij:",
+        "en": "You probably know these. Here they are in short, with the research:"
+      },
+      "numbered": false,
+      "items": [
+        {
+          "nl": "Slaap minstens 7 uur per nacht; dat is het advies voor volwassenen.",
+          "en": "Sleep at least 7 hours a night; that's the advice for adults."
+        },
+        {
+          "nl": "Pak 's ochtends daglicht: kantoormensen met veel ochtendlicht vielen sneller in slaap en sliepen beter.",
+          "en": "Get daylight in the morning: office workers with lots of morning light fell asleep faster and slept better."
+        },
+        {
+          "nl": "Zet je moeilijkste werk op je scherpste uren; die hangen af van of je een ochtend- of avondmens bent.",
+          "en": "Put your hardest work in your sharpest hours; these depend on whether you're a morning or an evening person."
+        },
+        {
+          "nl": "Wandel 10 minuten na de lunch: lopen verlaagt je bloedsuiker na het eten duidelijker dan staan.",
+          "en": "Walk for 10 minutes after lunch: walking lowers your blood sugar after meals more clearly than standing."
+        },
+        {
+          "nl": "Sta elk half uur op en loop een paar minuten: in twee kleine studies gaf dat minder moeheid dan blijven zitten.",
+          "en": "Get up every half hour and walk for a few minutes: in two small studies that meant less tiredness than staying seated."
+        },
+        {
+          "nl": "Drink je koolhydraten niet: sinaasappelsap gaf meer insuline dan hele sinaasappels met evenveel suiker.",
+          "en": "Don't drink your carbs: orange juice raised insulin more than whole oranges with the same sugar."
+        },
+        {
+          "nl": "Zet een fles water op je bureau: na ruim 1% vochtverlies voelden jonge mannen zich vermoeider, al is het onderzoek wisselend.",
+          "en": "Keep a bottle of water on your desk: after losing just over 1% of their weight in fluid, young men felt more tired, although the research is mixed."
+        }
+      ],
+      "meta": {
+        "nl": [
+          "Studie met 30 kantoormensen: mede-auteurs van Johnson & Johnson"
+        ],
+        "en": [
+          "Study of 30 office workers: co-authors from Johnson & Johnson"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "26039963"
+        },
+        {
+          "pmid": "28526259"
+        },
+        {
+          "pmid": "18066734"
+        },
+        {
+          "pmid": "35147898"
+        },
+        {
+          "pmid": "26920441"
+        },
+        {
+          "pmid": "27809874"
+        },
+        {
+          "pmid": "6259919"
+        },
+        {
+          "pmid": "21736786"
+        },
+        {
+          "pmid": "24480458"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 3",
+        "en": "Part 3"
+      },
+      "title": {
+        "nl": "Wat je kunt meten",
+        "en": "What you can measure"
+      },
+      "subtitle": {
+        "nl": "Zodat je niet hoeft te gokken. Begin met je dagelijkse data van een wearable, en kijk daarna naar je bloed. Die volgorde levert het meeste op.",
+        "en": "So you don't have to guess. Start with your daily data from a wearable, then look at your blood. That order gives you the most."
+      }
+    },
+    {
+      "title": {
+        "nl": "Je wearable: slaap, HRV en rusthartslag",
+        "en": "Your wearable: sleep, HRV and resting heart rate"
+      },
+      "text": {
+        "nl": "Een wearable is een ring of horloge dat je dag en nacht draagt, zoals een Oura of WHOOP. Hij meet je slaap, je HRV en je rusthartslag. Dit zijn mijn regels om ze te lezen:",
+        "en": "A wearable is a ring or watch you wear day and night, such as an Oura or WHOOP. It measures your sleep, your HRV and your resting heart rate. These are my rules for reading them:"
+      },
+      "items": [
+        {
+          "nl": "Kijk vooral naar je slaapduur en bedtijden. Die meten wearables goed, je slaapfases (diepe slaap en REM, de droomslaap) minder.",
+          "en": "Look mainly at your sleep duration and bedtimes. Wearables measure those well, your sleep stages (deep sleep and REM, dream sleep) less so."
+        },
+        {
+          "nl": "Kijk naar je HRV-gemiddelde over een week. Eén nacht zegt weinig.",
+          "en": "Look at your average HRV over a week. One night says little."
+        },
+        {
+          "nl": "Vergelijk alleen met jezelf, op hetzelfde apparaat. Merken rekenen HRV verschillend uit.",
+          "en": "Only compare with yourself, on the same device. Brands calculate HRV differently."
+        },
+        {
+          "nl": "Leg je cijfers naast je middagen: na welke nachten, lunches en drukke weken zak je in?",
+          "en": "Put your numbers next to your afternoons: after which nights, lunches and busy weeks do you crash?"
+        }
+      ],
+      "after": {
+        "nl": "Zes wearables, waaronder Oura en WHOOP, werden bij 53 volwassenen vergeleken met een slaaplab. Ze maten goed wanneer en hoe lang iemand sliep. Bij de slaapfases klopte ongeveer 60%. In 11 studies daalde RMSSD na slaaptekort. RMSSD is de manier waarop onder meer Oura en WHOOP je HRV uitrekenen. In de meeste van 37 studies veranderde de HRV bij stress, meestal doordat het deel van je zenuwstelsel dat je laat ontspannen en herstellen minder actief was.",
+        "en": "Six wearables, including Oura and WHOOP, were compared with a sleep lab in 53 adults. They measured well when and how long people slept. For sleep stages, about 60% matched. Across 11 studies, RMSSD dropped after sleep loss. RMSSD is the way Oura and WHOOP, among others, calculate your HRV. In most of 37 studies, HRV changed with stress, usually because the part of your nervous system that lets you relax and recover was less active."
+      },
+      "meta": {
+        "nl": [
+          "Wearable-studie: de onderzoeksgroep krijgt steun van WHOOP"
+        ],
+        "en": [
+          "Wearable study: the research group receives support from WHOOP"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "36016077"
+        },
+        {
+          "pmid": "40895095"
+        },
+        {
+          "pmid": "29486547"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Je bloed: ijzer, schildklier en glucose",
+        "en": "Your blood: iron, thyroid and glucose"
+      },
+      "text": {
+        "nl": "Je wearable laat je ritme zien, je bloed of er iets onder zit. Ferritine is je ijzervoorraad; ijzer heb je nodig om zuurstof door je lichaam te vervoeren. Je schildklier is een klier in je hals die regelt hoe snel je lichaam energie verbruikt. TSH is het signaal van je hersenen aan je schildklier: werkt die te traag, dan stijgt je TSH. Voor een middagdip kijk je eerst naar:",
+        "en": "Your wearable shows your rhythm; your blood shows whether something sits underneath. Ferritin is your iron store; you need iron to carry oxygen around your body. Your thyroid is a gland in your neck that sets how fast your body uses energy. TSH is the signal from your brain to your thyroid: if your thyroid is too slow, your TSH goes up. For an afternoon dip, look first at:"
+      },
+      "items": [
+        {
+          "nl": "Ferritine en hemoglobine: je ijzervoorraad, en het eiwit dat zuurstof door je bloed vervoert.",
+          "en": "Ferritin and haemoglobin: your iron stores, and the protein that carries oxygen in your blood."
+        },
+        {
+          "nl": "TSH en vrij T4: hoe hard je schildklier werkt. T4 is het hormoon dat je schildklier zelf maakt. Een duidelijk te trage schildklier geeft vaak moeheid en het snel koud hebben.",
+          "en": "TSH and free T4: how hard your thyroid is working. T4 is the hormone your thyroid makes itself. A clearly underactive thyroid often causes tiredness and feeling the cold easily."
+        },
+        {
+          "nl": "Nuchtere glucose en insuline: hoe stabiel je bloedsuiker is als je niet hebt gegeten, en hoeveel insuline je lichaam daarvoor nodig heeft.",
+          "en": "Fasting glucose and insulin: how steady your blood sugar is when you haven't eaten, and how much insulin your body needs for that."
+        },
+        {
+          "nl": "Een CGM (continue glucosemeter): een sensor met een klein naaldje in je arm die dag en nacht je glucose meet. Zo zie je of je dip samenvalt met een daling na je lunch.",
+          "en": "A CGM (continuous glucose monitor): a sensor with a tiny needle in your arm that measures your glucose day and night. It shows whether your dip lines up with a drop after lunch."
+        }
+      ],
+      "after": {
+        "nl": "Een studie volgde 198 vrouwen die menstrueren, met moeheid en een ferritine onder 50 µg/L, zonder bloedarmoede (dus met genoeg hemoglobine). Met extra ijzer nam hun moeheid af met 48%, tegen 29% met een placebo, een nepmiddel. Werkt de schildklier maar een beetje te traag, dan hielp behandelen in 21 studies niet tegen klachten. Met een CGM zaten mensen met normale bloedwaarden 15% van de tijd in het bereik van een voorstadium van diabetes. Wat dat voor je energie betekent, is nog niet goed onderzocht. Zelf zag ik in een bloedtest dat mijn schildklier trager werkte; dat verhaal staat bij 'Genoeg koolhydraten'. Bij mensen die met moeheid naar de huisarts gaan, wordt maar bij ongeveer 8% een lichamelijke oorzaak gevonden. Ben je langer dan een maand moe, of heb je ook andere klachten? Ga dan naar je huisarts. Bespreek een afwijkende waarde altijd met je huisarts.",
+        "en": "A study followed 198 menstruating women with fatigue and a ferritin below 50 µg/L, with no anaemia (so with enough haemoglobin). Extra iron cut their fatigue by 48%, against 29% with a placebo, a dummy pill. When the thyroid is only slightly slow, treatment didn't ease symptoms across 21 studies. On a CGM, people with normal blood results spent 15% of the time in the prediabetes range, an early stage before diabetes. What that means for your energy hasn't been studied well. I saw in a blood test that my own thyroid was running slow; that story is under 'Enough carbs'. In people who see their GP for fatigue, a physical cause is found in only about 8%. Tired for more than a month, or other symptoms as well? See your GP. Always discuss an abnormal result with your GP."
+      },
+      "sources": [
+        {
+          "pmid": "22777991"
+        },
+        {
+          "pmid": "38868106"
+        },
+        {
+          "pmid": "28336049"
+        },
+        {
+          "pmid": "30285179"
+        },
+        {
+          "pmid": "30040822"
+        },
+        {
+          "pmid": "39440596"
+        },
+        {
+          "label": {
+            "nl": "Thuisarts: bloedarmoede",
+            "en": "Thuisarts (Dutch GP site): anaemia"
+          },
+          "note": {
+            "nl": "Waar een laag ijzer vandaan komt",
+            "en": "Where low iron comes from"
+          },
+          "url": "https://www.thuisarts.nl/bloedarmoede/ik-heb-bloedarmoede"
+        },
+        {
+          "label": {
+            "nl": "Thuisarts: moeheid",
+            "en": "Thuisarts (Dutch GP site): fatigue"
+          },
+          "note": {
+            "nl": "Wanneer bloedonderzoek zin heeft, en wanneer naar de huisarts",
+            "en": "When blood tests help, and when to see your GP"
+          },
+          "url": "https://www.thuisarts.nl/moeheid/ik-ben-moe-wat-kan-ik-eraan-doen"
+        },
+        {
+          "label": {
+            "nl": "NHG: laboratoriumonderzoek (LESA)",
+            "en": "Dutch GP guideline on lab tests (LESA)"
+          },
+          "note": {
+            "nl": "Welke bloedwaarden de huisarts bij moeheid aanvraagt",
+            "en": "Which blood tests GPs order for fatigue"
+          },
+          "url": "https://richtlijnen.nhg.org/landelijke-eerstelijns-samenwerkingsafspraken/laboratoriumdiagnostiek-0"
+        }
+      ],
+      "numbered": false,
+      "caution_label": {
+        "nl": "Start nooit zonder data.",
+        "en": "Never start without data."
+      },
+      "caution": {
+        "nl": "Van de supplementen die mensen slikken zonder bloedtest, doet volgens mij zo'n 80% niets voor ze. Slik geen ijzer op de gok: een laag ijzer heeft een oorzaak die je huisarts wil weten. De vrouwen in de studie kregen via hun huisarts 12 weken lang 80 mg ijzer per dag. EFSA noemt 40 mg per dag veilig voor volwassenen, uit eten en supplementen samen.",
+        "en": "Of the supplements people take without a blood test, I'd say about 80% won't do anything for them. Don't take iron on a hunch: low iron has a cause your GP will want to know. The women in the study took 80 mg of iron a day for 12 weeks, through their GP. EFSA calls 40 mg a day safe for adults, from food and supplements together."
+      }
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 4",
+        "en": "Part 4"
+      },
+      "title": {
+        "nl": "Jouw energie-check",
+        "en": "Your energy check"
+      },
+      "subtitle": {
+        "nl": "Tien vragen. Je ziet meteen waar je het eerst naar kunt kijken.",
+        "en": "Ten questions. You'll see right away where to look first."
+      }
+    },
+    {
+      "title": {
+        "nl": "Waar zit jouw dip?",
+        "en": "Where does your dip come from?"
+      },
+      "check": {
+        "intro": {
+          "nl": "Denk aan een gewone werkweek en kies per vraag nee, soms of vaak. Elk antwoord telt mee bij één of twee gebieden.",
+          "en": "Think of a normal working week and choose no, sometimes or often for each question. Each answer counts towards one or two areas."
+        },
+        "answers": {
+          "nl": [
+            "Nee",
+            "Soms",
+            "Vaak"
+          ],
+          "en": [
+            "No",
+            "Sometimes",
+            "Often"
+          ]
+        },
+        "questions": [
+          {
+            "q": {
+              "nl": "Je wordt moe wakker, ook na 7 uur in bed.",
+              "en": "You wake up tired, even after 7 hours in bed."
+            },
+            "areas": [
+              "sleep"
+            ]
+          },
+          {
+            "q": {
+              "nl": "Na een korte of onrustige nacht is je middagdip veel erger.",
+              "en": "After a short or restless night, your afternoon dip is much worse."
+            },
+            "areas": [
+              "sleep"
+            ]
+          },
+          {
+            "q": {
+              "nl": "Na 13.00 uur heb je nog koffie of energiedrank nodig om door te komen.",
+              "en": "After 1pm you still need coffee or an energy drink to keep going."
+            },
+            "areas": [
+              "sleep",
+              "stress"
+            ]
+          },
+          {
+            "q": {
+              "nl": "Binnen een uur na je lunch voel je je zwaar of slaperig.",
+              "en": "Within an hour of lunch you feel heavy or sleepy."
+            },
+            "areas": [
+              "food"
+            ]
+          },
+          {
+            "q": {
+              "nl": "'s Middags grijp je naar iets zoets om door te komen.",
+              "en": "In the afternoon you reach for something sweet to keep going."
+            },
+            "areas": [
+              "food"
+            ]
+          },
+          {
+            "q": {
+              "nl": "Je zit 's middags uren achter elkaar zonder op te staan.",
+              "en": "In the afternoon you sit for hours without getting up."
+            },
+            "areas": [
+              "food"
+            ]
+          },
+          {
+            "q": {
+              "nl": "Je bent ook moe op dagen dat je goed hebt geslapen en licht hebt geluncht.",
+              "en": "You're tired even on days when you slept well and had a light lunch."
+            },
+            "areas": [
+              "blood"
+            ]
+          },
+          {
+            "q": {
+              "nl": "Je hebt het sneller koud dan de mensen om je heen.",
+              "en": "You feel the cold more than the people around you."
+            },
+            "areas": [
+              "blood"
+            ]
+          },
+          {
+            "q": {
+              "nl": "Je voelt je de hele dag 'aan' en komt 's avonds moeilijk tot rust.",
+              "en": "You feel 'on' all day and find it hard to wind down in the evening."
+            },
+            "areas": [
+              "stress"
+            ]
+          },
+          {
+            "q": {
+              "nl": "Valt de druk weg, zoals op vrijdagavond of in je vakantie, dan ben je ineens doodop.",
+              "en": "When the pressure lifts, like on a Friday evening or on holiday, you're suddenly exhausted."
+            },
+            "areas": [
+              "stress"
+            ]
+          }
+        ],
+        "areas": {
+          "sleep": {
+            "label": {
+              "nl": "Slaap en ritme",
+              "en": "Sleep and rhythm"
+            },
+            "text": {
+              "nl": "Je antwoorden wijzen op slaapdruk die je meeneemt naar de middag. Na een korte of onrustige nacht valt de dip harder, en cafeïne laat op de dag maakt je volgende nacht weer korter.",
+              "en": "Your answers point to sleep pressure you carry into the afternoon. After a short or restless night the dip hits harder, and caffeine late in the day makes your next night shorter again."
+            },
+            "measure": {
+              "nl": "Je slaapduur, bedtijden en HRV over minstens een week, met een wearable.",
+              "en": "Your sleep duration, bedtimes and HRV over at least a week, with a wearable."
+            }
+          },
+          "food": {
+            "label": {
+              "nl": "Bloedsuiker en eten",
+              "en": "Blood sugar and food"
+            },
+            "text": {
+              "nl": "Je antwoorden wijzen op je lunch en hoe lang je stilzit. Een zware lunch maakt de dip groter, en een dip in je bloedsuiker na het eten hangt samen met trek.",
+              "en": "Your answers point to your lunch and how long you sit still. A heavy lunch makes the dip bigger, and a drop in blood sugar after eating goes with hunger."
+            },
+            "measure": {
+              "nl": "Je glucose na de lunch met een glucosemeter (CGM), en je nuchtere glucose en insuline in je bloed.",
+              "en": "Your glucose after lunch with a glucose monitor (CGM), and your fasting glucose and insulin in a blood test."
+            }
+          },
+          "blood": {
+            "label": {
+              "nl": "IJzer en schildklier",
+              "en": "Iron and thyroid"
+            },
+            "text": {
+              "nl": "Je bent ook moe als slaap en eten op orde lijken. Dan is het zinvol om te kijken of er iets in je bloed meespeelt, zoals een lage ijzervoorraad of een trage schildklier.",
+              "en": "You're tired even when sleep and food seem fine. Then it makes sense to check whether something in your blood plays a part, such as low iron stores or a slow thyroid."
+            },
+            "measure": {
+              "nl": "Ferritine, hemoglobine, TSH en vrij T4 in je bloed. Bespreek een afwijkende waarde altijd met je huisarts.",
+              "en": "Ferritin, haemoglobin, TSH and free T4 in your blood. Always discuss an abnormal result with your GP."
+            }
+          },
+          "stress": {
+            "label": {
+              "nl": "Stress en herstel",
+              "en": "Stress and recovery"
+            },
+            "text": {
+              "nl": "Je antwoorden wijzen op lange periodes van druk, waarin je lichaam weinig tijd krijgt om te herstellen.",
+              "en": "Your answers point to long stretches of pressure, with little time for your body to recover."
+            },
+            "measure": {
+              "nl": "Je HRV en rusthartslag over een paar weken: zakt je HRV in drukke periodes, en herstelt hij in rustige?",
+              "en": "Your HRV and resting heart rate over a few weeks: does your HRV drop in busy periods and recover in quiet ones?"
+            }
+          }
+        },
+        "note": {
+          "nl": "Deze check stelt niets vast. Hij laat zien waar je het eerst naar kunt kijken. Ben je langer dan een maand moe, of heb je ook andere klachten? Ga dan naar je huisarts.",
+          "en": "This check doesn't establish anything. It shows where you could look first. Tired for more than a month, or other symptoms as well? See your GP."
+        }
+      }
+    }
+  ],
+  "closing": {
+    "nl": "Een middagdip hoort bij je biologie. Hoe diep hij gaat, hangt af van je slaap, je lunch, je cafeïne en hoeveel je beweegt. Kies één ding van deze pagina, doe het een week en kijk wat het met je middag doet. In de trial gaan we verder met dit plan: we leggen het naast je eigen data en passen het aan. Bespreek een afwijkende waarde altijd met je huisarts.",
+    "en": "An afternoon dip is part of your biology. How deep it goes depends on your sleep, your lunch, your caffeine and how much you move. Pick one thing from this page, do it for a week and see what it does to your afternoon. The trial picks up where this plan stops: we put it next to your own data and adjust it. Always discuss an abnormal result with your GP."
+  },
+  "cta": {
+    "button_url": "#start-trial",
+    "title": {
+      "nl": "Maak je plan persoonlijk",
+      "en": "Make your plan personal"
+    },
+    "steps": {
+      "nl": [
+        [
+          "Aanmelden",
+          "Klik op de knop en laat je gegevens achter."
+        ],
+        [
+          "Koppelen",
+          "Koppel je wearable, of krijg 30 dagen gratis een WHOOP."
+        ],
+        [
+          "Analyse",
+          "We lezen 30+ waarden uit, zoals je slaap, HRV en herstel, en passen je plan aan op jouw data. Je krijgt het per video."
+        ],
+        [
+          "Opvolging",
+          "In een call kijken we of je middagen beter worden."
+        ]
+      ],
+      "en": [
+        [
+          "Sign up",
+          "Click the button and leave your details."
+        ],
+        [
+          "Connect",
+          "Link your wearable, or get a free 30-day WHOOP."
+        ],
+        [
+          "Analyse",
+          "We read 30+ biometrics, like your sleep, HRV and recovery, and tailor your plan to your data. You get it by video."
+        ],
+        [
+          "Follow-up",
+          "A call to see if your afternoons get better."
+        ]
+      ]
+    }
+  }
+}

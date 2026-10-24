@@ -1,0 +1,989 @@
+{
+  "slug": "wakker-jorn",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "title": {
+    "nl": "Elke ochtend fit wakker worden",
+    "en": "Wake up rested every morning"
+  },
+  "subtitle": {
+    "nl": "Waarom je moe wakker wordt, ook na 8 uur slaap, en mijn avond- en ochtendroutine. Met het onderzoek bij elke stap.",
+    "en": "Why you wake up tired, even after 8 hours of sleep, and my evening and morning routine. With the research behind every step."
+  },
+  "description": {
+    "nl": "Jorn Kirkels over fit wakker worden: vijf dingen die bijna niemand weet, zijn avond- en ochtendroutine als schema in jouw tijden, en het onderzoek bij elke stap.",
+    "en": "Jorn Kirkels on waking up rested: five findings almost nobody knows, his evening and morning routine as a schedule in your own times, and the research behind every step."
+  },
+  "intro": {
+    "nl": "Slaap staat bij mij onderaan de piramide: eerst slaap, dan voeding, dan bewegen. Toch hoor ik van veel ondernemers hetzelfde: ik slaap 8 uur en word toch moe wakker. Vaak zit daar een reden achter die je in je data ziet en kunt veranderen. Deze pagina begint met vijf dingen die bijna niemand weet. Daarna komt je schema: kies je wektijd en je ziet wanneer je wat doet. Onder elke stap staat het onderzoek, ook waar het zwak is.",
+    "en": "Sleep sits at the bottom of my pyramid: first sleep, then food, then movement. Yet many entrepreneurs tell me the same thing: I sleep 8 hours and still wake up tired. There's often a reason you can see in your data and change. This page starts with five things almost nobody knows. Then comes your schedule: pick your wake-up time and you'll see what to do when. Under every step is the research, including where it's weak."
+  },
+  "sections": [
+    {
+      "title": {
+        "nl": "Wat bijna niemand weet",
+        "en": "What almost nobody knows"
+      },
+      "text": {
+        "nl": "Vijf bevindingen die je zelden hoort, met het getal erbij en wat je ermee doet.",
+        "en": "Five findings you rarely hear, each with its number and what to do with it."
+      },
+      "facts": [
+        {
+          "stat": {
+            "nl": "6 min",
+            "en": "6 min"
+          },
+          "title": {
+            "nl": "30 minuten snoozen kostte maar 6 minuten slaap",
+            "en": "30 minutes of snoozing cost only 6 minutes of sleep"
+          },
+          "text": {
+            "nl": "31 mensen die gewend zijn te snoozen, sliepen in een slaaplab. Na 30 minuten snoozen deden ze het direct na het opstaan even goed of beter op denktests. Door het snoozen werden ze niet uit diepe slaap gewekt: de fase waarin je het diepst slaapt en het moeilijkst wakker wordt. Snooze je? Dan hoef je je daar niet schuldig over te voelen. Alleen 30 minuten is getest.",
+            "en": "31 people who usually snooze slept in a sleep lab. After 30 minutes of snoozing, they did as well or better on thinking tests right after getting up. Snoozing kept them from being woken out of deep sleep, the stage in which you sleep most deeply and are hardest to wake. Do you snooze? Then you don't need to feel bad about it. Only 30 minutes was tested."
+          },
+          "label": {
+            "nl": "Studie met 31 snoozers",
+            "en": "Study of 31 habitual snoozers"
+          }
+        },
+        {
+          "stat": {
+            "nl": "2 uur",
+            "en": "2 hours"
+          },
+          "title": {
+            "nl": "Een week kamperen zette de biologische klok 2 uur vroeger",
+            "en": "A week of camping set the body clock 2 hours earlier"
+          },
+          "text": {
+            "nl": "Je biologische klok is het ritme van ongeveer 24 uur in je hersenen dat bepaalt wanneer je slaperig wordt en wanneer je wakker wordt. Na een week met alleen natuurlijk licht begon de melatonine van mensen zo'n 2 uur eerder. Melatonine is het hormoon dat je lichaam vertelt dat het nacht is. Avondmensen schoven het meest. In hun eerste 2 uur wakker kregen ze ruim 3 keer zoveel licht, gemeten in lux: een kaars op 1 meter geeft 1 lux, een gewone kamer zo'n 200. Ga dus vroeg naar buiten en houd je lampen laag na zonsondergang.",
+            "en": "Your body clock is the roughly 24-hour rhythm in your brain that decides when you get sleepy and when you wake up. After a week with only natural light, people's melatonin started about 2 hours earlier. Melatonin is the hormone that tells your body it's night. Night owls shifted most. In their first 2 hours awake they got over 3 times as much light, measured in lux: a candle at 1 metre gives 1 lux, a normal room about 200. So get outside early, and keep your lamps low after sunset."
+          },
+          "label": {
+            "nl": "Studie met 8 kampeerders",
+            "en": "Study of 8 campers"
+          }
+        },
+        {
+          "stat": {
+            "nl": "100 lux",
+            "en": "100 lux"
+          },
+          "title": {
+            "nl": "Eén nacht met een gedimde lamp aan: hogere hartslag, lagere HRV",
+            "en": "One night with a dimmed lamp on: higher heart rate, lower HRV"
+          },
+          "text": {
+            "nl": "HRV (hartslagvariabiliteit) is het kleine verschil in tijd tussen je hartslagen. Een hogere HRV betekent meestal dat je lichaam goed hersteld is; hij daalt na een korte nacht, alcohol of stress. Gezonde volwassenen die één nacht sliepen bij 100 lux, ongeveer een gedimde kamerlamp, hadden een hogere hartslag en een lagere HRV dan in een donkere kamer, en de volgende ochtend reageerde hun lichaam minder goed op insuline, het hormoon dat suiker uit je bloed naar je cellen brengt. Maak je kamer zo donker dat je je hand niet voor ogen ziet.",
+            "en": "HRV (heart rate variability) is the small variation in time between your heartbeats. A higher HRV usually means your body has recovered well; it drops after a short night, alcohol or stress. Healthy adults who slept one night at 100 lux, about a dimmed room lamp, had a higher heart rate and lower HRV than in a dark room, and the next morning their body responded less well to insulin, the hormone that moves sugar from your blood into your cells. Make your room so dark you can't see your hand in front of your face."
+          },
+          "label": {
+            "nl": "Labstudie bij gezonde volwassenen",
+            "en": "Lab study in healthy adults"
+          }
+        },
+        {
+          "stat": {
+            "nl": "2 glazen",
+            "en": "2 drinks"
+          },
+          "title": {
+            "nl": "Al 1 of 2 glazen verlaagde het herstel in de eerste 3 uur slaap",
+            "en": "Even 1 or 2 drinks lowered recovery in the first 3 hours of sleep"
+          },
+          "text": {
+            "nl": "Finse werknemers droegen een hartslagmeter op dagen met en zonder alcohol. Hun herstel, een percentage dat de onderzoekers uit HRV berekenden, zakte 9 punten na een beetje alcohol (voor een man van 80 kilo tot ongeveer 2 standaardglazen), 24 punten na een gemiddelde hoeveelheid en 39 na veel. Jong of sportief zijn beschermde niet. Wil je één ding testen met je wearable (een ring, horloge of band die je hartslag meet), test dan dit.",
+            "en": "Finnish employees wore a heart rate monitor on days with and without alcohol. Their recovery, a percentage the researchers worked out from HRV, fell by 9 points after a little alcohol (for an 80 kg man, up to about 2 standard drinks), 24 after a moderate amount and 39 after a lot. Being young or active didn't protect them. If you test one thing with your wearable (a ring, watch or band that tracks your heart rate), test this."
+          },
+          "label": {
+            "nl": "4.098 werknemers",
+            "en": "4,098 employees"
+          }
+        },
+        {
+          "stat": {
+            "nl": "50-65%",
+            "en": "50-65%"
+          },
+          "title": {
+            "nl": "Wearables zitten bij je slaapfasen maar 50 tot 65% van de tijd goed",
+            "en": "Wearables get your sleep stages right only 50 to 65% of the time"
+          },
+          "text": {
+            "nl": "Slaapfasen zijn de stukken waar je elke nacht doorheen gaat: lichte slaap, diepe slaap en REM-slaap (de droomslaap, waarin je hersenen actief zijn en je spieren stil liggen). Vergeleken met een slaaplab herkenden zes wearables, waaronder Oura en WHOOP, slapen of wakker zijn 86 tot 89% van de tijd goed; de juiste fase maar 50 tot 65% van de tijd. Laat een lage diepe-slaapscore je ochtend dus niet bepalen. Hoe lang je sliep en je HRV in de nacht zijn betrouwbaarder.",
+            "en": "Sleep stages are the phases you go through every night: light sleep, deep sleep and REM sleep (dream sleep, in which your brain is active and your muscles lie still). Compared with a sleep lab, six wearables, including Oura and WHOOP, told asleep from awake 86 to 89% of the time; the right stage only 50 to 65% of the time. So don't let a low deep sleep score decide your morning. How long you slept and your night-time HRV are more reliable."
+          },
+          "label": {
+            "nl": "Studie met 53 volwassenen",
+            "en": "Study of 53 adults"
+          }
+        }
+      ],
+      "meta": {
+        "nl": [
+          "Alcoholstudie: twee onderzoekers werken bij Firstbeat, een maker van hartslagmeters",
+          "De onderzoeksgroep van de vergelijking van zes wearables krijgt steun van WHOOP"
+        ],
+        "en": [
+          "Alcohol study: two of the researchers work for Firstbeat, a heart rate monitor maker",
+          "The research group behind the six-wearable comparison receives support from WHOOP"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "37849039"
+        },
+        {
+          "pmid": "23910656"
+        },
+        {
+          "pmid": "35286195"
+        },
+        {
+          "pmid": "29034226"
+        },
+        {
+          "pmid": "40895095"
+        },
+        {
+          "pmid": "29486547"
+        },
+        {
+          "pmid": "29549064"
+        },
+        {
+          "pmid": "36016077"
+        },
+        {
+          "pmid": "40834291"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 1",
+        "en": "Part 1"
+      },
+      "title": {
+        "nl": "Jouw avond en ochtend",
+        "en": "Your evening and morning"
+      },
+      "subtitle": {
+        "nl": "Kies je wektijd. Ik reken je avond uit.",
+        "en": "Pick your wake-up time. I'll work out your evening."
+      }
+    },
+    {
+      "title": {
+        "nl": "Jouw schema",
+        "en": "Your schedule"
+      },
+      "text": {
+        "nl": "Dit is mijn 10-3-2-1-regel en mijn ochtend, in jouw tijden. Het idee erachter: 's avonds breng ik licht, lichaamstemperatuur en hartslag omlaag, 's ochtends breng ik ze alle drie omhoog. Zo weet je lichaam wanneer het nacht is en wanneer het dag is. Je bedtijd reken ik terug vanaf je wektijd: 7,5 uur slaap plus een kwartier om in slaap te vallen. Dat zijn vijf slaapcycli van ongeveer 90 minuten. In elke cyclus ga je van lichte slaap, waaruit je nog makkelijk wakker wordt, naar diepe slaap en dan REM-slaap. Hoe lang een cyclus duurt, verschilt per persoon, dus 7,5 uur is een vuistregel.",
+        "en": "This is my 10-3-2-1 rule and my morning, in your times. The idea behind it: in the evening I bring light, body temperature and heart rate down, and in the morning I push all three up. That tells your body when it's night and when it's day. I work out your bedtime from your wake-up time: 7.5 hours of sleep plus 15 minutes to fall asleep. That's five sleep cycles of about 90 minutes. In each cycle you go from light sleep, where you still wake easily, to deep sleep and then REM sleep. How long a cycle lasts differs from person to person, so 7.5 hours is a rule of thumb."
+      },
+      "plan": {
+        "inputs": [
+          {
+            "key": "wake",
+            "label": {
+              "nl": "Ik wil opstaan om",
+              "en": "I want to get up at"
+            },
+            "default": "07:00"
+          }
+        ],
+        "outputs": [
+          {
+            "key": "bed",
+            "label": {
+              "nl": "Dan ga je slapen om",
+              "en": "So you go to bed at"
+            }
+          }
+        ],
+        "derived": {
+          "bed": {
+            "from": "wake",
+            "offset": -465
+          }
+        },
+        "order_from": {
+          "at": "bed",
+          "offset": -660
+        },
+        "rows": [
+          {
+            "at": "bed",
+            "offset": -600,
+            "title": {
+              "nl": "Geen cafeïne meer",
+              "en": "No more caffeine"
+            },
+            "text": {
+              "nl": "Thee, pure chocolade, energiedrank en pre-workout (sportpoeder met cafeïne) tellen ook mee.",
+              "en": "Tea, dark chocolate, energy drinks and pre-workout (gym powder with caffeine) count too."
+            }
+          },
+          {
+            "at": "bed",
+            "offset": -180,
+            "title": {
+              "nl": "Niet meer eten of zwaar sporten",
+              "en": "No more food or hard training"
+            },
+            "text": {
+              "nl": "Je laatste maaltijd zit hier, en eerder is beter. Eet je tussen 17.00 en 18.00 uur, dan ben je al verder dan de meeste mensen. Een rustige wandeling kan nog.",
+              "en": "Your last meal goes here, and earlier is better. Eat between 5 and 6 pm and you're already ahead of most people. A gentle walk is still fine."
+            }
+          },
+          {
+            "at": "bed",
+            "offset": -120,
+            "title": {
+              "nl": "Stop met werken en drinken",
+              "en": "Stop working and drinking"
+            },
+            "text": {
+              "nl": "Laptop dicht, chats uit, glas weg. Je hoofd heeft tijd nodig om te landen, net als een vliegtuig. Laat een app-blokker, een app die je andere apps op slot zet, nu automatisch aangaan. Dan hangt het niet af van je wilskracht.",
+              "en": "Laptop shut, chats off, glass away. Your mind needs time to land, like a plane. Set an app blocker, an app that locks your other apps, to switch on now. Then it doesn't come down to willpower."
+            }
+          },
+          {
+            "at": "bed",
+            "offset": -60,
+            "title": {
+              "nl": "Geen fel licht meer",
+              "en": "No more bright light"
+            },
+            "text": {
+              "nl": "Lampen laag en de plafondlamp uit, geen scherm vlak voor je ogen. Heb je licht nodig? Een klein rood leeslampje met een klem is genoeg. Nu neem ik magnesium L-threonaat, een vorm van het mineraal magnesium, en glycine, een aminozuur (meer over allebei hieronder). Daarna zet ik een bril met rode glazen op en kijk ik iets lichts, zoals een natuurdocumentaire.",
+              "en": "Lamps low and the ceiling light off, no screen close to your eyes. Need light? A small red clip-on book light is enough. Now I take magnesium L-threonate, a form of the mineral magnesium, and glycine, an amino acid (more on both below). Then I put on red-lensed glasses and watch something light, like a nature documentary."
+            }
+          },
+          {
+            "at": "bed",
+            "offset": -30,
+            "title": {
+              "nl": "Afbouwen",
+              "en": "Wind down"
+            },
+            "text": {
+              "nl": "Ik lig op een acupressuurmat, een mat vol kleine plastic punten, en luister naar stoïcijnse quotes: korte zinnen van oude Griekse en Romeinse denkers over wat buiten je controle ligt.",
+              "en": "I lie on an acupressure mat, a mat full of small plastic points, and listen to Stoic quotes: short lines from ancient Greek and Roman thinkers about what lies outside your control."
+            }
+          },
+          {
+            "at": "bed",
+            "offset": 0,
+            "title": {
+              "nl": "Licht uit",
+              "en": "Lights out"
+            },
+            "text": {
+              "nl": "Zo donker als het kan: verduisteringsfolie op het raam, tape over de lampjes van apparaten, en geen klok in zicht.",
+              "en": "As dark as you can get it: blackout foil on the window, tape over the small lights on devices, and no clock in sight."
+            }
+          },
+          {
+            "at": "wake",
+            "offset": 0,
+            "title": {
+              "nl": "Opstaan, elke dag dezelfde tijd",
+              "en": "Get up, same time every day"
+            },
+            "text": {
+              "nl": "Ook in het weekend. Zo blijft je biologische klok stabiel.",
+              "en": "Weekends too. That keeps your body clock steady."
+            }
+          },
+          {
+            "at": "wake",
+            "offset": 0,
+            "to": 20,
+            "title": {
+              "nl": "Geen telefoon",
+              "en": "No phone"
+            },
+            "text": {
+              "nl": "Mijn eerste 15 tot 20 minuten zijn zonder telefoon, met iets positiefs om naar te luisteren.",
+              "en": "My first 15 to 20 minutes are phone-free, with something positive to listen to."
+            }
+          },
+          {
+            "at": "wake",
+            "offset": 20,
+            "to": 30,
+            "title": {
+              "nl": "Licht en koud water",
+              "en": "Light and cold water"
+            },
+            "text": {
+              "nl": "Naar buiten of bij een felle lamp. Daarna 30 seconden koud douchen.",
+              "en": "Outside or by a bright lamp. Then 30 seconds of cold water in the shower."
+            }
+          },
+          {
+            "at": "wake",
+            "offset": 30,
+            "to": 45,
+            "title": {
+              "nl": "Bewegen en ademen",
+              "en": "Move and breathe"
+            },
+            "text": {
+              "nl": "30 kettlebell swings (een kettlebell is een zware ijzeren bal met een handvat), push-ups en rekken. Dan 50 snelle, diepe ademhalingen (Wim Hof-stijl) terwijl ik mijn dag doorloop en wat ik vandaag zelf in de hand heb. Zittend, nooit in het water, onder de douche of achter het stuur.",
+              "en": "30 kettlebell swings (a kettlebell is a heavy iron ball with a handle), push-ups and stretching. Then 50 fast, deep breaths (Wim Hof style) while I run through my day and what is in my control today. Sitting down, never in water, in the shower or while driving."
+            }
+          },
+          {
+            "at": "wake",
+            "offset": 45,
+            "title": {
+              "nl": "Je slaap opschrijven",
+              "en": "Write down your sleep"
+            },
+            "text": {
+              "nl": "Eerst hoe je denkt dat je sliep, pas daarna je HRV.",
+              "en": "First how you think you slept, only then your HRV."
+            }
+          }
+        ],
+        "note": {
+          "nl": "Werk je in ploegen, of sta je elke dag op een andere tijd op? Vul de tijd in waarop je na de komende nacht opstaat. Dan vallen de stappen vóór de slaap die je echt gaat krijgen.",
+          "en": "Shift work, or a different wake-up time every day? Fill in the time you'll get up after the night ahead. Then the steps fall before the sleep you're actually going to get."
+        }
+      },
+      "sources": [
+        {
+          "pmid": "30252388"
+        },
+        {
+          "pmid": "37388963"
+        },
+        {
+          "pmid": "28607474"
+        },
+        {
+          "pmid": "22738673"
+        },
+        {
+          "label": {
+            "nl": "Wim Hof Methode: veiligheid",
+            "en": "Wim Hof Method: safety"
+          },
+          "note": {
+            "nl": "Nooit oefenen in het water, onder de douche of achter het stuur",
+            "en": "Never practise in water, in the shower or while driving"
+          },
+          "url": "https://www.wimhofmethod.com/safety-disclaimer"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Wat ik zelf gebruik",
+        "en": "What I use myself"
+      },
+      "text": {
+        "nl": "Dit gebruik ik elke dag. De spullen kun je vandaag regelen. Lees bij de supplementen eerst de regel onderaan.",
+        "en": "This is what I use every day. The tools you can get today. For the supplements, read the line at the bottom first."
+      },
+      "markers": [
+        {
+          "name": {
+            "nl": "Een bril met rode glazen",
+            "en": "Red-lensed glasses"
+          },
+          "note": {
+            "nl": "Het laatste uur voor bed. Rode glazen houden het blauwe deel van licht tegen, waar je klok het sterkst op reageert. Het bewijs is gemengd; ik werd er vanaf de eerste week rustiger van. De bril is geen reden om nog mails te beantwoorden: werk houdt je hoofd bezig, met of zonder bril.",
+            "en": "For the last hour before bed. Red lenses block the blue part of light, the part your body clock reacts to most. The evidence is mixed; I felt calmer from the first week. The glasses are no reason to keep answering emails: work keeps your head busy, glasses or not."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een acupressuurmat",
+            "en": "An acupressure mat"
+          },
+          "note": {
+            "nl": "15 tot 30 minuten, een half uur voor bed. Sinds ik dat doe, zie ik op mijn wearable dat ik in ongeveer 5 minuten in slaap val in plaats van 10. In een studie ervoeren mensen minder stress met een mat, en ontspannen zonder mat werkte even goed. Voor mij is het een vast signaal dat de dag klaar is.",
+            "en": "15 to 30 minutes, half an hour before bed. Since I started, my wearable shows me falling asleep in about 5 minutes instead of 10. In a study people felt less stressed with a mat, and relaxing without one worked just as well. For me it's a fixed signal that the day is done."
+          }
+        },
+        {
+          "name": {
+            "nl": "Geen wekker en geen klok in de slaapkamer",
+            "en": "No alarm and no clock in the bedroom"
+          },
+          "note": {
+            "nl": "Ik kan niet zien hoe laat het is, dus ik lig er ook niet over te piekeren. Dat werkt pas als je ritme vaststaat.",
+            "en": "I can't see what time it is, so I don't lie there worrying about it. That only works once your rhythm is steady."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een lichttherapiebril",
+            "en": "Light therapy glasses"
+          },
+          "note": {
+            "nl": "Een bril met kleine lampjes die fel licht naar je ogen schijnen. Voor donkere ochtenden.",
+            "en": "Glasses with small built-in lamps that shine bright light towards your eyes. For dark mornings."
+          }
+        },
+        {
+          "name": {
+            "nl": "Magnesium L-threonaat: ongeveer 400 mg magnesium",
+            "en": "Magnesium L-threonate: about 400 mg of magnesium"
+          },
+          "note": {
+            "nl": "60 minuten voor bed. Magnesium is een mineraal dat je spieren en zenuwen nodig hebben. In een supplement zit het altijd vast aan een andere stof; dat is de vorm op het etiket. Ik neem vooral magnesium L-threonaat. Bij ratten verhoogde juist deze vorm de hoeveelheid magnesium in de hersenen; bij mensen is dat nog weinig onderzocht. Citraat en oxide, de vormen die de meeste winkels verkopen, sla ik 's avonds over. Ik neem zo'n 1,5 gram poeder, met daarin ongeveer 400 mg pure magnesium. Dat is meer dan de 250 mg per dag die EFSA, de Europese voedselveiligheidsautoriteit, en het Voedingscentrum als veilige bovengrens geven voor magnesium uit supplementen. Daarboven krijgen sommige mensen diarree.",
+            "en": "60 minutes before bed. Magnesium is a mineral your muscles and nerves need. In a supplement it's always bound to another substance; that's the form on the label. I mainly take magnesium L-threonate. In rats, this form in particular raised the amount of magnesium in the brain; in people that's still barely studied. For the evening I skip citrate and oxide, the forms most shops sell. I take about 1.5 g of powder, with about 400 mg of pure magnesium in it. That's above the 250 mg a day that EFSA, the European food safety authority, and the Netherlands Nutrition Centre give as the safe upper limit for magnesium from supplements. Above that, some people get diarrhoea."
+          }
+        },
+        {
+          "name": {
+            "nl": "Glycine: 10 gram",
+            "en": "Glycine: 10 g"
+          },
+          "note": {
+            "nl": "60 minuten voor bed. Glycine is een aminozuur, een bouwsteen van eiwit. Ik neem 10 gram, ongeveer 2 eetlepels poeder. Dat is veel meer dan de 3 gram uit de slaapstudies. Het is ook meer dan de 1,4 gram per dag die de Deense en Noorse voedselveiligheidsinstanties veilig noemen uit supplementen. Die grens komt uit een studie bij ratten, met een ruime veiligheidsmarge. Schade bij mensen is niet aangetoond. Tegelijk heeft niemand 10 gram op veiligheid getest.",
+            "en": "60 minutes before bed. Glycine is an amino acid, a building block of protein. I take 10 g, about 2 tablespoons of powder. That's a lot more than the 3 g in the sleep studies. It's also more than the 1.4 g a day that the Danish and Norwegian food safety agencies call safe from supplements. They based that limit on a rat study, with a wide safety margin. Harm in people hasn't been shown. Then again, nobody has tested 10 g for safety."
+          }
+        },
+        {
+          "name": {
+            "nl": "Cafeïne: 30 tot 60 mg per dag",
+            "en": "Caffeine: 30 to 60 mg a day"
+          },
+          "note": {
+            "nl": "'s Ochtends, uit capsules, zodat ik precies weet hoeveel het is. Vroeger dronk ik meer dan acht koppen koffie per dag; nu drink ik cafeïnevrije koffie. EFSA ziet tot 400 mg per dag geen veiligheidsrisico voor gezonde volwassenen (200 mg als je zwanger bent). Voor je slaap kan 100 mg in één keer bij sommige volwassenen al invloed hebben op hoe lang en hoe goed ze slapen, vooral vlak voor bedtijd.",
+            "en": "In the morning, from capsules, so I know exactly how much it is. I used to drink more than eight cups of coffee a day; now I drink decaf. EFSA sees no safety concern up to 400 mg a day for healthy adults (200 mg if you're pregnant). For sleep, 100 mg in one go can already affect how long and how well some adults sleep, especially close to bedtime."
+          }
+        },
+        {
+          "name": {
+            "nl": "Creatine: 5 gram per dag",
+            "en": "Creatine: 5 g a day"
+          },
+          "note": {
+            "nl": "'s Ochtends. Creatine is een stof die je spieren en hersenen gebruiken om snel energie te maken. Ik neem 5 gram per dag; het tijdstip maakt niet uit. Volgens EFSA geeft tot 3 gram per dag waarschijnlijk geen risico, en 3 gram is ook de hoeveelheid achter de goedgekeurde EU-claim voor korte, zware inspanning. Boven 3 gram is er te weinig onderzoek om te zeggen of het veilig is. Heb je nierproblemen, neem het dan niet.",
+            "en": "In the morning. Creatine is a substance your muscles and brain use to make energy fast. I take 5 g a day; the time of day doesn't matter. EFSA says up to 3 g a day is unlikely to pose any risk, and 3 g is also the amount behind the EU's approved claim for short, intense exercise. Above 3 g there's too little research to say whether it's safe. If you have kidney problems, don't take it."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een wearable",
+            "en": "A wearable"
+          },
+          "note": {
+            "nl": "Zo zie ik elke ochtend of mijn avond heeft gewerkt.",
+            "en": "That's how I see each morning whether my evening worked."
+          }
+        }
+      ],
+      "meta": {
+        "nl": [
+          "Glycinestudie gedaan door een glycinefabrikant",
+          "Magnesium-L-threonaatstudie betaald door de maker"
+        ],
+        "en": [
+          "Glycine study by a glycine manufacturer",
+          "Magnesium L-threonate trial paid for by the maker"
+        ]
+      },
+      "caution_label": {
+        "nl": "Start nooit zonder data.",
+        "en": "Never start without data."
+      },
+      "caution": {
+        "nl": "Het verkeerde supplement kan klachten erger maken, en zonder meten is het meeste giswerk. Gebruik je medicijnen, ben je zwanger of heb je nierproblemen? Overleg dan eerst met je huisarts of apotheker.",
+        "en": "The wrong supplement can make symptoms worse, and without measuring, most of it is guesswork. Do you take medication, are you pregnant or do you have kidney problems? Check with your GP or pharmacist first."
+      },
+      "sources": [
+        {
+          "pmid": "37593770"
+        },
+        {
+          "pmid": "37192881"
+        },
+        {
+          "pmid": "37715543"
+        },
+        {
+          "pmid": "33865376"
+        },
+        {
+          "pmid": "41601871"
+        },
+        {
+          "pmid": "22529837"
+        },
+        {
+          "label": {
+            "nl": "EFSA: veilige bovengrenzen voor vitamines en mineralen (2006)",
+            "en": "EFSA: tolerable upper intake levels for vitamins and minerals (2006)"
+          },
+          "note": {
+            "nl": "Magnesium uit supplementen: 250 mg per dag; milde diarree vanaf ongeveer 360 mg",
+            "en": "Magnesium from supplements: 250 mg a day; mild diarrhoea from about 360 mg"
+          },
+          "url": "https://www.efsa.europa.eu/sites/default/files/efsa_rep/blobserver_assets/ndatolerableuil.pdf"
+        },
+        {
+          "label": {
+            "nl": "Voedingscentrum: magnesium",
+            "en": "Netherlands Nutrition Centre (Voedingscentrum): magnesium"
+          },
+          "note": {
+            "nl": "Aanvaardbare bovengrens uit supplementen: 250 mg per dag",
+            "en": "Upper limit from supplements: 250 mg a day"
+          },
+          "url": "https://www.voedingscentrum.nl/encyclopedie/magnesium.aspx"
+        },
+        {
+          "label": {
+            "nl": "DTU Fødevareinstituttet voor de Deense voedselautoriteit: glycine in supplementen (2026)",
+            "en": "DTU Food Institute for the Danish food authority: glycine in food supplements (2026)"
+          },
+          "note": {
+            "nl": "Veilige hoeveelheid uit supplementen: 1,4 gram per dag; risico bij 3 gram per dag niet uit te sluiten",
+            "en": "Safe amount from supplements: 1.4 g a day; a risk at 3 g a day can't be ruled out"
+          },
+          "url": "https://foedevarestyrelsen.dk/Media/639222024502120903/Risikovurdering%20af%20kosttilskud%20med%20glycin.pdf"
+        },
+        {
+          "label": {
+            "nl": "VKM (Noorse voedselveiligheidscommissie): glycine in supplementen (2016)",
+            "en": "VKM (Norwegian Scientific Committee for Food Safety): glycine in food supplements (2016)"
+          },
+          "note": {
+            "nl": "Vergelijkingswaarde 20 mg per kilo, 1,4 gram per dag bij 70 kilo, uit een rattenstudie",
+            "en": "Value for comparison 20 mg per kg, 1.4 g a day at 70 kg, from a rat study"
+          },
+          "url": "https://doi.org/10.5281/zenodo.4030394"
+        },
+        {
+          "label": {
+            "nl": "EFSA: veiligheid van cafeïne (2015)",
+            "en": "EFSA: safety of caffeine (2015)"
+          },
+          "note": {
+            "nl": "Tot 400 mg per dag en 200 mg in één keer geen risico voor gezonde volwassenen; 100 mg kan de slaap beïnvloeden vlak voor bedtijd",
+            "en": "Up to 400 mg a day and 200 mg at once raise no safety concern for healthy adults; 100 mg can affect sleep close to bedtime"
+          },
+          "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine"
+        },
+        {
+          "label": {
+            "nl": "EFSA: creatinemonohydraat (2004)",
+            "en": "EFSA: creatine monohydrate (2004)"
+          },
+          "note": {
+            "nl": "Tot 3 gram per dag waarschijnlijk geen risico; hoge laaddoses vermijden",
+            "en": "Up to 3 g a day unlikely to pose any risk; avoid high loading doses"
+          },
+          "url": "https://doi.org/10.2903/j.efsa.2004.36"
+        },
+        {
+          "label": {
+            "nl": "EU-verordening 432/2012: goedgekeurde gezondheidsclaims",
+            "en": "EU Regulation 432/2012: authorised health claims"
+          },
+          "note": {
+            "nl": "Creatine: claim alleen bij 3 gram per dag, voor volwassenen die kort en zwaar trainen",
+            "en": "Creatine: claim only at 3 g a day, for adults doing short, intense exercise"
+          },
+          "url": "https://eur-lex.europa.eu/eli/reg/2012/432/oj/eng"
+        },
+        {
+          "pmid": "20152124"
+        }
+      ],
+      "after": {
+        "nl": "Het bewijs voor beide avondsupplementen is zwak. In 3 kleine studies vielen ouderen die slecht sliepen met magnesium 17 minuten sneller in slaap; de onderzoekers vonden de kwaliteit laag. In een studie betaald door de maker namen 100 volwassenen 6 weken lang 2 gram magnesium-L-threonaat per dag (145 mg magnesium). Hun ring liet geen betere slaap zien. Hun hartslag in de nacht daalde meer en hun HRV steeg meer dan met een placebo, een nepcapsule. Voor glycine zijn er alleen kleine studies, ook van een maker. In één ervan gaf 3 gram voor bed na korte nachten minder vermoeidheid de volgende dag.",
+        "en": "The evidence for both evening supplements is weak. In 3 small trials, older adults with poor sleep fell asleep 17 minutes faster with magnesium; the researchers rated the quality as low. In a trial paid for by the maker, 100 adults took 2 g of magnesium L-threonate a day (145 mg of magnesium) for 6 weeks. Their ring showed no better sleep. Their night-time heart rate dropped more and their HRV rose more than with a placebo, a dummy capsule. For glycine there are only small studies, also from a maker. In one, 3 g before bed meant less tiredness the next day after short nights."
+      }
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 2",
+        "en": "Part 2"
+      },
+      "title": {
+        "nl": "Waarom het werkt",
+        "en": "Why it works"
+      },
+      "subtitle": {
+        "nl": "Het bewijs per stap, ook waar het zwak is.",
+        "en": "The evidence per step, including where it's weak."
+      }
+    },
+    {
+      "title": {
+        "nl": "De 10-3-2-1-regel: hoe sterk is het bewijs?",
+        "en": "The 10-3-2-1 rule: how strong is the evidence?"
+      },
+      "text": {
+        "nl": "Waarom reken ik terug vanaf je bedtijd? Je diepste slaap krijg je vroeg in de nacht: in een slaaplab kregen 20 gezonde mannen in de eerste helft van de nacht 5 keer zoveel diepe slaap als in de tweede helft. Wat je 's avonds doet, werkt dus door in het deel van de nacht met de meeste diepe slaap. Per stap zie je hoe sterk het bewijs is:",
+        "en": "Why count back from your bedtime? You get your deepest sleep early in the night: in a sleep lab, 20 healthy men got 5 times as much deep sleep in the first half of the night as in the second. So what you do in the evening carries over into the part of the night with the most deep sleep. Here's how strong the evidence is for each step:"
+      },
+      "markers": [
+        {
+          "name": {
+            "nl": "10 uur voor bed: geen cafeïne meer",
+            "en": "10 hours before bed: no more caffeine"
+          },
+          "note": {
+            "nl": "Sterk bewijs. Terwijl je wakker bent, hoopt adenosine op in je hersenen, een stof die je slaperig maakt. Die opbouw heet slaapdruk. Cafeïne gaat op de plek van adenosine zitten, dus je voelt je minder slaperig terwijl de slaapdruk blijft. In 24 studies kostte cafeïne gemiddeld 45 minuten slaap en wat diepe slaap; een gewone koffie heeft minstens 8,8 uur nodig, een pre-workout ruim 13 uur. Volgens EFSA kan 100 mg, ongeveer 2 kopjes koffie, vlak voor bedtijd bij sommige volwassenen de slaap al veranderen. Pure chocolade heeft ook een beetje: 2 blokjes bevatten ongeveer 7 mg.",
+            "en": "Strong evidence. While you're awake, adenosine builds up in your brain, a substance that makes you sleepy. That build-up is called sleep pressure. Caffeine sits where adenosine should, so you feel less sleepy while the sleep pressure stays. Across 24 studies, caffeine cost 45 minutes of sleep on average and some deep sleep; a normal coffee needs at least 8.8 hours, a pre-workout over 13. EFSA says 100 mg, about 2 small cups of coffee, can already change sleep in some adults when taken close to bedtime. Dark chocolate has a little too: 2 squares hold about 7 mg."
+          }
+        },
+        {
+          "name": {
+            "nl": "3 uur voor bed: niet meer eten of zwaar sporten",
+            "en": "3 hours before bed: no more food or hard training"
+          },
+          "note": {
+            "nl": "Eten: zwak en gemengd bewijs. Bij 793 studenten ging eten binnen 3 uur voor bed samen met vaker wakker worden; in een labstudie bleven de slaapfasen gelijk bij een avondeten 1 uur voor bed, al was de bloedsuiker 's nachts hoger. Wat ik in data van cliënten zie: na een late maaltijd ligt de hartslag bij het slapengaan vaak 5 tot 10 slagen per minuut hoger. Sporten: in 23 studies schaadde sporten in de avond de slaap niet. Alleen zware training die minder dan 1 uur voor bedtijd eindigde, leek de slaap te verstoren. Ik houd voor allebei 3 uur aan.",
+            "en": "Food: weak and mixed evidence. In 793 students, eating within 3 hours of bed went with waking more often; in a lab study, dinner 1 hour before bed left sleep stages unchanged, though blood sugar was higher at night. What I see in client data: after a late meal, the heart rate is often 5 to 10 beats per minute higher when they go to sleep. Training: across 23 studies, evening exercise didn't harm sleep. Only hard training that ended less than 1 hour before bedtime seemed to disturb it. I keep 3 hours for both."
+          }
+        },
+        {
+          "name": {
+            "nl": "2 uur voor bed: niet meer werken of drinken",
+            "en": "2 hours before bed: no more work or drinking"
+          },
+          "note": {
+            "nl": "Gewoonte, zonder studie. Ik zie het als een vliegtuig dat landt: je hoofd heeft na het werk tijd nodig om tot rust te komen. Minder drinken in de avond is een standaardadvies tegen 's nachts plassen, zonder onderzoek bij gezonde volwassenen.",
+            "en": "Habit, no trial. I see it as landing a plane: after work, your mind needs time to come down. Drinking less in the evening is standard advice against night-time toilet trips, without a trial in healthy adults."
+          }
+        },
+        {
+          "name": {
+            "nl": "1 uur voor bed: geen fel licht meer",
+            "en": "1 hour before bed: no more bright light"
+          },
+          "note": {
+            "nl": "Ondersteund. Gewoon kamerlicht (onder 200 lux) in de uren voor bed liet de melatonine bij 99% van 116 mensen later beginnen, en de tijd dat hun lichaam melatonine maakte werd zo'n 90 minuten korter. Waar het licht vandaan komt, telt misschien ook. Bij 9 mensen verlaagde licht op de onderste helft van het oog de melatonine; daar komt licht van boven terecht. Licht op de bovenste helft deed dat niet meer dan donker. Een latere studie vond dat verschil niet, dus lampen laag is een kleine extra.",
+            "en": "Supported. Ordinary room light (under 200 lux) in the hours before bed made melatonin start later in 99% of 116 people, and cut the time their body made melatonin by about 90 minutes. Where the light comes from may matter too. In 9 people, light on the lower half of the eye lowered melatonin; that's where light from above lands. Light on the upper half did no more than darkness. A later study didn't find that difference, so lamps low is a small extra."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "23968216"
+        },
+        {
+          "pmid": "35575450"
+        },
+        {
+          "pmid": "36870101"
+        },
+        {
+          "pmid": "32295235"
+        },
+        {
+          "pmid": "32525525"
+        },
+        {
+          "pmid": "30374942"
+        },
+        {
+          "pmid": "40531150"
+        },
+        {
+          "pmid": "21193540"
+        },
+        {
+          "pmid": "12568246"
+        },
+        {
+          "pmid": "33997475"
+        },
+        {
+          "label": {
+            "nl": "EFSA: veiligheid van cafeïne (2015)",
+            "en": "EFSA: safety of caffeine (2015)"
+          },
+          "note": {
+            "nl": "100 mg in één keer kan bij sommige volwassenen de slaap beïnvloeden, vooral vlak voor bedtijd",
+            "en": "100 mg at once may affect sleep in some adults, especially close to bedtime"
+          },
+          "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine"
+        },
+        {
+          "label": {
+            "nl": "Voedingscentrum: cafeïne",
+            "en": "Netherlands Nutrition Centre (Voedingscentrum): caffeine"
+          },
+          "note": {
+            "nl": "Hoeveel cafeïne er in koffie, thee en chocolade zit",
+            "en": "How much caffeine is in coffee, tea and chocolate"
+          },
+          "url": "https://www.voedingscentrum.nl/encyclopedie/cafeine.aspx"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Je eerste half uur",
+        "en": "Your first half hour"
+      },
+      "text": {
+        "nl": "Slaapdronkenheid (in onderzoek: slaapinertie) is het suffe, trage gevoel vlak na het wakker worden: je hersenen staan nog half in slaapstand. Het is het sterkst als je uit diepe slaap wordt gewekt, en na een paar korte nachten, omdat je dan meer diepe slaap krijgt. Tegelijk stijgt je cortisol flink. Cortisol is een hormoon dat je lichaam in een dagritme aanmaakt, en ook bij stress. 's Ochtends doe ik het omgekeerde van mijn avond: licht, hartslag en lichaamstemperatuur gaan omhoog. Zo gebruik ik dat half uur:",
+        "en": "Sleep inertia is the groggy, slow feeling just after you wake up: your brain is still half in sleep mode. It's strongest when you're woken from deep sleep, and after a few short nights, because you then get more deep sleep. At the same time your cortisol rises sharply. Cortisol is a hormone your body makes in a daily rhythm, and also under stress. In the morning I do the opposite of my evening: light, heart rate and body temperature go up. This is how I use that half hour:"
+      },
+      "items": [
+        {
+          "nl": "Geef het 30 minuten. Zonder flink slaaptekort duurt die sufheid zelden langer, dus beoordeel je nacht niet op je eerste minuten.",
+          "en": "Give it 30 minutes. Without major sleep loss the grogginess rarely lasts longer, so don't judge your night by your first few minutes."
+        },
+        {
+          "nl": "Haal licht binnen: naar buiten als het kan, anders bij een felle lamp. Op donkere ochtenden draag ik een lichttherapiebril.",
+          "en": "Get light: outside if you can, otherwise by a bright lamp. On dark mornings I wear light therapy glasses."
+        },
+        {
+          "nl": "Douche kort koud. Bij mij zijn 30 seconden genoeg.",
+          "en": "Take a short cold shower. For me, 30 seconds is enough."
+        }
+      ],
+      "after": {
+        "nl": "Kantoormedewerkers die 's ochtends veel licht kregen, vielen 's avonds sneller in slaap, vooral in de winter. Bij ruim 400.000 Britten ging elk extra uur buiten overdag samen met makkelijker opstaan en minder vaak moe zijn. Dit zijn verbanden; een oorzaak is niet bewezen. In een Nederlandse studie bij 3.018 mensen gaf een warme douche met 30 tot 90 seconden koud aan het eind 29% minder ziekteverzuim, al waren ze niet minder vaak ziek. Hoe je cortisol 's ochtends hoort te lopen en wat stress ermee doet, legt Demi uit in haar guide.",
+        "en": "Office workers who got a lot of light in the morning fell asleep faster at night, especially in winter. In over 400,000 people in the UK, each extra hour outdoors during the day went with getting up more easily and feeling tired less often. These are links; they don't prove cause. In a Dutch trial of 3,018 people, ending a warm shower with 30 to 90 seconds of cold cut sick days off work by 29%, though people weren't ill less often. How your cortisol should run in the morning, and what stress does to it, Demi explains in her guide."
+      },
+      "sources": [
+        {
+          "pmid": "12531174"
+        },
+        {
+          "pmid": "18854200"
+        },
+        {
+          "pmid": "28526259"
+        },
+        {
+          "pmid": "34488088"
+        },
+        {
+          "pmid": "27631616"
+        },
+        {
+          "label": {
+            "nl": "Guide van Demi: Moe wakker worden (cortisol)",
+            "en": "Demi's guide: Waking up tired (cortisol)"
+          },
+          "note": {
+            "nl": "demiselina.com/moe",
+            "en": "demiselina.com/moe"
+          },
+          "url": "https://demiselina.com/moe/"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "De basis",
+        "en": "The basics"
+      },
+      "text": {
+        "nl": "Deze ken je waarschijnlijk al. Ze tellen nog steeds, dus hier staan ze kort bij elkaar.",
+        "en": "You probably know these already. They still count, so here they are in one list."
+      },
+      "numbered": false,
+      "items": [
+        {
+          "nl": "Slaap minstens 7 uur. Na 14 nachten van 6 uur presteerden mensen zo slecht als na tot 2 nachten zonder slaap, en ze merkten het zelf nauwelijks.",
+          "en": "Sleep at least 7 hours. After 14 nights of 6 hours, people performed as badly as after up to 2 nights without sleep, and barely noticed."
+        },
+        {
+          "nl": "Sta elke dag op dezelfde tijd op, ook in het weekend. Het verschil tussen werkdagen en weekend heet sociale jetlag; bij 61 studenten liep de klok van onregelmatige slapers zo'n 2,5 uur later.",
+          "en": "Get up at the same time every day, weekends too. The gap between workdays and weekends is called social jetlag; in 61 students, irregular sleepers' body clocks ran about 2.5 hours later."
+        },
+        {
+          "nl": "Houd je slaapkamer koel; wij adviseren 16 tot 18 °C. Warmte gaf in onderzoek meer wakker liggen en minder diepe slaap en REM-slaap.",
+          "en": "Keep your bedroom cool; we advise 16 to 18 °C. In research, heat meant more time awake and less deep and REM sleep."
+        },
+        {
+          "nl": "Geen scherm in bed. Lezen op een scherm gaf later inslapen en een suffere ochtend dan een papieren boek.",
+          "en": "No screen in bed. Reading on a screen meant falling asleep later and a groggier morning than with a paper book."
+        },
+        {
+          "nl": "Alcohol laat je sneller inslapen; daarna wordt de tweede helft van de nacht onrustiger en komt je eerste REM-slaap later.",
+          "en": "Alcohol helps you fall asleep faster; then the second half of the night gets more restless and your first REM sleep comes later."
+        },
+        {
+          "nl": "Kort wakker worden in de nacht is normaal, en het gebeurt vaker naarmate je ouder wordt.",
+          "en": "Waking briefly at night is normal, and it happens more as you get older."
+        },
+        {
+          "nl": "Snurk je, of hoort je partner je adem stoppen? Dat kan slaapapneu zijn: je keel valt in je slaap steeds even dicht, 5 keer per uur of vaker. Bespreek het met je huisarts; alleen een slaaponderzoek laat zien of je het hebt.",
+          "en": "Do you snore, or does your partner hear your breathing stop? That can be sleep apnoea: your throat keeps closing for a moment while you sleep, 5 times an hour or more. Discuss it with your GP; only a sleep study can show whether you have it."
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "26039963"
+        },
+        {
+          "pmid": "12683469"
+        },
+        {
+          "pmid": "28607474"
+        },
+        {
+          "pmid": "22738673"
+        },
+        {
+          "pmid": "25535358"
+        },
+        {
+          "pmid": "23347102"
+        },
+        {
+          "pmid": "17561594"
+        },
+        {
+          "pmid": "31300334"
+        },
+        {
+          "label": {
+            "nl": "Thuisarts: ik denk dat ik slaapapneu heb",
+            "en": "Thuisarts (Dutch GP site): I think I have sleep apnoea"
+          },
+          "note": {
+            "nl": "Wat je merkt, wie meer kans heeft, en wanneer naar de huisarts",
+            "en": "What you notice, who is more at risk, and when to see your GP"
+          },
+          "url": "https://www.thuisarts.nl/slaapapneu/ik-denk-dat-ik-slaap-apneu-heb"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 3",
+        "en": "Part 3"
+      },
+      "title": {
+        "nl": "Zo weet je of het werkt",
+        "en": "How you know it's working"
+      },
+      "subtitle": {
+        "nl": "Wat je wearable laat zien, en hoe je het leest.",
+        "en": "What your wearable shows, and how to read it."
+      }
+    },
+    {
+      "title": {
+        "nl": "Zo lees je je wearable",
+        "en": "How to read your wearable"
+      },
+      "text": {
+        "nl": "Een wearable is een ring, horloge of band die je dag en nacht draagt. Hij meet je hartslag en je bewegingen, en schat daaruit je slaap; je hersenen meet hij niet, zoals een slaaplab dat doet. Elke ochtend kijk ik naar twee getallen uit de nacht: mijn HRV en mijn rusthartslag, hoe vaak je hart per minuut klopt als je helemaal stil ligt. Zo lees je ze:",
+        "en": "A wearable is a ring, watch or band you wear day and night. It measures your heart rate and movement and estimates your sleep from those; it doesn't measure your brain, as a sleep lab does. Every morning I look at two numbers from the night: my HRV and my resting heart rate, how many times your heart beats per minute when you're completely still. This is how to read them:"
+      },
+      "items": [
+        {
+          "nl": "Schrijf eerst op hoe je sliep, van 1 tot 10. Kijk pas daarna naar je data.",
+          "en": "First write down how you slept, from 1 to 10. Only then look at your data."
+        },
+        {
+          "nl": "Kijk wanneer je hartslag zakt. Ik zie hem graag vroeg in de nacht zakken en laag blijven. Zakt hij pas vlak voor je wakker wordt, dan heeft je lichaam een groot deel van de nacht nog gewerkt. Bij klanten zie ik dat vaak na alcohol of laat eten.",
+          "en": "Look at when your heart rate drops. I like to see it drop early in the night and stay low. If it only drops just before you wake, your body spent much of the night still working. With clients I often see that after alcohol or a late meal."
+        },
+        {
+          "nl": "Diepe slaap komt vooral in de eerste helft van de nacht, REM-slaap in de tweede helft. Zie je weinig diepe slaap en een hoge hartslag vroeg in de nacht? Dan kijk ik eerst naar de avond. Zie de score als een ruwe aanwijzing: je slaapfasen raadt een wearable vaak verkeerd, zie de 50 tot 65% hierboven.",
+          "en": "Deep sleep comes mostly in the first half of the night, REM sleep in the second half. Do you see little deep sleep and a high heart rate early in the night? Then I look at the evening first. Treat the score as a rough sign: wearables often get your sleep stages wrong; see the 50 to 65% above."
+        },
+        {
+          "nl": "Vergelijk gemiddelden over een à twee weken, nooit één nacht, en alleen met jezelf op hetzelfde apparaat. Je HRV schommelt van dag tot dag, en twee merken kunnen voor dezelfde nacht een andere hoeveelheid diepe slaap geven.",
+          "en": "Compare averages over one to two weeks, never a single night, and only with yourself on the same device. Your HRV goes up and down from day to day, and two brands can show a different amount of deep sleep for the same night."
+        },
+        {
+          "nl": "Test één verandering tegelijk, zoals een week geen alcohol. Werkt het? Houd het vast en pak de volgende.",
+          "en": "Test one change at a time, such as a week without alcohol. Does it work? Keep it and take the next."
+        }
+      ],
+      "after": {
+        "nl": "Je rusthartslag en HRV in de nacht lagen bij Oura en WHOOP dicht bij een hartfilmpje (ECG), in een studie bij 13 volwassenen over 536 nachten. HRV-onderzoekers raden aan naar een gemiddelde over meerdere dagen te kijken.",
+        "en": "Night-time resting heart rate and HRV from Oura and WHOOP came close to an ECG (a heart trace) in a study of 13 adults over 536 nights. HRV researchers advise looking at an average over several days."
+      },
+      "meta": {
+        "nl": [
+          "De onderzoeksgroep van de vergelijking van zes wearables krijgt steun van WHOOP"
+        ],
+        "en": [
+          "The research group behind the six-wearable comparison receives support from WHOOP"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "30252388"
+        },
+        {
+          "pmid": "36016077"
+        },
+        {
+          "pmid": "40834291"
+        },
+        {
+          "pmid": "23852425"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "nl": "Neem niet alles tegelijk over. Begin met één stap, bijvoorbeeld zeven dagen dezelfde opstaantijd, en kijk wat het doet. Werkt het, pak dan de volgende. Wat je niet meet, blijft gissen. Daarom begin ik bij iedereen met data: je slaap, je HRV en je herstel, naast hoe je je voelt. Dan zie je wat bij jou het verschil maakt.",
+    "en": "Don't take on everything at once. Start with one step, such as the same wake-up time for seven days, and see what it does. If it works, add the next one. What you don't measure stays guesswork. That's why I start everyone with data: your sleep, your HRV and your recovery, next to how you feel. Then you see what makes the difference for you."
+  },
+  "cta": {
+    "button_url": "#start-trial",
+    "title": {
+      "nl": "Zie of je schema werkt",
+      "en": "See if your schedule works"
+    },
+    "steps": {
+      "nl": [
+        [
+          "Aanmelden",
+          "Klik op de knop en laat je gegevens achter."
+        ],
+        [
+          "Koppelen",
+          "Koppel je wearable, of krijg 30 dagen gratis een WHOOP."
+        ],
+        [
+          "Analyse",
+          "We lezen 30+ waarden uit, zoals je slaap, HRV en herstel, en zien wat je schema doet. Je krijgt je protocol per video."
+        ],
+        [
+          "Opvolging",
+          "In een call kijken we of je fitter wakker wordt."
+        ]
+      ],
+      "en": [
+        [
+          "Sign up",
+          "Click the button and leave your details."
+        ],
+        [
+          "Connect",
+          "Link your wearable, or get a free 30-day WHOOP."
+        ],
+        [
+          "Analyse",
+          "We read 30+ biometrics, like your sleep, HRV and recovery, and see what your schedule does. You get your protocol by video."
+        ],
+        [
+          "Follow-up",
+          "A call to see if you're waking up more rested."
+        ]
+      ]
+    }
+  }
+}
