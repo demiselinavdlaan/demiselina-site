@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Acne: waar het vandaan komt · Demi Selina · Cellular</title>
-  <meta name="description" content="De bekendste oorzaken van acne, eerlijk naast het bewijs gezet. Met de studies erbij." />
+  <meta name="description" content="Waarom acne terugkomt, wat je kunt laten meten en wat de studies per oorzaak zeggen. Met mijn eigen uitslagen." />
   <meta property="og:title" content="Acne: waar het vandaan komt" />
-  <meta property="og:description" content="De bekendste oorzaken van acne, eerlijk naast het bewijs gezet. Met de studies erbij." />
+  <meta property="og:description" content="Waarom acne terugkomt, wat je kunt laten meten en wat de studies per oorzaak zeggen. Met mijn eigen uitslagen." />
   <meta property="og:image" content="https://demiselina.com/acne/demi.jpg" />
   <meta property="og:locale" content="nl_NL" />
   <meta name="robots" content="noindex" />
@@ -14,7 +14,7 @@
   <link rel="alternate" hreflang="en" href="https://demiselina.com/acne/en.html" />
   <link rel="preload" href="InterVariable.woff2" as="font" type="font/woff2" crossorigin />
   <style>@font-face{font-family:"Inter";font-style:normal;font-weight:100 900;font-display:swap;src:url("InterVariable.woff2") format("woff2")}@font-face{font-family:"Inter Variable";font-style:normal;font-weight:100 900;font-display:swap;src:url("InterVariable.woff2") format("woff2")}</style>
-  <link rel="stylesheet" href="page.css?v=1792866146" />
+  <link rel="stylesheet" href="page.css?v=1792924072" />
   <style>
 .gp-flow .node rect{fill:var(--card);stroke:var(--border);stroke-width:1;transition:fill .2s,stroke .2s}
 .gp-flow .node.accent rect{fill:var(--muted)}
@@ -49,6 +49,14 @@
 .gp-cycle .tip{position:absolute;pointer-events:none;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:6px 8px;font-size:11.5px;line-height:1.45;box-shadow:0 2px 8px rgb(0 0 0 / .06);white-space:nowrap}
 .gp-cycle .ph[aria-pressed=true]{background:var(--muted);color:var(--foreground);font-weight:500}
 .gp-cycle .sw{display:inline-block;width:14px;height:2px;border-radius:2px;vertical-align:middle}
+.gp-check .seg button{border-radius:5px;padding:.4rem 0;color:var(--muted-foreground);transition:background .15s,color .15s}
+.gp-check .seg button:hover{color:var(--foreground)}
+.gp-check .seg button[aria-pressed=true]{background:var(--foreground);color:var(--background);font-weight:500}
+.gp-check .track{height:6px;border-radius:9999px;background:var(--muted);overflow:hidden}
+.gp-check .fill{height:100%;width:0;border-radius:9999px;background:var(--muted-foreground);transition:width .35s ease-out,background .2s}
+.gp-check .bar.top .fill{background:var(--foreground)}
+.gp-check .bar.top .bl{color:var(--foreground);font-weight:500}
+@media (prefers-reduced-motion:reduce){.gp-check .fill{transition:none}}
 </style>
 </head>
 <body class="antialiased bg-sidebar text-foreground">
@@ -66,17 +74,128 @@
         </div>
       </div>
       <h1 class="mt-8 text-[26px] font-normal leading-[1.15] tracking-[-0.02em]">Acne: waar het vandaan komt</h1>
-      <p class="mt-2 text-[15px] text-muted-foreground">Hormonen, insuline, voeding, darm, producten en meer - en wat het bewijs per oorzaak zegt.</p>
-      <p class="mt-6 text-[15px] leading-[1.7] text-foreground/85">Online lees je elke week een nieuwe oorzaak van acne: je hormonen, je lever, je darm. Een deel klopt, een deel niet. Op deze pagina leg ik stap voor stap uit hoe een puistje ontstaat, wat begrippen als insulineresistentie, androgenen en SHBG betekenen, en wat er per oorzaak echt bekend is.</p>
+      <p class="mt-2 text-[15px] text-muted-foreground">Mijn eigen acne, mijn uitslagen, en wat de studies per oorzaak zeggen.</p>
+      <p class="mt-6 text-[15px] leading-[1.7] text-foreground/85">Elke cyclus, net na mijn eisprong, komt mijn acne op. Hij blijft tot mijn menstruatie. De rest van de maand is mijn huid goed. Ik liet mijn bloed, mijn hormonen en mijn darm testen, en de oorzaak weet ik nog steeds niet. Wel weet ik nu hoe acne ontstaat, en wat er per oorzaak echt bekend is. Dat deel ik hier, met mijn eigen uitslagen en een check voor jouw acne.</p>
     </div>
-    <div class="mx-6 mt-16">
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat bijna niemand weet</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Elk getal komt uit een studie, behalve het laatste. Dat is mijn eigen bloed.</p><div class="mt-5 grid gap-2.5"><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">81%</p><p class="mt-3 text-[15px] font-medium leading-snug">Acne zit voor een groot deel in je genen</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">In een studie bij 1.557 vrouwelijke tweelingparen kwam 81% van de verschillen in acne door erfelijkheid. Erfelijk betekent: de aanleg die je van je ouders meekrijgt. Dat helpt verklaren waarom de een acne krijgt van iets waar de ander niets van merkt.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Studie met 1.557 tweelingparen</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">44%</p><p class="mt-3 text-[15px] font-medium leading-snug">Bij bijna de helft speelt acne op vlak voor de menstruatie</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">Van 400 vrouwen met acne merkte 44% dat die vlak voor hun menstruatie opspeelt. Dan dalen oestrogeen en progesteron, twee hormonen uit je eierstokken. Houd daarom bij op welke dag van je cyclus je acne opkomt.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Vragenlijst bij 400 vrouwen</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">1 op 10</p><p class="mt-3 text-[15px] font-medium leading-snug">Vitamine B12 kan acne uitlokken</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">In een studie kreeg 1 van de 10 gezonde mensen binnen een week acne na extra B12. Bij 5 vrouwen verdween de acne 3 tot 6 weken nadat ze stopten met B12. Slik je B12 of krijg je injecties? Laat dan je waarde meten.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Kleine studies</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">32%</p><p class="mt-3 text-[15px] font-medium leading-snug">Magere melk hangt sterker samen met acne dan volle</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">In een overzicht van 14 studies met 78.529 mensen was de kans op acne 32% hoger bij magere melk, en 25% bij zuivel in het algemeen. Yoghurt en kaas lieten geen verband zien. Het zijn geen experimenten, dus of melk zelf acne geeft, weten we nog niet.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Overzicht van 14 studies</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">2,04 → 0,74</p><p class="mt-3 text-[15px] font-medium leading-snug">Mijn testosteron werd normaal, mijn acne bleef</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">Testosteron is een hormoon dat je talgklieren meer talg laat maken, het olieachtige laagje op je huid. In mei 2026 was het bij mij 2,04 nmol/L, boven de grens van het lab (1,67). In september was het 0,74, weer binnen het bereik. Mijn acne kwam gewoon elke cyclus terug. Een hoge waarde kan meespelen, maar verklaart lang niet altijd alles.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Mijn eigen data</p></div></div>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/12485434/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">The influence of genetics and environmental factors in the pathogenesis of acne: a twin study of acne in women.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Bataille V, Snieder H, MacGregor AJ, Sasieni P, Spector TD</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Invest Dermatol 2002 <span class="px-1 text-border">·</span> PMID <span class="text-info">12485434</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/11712049/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">The effect of the menstrual cycle on acne.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Stoll S, Shalita AR, Webster GF, Kaplan R, Danesh S et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Am Acad Dermatol 2001 <span class="px-1 text-border">·</span> PMID <span class="text-info">11712049</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28594082/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Acneiform eruptions caused by vitamin B12: A report of five cases and review of the literature.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Veraldi S, Benardon S, Diani M, Barbareschi M</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Cosmet Dermatol 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">28594082</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/26109103/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Vitamin B12 modulates the transcriptome of the skin microbiota in acne pathogenesis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kang D, Shi B, Erfe MC, Craft N, Li H</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sci Transl Med 2015 <span class="px-1 text-border">·</span> PMID <span class="text-info">26109103</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6049814</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30096883/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Dairy Intake and Acne Vulgaris: A Systematic Review and Meta-Analysis of 78,529 Children, Adolescents, and Young Adults.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Juhl CR, Bergholdt HKM, Miller IM, Jemec GBE, Kanters JK et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Nutrients 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">30096883</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6115795</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
       <p class="text-[12px] text-muted-foreground">Deel 1</p>
-      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Hoe acne ontstaat</h2>
-      <p class="mt-2 text-[15px] text-muted-foreground">Vier stappen, en waar de oorzaken inhaken.</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Mijn acne, elke cyclus opnieuw</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Wat ik liet testen, wat eruit kwam en wat ik nog niet weet.</p>
     </div>
     <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Zo ontstaat een puistje</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">In je huid zitten duizenden haarzakjes, kleine buisjes waar een haartje uit groeit. Aan elk haarzakje zit een talgklier. Die maakt talg: een olieachtig laagje dat je huid soepel houdt en beschermt. Acne begint in dat haarzakje, in vier stappen:</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Meer talg. De talgklier maakt meer talg dan normaal, vaak door hormonen.</li><li>Verstopte porie. Huidcellen aan de binnenkant van het haarzakje laten niet goed los. Ze plakken met de talg samen tot een propje. Blijft het dicht, dan zie je een wit bultje (een witte mee-eter). Komt het propje open aan de lucht, dan kleurt het donker (een zwarte mee-eter).</li><li>Bacteriën. In dat afgesloten, vette propje groeit de huidbacterie C. acnes goed. Die bacterie hoort gewoon op je huid te zitten.</li><li>Ontsteking. Je afweer reageert op het propje en de bacteriën. Zo ontstaat een rode bult, een puistje met pus, of bij diepe ontsteking een pijnlijke knobbel.</li></ol>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Net na mijn eisprong begint het</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Mijn acne volgt mijn cyclus. Je cyclus loopt van de eerste dag van je menstruatie tot de dag voor de volgende. Sinds juli 2026 houd ik in mijn dagboek bij op welke dag mijn acne opkomt.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Tot mijn eisprong is mijn huid goed. Je eisprong is het moment dat je eierstok een eicel loslaat.</li><li>Net na mijn eisprong, rond dag 17 tot 22, komt de acne op. Vooral langs mijn kaaklijn en op mijn kin, en 's avonds is het het ergst.</li><li>Hij blijft tot mijn menstruatie en zakt daarna weer weg.</li></ol><figure class="mt-5"><div class="overflow-hidden rounded-xl border border-border-faint bg-white p-3"><img src="acne-huid-demi.jpg" alt="Mijn wang met acne, naast mijn gezicht op een goede dag" class="h-auto w-full" loading="lazy" /></div><p class="mt-3 text-[12px] leading-snug text-muted-foreground">Mijn huid. Links tijdens een opvlamming, rechts op een goede dag. Ik heb nog steeds acne, het verschilt per week van mijn cyclus.</p></figure>
+      
+      
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Niemand kon mij helpen</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Omdat mijn acne zo precies met mijn cyclus meegaat, dacht ik lang dat het hormonaal was. En mijn acne was niet het enige wat elke cyclus terugkwam. Ik liet jarenlang alles testen: mijn bloed, mijn DNA, mijn hormonen, mijn darm. Ik ging naar het ziekenhuis en naar klinieken, tot in de Verenigde Staten. Bij elkaar gaf ik er meer dan €10.000 aan uit. Niemand kon mij helpen.</p>
+      
+      
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Mijn testosteron was te hoog, en daarna niet meer</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">In mei 2026 zag ik iets in mijn bloed: mijn testosteron was te hoog. Testosteron is een hormoon dat vrouwen ook maken, alleen minder dan mannen. Het laat je talgklieren meer talg maken, het olieachtige laagje op je huid. SHBG is een eiwit dat testosteron in je bloed vasthoudt. Hoe lager je SHBG, hoe meer testosteron er vrij is om iets te doen.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Mei 2026: testosteron 2,04 nmol/L, boven de grens van 1,67. Mijn SHBG was 39,2: binnen het bereik, maar aan de lage kant.</li><li>September 2026: testosteron 0,74, weer binnen het bereik. Mijn SHBG was gestegen naar 55,6.</li><li>Mijn acne kwam elke cyclus gewoon terug.</li></ol><figure class="mt-5"><div class="overflow-hidden rounded-xl border border-border-faint bg-white p-3"><img src="acne-bloed-mei-demi.png" alt="Uitsnede van mijn bloeduitslag van mei 2026" class="h-auto w-full" loading="lazy" /></div><p class="mt-3 text-[12px] leading-snug text-muted-foreground">Mijn bloeduitslag van mei 2026. De pijl staat bij testosteron: 2,04, boven het bereik van 0,29 tot 1,67.</p></figure><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Dat past bij wat de huisartsenrichtlijn zegt. Bij de meeste mensen met acne zijn de hormonen in het bloed gewoon normaal, omdat de huid testosteron zelf sneller omzet. Een normale uitslag sluit hormonen dus niet uit, en een hoge uitslag verklaart niet alles.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28673039/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">A Reappraisal of Testosterone's Binding in Circulation: Physiological and Clinical Implications.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Goldman AL, Bhasin S, Wu FCW, Krishna M, Matsumoto AM et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Endocr Rev 2017 <span class="px-1 text-border">·</span> PMID <span class="text-info">28673039</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6287254</span></p>
+      </a>
+      <a href="https://richtlijnen.nhg.org/standaarden/acne" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">NHG-Standaard Acne</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Nederlands Huisartsen Genootschap</p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Ook mijn darm liet ik testen</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">In februari 2026 deed ik de GI-MAP, een darmtest uit ontlasting uit de Verenigde Staten. Die meet hoe je spijsvertering werkt en hoe je darm reageert.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Elastase, een enzym waarmee je alvleesklier eten afbreekt, was 186. De grens is 200, dus ik zat er net onder. Bij bijna de helft van de mensen bij wie een te lage waarde werd herhaald, was de tweede meting normaal.</li><li>Secretoir IgA, een maat voor de afweer in je darmwand, was hoog: 4.766. Geen richtlijn gebruikt deze waarde om iets vast te stellen.</li><li>Geen enkele studie koppelt deze twee waarden aan acne.</li></ol><figure class="mt-5"><div class="overflow-hidden rounded-xl border border-border-faint bg-white p-3"><img src="acne-gimap-demi.png" alt="Uitsnede van mijn GI-MAP-uitslag" class="h-auto w-full" loading="lazy" /></div><p class="mt-3 text-[12px] leading-snug text-muted-foreground">Mijn GI-MAP van februari 2026: elastase 186 (net onder de grens) en secretoir IgA 4.766 (hoog).</p></figure>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/33199316/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">The investigation and management of pancreatic exocrine insufficiency: A retrospective cohort study.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Shandro BM, Ritehnia J, Chen J, Nagarajah R, Poullis A</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Clin Med (Lond) 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">33199316</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC7687321</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Waar ik nu sta</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Ik heb nog steeds acne, en de oorzaak weet ik niet. Wat ik wel weet, komt uit mijn dagboek en mijn uitslagen.</p><ul class="mt-3 list-disc space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Bijna elke cyclus begint het net na mijn eisprong. In oktober 2026 kwam het weer op, vanaf de avond van dag 16.</li><li>Ik laat mijn bloed opnieuw meten. Zo zag ik in september dat mijn testosteron weer normaal was, terwijl mijn acne bleef.</li><li>Mijn huidroutine staat op mijn skincare-pagina.</li><li>Wat ik onderweg leer, zet ik op deze pagina.</li></ul><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Je hoeft niet alles te testen wat ik heb getest. Begin bij je eigen patroon. De check hieronder laat zien waar je het eerst kunt kijken.</p>
+      
+      
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 2</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Wat speelt er bij jou?</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Negen vragen, en je ziet waar je het eerst kunt kijken.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Jouw acne-check</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Denk aan de afgelopen drie maanden. Kies per vraag nee, soms of vaak, en je ziet welk deel van deze pagina je het eerst leest.</p>
+      <div class="gp-check mt-5">
+        <div class="overflow-hidden rounded-xl border border-border-faint bg-card">
+          <ol class="divide-y divide-border-faint"><li class="q px-4 py-3.5" data-areas="hormones"><p class="text-[14px] leading-snug">Je acne komt elke maand terug in de tweede helft van je cyclus.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="hormones"><p class="text-[14px] leading-snug">Je cyclus is onregelmatig: korter dan 21 of langer dan 35 dagen.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="hormones"><p class="text-[14px] leading-snug">Je hebt meer haargroei op je kin, buik of borst dan je zou willen.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="hormones"><p class="text-[14px] leading-snug">Je acne begon of werd erger na een nieuw hormoonspiraal, de prikpil of de minipil.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="food"><p class="text-[14px] leading-snug">Je drinkt elke dag melk, vooral magere melk, of eiwitshakes met whey.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="food"><p class="text-[14px] leading-snug">Je eet vaak snelle koolhydraten: wit brood, frisdrank, snoep.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="supplements"><p class="text-[14px] leading-snug">Je slikt vitamine B12, een multivitamine met veel B12, of krijgt B12-injecties.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="skin"><p class="text-[14px] leading-snug">Je gebruikt zware crèmes, oliën of haarproducten die je gezicht raken.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="skin"><p class="text-[14px] leading-snug">Je draagt vaak een mondkapje, helm of telefoon tegen je wang, of je pulkt aan je huid.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li></ol>
+          <div class="border-t border-border-faint bg-muted/30 px-4 py-4" aria-live="polite">
+            <p class="cnt text-[12px] text-muted-foreground"></p>
+            <div class="bars mt-3 space-y-2.5"><div class="bar" data-k="hormones"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Hormonen en je cyclus</span></div><div class="track mt-1"><div class="fill"></div></div></div><div class="bar" data-k="food"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Voeding en insuline</span></div><div class="track mt-1"><div class="fill"></div></div></div><div class="bar" data-k="supplements"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Supplementen</span></div><div class="track mt-1"><div class="fill"></div></div></div><div class="bar" data-k="skin"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Je huid en je producten</span></div><div class="track mt-1"><div class="fill"></div></div></div></div>
+            <div class="top mt-5 border-t border-border-faint pt-4" hidden>
+              <p class="text-[12px] text-muted-foreground">Kijk eerst naar</p>
+              <p class="t mt-0.5 text-[18px] font-medium tracking-[-0.01em]"></p>
+              <p class="d mt-1 text-[13.5px] leading-[1.55] text-muted-foreground"></p>
+              <p class="mt-3 text-[12px] text-muted-foreground">Wat je kunt meten</p>
+              <p class="m mt-0.5 text-[13.5px] leading-[1.55]"></p>
+              <a href="#trial" class="mt-3 inline-block text-[13.5px] font-medium text-info">Naar de trial &rarr;</a>
+            </div>
+            <p class="none mt-4 text-[13.5px] leading-[1.55] text-muted-foreground" hidden>Je herkent weinig van deze signalen. Meten laat zien of dat klopt.</p>
+          </div>
+        </div>
+        <p class="mt-2 text-[11.5px] text-muted-foreground">Tik per vraag op een antwoord. Je antwoorden worden nergens opgeslagen.</p><p class="mt-2 text-[12px] leading-snug text-muted-foreground">Deze check stelt niets vast. Hij laat zien waar je het eerst kunt kijken. Heb je pijnlijke knobbels, littekens of acne die niet overgaat? Ga dan naar je huisarts.</p>
+        <script type="application/json">{"areas": {"hormones": {"label": "Hormonen en je cyclus", "text": "Je patroon past bij een hormonale invloed. Lees deel 4, over testosteron, je cyclus, PCOS en de pil.", "measure": "Totaal en vrij testosteron, SHBG en DHEA-S, en houd 3 cycli bij op welke dag je acne opkomt. Gebruik je de pil, dan kloppen de waarden pas 3 maanden na het stoppen."}, "food": {"label": "Voeding en insuline", "text": "Je eet of drinkt dingen die in studies samenhangen met acne. Lees deel 5, over insuline, melk en suiker.", "measure": "Nuchtere glucose en HbA1c (je gemiddelde bloedsuiker van de afgelopen 2 tot 3 maanden), en houd 6 weken bij wat je eet naast hoe je huid eruitziet."}, "supplements": {"label": "Supplementen", "text": "B12 kan bij een klein deel van de mensen acne geven. Lees het stuk over B12 in deel 5.", "measure": "Je B12-waarde. Is die hoog, overleg dan met je huisarts of je kunt stoppen, en kijk 6 weken wat je huid doet."}, "skin": {"label": "Je huid en je producten", "text": "Producten, druk en wrijving kunnen poriën verstoppen of je huid irriteren. Lees deel 6, over je producten, wrijving en wassen.", "measure": "Wissel één product per keer en kijk 6 weken. Leg je wang niet tegen je telefoon, en pulk niet."}}, "count": "{n} van {t} beantwoord", "min": 3}</script>
+      </div>
+      
+      
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 3</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Wat gebeurt er in je huid?</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Vier stappen, en waar elke oorzaak inhaakt.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Van talg tot puistje</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">In je huid zitten duizenden haarzakjes, kleine buisjes waar een haartje uit groeit. Aan elk haarzakje zit een talgklier. Die maakt talg, een olieachtig laagje dat je huid soepel houdt en beschermt. Acne begint in dat haarzakje.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Meer talg. De talgklier maakt meer talg dan normaal, vaak door hormonen.</li><li>Verstopte porie. Huidcellen aan de binnenkant van het haarzakje laten niet goed los. Ze plakken met de talg samen tot een propje. Blijft het dicht, dan zie je een wit bultje (een witte mee-eter). Komt het propje open aan de lucht, dan kleurt het donker (een zwarte mee-eter).</li><li>Bacteriën. In dat afgesloten, vette propje groeit de huidbacterie C. acnes goed. Die bacterie hoort gewoon op je huid te zitten.</li><li>Ontsteking. Je afweer reageert op het propje en de bacteriën. Zo ontstaat een rode bult, een puistje met pus, of bij diepe ontsteking een pijnlijke knobbel.</li></ol>
       <figure class="gp-flow mt-5" data-start="talg">
         <div class="rounded-xl border border-border-faint bg-card px-3 pt-4 pb-3">
           <svg viewBox="0 0 340 282" class="mx-auto h-auto w-full max-w-[340px]" font-family="Inter, system-ui, sans-serif" role="group" aria-label="Tik op een stap voor uitleg."><path class="edge" d="M81.6 40.0 C81.6 48.0 81.6 48.0 81.6 56.0"/><path class="flowline" data-edge="horm>talg" d="M81.6 40.0 C81.6 48.0 81.6 48.0 81.6 56.0"/><path class="head" data-edge="horm>talg" d="M77.6 55.0 L85.6 55.0 L81.6 61.0 Z"/><path class="edge" d="M258.4 40.0 C258.4 48.0 81.6 48.0 81.6 56.0"/><path class="flowline" data-edge="ins>talg" d="M258.4 40.0 C258.4 48.0 81.6 48.0 81.6 56.0"/><path class="head" data-edge="ins>talg" d="M77.6 55.0 L85.6 55.0 L81.6 61.0 Z"/><path class="edge" d="M81.6 100.0 C81.6 108.0 81.6 108.0 81.6 116.0"/><path class="flowline" data-edge="talg>porie" d="M81.6 100.0 C81.6 108.0 81.6 108.0 81.6 116.0"/><path class="head" data-edge="talg>porie" d="M77.6 115.0 L85.6 115.0 L81.6 121.0 Z"/><path class="edge" d="M258.4 100.0 C258.4 108.0 81.6 108.0 81.6 116.0"/><path class="flowline" data-edge="prod>porie" d="M258.4 100.0 C258.4 108.0 81.6 108.0 81.6 116.0"/><path class="head" data-edge="prod>porie" d="M77.6 115.0 L85.6 115.0 L81.6 121.0 Z"/><path class="edge" d="M81.6 160.0 C81.6 168.0 81.6 168.0 81.6 176.0"/><path class="flowline" data-edge="porie>bact" d="M81.6 160.0 C81.6 168.0 81.6 168.0 81.6 176.0"/><path class="head" data-edge="porie>bact" d="M77.6 175.0 L85.6 175.0 L81.6 181.0 Z"/><path class="edge" d="M258.4 160.0 C258.4 168.0 81.6 168.0 81.6 176.0"/><path class="flowline" data-edge="b12>bact" d="M258.4 160.0 C258.4 168.0 81.6 168.0 81.6 176.0"/><path class="head" data-edge="b12>bact" d="M77.6 175.0 L85.6 175.0 L81.6 181.0 Z"/><path class="edge" d="M81.6 220.0 C81.6 228.0 170.0 228.0 170.0 236.0"/><path class="flowline" data-edge="bact>ontst" d="M81.6 220.0 C81.6 228.0 170.0 228.0 170.0 236.0"/><path class="head" data-edge="bact>ontst" d="M166.0 235.0 L174.0 235.0 L170.0 241.0 Z"/><path class="edge" d="M258.4 220.0 C258.4 228.0 170.0 228.0 170.0 236.0"/><path class="flowline" data-edge="darm>ontst" d="M258.4 220.0 C258.4 228.0 170.0 228.0 170.0 236.0"/><path class="head" data-edge="darm>ontst" d="M166.0 235.0 L174.0 235.0 L170.0 241.0 Z"/><g class="node" data-id="horm" tabindex="0" role="button" aria-label="Hormonen androgenen"><rect x="1.0" y="2.0" width="161.2" height="38" rx="19.0"/><text x="81.6" y="25.0" text-anchor="middle">Hormonen <tspan class="sub">androgenen</tspan></text></g><g class="node" data-id="ins" tabindex="0" role="button" aria-label="Insuline en IGF-1"><rect x="177.8" y="2.0" width="161.2" height="38" rx="19.0"/><text x="258.4" y="25.0" text-anchor="middle">Insuline <tspan class="sub">en IGF-1</tspan></text></g><g class="node" data-id="talg" tabindex="0" role="button" aria-label="Meer talg stap 1"><rect x="1.0" y="62.0" width="161.2" height="38" rx="19.0"/><text x="81.6" y="85.0" text-anchor="middle">Meer talg <tspan class="sub">stap 1</tspan></text></g><g class="node" data-id="prod" tabindex="0" role="button" aria-label="Producten en wrijving"><rect x="177.8" y="62.0" width="161.2" height="38" rx="19.0"/><text x="258.4" y="85.0" text-anchor="middle">Producten <tspan class="sub">en wrijving</tspan></text></g><g class="node" data-id="porie" tabindex="0" role="button" aria-label="Verstopte porie stap 2"><rect x="1.0" y="122.0" width="161.2" height="38" rx="19.0"/><text x="81.6" y="145.0" text-anchor="middle">Verstopte porie <tspan class="sub">stap 2</tspan></text></g><g class="node" data-id="b12" tabindex="0" role="button" aria-label="Te veel B12 soms"><rect x="177.8" y="122.0" width="161.2" height="38" rx="19.0"/><text x="258.4" y="145.0" text-anchor="middle">Te veel B12 <tspan class="sub">soms</tspan></text></g><g class="node" data-id="bact" tabindex="0" role="button" aria-label="Bacteriën stap 3"><rect x="1.0" y="182.0" width="161.2" height="38" rx="19.0"/><text x="81.6" y="205.0" text-anchor="middle">Bacteriën <tspan class="sub">stap 3</tspan></text></g><g class="node" data-id="darm" tabindex="0" role="button" aria-label="Darm en afweer"><rect x="177.8" y="182.0" width="161.2" height="38" rx="19.0"/><text x="258.4" y="205.0" text-anchor="middle">Darm <tspan class="sub">en afweer</tspan></text></g><g class="node accent" data-id="ontst" tabindex="0" role="button" aria-label="Ontsteking stap 4: puistje"><rect x="69.0" y="242.0" width="202.0" height="38" rx="19.0"/><text x="170.0" y="265.0" text-anchor="middle">Ontsteking <tspan class="sub">stap 4: puistje</tspan></text></g></svg>
@@ -86,8 +205,8 @@
           </div>
         </div>
         <p class="mt-2 text-[11.5px] text-muted-foreground">Tik op een stap voor uitleg.</p><p class="mt-3 text-[12px] leading-snug text-muted-foreground">Vereenvoudigd schema van hoe een puistje ontstaat, en waar de oorzaken inhaken.</p>
-        <script type="application/json">{"horm": {"t": "Hormonen androgenen", "d": "Androgenen zoals testosteron laten je talgklier groeien en meer talg maken. In de talgklier zelf wordt testosteron omgezet in het sterkere DHT. Bij acne werken die enzymen in de huid vaak harder, ook als je bloedwaarden normaal zijn."}, "ins": {"t": "Insuline en IGF-1", "d": "Insuline en IGF-1 kunnen de aanmaak van androgenen verhogen en SHBG verlagen, waardoor er meer vrij testosteron is. In het lab laat IGF-1 talgcellen meer vet maken."}, "talg": {"t": "Meer talg stap 1", "d": "De talgklier maakt meer talg. Dat is de eerste stap van acne."}, "prod": {"t": "Producten en wrijving", "d": "Zware oliën, pommade, wrijving en pulken kunnen een porie verder verstoppen of irriteren."}, "porie": {"t": "Verstopte porie stap 2", "d": "Huidcellen hopen zich op in de haarzakje en vormen met de talg een propje: een mee-eter in de dop."}, "b12": {"t": "Te veel B12 soms", "d": "Hoge doses B12, vaak injecties, kunnen bij een klein deel van de mensen puistjes geven. B12 verandert hoe de acnebacterie zich gedraagt."}, "bact": {"t": "Bacteriën stap 3", "d": "In de verstopte porie groeit de huidbacterie C. acnes. Hoeveel bacteriën er zijn, zegt weinig over hoe erg je acne is."}, "darm": {"t": "Darm en afweer", "d": "Een lekkende darm kan je afweer activeren, en dat kan ontsteking in je huid versterken. Er zijn aanwijzingen voor deze indirecte route, maar het is nog niet bewezen dat het acne veroorzaakt."}, "ontst": {"t": "Ontsteking stap 4: puistje", "d": "Je afweer reageert, en er ontstaat een rode bult of een puistje."}}</script>
-      </figure><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Erfelijkheid speelt een grote rol: in een studie bij 1.557 vrouwelijke tweelingen was acne voor 81% erfelijk. In het schema hieronder zie je bij welke stap elke oorzaak inhaakt.</p>
+        <script type="application/json">{"horm": {"t": "Hormonen androgenen", "d": "Androgenen zoals testosteron laten je talgklier groeien en meer talg maken. In de talgklier zelf wordt testosteron omgezet in het sterkere DHT. Bij acne werken die enzymen in de huid vaak harder, ook als je bloedwaarden normaal zijn."}, "ins": {"t": "Insuline en IGF-1", "d": "Insuline en IGF-1 kunnen de aanmaak van androgenen verhogen en SHBG verlagen, waardoor er meer vrij testosteron is. In het lab laat IGF-1 talgcellen meer vet maken."}, "talg": {"t": "Meer talg stap 1", "d": "De talgklier maakt meer talg. Dat is de eerste stap van acne."}, "prod": {"t": "Producten en wrijving", "d": "Zware oliën, pommade, wrijving en pulken kunnen een porie verder verstoppen of irriteren."}, "porie": {"t": "Verstopte porie stap 2", "d": "Huidcellen hopen zich op in het haarzakje en vormen met de talg een propje: het begin van een mee-eter."}, "b12": {"t": "Te veel B12 soms", "d": "Hoge doses B12, vaak injecties, kunnen bij een klein deel van de mensen puistjes geven. B12 verandert hoe de acnebacterie zich gedraagt."}, "bact": {"t": "Bacteriën stap 3", "d": "In de verstopte porie groeit de huidbacterie C. acnes. Hoeveel bacteriën er zijn, zegt weinig over hoe erg je acne is."}, "darm": {"t": "Darm en afweer", "d": "Een lekkende darm kan je afweer activeren, en dat kan ontsteking in je huid versterken. Er zijn aanwijzingen voor deze indirecte route, maar het is nog niet bewezen dat het acne veroorzaakt."}, "ontst": {"t": "Ontsteking stap 4: puistje", "d": "Je afweer reageert, en er ontstaat een rode bult of een puistje."}}</script>
+      </figure><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Bij mij is het een mix van stap 2 en stap 4: verstopte poriën en ontstoken bultjes. In het schema hierboven zie je bij welke stap elke oorzaak inhaakt. Of je acne krijgt, ligt voor een groot deel in je genen: in de tweelingstudie bovenaan was acne voor 81% erfelijk.</p>
       
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/21880356/" class="mt-5 block border-l border-border pl-4">
@@ -106,13 +225,13 @@
       </a>
     </div>
     <div class="mx-6 mt-24">
-      <p class="text-[12px] text-muted-foreground">Deel 2</p>
-      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Hormonen en insuline</h2>
-      <p class="mt-2 text-[15px] text-muted-foreground">Wat er klopt van hoge testosteron, je cyclus, PCOS en insuline.</p>
+      <p class="text-[12px] text-muted-foreground">Deel 4</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Komt het door je hormonen?</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Testosteron, je cyclus, PCOS en de pil.</p>
     </div>
     <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Androgenen en testosteron</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Androgenen zijn hormonen die vaak 'mannelijk' worden genoemd, maar vrouwen maken ze ook, in de eierstokken en de bijnieren. Testosteron is de bekendste. Zo werken ze op je huid:</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Testosteron reist via je bloed naar je huid. Het grootste deel zit daarbij vast aan een eiwit, SHBG. Alleen het losse, vrije testosteron kan iets doen.</li><li>In de talgklier zet een enzym (5-alfa-reductase) testosteron om in DHT, een veel sterkere vorm.</li><li>DHT laat de talgklier groeien en meer talg maken. Dat is stap 1 van acne.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">De meeste mensen met acne hebben normale hormoonwaarden in hun bloed. Volgens de huisartsenrichtlijn werkt dat enzym in de huid bij acne vaak harder, dus je huid reageert sterker, niet per se je bloed. In kleine groepen bij de specialist had wel de helft tot ruim 60% van de vrouwen minstens één verhoogde waarde, vaak vrij testosteron of DHEA-S (een androgeen uit de bijnier), met een lager SHBG.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Testosteron maken vrouwen ook</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Androgenen zijn hormonen die vaak 'mannelijk' heten. Vrouwen maken ze ook, in de eierstokken en de bijnieren. Testosteron is de bekendste.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Testosteron reist via je bloed naar je huid. Het grootste deel zit daarbij vast aan een eiwit, SHBG. Alleen het losse, vrije testosteron kan iets doen.</li><li>In de talgklier zet een enzym (5-alfa-reductase) testosteron om in DHT, een veel sterkere vorm.</li><li>DHT laat de talgklier groeien en meer talg maken. Dat is stap 1 van acne.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">De meeste mensen met acne hebben normale hormoonwaarden in hun bloed. Volgens de huisartsenrichtlijn werkt dat enzym in de huid bij acne vaak harder: je huid reageert sterker, ook als je bloed normaal is. In kleine groepen bij de specialist had wel de helft tot ruim 60% van de vrouwen minstens één verhoogde waarde, vaak vrij testosteron of DHEA-S (een androgeen uit de bijnier), met een lager SHBG. Bij mij bleef de acne ook toen mijn testosteron weer normaal was.</p>
       
       
       <a href="https://richtlijnen.nhg.org/standaarden/acne" class="mt-5 block border-l border-border pl-4">
@@ -141,8 +260,8 @@
       </a>
     </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Je cyclus</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">44% van de vrouwen merkt dat hun acne opspeelt in de week voor de menstruatie. In die week dalen oestrogeen en progesteron. Hoe die schommeling precies tot puistjes leidt, is nog niet goed bekend. Acne is ook bij volwassen vrouwen gewoon: in hun twintiger jaren had ongeveer de helft er last van, in hun dertiger jaren ruim een derde. Op mijn hormonen-pagina zie je hoe je hormonen in een maand bewegen.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Waarom het voor je menstruatie opspeelt</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Van 400 vrouwen met acne merkte 44% dat die vlak voor hun menstruatie opspeelt. Dan dalen oestrogeen en progesteron. Hoe die daling precies tot acne leidt, weet nog niemand goed. Bij mij begint het al net na mijn eisprong, dus ruim voor die laatste dagen. Acne is ook bij volwassen vrouwen gewoon: in een vragenlijst had ongeveer de helft van de vrouwen in hun twintiger jaren er last van, en ruim een derde in hun dertiger jaren. Op mijn hormonen-pagina zie je hoe je hormonen in een maand bewegen.</p>
       
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/11712049/" class="mt-5 block border-l border-border pl-4">
@@ -162,8 +281,8 @@
       </a>
     </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">PCOS</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">PCOS is een hormoonaandoening waarbij de eierstokken meer androgenen maken en de cyclus vaak onregelmatig is. Meer androgenen betekent meer talg, dus acne komt bij PCOS vaker voor: bij 43% van de vrouwen met PCOS, tegen 21% zonder. Andersom had in kleine studies 17 tot 37% van de vrouwen met acne PCOS. Acne alleen, zonder bijvoorbeeld veel haargroei of een onregelmatige cyclus, is wel een zwak signaal voor verhoogde hormonen. Op mijn PCOS-pagina lees je hoe het werkt.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Kan het PCOS zijn?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">PCOS is een hormoonaandoening waarbij de eierstokken meer androgenen maken en de cyclus vaak onregelmatig is. Meer androgenen betekent meer talg, dus acne komt bij PCOS vaker voor: bij 43% van de vrouwen met PCOS, tegen 21% zonder. Andersom had in kleine studies 17 tot 37% van de vrouwen met acne PCOS. Heb je alleen acne, zonder bijvoorbeeld veel haargroei of een onregelmatige cyclus, dan is dat maar een zwak signaal voor verhoogde hormonen. Op mijn PCOS-pagina lees je hoe het werkt.</p>
       
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/33355023/" class="mt-5 block border-l border-border pl-4">
@@ -183,8 +302,8 @@
       </a>
     </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Anticonceptie</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Hormonale anticonceptie verandert je eigen hormonen, en daarmee je huid. Zo werkt het:</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>De gecombineerde pil bevat oestrogeen en een progestageen (een nagemaakt progesteron). Het oestrogeen laat je lever meer SHBG maken, dat meer testosteron vasthoudt, en de pil remt je eierstokken. Minder vrij testosteron betekent minder talg.</li><li>Methodes met alleen een progestageen, zoals het implantaat, de prikpil en het hormoonspiraal, missen dat oestrogeen. Sommige progestagenen lijken bovendien een beetje op androgenen.</li><li>Stop je met de pil, dan daalt je SHBG weer en maken je eierstokken weer hun eigen androgenen.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In 31 onderzoeken verminderde elke gecombineerde pil acne vergeleken met een placebo. Met een hormoonspiraal kreeg 15% van de vrouwen acne. Acne na het stoppen met de pil is nooit goed onderzocht, maar door de stappen hierboven is het logisch dat je huid dan kan veranderen.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">De pil, het spiraaltje en je huid</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Hormonale anticonceptie verandert je eigen hormonen, en daarmee vaak ook je huid.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>De gecombineerde pil bevat oestrogeen en een progestageen (een nagemaakt progesteron). Het oestrogeen laat je lever meer SHBG maken, dat meer testosteron vasthoudt, en de pil remt je eierstokken. Minder vrij testosteron betekent minder talg.</li><li>Methodes met alleen een progestageen, zoals het implantaat, de prikpil en het hormoonspiraal, missen dat oestrogeen. Sommige progestagenen lijken bovendien een beetje op androgenen.</li><li>Stop je met de pil, dan daalt je SHBG weer en maken je eierstokken weer hun eigen androgenen.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In 31 onderzoeken verminderde elke gecombineerde pil acne vergeleken met een placebo. Met een hormoonspiraal kreeg 15% van de vrouwen acne. Acne na het stoppen met de pil is nooit goed onderzocht, maar door de stappen hierboven is het logisch dat je huid dan kan veranderen. Wil je iets aan je anticonceptie veranderen, bespreek het dan met je huisarts.</p>
       
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/22786490/" class="mt-5 block border-l border-border pl-4">
@@ -209,8 +328,34 @@
       </a>
     </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Insuline en insulineresistentie</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Insuline is een hormoon uit je alvleesklier. Na het eten stijgt je bloedsuiker, en insuline werkt als een sleutel: het opent je cellen, zodat de suiker erin kan en je bloedsuiker weer daalt. Bij insulineresistentie reageren je cellen minder goed op die sleutel. Je alvleesklier maakt dan steeds meer insuline om hetzelfde te bereiken. Je bloedsuiker kan daardoor lang normaal blijven, terwijl je insuline te hoog is. Zo kan dat je huid raken:</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Veel insuline zet de eierstokken aan om meer testosteron te maken.</li><li>Veel insuline laat je lever minder SHBG maken. Er blijft dan meer vrij testosteron over.</li><li>Insuline verhoogt ook IGF-1, een groeihormoon dat talgcellen meer vet laat maken.</li><li>Samen geeft dat meer talg: stap 1 van acne.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Mensen met acne hebben gemiddeld vaker insulineresistentie: in een overzicht van 13 studies was hun HOMA-IR (een maat voor insulineresistentie) hoger, en bij mannen had 22% insulineresistentie tegen 11% zonder acne. Dat is een verband, geen bewijs dat het de oorzaak is. Een dieet met weinig snelle koolhydraten hielp in twee kleine studies, maar in de grootste vielen de deelnemers ook af, en volgens de huisartsenrichtlijn is geen enkel dieet overtuigend bewezen.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Klopt het verhaal over oestrogeendominantie?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">'Oestrogeendominantie' betekent: te veel oestrogeen ten opzichte van progesteron. Het wordt vaak genoemd als oorzaak van acne, net als te veel of te weinig aromatase, een enzym dat androgenen omzet in oestrogenen. Geen onderzoek bij mensen laat dat zien. Wat wel bekend is, wijst eerder de andere kant op. Vrouwen met een zeldzame aandoening waarbij ze geen aromatase maken, houden meer androgenen over en krijgen juist acne. En oestrogeen remt talg: bij een pil kwam de daling van talg vooral door het oestrogeen.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/17452968/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Recognizing rare disorders: aromatase deficiency.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Jones ME, Boon WC, McInnes K, Maffei L, Carani C et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Nat Clin Pract Endocrinol Metab 2007 <span class="px-1 text-border">·</span> PMID <span class="text-info">17452968</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/12445184/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Cutaneous androgen metabolism: basic research and clinical perspectives.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Chen W, Thiboutot D, Zouboulis CC</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Invest Dermatol 2002 <span class="px-1 text-border">·</span> PMID <span class="text-info">12445184</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/4269283/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Sebaceous gland suppression with ethinyl estradiol and diethylstilbestrol.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Pochi PE, Strauss JS</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Arch Dermatol 1973 <span class="px-1 text-border">·</span> PMID <span class="text-info">4269283</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 5</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Komt het door wat je eet of slikt?</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Insuline, melk, eiwitshakes en vitamine B12.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat insuline met je huid doet</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Insuline is een hormoon uit je alvleesklier. Na het eten stijgt je bloedsuiker, en insuline werkt als een sleutel: het opent je cellen, zodat de suiker erin kan en je bloedsuiker weer daalt. Bij insulineresistentie reageren je cellen minder goed op die sleutel. Je alvleesklier maakt dan steeds meer insuline om hetzelfde te bereiken. Je bloedsuiker kan daardoor lang normaal blijven, terwijl je insuline te hoog is.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Veel insuline zet de eierstokken aan om meer testosteron te maken.</li><li>Veel insuline laat je lever minder SHBG maken. Er blijft dan meer vrij testosteron over.</li><li>Insuline verhoogt ook IGF-1, een groeihormoon dat talgcellen meer vet laat maken.</li><li>Samen geeft dat meer talg: stap 1 van acne.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Mensen met acne hebben gemiddeld vaker insulineresistentie: in een overzicht van 13 studies was hun HOMA-IR (een maat voor insulineresistentie) hoger, en bij mannen had 22% insulineresistentie tegen 11% zonder acne. Dat is een verband, geen bewijs dat het de oorzaak is. Een dieet met weinig snelle koolhydraten hielp in twee kleine studies, maar in de grootste vielen de deelnemers ook af, en volgens de huisartsenrichtlijn is geen enkel dieet overtuigend bewezen.</p>
       <p class="mt-3 text-[12px] text-muted-foreground">Dieetstudie mede gefinancierd door de vleessector</p>
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/29939616/" class="mt-5 block border-l border-border pl-4">
@@ -255,34 +400,8 @@
       </a>
     </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">En de aromatase-route?</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Aromatase is een enzym dat androgenen omzet in oestrogenen. Online lees je dat acne komt door te veel of te weinig aromatase, of door 'oestrogeendominantie': te veel oestrogeen ten opzichte van progesteron. Daar is bij mensen geen onderzoek naar gedaan dat dat laat zien. Wat wel bekend is, wijst eerder de andere kant op. Vrouwen die geen aromatase hebben, houden meer androgenen over en krijgen juist acne. En oestrogeen remt talg: in een pil kwam de daling van talg vooral van het oestrogeen.</p>
-      
-      
-      <a href="https://pubmed.ncbi.nlm.nih.gov/17452968/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Recognizing rare disorders: aromatase deficiency.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Jones ME, Boon WC, McInnes K, Maffei L, Carani C et al.</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Nat Clin Pract Endocrinol Metab 2007 <span class="px-1 text-border">·</span> PMID <span class="text-info">17452968</span></p>
-      </a>
-      <a href="https://pubmed.ncbi.nlm.nih.gov/12445184/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Cutaneous androgen metabolism: basic research and clinical perspectives.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Chen W, Thiboutot D, Zouboulis CC</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">J Invest Dermatol 2002 <span class="px-1 text-border">·</span> PMID <span class="text-info">12445184</span></p>
-      </a>
-      <a href="https://pubmed.ncbi.nlm.nih.gov/4269283/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Sebaceous gland suppression with ethinyl estradiol and diethylstilbestrol.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Pochi PE, Strauss JS</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Arch Dermatol 1973 <span class="px-1 text-border">·</span> PMID <span class="text-info">4269283</span></p>
-      </a>
-    </div>
-    <div class="mx-6 mt-24">
-      <p class="text-[12px] text-muted-foreground">Deel 3</p>
-      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Voeding, darm en lever</h2>
-      <p class="mt-2 text-[15px] text-muted-foreground">Wat er echt bekend is, en wat vooral online leeft.</p>
-    </div>
-    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Melk en suiker</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Melk bevat eiwitten die je insuline en IGF-1 laten stijgen: in een studie bij jongens verhoogde caseïne IGF-1 met 15%, en whey de insuline met 21%. Onderzoekers denken dat melk zo, via de route hierboven, talg kan verhogen. In een overzicht van 14 studies met 78.529 mensen was de kans op acne 25% hoger bij zuivel, en 32% bij magere melk. Het zijn geen experimenten, en het verband werd zwakker na correctie voor andere factoren. Yoghurt en kaas lieten geen verband zien. Ook veel vet en suiker hing samen met acne, en in een kleine studie gaf melkchocolade binnen 48 uur meer puistjes dan snoep met evenveel suiker.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Moet je stoppen met melk?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Melk bevat eiwitten die je insuline en IGF-1 laten stijgen. In een studie bij jongens verhoogde caseïne IGF-1 met 15%, en whey de insuline met 21%. Onderzoekers denken dat melk zo je talg kan verhogen, via de route hierboven.</p><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In een overzicht van 14 studies met 78.529 mensen was de kans op acne 25% hoger bij zuivel, en 32% bij magere melk. Het zijn geen experimenten, en het verband werd zwakker na correctie voor andere factoren. Yoghurt en kaas lieten geen verband zien. Ook veel vet en suiker hing samen met acne. In een kleine studie gaf melkchocolade binnen 48 uur meer puistjes dan snoep met evenveel suiker. Wil je weten of het bij jou meespeelt, houd dan bij wat je drinkt naast hoe je huid eruitziet.</p>
       <p class="mt-3 text-[12px] text-muted-foreground">Eén auteur van de melkstudie kreeg geld van een zuivelfonds</p>
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/19471293/" class="mt-5 block border-l border-border pl-4">
@@ -312,24 +431,8 @@
       </a>
     </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Te veel B12</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Vitamine B12 heb je nodig voor je zenuwen en je bloed. Maar ook de acnebacterie C. acnes gebruikt B12. Zo kan te veel B12 puistjes geven:</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Normaal maakt de bacterie zelf B12.</li><li>Krijg je veel B12 binnen, bijvoorbeeld via injecties, dan komt er meer in je huid. De bacterie stopt dan met B12 maken.</li><li>In plaats daarvan maakt de bacterie meer porfyrines, stoffen die je huid irriteren en ontsteking aanwakkeren.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In een studie kreeg 1 van de 10 gezonde mensen binnen een week acne na B12. In een reeks van 5 vrouwen kwamen de puistjes binnen een week tot 5 maanden na B12, en verdwenen ze 3 tot 6 weken na het stoppen. Het gebeurt bij een klein deel van de mensen. Slik je B12, laat dan eerst je waarde meten.</p>
-      <p class="mt-3 text-[12px] text-muted-foreground">De universiteit van de B12-studie heeft er een patentaanvraag op</p>
-      
-      <a href="https://pubmed.ncbi.nlm.nih.gov/28594082/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Acneiform eruptions caused by vitamin B12: A report of five cases and review of the literature.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Veraldi S, Benardon S, Diani M, Barbareschi M</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">J Cosmet Dermatol 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">28594082</span></p>
-      </a>
-      <a href="https://pubmed.ncbi.nlm.nih.gov/26109103/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Vitamin B12 modulates the transcriptome of the skin microbiota in acne pathogenesis.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kang D, Shi B, Erfe MC, Craft N, Li H</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Sci Transl Med 2015 <span class="px-1 text-border">·</span> PMID <span class="text-info">26109103</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6049814</span></p>
-      </a>
-    </div>
-    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Eiwitshakes</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Whey is het eiwit uit melk dat in veel eiwitshakes zit. Er zijn verhalen van jongeren bij wie whey acne gaf, die verdween na het stoppen. Maar in een studie van 6 maanden bij 49 mannen maakte 30 gram whey per dag hun acne niet erger. Het bewijs is dus wisselend.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">En je eiwitshake?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Whey is het eiwit uit melk dat in veel eiwitshakes zit. Er zijn meldingen van jongeren bij wie acne kwam met whey en verdween toen ze stopten. In een studie van 6 maanden bij 49 mannen maakte 30 gram whey per dag hun acne niet erger. Het bewijs is dus wisselend.</p>
       
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/22988649/" class="mt-5 block border-l border-border pl-4">
@@ -344,8 +447,115 @@
       </a>
     </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Je darm</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Je darmwand is maar één cellaag dik. Die cellen zitten aan elkaar vast met kleine verbindingen. Ze laten voedingsstoffen door, maar houden bacteriën en hun afvalstoffen tegen. Zo kan een lekkende darm je huid raken:</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Zonuline is een eiwit dat bepaalt hoe open die verbindingen staan. Meer zonuline betekent dat ze verder opengaan: een meer doorlaatbare, 'lekkende' darm.</li><li>Stukjes van bacteriën kunnen dan je bloed in.</li><li>Je afweer reageert daarop, ook buiten je darm.</li><li>Die extra ontsteking kan stap 4 van acne versterken.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Er zijn aanwijzingen voor deze indirecte route. Bij acne was I-FABP hoger, een marker voor schade aan de darmwand, en hoe hoger, hoe ernstiger de acne. Al in 1983 reageerde het bloed van mensen met ernstige acne sterker op bacteriële gifstoffen. Mensen met acne hebben in kleine studies ook andere darmbacteriën, en probiotica gaven wisselende resultaten. Het zijn kleine studies die een verband laten zien, nog geen bewijs voor oorzaak. Let bij zonuline op de test: de veelgebruikte tests meten niet zonuline zelf, maar andere eiwitten.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Kan B12 acne geven?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Vitamine B12 heb je nodig voor je zenuwen en je bloed. Ook de acnebacterie C. acnes gebruikt B12.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Normaal maakt de bacterie zelf B12.</li><li>Krijg je veel B12 binnen, bijvoorbeeld via injecties, dan komt er meer in je huid. De bacterie stopt dan met B12 maken.</li><li>In plaats daarvan maakt de bacterie meer porfyrines, stoffen die je huid irriteren en ontsteking aanwakkeren.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In een studie kreeg 1 van de 10 gezonde mensen binnen een week acne na extra B12. In een reeks van 5 vrouwen kwam de acne binnen een week tot 5 maanden na de start met B12, en verdween hij 3 tot 6 weken na het stoppen. Het gebeurt bij een klein deel van de mensen. Slik je B12, laat dan je waarde meten.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">De universiteit van de B12-studie heeft er een patentaanvraag op</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28594082/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Acneiform eruptions caused by vitamin B12: A report of five cases and review of the literature.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Veraldi S, Benardon S, Diani M, Barbareschi M</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Cosmet Dermatol 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">28594082</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/26109103/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Vitamin B12 modulates the transcriptome of the skin microbiota in acne pathogenesis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kang D, Shi B, Erfe MC, Craft N, Li H</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sci Transl Med 2015 <span class="px-1 text-border">·</span> PMID <span class="text-info">26109103</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6049814</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 6</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Komt het door je producten?</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Crèmes, wrijving, wassen en de zon.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Welke producten poriën verstoppen</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">'Comedogeen' betekent dat een product poriën kan verstoppen en mee-eters geeft: stap 2 van acne. Zware crèmes en oliën kunnen dat doen. In de jaren 70 werd bij een derde van de volwassen vrouwen milde acne aan cosmetica gekoppeld. Producten zijn sindsdien veranderd. Lijstjes met 'comedogene' ingrediënten zijn onbetrouwbaar, want een eindproduct met zo'n ingrediënt verstopt vaak niet. En 'non-comedogeen' is geen beschermde term. Pommade in je haar gaf bij 70% van de vaste gebruikers mee-eters op het voorhoofd.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/4264346/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">"Acne cosmetica".</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kligman AM, Mills OH Jr</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Arch Dermatol 1972 <span class="px-1 text-border">·</span> PMID <span class="text-info">4264346</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/6461674/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Is the rabbit ear model, in its present state, prophetic of acnegenicity?</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Frank SB</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Am Acad Dermatol 1982 <span class="px-1 text-border">·</span> PMID <span class="text-info">6461674</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/16488305/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">A re-evaluation of the comedogenicity concept.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Draelos ZD, DiNardo JC</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Am Acad Dermatol 2006 <span class="px-1 text-border">·</span> PMID <span class="text-info">16488305</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/4245751/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Pomade acne.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Plewig G, Fulton JE, Kligman AM</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Arch Dermatol 1970 <span class="px-1 text-border">·</span> PMID <span class="text-info">4245751</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Je telefoon, je mondkapje en pulken</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Druk en wrijving irriteren het haarzakje en duwen het propje dieper. Dat heet acne mechanica, en het komt van bijvoorbeeld een mondkapje, een helm of je telefoon tegen je wang. Wie langer dan 4 uur per dag een mondkapje droeg, had bijna twee keer zo vaak huidklachten. Pulken doet hetzelfde: het maakt de ontsteking erger en geeft vaker littekens.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/33084483/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">The Effects of the Face Mask on the Skin Underneath: A Prospective Survey During the COVID-19 Pandemic.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Techasatian L, Lebsing S, Uppala R, Thaowandee W, Chaiyarit J et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Prim Care Community Health 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">33084483</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC7786409</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/38102842/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Acne excoriée: Diagnostic overview and management.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Johnsen N, Poppens M, Cheng K</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Int J Dermatol 2024 <span class="px-1 text-border">·</span> PMID <span class="text-info">38102842</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Hoe vaak moet je je gezicht wassen?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Twee keer per dag, zacht. In een kleine studie gaf één keer per dag wassen meer ontstoken puistjes, en vaker dan twee keer hielp niet extra. Acne komt niet door een vieze huid: het propje zit onder je huid, in het haarzakje. Scrubben irriteert je huid juist. Mijn eigen routine staat op mijn skincare-pagina.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/17014635/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">A single-blinded, randomized, controlled clinical trial evaluating the effect of face washing on acne vulgaris.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Choi JM, Lew VK, Kimball AB</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Pediatr Dermatol 2006 <span class="px-1 text-border">·</span> PMID <span class="text-info">17014635</span></p>
+      </a>
+      <a href="https://www.aad.org/public/diseases/acne/skin-care/tips" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">American Academy of Dermatology: huidverzorging bij acne</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Zacht wassen, niet scrubben, niet pulken</p>
+      </a>
+      <a href="https://www.thuisarts.nl/acne/ik-heb-puistjes-acne-wat-kan-ik-doen" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Thuisarts: puistjes en acne</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Wat je zelf kunt doen</p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Helpt de zon?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Nee. UV verandert talg zo dat het poriën juist meer verstopt. En na een puistje blijft vaak een donker vlekje achter, doordat je huid extra pigment maakt. Zon maakt die vlekjes donkerder, en zonnebrand helpt ze te voorkomen.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/147099/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Enhancement of comedogenic substances by ultraviolet radiation.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mills OH, Porte M, Kligman AM</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Br J Dermatol 1978 <span class="px-1 text-border">·</span> PMID <span class="text-info">147099</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/20725554/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Postinflammatory hyperpigmentation: a review of the epidemiology, clinical features, and treatment options in skin of color.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Davis EC, Callender VD</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Clin Aesthet Dermatol 2010 <span class="px-1 text-border">·</span> PMID <span class="text-info">20725554</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC2921758</span></p>
+      </a>
+      <a href="https://www.thuisarts.nl/acne/ik-heb-puistjes-acne-wat-kan-ik-doen" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Thuisarts: puistjes en acne</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Wat je zelf kunt doen</p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 7</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Wat kan het nog meer zijn?</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Je darm, je lever, medicijnen en stress.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Speelt je darm mee?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Je darmwand is maar één cellaag dik. Die cellen zitten aan elkaar vast met kleine verbindingen. Ze laten voedingsstoffen door en houden bacteriën en hun afvalstoffen tegen.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Zonuline is een eiwit dat bepaalt hoe open die verbindingen staan. Meer zonuline betekent dat ze verder opengaan: een meer doorlaatbare, 'lekkende' darm.</li><li>Stukjes van bacteriën kunnen dan je bloed in.</li><li>Je afweer reageert daarop, ook buiten je darm.</li><li>Die extra ontsteking kan stap 4 van acne versterken.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Er zijn aanwijzingen voor deze indirecte route. Bij acne was I-FABP hoger, een marker voor schade aan de darmwand, en hoe hoger, hoe ernstiger de acne. Al in 1983 reageerde het bloed van mensen met ernstige acne sterker op bacteriële gifstoffen. Mensen met acne hebben in kleine studies ook andere darmbacteriën, en probiotica gaven wisselende resultaten. Het zijn kleine studies die een verband laten zien, nog geen bewijs voor oorzaak. Let bij zonuline op de test: de veelgebruikte tests meten niet zonuline zelf, maar andere eiwitten.</p>
       
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/29756631/" class="mt-5 block border-l border-border pl-4">
@@ -390,8 +600,8 @@
       </a>
     </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Lever en detox</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Je lever ruimt hormonen op: hij hangt er een label aan, zodat je lichaam ze via je gal en urine kan afvoeren. Online heet dat de 'detoxfases', en lees je dat een trage lever acne geeft. Er is geen onderzoek bij mensen dat je lever of die fases koppelt aan acne. DIM en calcium-D-glucaraat zitten in veel acnesupplementen, maar zijn nooit bij acne onderzocht. Je leverwaarden zijn bij acne alleen van belang als je bepaalde medicijnen gebruikt. Hoe je lichaam hormonen afvoert, lees je op mijn hormonen-pagina.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Komt het door een 'verstopte lever'?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Twee klinieken zeiden tegen mij dat ik een 'verstopte lever' had. Mijn leverwaarden in mijn bloed waren normaal: GGT 12 en ALT 26, twee waarden die je huisarts vaak meet.</p><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Je lever ruimt hormonen op: hij hangt er een label aan, zodat je lichaam ze via je gal en urine kan afvoeren. Dat heet vaak de 'detoxfases', en je leest dat een trage lever acne geeft. Er is geen onderzoek bij mensen dat je lever of die fases koppelt aan acne. DIM en calcium-D-glucaraat zitten in veel acnesupplementen, maar zijn nooit bij acne onderzocht. Je leverwaarden zijn bij acne alleen van belang als je bepaalde medicijnen gebruikt. Hoe je lichaam hormonen afvoert, lees je op mijn hormonen-pagina.</p>
       
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/38495547/" class="mt-5 block border-l border-border pl-4">
@@ -405,100 +615,9 @@
         <p class="mt-1 text-[12px] text-muted-foreground">JAMA Dermatol 2016 <span class="px-1 text-border">·</span> PMID <span class="text-info">26630323</span></p>
       </a>
     </div>
-    <div class="mx-6 mt-24">
-      <p class="text-[12px] text-muted-foreground">Deel 4</p>
-      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Huid en producten</h2>
-      <p class="mt-2 text-[15px] text-muted-foreground">Wat je huid verstopt, en wat je juist laat.</p>
-    </div>
-    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Verstoppende producten</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">'Comedogeen' betekent dat een product poriën kan verstoppen en mee-eters geeft: stap 2 van acne. Zware crèmes en oliën kunnen dat doen. In de jaren 70 werd bij een derde van de volwassen vrouwen milde acne aan cosmetica gekoppeld. Producten zijn sindsdien veranderd. Lijstjes met 'comedogene' ingrediënten zijn onbetrouwbaar, want een eindproduct met zo'n ingrediënt verstopt vaak niet, en 'non-comedogeen' is geen beschermde term. Pommade in je haar gaf bij 70% van de vaste gebruikers mee-eters op het voorhoofd.</p>
-      
-      
-      <a href="https://pubmed.ncbi.nlm.nih.gov/4264346/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">"Acne cosmetica".</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kligman AM, Mills OH Jr</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Arch Dermatol 1972 <span class="px-1 text-border">·</span> PMID <span class="text-info">4264346</span></p>
-      </a>
-      <a href="https://pubmed.ncbi.nlm.nih.gov/6461674/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Is the rabbit ear model, in its present state, prophetic of acnegenicity?</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Frank SB</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">J Am Acad Dermatol 1982 <span class="px-1 text-border">·</span> PMID <span class="text-info">6461674</span></p>
-      </a>
-      <a href="https://pubmed.ncbi.nlm.nih.gov/16488305/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">A re-evaluation of the comedogenicity concept.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Draelos ZD, DiNardo JC</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">J Am Acad Dermatol 2006 <span class="px-1 text-border">·</span> PMID <span class="text-info">16488305</span></p>
-      </a>
-      <a href="https://pubmed.ncbi.nlm.nih.gov/4245751/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Pomade acne.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Plewig G, Fulton JE, Kligman AM</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Arch Dermatol 1970 <span class="px-1 text-border">·</span> PMID <span class="text-info">4245751</span></p>
-      </a>
-    </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wrijving en pulken</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Druk en wrijving irriteren het haarzakje en duwen het propje dieper. Dat heet acne mechanica, en het komt van bijvoorbeeld een mondkapje, helm of telefoon. Wie langer dan 4 uur per dag een mondkapje droeg, had bijna twee keer zo vaak huidklachten. Pulken doet hetzelfde: het maakt de ontsteking erger en geeft vaker littekens.</p>
-      
-      
-      <a href="https://pubmed.ncbi.nlm.nih.gov/33084483/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">The Effects of the Face Mask on the Skin Underneath: A Prospective Survey During the COVID-19 Pandemic.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Techasatian L, Lebsing S, Uppala R, Thaowandee W, Chaiyarit J et al.</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">J Prim Care Community Health 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">33084483</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC7786409</span></p>
-      </a>
-      <a href="https://pubmed.ncbi.nlm.nih.gov/38102842/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Acne excoriée: Diagnostic overview and management.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Johnsen N, Poppens M, Cheng K</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Int J Dermatol 2024 <span class="px-1 text-border">·</span> PMID <span class="text-info">38102842</span></p>
-      </a>
-    </div>
-    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wassen</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Acne komt niet door een vieze huid: het propje zit onder je huid, in het haarzakje. Scrubben irriteert je huid juist. Was je gezicht twee keer per dag zacht. In een kleine studie gaf één keer per dag wassen meer ontstoken puistjes, en vaker dan twee keer hielp niet extra.</p>
-      
-      
-      <a href="https://pubmed.ncbi.nlm.nih.gov/17014635/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">A single-blinded, randomized, controlled clinical trial evaluating the effect of face washing on acne vulgaris.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Choi JM, Lew VK, Kimball AB</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Pediatr Dermatol 2006 <span class="px-1 text-border">·</span> PMID <span class="text-info">17014635</span></p>
-      </a>
-      <a href="https://www.aad.org/public/diseases/acne/skin-care/tips" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">American Academy of Dermatology: huidverzorging bij acne</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Zacht wassen, niet scrubben, niet pulken</p>
-      </a>
-      <a href="https://www.thuisarts.nl/acne/ik-heb-puistjes-acne-wat-kan-ik-doen" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Thuisarts: puistjes en acne</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Wat je zelf kunt doen</p>
-      </a>
-    </div>
-    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">En de zon?</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Veel mensen denken dat zon acne opdroogt. Dat klopt niet. UV verandert talg zo dat het juist meer verstopt. En na een puistje blijft vaak een donker vlekje achter, doordat je huid extra pigment maakt. Zon maakt die vlekjes donkerder. Zonnebrand helpt ze te voorkomen.</p>
-      
-      
-      <a href="https://pubmed.ncbi.nlm.nih.gov/147099/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Enhancement of comedogenic substances by ultraviolet radiation.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mills OH, Porte M, Kligman AM</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Br J Dermatol 1978 <span class="px-1 text-border">·</span> PMID <span class="text-info">147099</span></p>
-      </a>
-      <a href="https://pubmed.ncbi.nlm.nih.gov/20725554/" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Postinflammatory hyperpigmentation: a review of the epidemiology, clinical features, and treatment options in skin of color.</p>
-        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Davis EC, Callender VD</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">J Clin Aesthet Dermatol 2010 <span class="px-1 text-border">·</span> PMID <span class="text-info">20725554</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC2921758</span></p>
-      </a>
-      <a href="https://www.thuisarts.nl/acne/ik-heb-puistjes-acne-wat-kan-ik-doen" class="mt-5 block border-l border-border pl-4">
-        <p class="text-[14px] font-medium leading-snug">Thuisarts: puistjes en acne</p>
-        <p class="mt-1 text-[12px] text-muted-foreground">Wat je zelf kunt doen</p>
-      </a>
-    </div>
-    <div class="mx-6 mt-24">
-      <p class="text-[12px] text-muted-foreground">Deel 5</p>
-      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Wat nog meer meespeelt</h2>
-      <p class="mt-2 text-[15px] text-muted-foreground">Medicijnen, stress, roken en meer.</p>
-    </div>
-    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Andere oorzaken</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Dit zijn de oorzaken die het vaakst over het hoofd worden gezien:</p><div id="s8328m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Medicijnen, stress en roken</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Soms zit de oorzaak in iets wat je slikt of smeert. Stress, slaap en roken hangen in studies maar zwak met acne samen.</p><div id="s16815m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
         <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
           <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Medicijnen</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Onder meer corticosteroïden, testosteron en anabole steroïden, lithium en sommige epilepsiemiddelen. 38% van de Nederlandse gebruikers van anabole steroïden kreeg acne.</p></div>
           
@@ -508,7 +627,7 @@
           
         </div>
         <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
-          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Stress</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Tijdens examens werd acne erger bij meer stress, in een kleine studie. Het is een verband; Thuisarts zegt dat stress geen oorzaak is.</p></div>
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Stress</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">In een kleine studie werd acne tijdens examens erger naarmate de stress hoger was. Dat is een verband. Thuisarts noemt stress geen oorzaak.</p></div>
           
         </div>
         <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
@@ -516,7 +635,7 @@
           
         </div>
         <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
-          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Roken</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Gemengd: in een overzicht van 17 studies was het verband niet significant, bij volwassenen iets sterker.</p></div>
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Roken</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Gemengd: in een overzicht van 17 studies was er geen duidelijk verband, bij volwassenen iets sterker.</p></div>
           
         </div></div>
       
@@ -556,13 +675,13 @@
       </a>
     </div>
     <div class="mx-6 mt-24">
-      <p class="text-[12px] text-muted-foreground">Deel 6</p>
-      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Meten</h2>
-      <p class="mt-2 text-[15px] text-muted-foreground">Wanneer hormonen laten checken, en welke waarden.</p>
+      <p class="text-[12px] text-muted-foreground">Deel 8</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Wat kun je laten meten?</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Wanneer je hormonen laat checken, en welke waarden.</p>
     </div>
     <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
       <h2 class="text-[19px] font-normal tracking-[-0.01em]">Welke bloedwaarden, en wanneer</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Laat hormonen vooral checken als je meer hebt dan alleen acne: een onregelmatige cyclus, veel haargroei, haaruitval, acne die plots op volwassen leeftijd begint, of acne die snel terugkomt na een behandeling. Gebruik je de pil, dan kloppen androgeenwaarden pas weer 3 maanden na het stoppen. Deze waarden zijn dan zinvol:</p><div id="s28979m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Laat je hormonen vooral checken als je meer hebt dan alleen acne: een onregelmatige cyclus, veel haargroei, haaruitval, acne die plots op volwassen leeftijd begint, of acne die snel terugkomt na een behandeling. Gebruik je de pil, dan kloppen androgeenwaarden pas weer 3 maanden na het stoppen. Ik liet zelf in mei 2026 testosteron, vrij testosteron, SHBG en DHEA-S meten, en in september opnieuw testosteron en SHBG.</p><div id="s87277m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
         <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
           <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Totaal en vrij testosteron</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Het liefst gemeten met de nauwkeurigste methode (LC-MS/MS).</p></div>
           
@@ -586,7 +705,11 @@
         <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
           <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Vitamine B12</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Als je B12 slikt of krijgt.</p></div>
           
-        </div></div>
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Zink</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">In een overzicht van studies hadden mensen met acne gemiddeld een lagere zinkwaarde in hun bloed. Dat is een verband. Of een lage waarde acne geeft, is niet bewezen. Mijn zink was 11 µmol/L (december 2025), net boven de grens van 10,7.</p></div>
+          
+        </div></div><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Bespreek een afwijkende waarde altijd met je huisarts.</p>
       
       
       <a href="https://pubmed.ncbi.nlm.nih.gov/37580314/" class="mt-5 block border-l border-border pl-4">
@@ -594,19 +717,24 @@
         <p class="mt-1.5 text-[12.5px] leading-snug text-info">Teede HJ, Tay CT, Laven JJE, Dokras A, Moran LJ et al.</p>
         <p class="mt-1 text-[12px] text-muted-foreground">J Clin Endocrinol Metab 2023 <span class="px-1 text-border">·</span> PMID <span class="text-info">37580314</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC10505534</span></p>
       </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/32860489/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Serum zinc levels and efficacy of zinc treatment in acne vulgaris: A systematic review and meta-analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Yee BE, Richards P, Sui JY, Marsch AF</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Dermatol Ther 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">32860489</span></p>
+      </a>
       <a href="https://richtlijnen.nhg.org/standaarden/acne" class="mt-5 block border-l border-border pl-4">
         <p class="text-[14px] font-medium leading-snug">NHG-Standaard Acne</p>
         <p class="mt-1 text-[12px] text-muted-foreground">Oorzaken, wanneer hormonen laten checken, en de behandeling</p>
       </a>
     </div>
     <div class="mx-6 mt-24">
-      <p class="text-[12px] text-muted-foreground">Deel 7</p>
-      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Behandeling</h2>
-      <p class="mt-2 text-[15px] text-muted-foreground">Wat de huisarts en dermatoloog doen.</p>
+      <p class="text-[12px] text-muted-foreground">Deel 9</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">En als het niet weggaat?</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Wat je huisarts en dermatoloog kunnen doen.</p>
     </div>
     <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
-      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Zo ziet de behandeling eruit</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">De huisarts kiest de behandeling op hoe ernstig je acne is. Elk middel grijpt in op een andere stap:</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Mild: een middel op de huid, zoals benzoylperoxide, dat bacteriën remt, of een retinoïde, dat verstopte poriën opent.</li><li>Matig: daarbij een antibioticum op de huid, tegen bacteriën en ontsteking.</li><li>Ernstig: een antibioticumkuur van maximaal 3 maanden.</li><li>Daarna isotretinoïne, via de huisarts of de dermatoloog. Dat laat de talgklieren krimpen.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">De pil wordt alleen gegeven als je ook anticonceptie wilt. Spironolacton is in Nederland niet geregistreerd voor acne. Behalve benzoylperoxide zijn al deze middelen op recept: bespreek ze met je huisarts.</p><p class="mt-4 rounded-md bg-muted/60 px-3.5 py-2.5 text-[13px] leading-[1.6] text-foreground/85"><span class="font-medium">Start nooit zonder data.</span> Slik geen supplementen tegen acne zonder te meten: B12 kan acne juist erger maken, en DIM is nooit bij acne onderzocht.</p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Van mild tot ernstig</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Je huisarts kiest de behandeling op hoe ernstig je acne is. Elk middel grijpt in op een andere stap van acne.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Mild: een middel op de huid, zoals benzoylperoxide, dat bacteriën remt, of een retinoïde, dat verstopte poriën opent.</li><li>Matig: daarbij een antibioticum op de huid, tegen bacteriën en ontsteking.</li><li>Ernstig: een antibioticumkuur van maximaal 3 maanden.</li><li>Daarna isotretinoïne, via de huisarts of de dermatoloog. Dat laat de talgklieren krimpen.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">De pil wordt alleen gegeven als je ook anticonceptie wilt. Spironolacton is in Nederland niet geregistreerd voor acne. Behalve benzoylperoxide zijn al deze middelen op recept: bespreek ze met je huisarts.</p><p class="mt-4 rounded-md bg-muted/60 px-3.5 py-2.5 text-[13px] leading-[1.6] text-foreground/85"><span class="font-medium">Start nooit zonder data.</span> Slik geen supplementen tegen acne zonder te meten: B12 kan acne juist erger maken, en DIM is nooit bij acne onderzocht.</p>
       
       
       <a href="https://richtlijnen.nhg.org/standaarden/acne" class="mt-5 block border-l border-border pl-4">
@@ -617,10 +745,10 @@
         <p class="text-[14px] font-medium leading-snug">Richtlijn Acne vulgaris (NVDV)</p>
         <p class="mt-1 text-[12px] text-muted-foreground">Behandeling bij de dermatoloog</p>
       </a>
-    </div><p class="mx-6 mt-12 border-t border-border-faint pt-10 text-[15px] leading-[1.7] text-foreground/85">Acne heeft bijna nooit één oorzaak. Door je cyclus, je bloedwaarden en je huidroutine naast elkaar te leggen, zie je wat er bij jou speelt - in plaats van alles tegelijk te proberen. Bespreek een afwijkende waarde altijd met je huisarts.</p>
+    </div><p class="mx-6 mt-12 border-t border-border-faint pt-10 text-[15px] leading-[1.7] text-foreground/85">Acne heeft bijna nooit één oorzaak. Begin bij je patroon: op welke dag van je cyclus komt het op? Leg dat naast je bloedwaarden en je producten, en verander één ding per keer. Bespreek een afwijkende waarde altijd met je huisarts.</p>
     <div id="trial" class="mx-6 mt-12 rounded-xl border border-border-faint bg-card p-6 text-card-foreground">
       <p class="text-[12px] text-muted-foreground">De trial</p>
-      <p class="mt-1 text-[17px] font-normal tracking-[-0.01em]">Probeer de Cellular Trial</p>
+      <p class="mt-1 text-[17px] font-normal tracking-[-0.01em]">Zie wat er bij jou meespeelt</p>
       <ol class="mt-4 space-y-2.5">
         <li class="flex gap-3">
           <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">01</span>
@@ -632,63 +760,78 @@
         </li>
         <li class="flex gap-3">
           <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">03</span>
-          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Analyse.</span> <span class="text-muted-foreground">We lezen 30+ waarden uit en sturen je protocol per video.</span></p>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Analyse.</span> <span class="text-muted-foreground">We lezen 30+ waarden uit, zoals je slaap, je herstel en je hartslagvariatie (HRV), en kijken met je naar je cyclus. Je krijgt je protocol per video.</span></p>
         </li>
         <li class="flex gap-3">
           <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">04</span>
-          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Opvolging.</span> <span class="text-muted-foreground">In een call kijken we hoe het voor je werkt.</span></p>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Opvolging.</span> <span class="text-muted-foreground">In een call bespreken we je uitkomst en wat je volgende stap is.</span></p>
         </li></ol>
       <div class="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2.5"><img src="logo-whoop.png" alt="WHOOP" class="w-auto shrink-0 opacity-80 dark:invert" style="height:10px" /><img src="logo-withings.png" alt="Withings" class="w-auto shrink-0 opacity-80 dark:invert" style="height:9px" /><img src="logo-oura.png" alt="Oura" class="w-auto shrink-0 opacity-80 dark:invert" style="height:11px" /><img src="logo-apple.png" alt="Apple" class="w-auto shrink-0 opacity-80 dark:invert" style="height:14px" /><img src="logo-fitbit.png" alt="Google Fitbit" class="w-auto shrink-0 opacity-80 dark:invert" style="height:12px" /></div>
-      <div class="mt-5 flex items-center gap-3 border-t border-border-faint pt-5"><div class="flex shrink-0 -space-x-2"><img src="leontine.jpg" alt="Leontine Borsato" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="daniel.jpg" alt="Daniel Dalen" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="bas.jpg" alt="Bas Lengers" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="thijs.jpg" alt="Thijs Verlangen" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="simone.jpg" alt="Simone Levie" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /></div><p class="text-[13px] font-medium">400+ members</p></div>
-      <p class="mt-1.5 text-[12px] leading-snug text-muted-foreground">Onder wie Leontine Borsato, JayJay Boske, Daniel Dalen en Olivier, eigenaar van Factor Meals.</p>
+      <div class="mt-5 flex items-center gap-3 border-t border-border-faint pt-5"><div class="flex shrink-0 -space-x-2"><img src="leontine.jpg" alt="Leontine Borsato" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="daniel.jpg" alt="Daniel Dalen" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="bas.jpg" alt="Bas Lengers" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="thijs.jpg" alt="Thijs Verlangen" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="simone.jpg" alt="Simone Levie" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /></div><p class="text-[13px] font-medium">Vertrouwd door 400+ mensen</p></div>
+      
       <a href="https://go.joincellular.com/acne" class="group/button inline-flex shrink-0 cursor-(--pointer) items-center justify-center rounded-md border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all duration-50 ease-out outline-none select-none active:translate-y-px bg-primary text-primary-foreground hover:bg-primary/90 h-9 gap-1.5 px-3 mt-5 w-full">Start de trial</a>
       <p class="mt-3 text-center text-[11.5px] text-muted-foreground">Wordt privé afgehandeld door ons team.</p>
     </div>
-    <div class="mx-4 mt-12 overflow-hidden rounded-[28px] bg-muted/50 py-3">
-      <div class="flex items-baseline justify-between px-4.5 pb-2.5 pt-1"><p class="text-[13px] font-medium text-muted-foreground">Wat members zeggen</p><p class="text-[12px] text-muted-foreground/70">Veeg &rarr;</p></div>
-      <div class="flex snap-x snap-mandatory scroll-px-3 gap-2.5 overflow-x-auto px-3 pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-        <figure class="flex w-[250px] shrink-0 snap-start flex-col justify-between gap-4 rounded-[22px] bg-card p-4 ring-1 ring-border-faint/60 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_4px_16px_rgb(0_0_0/0.04)]">
-          <blockquote class="text-[15px] leading-[1.55] text-foreground/90">&ldquo;Als ik het niet zie, is het er voor mij niet.&rdquo;</blockquote>
-          <figcaption class="flex items-center gap-2.5"><img src="jayjay.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
-            <span class="grid leading-tight"><span class="text-[13px] font-medium">JayJay Boske</span></span></figcaption>
-        </figure>
-        <figure class="flex w-[250px] shrink-0 snap-start flex-col justify-between gap-4 rounded-[22px] bg-card p-4 ring-1 ring-border-faint/60 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_4px_16px_rgb(0_0_0/0.04)]">
-          <blockquote class="text-[15px] leading-[1.55] text-foreground/90">&ldquo;Ik voel me heel goed!&rdquo;</blockquote>
+    <div class="mx-6 mt-12 border-t border-border-faint pt-10">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat members zeggen</h2>
+      <div class="mt-5 grid gap-2.5" style="mask-image:linear-gradient(to bottom,#000 calc(100% - 8rem),transparent);-webkit-mask-image:linear-gradient(to bottom,#000 calc(100% - 8rem),transparent)">
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
           <figcaption class="flex items-center gap-2.5"><img src="leontine.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
-            <span class="grid leading-tight"><span class="text-[13px] font-medium">Leontine Borsato</span></span></figcaption>
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Leontine Borsato</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">Influencer, tv-presentatrice en celebrity</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Ik voel me heel goed! Het eten is wel wat lastig met zoveel reisjes, maar alles op z'n tijd.&rdquo;</blockquote>
         </figure>
-        <figure class="flex w-[250px] shrink-0 snap-start flex-col justify-between gap-4 rounded-[22px] bg-card p-4 ring-1 ring-border-faint/60 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_4px_16px_rgb(0_0_0/0.04)]">
-          <blockquote class="text-[15px] leading-[1.55] text-foreground/90">&ldquo;This is super thorough, love it.&rdquo;</blockquote>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="jayjay.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">JayJay Boske</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">Ondernemer, spreker en influencer</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Als ik het niet zie, is het er voor mij niet.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
           <figcaption class="flex items-center gap-2.5"><img src="rob.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
-            <span class="grid leading-tight"><span class="text-[13px] font-medium">Rob Lipsett</span><span class="text-[12px] text-muted-foreground">GHOST</span></span></figcaption>
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Rob Lipsett</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">Creator en ondernemer</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;This is super thorough, love it.&rdquo;</blockquote>
         </figure>
-        <figure class="flex w-[250px] shrink-0 snap-start flex-col justify-between gap-4 rounded-[22px] bg-card p-4 ring-1 ring-border-faint/60 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_4px_16px_rgb(0_0_0/0.04)]">
-          <blockquote class="text-[15px] leading-[1.55] text-foreground/90">&ldquo;Heb echt gekke energie, hele dagen door. Echt super.&rdquo;</blockquote>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
           <figcaption class="flex items-center gap-2.5"><img src="ruud.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
-            <span class="grid leading-tight"><span class="text-[13px] font-medium">Ruud &amp; Renée</span><span class="text-[12px] text-muted-foreground">Thrivin</span></span></figcaption>
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Ruud &amp; Renée</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">CEO en medeoprichter, Thrivin</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Heb echt gekke energie, hele dagen door. Echt super.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="daniel.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Daniel Dalen</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">CEO en oprichter, Ecomflow</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Haha, je bent echt een beast, bro.&rdquo;</blockquote>
         </figure>
       </div>
     </div>
-    <div class="mx-4 mt-12 rounded-[28px] bg-muted/50 p-3">
-      <p class="px-1.5 pb-2.5 pt-1 text-[13px] font-medium text-muted-foreground">Meer guides</p>
-      <div class="grid grid-cols-2 gap-2.5">
-        <a href="../hormonen/" class="group col-span-2 flex flex-col gap-4 p-4 rounded-[22px] bg-card ring-1 ring-border-faint/60 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_4px_16px_rgb(0_0_0/0.04)] transition-transform active:scale-[.99]">
-          <div class="flex items-center gap-2.5"><span class="flex size-7 shrink-0 items-center justify-center rounded-[10px] bg-linear-to-b from-foreground/85 to-foreground text-background shadow-sm"><svg viewBox="0 0 24 24" class="size-4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.5 12c2.2 0 2.6-6 4.8-6s2.6 12 4.8 12 2.6-12 4.8-12 2.4 6 4.6 6"/></svg></span><p class="text-[13px] font-medium text-muted-foreground">Volgende guide</p><span class="ml-auto"><svg class="size-3.5 shrink-0 text-muted-foreground/70 transition-transform group-hover:translate-x-0.5" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3.5 4.5 4.5L6 12.5"/></svg></span></div>
-          <div class="flex items-end justify-between gap-3"><div class="min-w-0"><p class="text-[21px] font-medium leading-[1.15] tracking-[-0.02em]">Hormonen</p>
-          <p class="mt-1 text-[13px] leading-snug text-muted-foreground">58 studies · 5 delen</p></div><svg viewBox="0 0 120 44" class="h-11 w-[120px] shrink-0 text-foreground" aria-hidden="true"><defs><linearGradient id="gp-spark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="currentColor" stop-opacity=".16"/><stop offset="1" stop-color="currentColor" stop-opacity="0"/></linearGradient></defs><path d="M2 34 C14 34 18 6 28 6 S40 30 50 26 S68 10 80 12 S104 36 118 34 L118 44 L2 44 Z" fill="url(#gp-spark)"/><path d="M2 34 C14 34 18 6 28 6 S40 30 50 26 S68 10 80 12 S104 36 118 34" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+    <div class="mx-6 mt-12 border-t border-border-faint pt-10">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Meer guides</h2>
+      <div class="mt-5 grid grid-cols-2 gap-2.5">
+        <a href="../hormonen/" class="group col-span-2 block p-5 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[12px] text-muted-foreground">Volgende guide</p>
+          <p class="mt-1 text-[17px] font-normal leading-[1.3] tracking-[-0.01em]">Hormonen</p>
+          <p class="mt-1.5 line-clamp-2 text-[13.5px] leading-[1.55] text-muted-foreground">Wat je hormonen elke maand doen, in welke fase je nu zit, wat je kunt laten meten en wat supplementen wel en niet doen.</p>
+          <div class="mt-4 flex items-center justify-between border-t border-border-faint pt-3.5 text-[13px]"><span class="text-muted-foreground">59 studies · 5 delen</span>
+            <span class="font-medium">Lees de guide <span class="inline-block transition-transform group-hover:translate-x-0.5">&rarr;</span></span></div>
         </a>
-        <a href="../moe/" class="group flex flex-col justify-between gap-6 p-3.5 rounded-[22px] bg-card ring-1 ring-border-faint/60 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_4px_16px_rgb(0_0_0/0.04)] transition-transform active:scale-[.99]"><span class="flex size-8 shrink-0 items-center justify-center rounded-[10px] bg-linear-to-b from-foreground/85 to-foreground text-background shadow-sm"><svg viewBox="0 0 24 24" class="size-[17px]" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 17h16"/><path d="M7.5 17a4.5 4.5 0 0 1 9 0"/><path d="M12 6.5V9M5.6 10.6l1.6 1.6M18.4 10.6l-1.6 1.6M2.5 14h1.5M20 14h1.5"/></svg></span>
-          <div><p class="text-[14px] font-medium leading-snug tracking-[-0.01em]">Moe wakker worden</p><p class="mt-0.5 text-[12px] text-muted-foreground">49 studies</p></div></a>
-        <a href="../pcos/" class="group flex flex-col justify-between gap-6 p-3.5 rounded-[22px] bg-card ring-1 ring-border-faint/60 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_4px_16px_rgb(0_0_0/0.04)] transition-transform active:scale-[.99]"><span class="flex size-8 shrink-0 items-center justify-center rounded-[10px] bg-linear-to-b from-foreground/85 to-foreground text-background shadow-sm"><svg viewBox="0 0 24 24" class="size-[17px]" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="6.5" r="2.5"/><circle cx="6" cy="17" r="2.5"/><circle cx="18" cy="17" r="2.5"/><path d="M10.8 8.7 7.2 14.8M13.2 8.7l3.6 6.1M8.5 17h7"/></svg></span>
-          <div><p class="text-[14px] font-medium leading-snug tracking-[-0.01em]">Hormoondisbalans en PCOS</p><p class="mt-0.5 text-[12px] text-muted-foreground">11 studies</p></div></a>
-        <a href="../biomarkers/" class="group flex flex-col justify-between gap-6 p-3.5 rounded-[22px] bg-card ring-1 ring-border-faint/60 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_4px_16px_rgb(0_0_0/0.04)] transition-transform active:scale-[.99]"><span class="flex size-8 shrink-0 items-center justify-center rounded-[10px] bg-linear-to-b from-foreground/85 to-foreground text-background shadow-sm"><svg viewBox="0 0 24 24" class="size-[17px]" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.5c3 3.6 5.5 6.8 5.5 10a5.5 5.5 0 0 1-11 0c0-3.2 2.5-6.4 5.5-10Z"/><path d="M9.6 14.6a2.6 2.6 0 0 0 2.4 2.3"/></svg></span>
-          <div><p class="text-[14px] font-medium leading-snug tracking-[-0.01em]">De bloedwaarden die ik laat prikken</p><p class="mt-0.5 text-[12px] text-muted-foreground">31 studies</p></div></a>
-        <a href="../skincare/" class="group flex flex-col justify-between gap-6 p-3.5 rounded-[22px] bg-card ring-1 ring-border-faint/60 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_4px_16px_rgb(0_0_0/0.04)] transition-transform active:scale-[.99]"><span class="flex size-8 shrink-0 items-center justify-center rounded-[10px] bg-linear-to-b from-foreground/85 to-foreground text-background shadow-sm"><svg viewBox="0 0 24 24" class="size-[17px]" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.5l1.6 4.4 4.4 1.6-4.4 1.6L12 15.5l-1.6-4.4L6 9.5l4.4-1.6Z"/><path d="M18.5 14.5l.7 1.8 1.8.7-1.8.7-.7 1.8-.7-1.8-1.8-.7 1.8-.7Z"/><path d="M6 15.5l.5 1.3 1.3.5-1.3.5-.5 1.3-.5-1.3-1.3-.5 1.3-.5Z"/></svg></span>
-          <div><p class="text-[14px] font-medium leading-snug tracking-[-0.01em]">Mijn skincare-routine, in de juiste volgorde</p><p class="mt-0.5 text-[12px] text-muted-foreground">14 studies</p></div></a>
+        <a href="../moe/" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Moe wakker worden</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>49 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../pcos/" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Hormoondisbalans en PCOS</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>13 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../biomarkers/" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">De bloedwaarden die ik laat prikken</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>37 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../skincare/" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Mijn skincare-routine, in de juiste volgorde</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>14 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
       </div>
     </div>
     <div class="px-6 pt-12">
-      <details class="group border-y border-border-faint"><summary class="flex cursor-pointer list-none items-center justify-between gap-3 py-3 text-[13px] font-medium [&::-webkit-details-marker]:hidden"><span>Alle bronnen <span class="font-normal text-muted-foreground">(63)</span></span><svg class="size-3.5 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></summary><ol class="mb-4 mt-1 list-decimal space-y-1.5 pl-4 text-xs leading-snug text-muted-foreground"><li><a href="https://pubmed.ncbi.nlm.nih.gov/21880356/" class="hover:text-foreground">Williams HC et al., Lancet 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/12485434/" class="hover:text-foreground">Bataille V et al., J Invest Dermatol 2002</a></li><li><a href="https://richtlijnen.nhg.org/standaarden/acne" class="hover:text-foreground">NHG-Standaard Acne</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/28673039/" class="hover:text-foreground">Goldman AL et al., Endocr Rev 2017</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/7636302/" class="hover:text-foreground">Thiboutot D et al., J Invest Dermatol 1995</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/6223099/" class="hover:text-foreground">Lucky AW et al., J Invest Dermatol 1983</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/11334899/" class="hover:text-foreground">Slayden SM et al., Fertil Steril 2001</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/11712049/" class="hover:text-foreground">Stoll S et al., J Am Acad Dermatol 2001</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17945383/" class="hover:text-foreground">Collier CN et al., J Am Acad Dermatol 2008</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/16776638/" class="hover:text-foreground">Stricker R et al., Clin Chem Lab Med 2006</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/33355023/" class="hover:text-foreground">Ramezani Tehrani F et al., Gynecol Endocrinol 2021</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/20618496/" class="hover:text-foreground">Kelekci KH et al., Int J Dermatol 2010</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/37580314/" class="hover:text-foreground">Teede HJ et al., J Clin Endocrinol Metab 2023</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/22786490/" class="hover:text-foreground">Arowojolu AO et al., Cochrane Database Syst Rev 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/27272072/" class="hover:text-foreground">Lortscher D et al., J Drugs Dermatol 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/41424156/" class="hover:text-foreground">de Oliveira ECF et al., BJOG 2026</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29939616/" class="hover:text-foreground">Freeman AM et al., 2023</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/23065822/" class="hover:text-foreground">Diamanti-Kandarakis E et al., Endocr Rev 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/1898744/" class="hover:text-foreground">Nestler JE et al., J Clin Endocrinol Metab 1991</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17989724/" class="hover:text-foreground">Smith TM et al., J Invest Dermatol 2008</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/34954284/" class="hover:text-foreground">Nickles MA et al., J Am Acad Dermatol 2022</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/26720707/" class="hover:text-foreground">Nagpal M et al., JAMA Dermatol 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17616769/" class="hover:text-foreground">Smith RN et al., Am J Clin Nutr 2007</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/22678562/" class="hover:text-foreground">Kwon HH et al., Acta Derm Venereol 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17452968/" class="hover:text-foreground">Jones ME et al., Nat Clin Pract Endocrinol Metab 2007</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/12445184/" class="hover:text-foreground">Chen W et al., J Invest Dermatol 2002</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/4269283/" class="hover:text-foreground">Pochi PE et al., Arch Dermatol 1973</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/19471293/" class="hover:text-foreground">Hoppe C et al., Eur J Clin Nutr 2009</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/30096883/" class="hover:text-foreground">Juhl CR et al., Nutrients 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29778512/" class="hover:text-foreground">Aghasi M et al., Clin Nutr 2019</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/32520303/" class="hover:text-foreground">Penso L et al., JAMA Dermatol 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/27317522/" class="hover:text-foreground">Delost GR et al., J Am Acad Dermatol 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/28594082/" class="hover:text-foreground">Veraldi S et al., J Cosmet Dermatol 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/26109103/" class="hover:text-foreground">Kang D et al., Sci Transl Med 2015</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/22988649/" class="hover:text-foreground">Silverberg NB, Cutis 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/38291989/" class="hover:text-foreground">Sompochpruetikul K et al., J Dermatol 2024</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29756631/" class="hover:text-foreground">Deng Y et al., Acta Derm Venereol 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/41853869/" class="hover:text-foreground">Abedin ZU et al., J Cosmet Dermatol 2026</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/42241630/" class="hover:text-foreground">Aksoy Saraç G et al., Acta Dermatovenerol Alp Pannonica Adriat 2026</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/40013532/" class="hover:text-foreground">Gürel RC et al., J Cosmet Dermatol 2025</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/6198846/" class="hover:text-foreground">Juhlin L et al., Acta Derm Venereol 1983</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/21281494/" class="hover:text-foreground">Bowe WP et al., Gut Pathog 2011</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29459849/" class="hover:text-foreground">Scheffler L et al., Front Endocrinol (Lausanne) 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/30640940/" class="hover:text-foreground">Ajamian M et al., PLoS One 2019</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/38495547/" class="hover:text-foreground">Vaidya T et al., J Clin Aesthet Dermatol 2024</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/26630323/" class="hover:text-foreground">Lee YH et al., JAMA Dermatol 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/4264346/" class="hover:text-foreground">Kligman AM et al., Arch Dermatol 1972</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/6461674/" class="hover:text-foreground">Frank SB, J Am Acad Dermatol 1982</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/16488305/" class="hover:text-foreground">Draelos ZD et al., J Am Acad Dermatol 2006</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/4245751/" class="hover:text-foreground">Plewig G et al., Arch Dermatol 1970</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/33084483/" class="hover:text-foreground">Techasatian L et al., J Prim Care Community Health 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/38102842/" class="hover:text-foreground">Johnsen N et al., Int J Dermatol 2024</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17014635/" class="hover:text-foreground">Choi JM et al., Pediatr Dermatol 2006</a></li><li><a href="https://www.aad.org/public/diseases/acne/skin-care/tips" class="hover:text-foreground">American Academy of Dermatology: huidverzorging bij acne</a></li><li><a href="https://www.thuisarts.nl/acne/ik-heb-puistjes-acne-wat-kan-ik-doen" class="hover:text-foreground">Thuisarts: puistjes en acne</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/147099/" class="hover:text-foreground">Mills OH et al., Br J Dermatol 1978</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/20725554/" class="hover:text-foreground">Davis EC et al., J Clin Aesthet Dermatol 2010</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29845939/" class="hover:text-foreground">Smit DL et al., Neth J Med 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/21393945/" class="hover:text-foreground">Saraswat A et al., Indian J Dermatol Venereol Leprol 2011</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/12873885/" class="hover:text-foreground">Chiu A et al., Arch Dermatol 2003</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/36650359/" class="hover:text-foreground">Zhu J et al., Sleep Breath 2023</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/33410614/" class="hover:text-foreground">Zhang JZ et al., Chin Med J (Engl) 2021</a></li><li><a href="https://richtlijnendatabase.nl/richtlijn/acne_vulgaris/behandeling_van_acne_-_acne/behandeling_van_acne.html" class="hover:text-foreground">Richtlijn Acne vulgaris (NVDV)</a></li></ol></details>
+      <details class="group border-y border-border-faint"><summary class="flex cursor-pointer list-none items-center justify-between gap-3 py-3 text-[13px] font-medium [&::-webkit-details-marker]:hidden"><span>Alle bronnen <span class="font-normal text-muted-foreground">(65)</span></span><svg class="size-3.5 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></summary><ol class="mb-4 mt-1 list-decimal space-y-1.5 pl-4 text-xs leading-snug text-muted-foreground"><li><a href="https://pubmed.ncbi.nlm.nih.gov/12485434/" class="hover:text-foreground">Bataille V et al., J Invest Dermatol 2002</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/11712049/" class="hover:text-foreground">Stoll S et al., J Am Acad Dermatol 2001</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/28594082/" class="hover:text-foreground">Veraldi S et al., J Cosmet Dermatol 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/26109103/" class="hover:text-foreground">Kang D et al., Sci Transl Med 2015</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/30096883/" class="hover:text-foreground">Juhl CR et al., Nutrients 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/28673039/" class="hover:text-foreground">Goldman AL et al., Endocr Rev 2017</a></li><li><a href="https://richtlijnen.nhg.org/standaarden/acne" class="hover:text-foreground">NHG-Standaard Acne</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/33199316/" class="hover:text-foreground">Shandro BM et al., Clin Med (Lond) 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/21880356/" class="hover:text-foreground">Williams HC et al., Lancet 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/7636302/" class="hover:text-foreground">Thiboutot D et al., J Invest Dermatol 1995</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/6223099/" class="hover:text-foreground">Lucky AW et al., J Invest Dermatol 1983</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/11334899/" class="hover:text-foreground">Slayden SM et al., Fertil Steril 2001</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17945383/" class="hover:text-foreground">Collier CN et al., J Am Acad Dermatol 2008</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/16776638/" class="hover:text-foreground">Stricker R et al., Clin Chem Lab Med 2006</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/33355023/" class="hover:text-foreground">Ramezani Tehrani F et al., Gynecol Endocrinol 2021</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/20618496/" class="hover:text-foreground">Kelekci KH et al., Int J Dermatol 2010</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/37580314/" class="hover:text-foreground">Teede HJ et al., J Clin Endocrinol Metab 2023</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/22786490/" class="hover:text-foreground">Arowojolu AO et al., Cochrane Database Syst Rev 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/27272072/" class="hover:text-foreground">Lortscher D et al., J Drugs Dermatol 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/41424156/" class="hover:text-foreground">de Oliveira ECF et al., BJOG 2026</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17452968/" class="hover:text-foreground">Jones ME et al., Nat Clin Pract Endocrinol Metab 2007</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/12445184/" class="hover:text-foreground">Chen W et al., J Invest Dermatol 2002</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/4269283/" class="hover:text-foreground">Pochi PE et al., Arch Dermatol 1973</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29939616/" class="hover:text-foreground">Freeman AM et al., 2023</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/23065822/" class="hover:text-foreground">Diamanti-Kandarakis E et al., Endocr Rev 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/1898744/" class="hover:text-foreground">Nestler JE et al., J Clin Endocrinol Metab 1991</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17989724/" class="hover:text-foreground">Smith TM et al., J Invest Dermatol 2008</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/34954284/" class="hover:text-foreground">Nickles MA et al., J Am Acad Dermatol 2022</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/26720707/" class="hover:text-foreground">Nagpal M et al., JAMA Dermatol 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17616769/" class="hover:text-foreground">Smith RN et al., Am J Clin Nutr 2007</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/22678562/" class="hover:text-foreground">Kwon HH et al., Acta Derm Venereol 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/19471293/" class="hover:text-foreground">Hoppe C et al., Eur J Clin Nutr 2009</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29778512/" class="hover:text-foreground">Aghasi M et al., Clin Nutr 2019</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/32520303/" class="hover:text-foreground">Penso L et al., JAMA Dermatol 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/27317522/" class="hover:text-foreground">Delost GR et al., J Am Acad Dermatol 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/22988649/" class="hover:text-foreground">Silverberg NB, Cutis 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/38291989/" class="hover:text-foreground">Sompochpruetikul K et al., J Dermatol 2024</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/4264346/" class="hover:text-foreground">Kligman AM et al., Arch Dermatol 1972</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/6461674/" class="hover:text-foreground">Frank SB, J Am Acad Dermatol 1982</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/16488305/" class="hover:text-foreground">Draelos ZD et al., J Am Acad Dermatol 2006</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/4245751/" class="hover:text-foreground">Plewig G et al., Arch Dermatol 1970</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/33084483/" class="hover:text-foreground">Techasatian L et al., J Prim Care Community Health 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/38102842/" class="hover:text-foreground">Johnsen N et al., Int J Dermatol 2024</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17014635/" class="hover:text-foreground">Choi JM et al., Pediatr Dermatol 2006</a></li><li><a href="https://www.aad.org/public/diseases/acne/skin-care/tips" class="hover:text-foreground">American Academy of Dermatology: huidverzorging bij acne</a></li><li><a href="https://www.thuisarts.nl/acne/ik-heb-puistjes-acne-wat-kan-ik-doen" class="hover:text-foreground">Thuisarts: puistjes en acne</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/147099/" class="hover:text-foreground">Mills OH et al., Br J Dermatol 1978</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/20725554/" class="hover:text-foreground">Davis EC et al., J Clin Aesthet Dermatol 2010</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29756631/" class="hover:text-foreground">Deng Y et al., Acta Derm Venereol 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/41853869/" class="hover:text-foreground">Abedin ZU et al., J Cosmet Dermatol 2026</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/42241630/" class="hover:text-foreground">Aksoy Saraç G et al., Acta Dermatovenerol Alp Pannonica Adriat 2026</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/40013532/" class="hover:text-foreground">Gürel RC et al., J Cosmet Dermatol 2025</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/6198846/" class="hover:text-foreground">Juhlin L et al., Acta Derm Venereol 1983</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/21281494/" class="hover:text-foreground">Bowe WP et al., Gut Pathog 2011</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29459849/" class="hover:text-foreground">Scheffler L et al., Front Endocrinol (Lausanne) 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/30640940/" class="hover:text-foreground">Ajamian M et al., PLoS One 2019</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/38495547/" class="hover:text-foreground">Vaidya T et al., J Clin Aesthet Dermatol 2024</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/26630323/" class="hover:text-foreground">Lee YH et al., JAMA Dermatol 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29845939/" class="hover:text-foreground">Smit DL et al., Neth J Med 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/21393945/" class="hover:text-foreground">Saraswat A et al., Indian J Dermatol Venereol Leprol 2011</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/12873885/" class="hover:text-foreground">Chiu A et al., Arch Dermatol 2003</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/36650359/" class="hover:text-foreground">Zhu J et al., Sleep Breath 2023</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/33410614/" class="hover:text-foreground">Zhang JZ et al., Chin Med J (Engl) 2021</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/32860489/" class="hover:text-foreground">Yee BE et al., Dermatol Ther 2020</a></li><li><a href="https://richtlijnendatabase.nl/richtlijn/acne_vulgaris/behandeling_van_acne_-_acne/behandeling_van_acne.html" class="hover:text-foreground">Richtlijn Acne vulgaris (NVDV)</a></li></ol></details>
       <p class="mt-4 pb-10 text-xs text-muted-foreground">Deze pagina is informatie, geen medisch advies.</p>
     </div>
   </main>
@@ -756,6 +899,92 @@ document.querySelectorAll('.gp-cycle').forEach(function(c){
   svg.addEventListener('pointermove',at); svg.addEventListener('pointerdown',at);
   svg.addEventListener('pointerleave',function(){tip.hidden=true;cross.style.opacity=0});
   phase(data.start||0);
+});
+document.querySelectorAll('.gp-check').forEach(function(c){
+  var data=JSON.parse(c.querySelector('script[type="application/json"]').textContent);
+  var qs=c.querySelectorAll('.q'), vals=[], keys=Object.keys(data.areas);
+  qs.forEach(function(){vals.push(null)});
+  var cnt=c.querySelector('.cnt'), top=c.querySelector('.top'), none=c.querySelector('.none'), bars=c.querySelector('.bars');
+  function upd(){
+    var n=0, score={}, max={};
+    keys.forEach(function(k){score[k]=0;max[k]=0});
+    qs.forEach(function(q,i){
+      q.dataset.areas.split(',').forEach(function(k){max[k]+=2;if(vals[i]!==null)score[k]+=vals[i]});
+      if(vals[i]!==null)n++;
+    });
+    cnt.textContent=data.count.replace('{n}',n).replace('{t}',qs.length);
+    var best=null, bestR=0;
+    keys.forEach(function(k){var r=max[k]?score[k]/max[k]:0;if(r>bestR){bestR=r;best=k}});
+    bars.hidden=n===0;
+    c.querySelectorAll('.bar').forEach(function(b){
+      var k=b.dataset.k, r=max[k]?score[k]/max[k]:0;
+      b.querySelector('.fill').style.width=Math.round(r*100)+'%';
+      b.classList.toggle('top',k===best&&n>=data.min);
+    });
+    var ready=n>=data.min;
+    top.hidden=!(ready&&best); none.hidden=!(ready&&!best);
+    if(ready&&best){var a=data.areas[best];top.querySelector('.t').textContent=a.label;top.querySelector('.d').textContent=a.text;top.querySelector('.m').textContent=a.measure}
+  }
+  qs.forEach(function(q,i){
+    q.querySelectorAll('button').forEach(function(b){
+      b.addEventListener('click',function(){
+        var v=+b.dataset.v; vals[i]=vals[i]===v?null:v;
+        q.querySelectorAll('button').forEach(function(x){x.setAttribute('aria-pressed',vals[i]!==null&&+x.dataset.v===vals[i]?'true':'false')});
+        upd();
+      });
+    });
+  });
+  upd();
+});
+document.querySelectorAll('.gp-plan').forEach(function(p){
+  var data=JSON.parse(p.querySelector('script[type="application/json"]').textContent);
+  var list=p.querySelector('ol'), rows=[].slice.call(p.querySelectorAll('.row'));
+  function mins(v){var m=/^(\d{1,2}):(\d{2})/.exec(v||'');return m?(+m[1])*60+(+m[2]):null}
+  function fmt(t){t=((t%1440)+1440)%1440;var h=Math.floor(t/60),m=t%60;return (h<10?'0':'')+h+data.sep+(m<10?'0':'')+m}
+  function upd(){
+    var a={};
+    p.querySelectorAll('input[type=time]').forEach(function(i){var v=mins(i.value);if(v!==null)a[i.dataset.k]=v});
+    for(var pass=0;pass<3;pass++)Object.keys(data.derived).forEach(function(k){var d=data.derived[k];if(a[d.from]!=null)a[k]=a[d.from]+d.offset});
+    p.querySelectorAll('.out').forEach(function(o){o.textContent=a[o.dataset.k]!=null?fmt(a[o.dataset.k]):'-'});
+    var start=(a[data.order.at]||0)+(data.order.offset||0);
+    rows.forEach(function(r){
+      if(!r.dataset.at){r._k=1e6;return}
+      var base=a[r.dataset.at]; if(base==null)return;
+      var t=base+(+r.dataset.off), txt=fmt(t);
+      if(r.dataset.to!=null)txt+='-'+fmt(base+(+r.dataset.to));
+      r.querySelector('.tm').textContent=txt; r._k=((t-start)%1440+1440)%1440;
+    });
+    rows.slice().sort(function(x,y){return x._k-y._k}).forEach(function(r){list.appendChild(r)});
+  }
+  p.querySelectorAll('input[type=time]').forEach(function(i){i.addEventListener('input',upd);i.addEventListener('change',upd)});
+  upd();
+});
+document.querySelectorAll('.gp-cyclecalc').forEach(function(c){
+  var data=JSON.parse(c.querySelector('script[type="application/json"]').textContent);
+  var st=c.querySelector('.cc-start'), ln=c.querySelector('.cc-len'), ul=c.querySelector('.cc-measure');
+  var d0=new Date(); d0.setHours(0,0,0,0); var def=new Date(d0); def.setDate(def.getDate()-9);
+  st.value=def.toISOString().slice(0,10);
+  function fmt(d){return d.toLocaleDateString(data.locale,{weekday:'short',day:'numeric',month:'long'})}
+  function upd(){
+    if(!st.value)return; var s=new Date(st.value+'T00:00:00'), L=Math.max(21,Math.min(40,+ln.value||28));
+    var today=new Date(); today.setHours(0,0,0,0);
+    var diff=Math.floor((today-s)/864e5); if(diff<0)diff=0; var day=(diff%L)+1;
+    var start=new Date(s); start.setDate(start.getDate()+diff-(diff%L));
+    var ov=L-14, k=day<=5?'menstruation':(day<ov-1?'follicular':(day<=ov+1?'ovulation':'luteal'));
+    var p=data.phases[k]||{label:'',text:''};
+    c.querySelector('.cc-day').textContent=data.ui.day+' '+day+' '+data.ui.of;
+    c.querySelector('.cc-phase').textContent=p.label; c.querySelector('.cc-text').textContent=p.text;
+    ul.innerHTML='';
+    data.measure.forEach(function(m){
+      var dn=m.before?L-m.before:m.day; if(!dn)return;
+      var dt=new Date(start); dt.setDate(dt.getDate()+dn-1); if(dt<today){dt.setDate(dt.getDate()+L)}
+      var li=document.createElement('li');
+      li.innerHTML='<p class="text-[14px] font-medium leading-snug"></p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground"></p>';
+      li.children[0].textContent=m.label+': '+data.ui.around+' '+fmt(dt)+' ('+data.ui.dayword+' '+dn+')';
+      li.children[1].textContent=m.text; ul.appendChild(li);
+    });
+  }
+  st.addEventListener('change',upd); ln.addEventListener('input',upd); upd();
 });
 document.querySelectorAll('.gp-filter').forEach(function(bar){
   var list=document.getElementById(bar.dataset.target);

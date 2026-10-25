@@ -14,7 +14,7 @@
   <link rel="alternate" hreflang="nl" href="https://demiselina.com/jorn/waking-up/nl.html" />
   <link rel="preload" href="InterVariable.woff2" as="font" type="font/woff2" crossorigin />
   <style>@font-face{font-family:"Inter";font-style:normal;font-weight:100 900;font-display:swap;src:url("InterVariable.woff2") format("woff2")}@font-face{font-family:"Inter Variable";font-style:normal;font-weight:100 900;font-display:swap;src:url("InterVariable.woff2") format("woff2")}</style>
-  <link rel="stylesheet" href="page.css?v=1792878750" />
+  <link rel="stylesheet" href="page.css?v=1792924074" />
   <style>
 .gp-flow .node rect{fill:var(--card);stroke:var(--border);stroke-width:1;transition:fill .2s,stroke .2s}
 .gp-flow .node.accent rect{fill:var(--muted)}
@@ -173,7 +173,7 @@
     </div>
     <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
       <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat ik zelf gebruik</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Dit gebruik ik elke dag. De spullen kun je vandaag regelen. Lees bij de supplementen eerst de regel onderaan.</p><div id="s45274m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Dit gebruik ik elke dag. De spullen kun je vandaag regelen. Lees bij de supplementen eerst de regel onderaan.</p><div id="s86627m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
         <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
           <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Een bril met rode glazen</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Het laatste uur voor bed. Rode glazen houden het blauwe deel van licht tegen, waar je klok het sterkst op reageert. Het bewijs is gemengd; ik werd er vanaf de eerste week rustiger van. De bril is geen reden om nog mails te beantwoorden: werk houdt je hoofd bezig, met of zonder bril.</p></div>
           
@@ -283,7 +283,7 @@
     </div>
     <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
       <h2 class="text-[19px] font-normal tracking-[-0.01em]">De 10-3-2-1-regel: hoe sterk is het bewijs?</h2>
-      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Waarom reken ik terug vanaf je bedtijd? Je diepste slaap krijg je vroeg in de nacht: in een slaaplab kregen 20 gezonde mannen in de eerste helft van de nacht 5 keer zoveel diepe slaap als in de tweede helft. Wat je 's avonds doet, werkt dus door in het deel van de nacht met de meeste diepe slaap. Per stap zie je hoe sterk het bewijs is:</p><div id="s45216m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Waarom reken ik terug vanaf je bedtijd? Je diepste slaap krijg je vroeg in de nacht: in een slaaplab kregen 20 gezonde mannen in de eerste helft van de nacht 5 keer zoveel diepe slaap als in de tweede helft. Wat je 's avonds doet, werkt dus door in het deel van de nacht met de meeste diepe slaap. Per stap zie je hoe sterk het bewijs is:</p><div id="s87997m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
         <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
           <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">10 uur voor bed: geen cafeïne meer</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Sterk bewijs. Terwijl je wakker bent, hoopt adenosine op in je hersenen, een stof die je slaperig maakt. Die opbouw heet slaapdruk. Cafeïne gaat op de plek van adenosine zitten, dus je voelt je minder slaperig terwijl de slaapdruk blijft. In 24 studies kostte cafeïne gemiddeld 45 minuten slaap en wat diepe slaap; een gewone koffie heeft minstens 8,8 uur nodig, een pre-workout ruim 13 uur. Volgens EFSA kan 100 mg, ongeveer 2 kopjes koffie, vlak voor bedtijd bij sommige volwassenen de slaap al veranderen. Pure chocolade heeft ook een beetje: 2 blokjes bevatten ongeveer 7 mg.</p></div>
           
@@ -681,6 +681,33 @@ document.querySelectorAll('.gp-plan').forEach(function(p){
   }
   p.querySelectorAll('input[type=time]').forEach(function(i){i.addEventListener('input',upd);i.addEventListener('change',upd)});
   upd();
+});
+document.querySelectorAll('.gp-cyclecalc').forEach(function(c){
+  var data=JSON.parse(c.querySelector('script[type="application/json"]').textContent);
+  var st=c.querySelector('.cc-start'), ln=c.querySelector('.cc-len'), ul=c.querySelector('.cc-measure');
+  var d0=new Date(); d0.setHours(0,0,0,0); var def=new Date(d0); def.setDate(def.getDate()-9);
+  st.value=def.toISOString().slice(0,10);
+  function fmt(d){return d.toLocaleDateString(data.locale,{weekday:'short',day:'numeric',month:'long'})}
+  function upd(){
+    if(!st.value)return; var s=new Date(st.value+'T00:00:00'), L=Math.max(21,Math.min(40,+ln.value||28));
+    var today=new Date(); today.setHours(0,0,0,0);
+    var diff=Math.floor((today-s)/864e5); if(diff<0)diff=0; var day=(diff%L)+1;
+    var start=new Date(s); start.setDate(start.getDate()+diff-(diff%L));
+    var ov=L-14, k=day<=5?'menstruation':(day<ov-1?'follicular':(day<=ov+1?'ovulation':'luteal'));
+    var p=data.phases[k]||{label:'',text:''};
+    c.querySelector('.cc-day').textContent=data.ui.day+' '+day+' '+data.ui.of;
+    c.querySelector('.cc-phase').textContent=p.label; c.querySelector('.cc-text').textContent=p.text;
+    ul.innerHTML='';
+    data.measure.forEach(function(m){
+      var dn=m.before?L-m.before:m.day; if(!dn)return;
+      var dt=new Date(start); dt.setDate(dt.getDate()+dn-1); if(dt<today){dt.setDate(dt.getDate()+L)}
+      var li=document.createElement('li');
+      li.innerHTML='<p class="text-[14px] font-medium leading-snug"></p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground"></p>';
+      li.children[0].textContent=m.label+': '+data.ui.around+' '+fmt(dt)+' ('+data.ui.dayword+' '+dn+')';
+      li.children[1].textContent=m.text; ul.appendChild(li);
+    });
+  }
+  st.addEventListener('change',upd); ln.addEventListener('input',upd); upd();
 });
 document.querySelectorAll('.gp-filter').forEach(function(bar){
   var list=document.getElementById(bar.dataset.target);
