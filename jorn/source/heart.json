@@ -1,1145 +1,1160 @@
 {
- "slug": "hart-jorn",
- "languages": [
-  "en",
-  "nl"
- ],
- "title": {
-  "en": "What to test for your heart",
-  "nl": "Wat je laat testen voor je hart"
- },
- "subtitle": {
-  "en": "At 22 my LDL was 7 mmol/L. I thought I was eating healthy.",
-  "nl": "Op mijn 22e was mijn LDL 7 mmol/L. Ik dacht dat ik gezond at."
- },
- "description": {
-  "en": "What to test for your heart and why: LDL, ApoB, Lp(a), hs-CRP and your resting heart rate, with the studies behind each one. By Jorn Kirkels, founder of Cellular.",
-  "nl": "Wat je laat testen voor je hart en waarom: LDL, ApoB, Lp(a), hs-CRP en je rusthartslag, met de studies erbij. Van Jorn Kirkels, oprichter van Cellular."
- },
- "intro": {
-  "en": "Back then I followed a carnivore diet: only meat, very little plants or fruit. Most people never look past one cholesterol number, and the GP's standard test leaves out three markers that heart guidelines now point to: ApoB, Lp(a) and hs-CRP. On this page: what almost nobody knows, then which markers to test and what each one tells you, then what I changed to bring my LDL from 4.2 to 1.4, and a short check of where to start.",
-  "nl": "Ik volgde toen een carnivoordieet: alleen vlees, heel weinig groente of fruit. De meeste mensen kijken nooit verder dan één cholesterolgetal, en de standaardtest van de huisarts mist drie waarden waar hartrichtlijnen nu naar wijzen: ApoB, Lp(a) en hs-CRP. Op deze pagina eerst wat bijna niemand weet, dan welke waarden je laat testen en wat elke waarde zegt, dan wat ik veranderde om mijn LDL van 4,2 naar 1,4 te krijgen, en een korte check waar je begint."
- },
- "sections": [
-  {
-   "title": {
-    "en": "What almost nobody knows",
-    "nl": "Wat bijna niemand weet"
-   },
-   "text": {
-    "en": "Five findings about your heart, each with a number and what to do with it.",
-    "nl": "Vijf bevindingen over je hart, elk met een getal en wat je ermee doet."
-   },
-   "facts": [
-    {
-     "stat": ">90%",
-     "title": {
-      "en": "Lp(a) is set by your genes, so one test is enough",
-      "nl": "Lp(a) ligt vast in je genen, dus één test is genoeg"
-     },
-     "text": {
-      "en": "Lp(a), lipoprotein(a), is an LDL particle with an extra protein attached. More than 90% of your level comes from your genes, and food and exercise barely change it. About 1 in 5 people have a level above 50 mg/dL, where the European guideline counts it as a risk factor for heart and vascular disease. Your GP doesn't test it as standard. Ask for it once, and keep the result.",
-      "nl": "Lp(a), lipoproteïne(a), is een LDL-deeltje met een extra eiwit eraan. Meer dan 90% van je waarde komt uit je genen, en voeding en sport veranderen hem nauwelijks. Ongeveer 1 op de 5 mensen zit boven 50 mg/dL, en vanaf daar telt de Europese richtlijn het als risicofactor voor hart- en vaatziekten. Je huisarts test het niet standaard. Vraag er één keer om en bewaar de uitslag."
-     },
-     "label": {
-      "en": "European guideline 2025",
-      "nl": "Europese richtlijn 2025"
-     }
-    },
-    {
-     "stat": {
-      "en": "654,783",
-      "nl": "654.783"
-     },
-     "title": {
-      "en": "ApoB counts the particles that end up in your vessel walls",
-      "nl": "ApoB telt de deeltjes die in je vaatwand belanden"
-     },
-     "text": {
-      "en": "LDL cholesterol measures how much cholesterol your LDL particles carry. ApoB (apolipoprotein B) is a protein on each of those particles, exactly one per particle, so it counts them. In genetic studies of 654,783 people, heart risk followed ApoB, whether genes lowered LDL or triglycerides (another blood fat). Most of the time LDL and ApoB agree. When they don't, ApoB tells you more. Ask for ApoB with your cholesterol test.",
-      "nl": "LDL-cholesterol meet hoeveel cholesterol je LDL-deeltjes bij zich hebben. ApoB (apolipoproteïne B) is een eiwit op elk van die deeltjes, precies één per deeltje, dus het telt ze. In genetische studies met 654.783 mensen volgde het hartrisico ApoB, of genen nu LDL of triglyceriden (een ander bloedvet) verlaagden. Meestal zeggen LDL en ApoB hetzelfde. Als ze verschillen, zegt ApoB meer. Vraag om ApoB bij je cholesteroltest."
-     },
-     "label": {
-      "en": "Genetic studies, 654,783 people",
-      "nl": "Genetische studies, 654.783 mensen"
-     }
-    },
-    {
-     "stat": "54%",
-     "title": {
-      "en": "1 mmol/L lower LDL for 40 years: 54% less risk",
-      "nl": "40 jaar lang 1 mmol/L lager LDL: 54% minder risico"
-     },
-     "text": {
-      "en": "LDL causes heart and vascular disease, and the damage adds up: what counts is how high your LDL is and for how long. In trials, every 1 mmol/L lower LDL cut the risk by about 22% within 5 years. In genetic studies, every 1 mmol/L lower LDL over 40 years went with about 54% lower risk. A newborn's LDL is about 0.5 to 1.0 mmol/L. So look at your LDL in your twenties and thirties, long before you notice anything.",
-      "nl": "LDL veroorzaakt hart- en vaatziekten, en de schade telt op: het gaat om hoe hoog je LDL is en hoe lang. In trials verlaagde elke 1 mmol/L minder LDL het risico met zo'n 22% binnen 5 jaar. In genetische studies hing elke 1 mmol/L lager LDL over 40 jaar samen met zo'n 54% minder risico. Een pasgeboren baby heeft een LDL van ongeveer 0,5 tot 1,0 mmol/L. Kijk dus naar je LDL als je twintig of dertig bent, lang voordat je iets merkt."
-     },
-     "label": {
-      "en": "European consensus, 2 million+ people",
-      "nl": "Europese consensus, 2 miljoen+ mensen"
-     }
-    },
-    {
-     "stat": "13%",
-     "title": {
-      "en": "Each step up in fitness: 13% lower risk of dying",
-      "nl": "Elke stap fitter: 13% minder kans om te overlijden"
-     },
-     "text": {
-      "en": "VO2max is the most oxygen your body can use during an all-out effort: the standard measure of fitness. It's often given in METs, a unit of effort; 1 MET more is about 1 km/h faster running pace. Across 33 studies with 102,980 healthy people, every MET more went with a 13% lower risk of dying and 15% fewer heart and vascular events. In a trial, 8 weeks of 4x4 intervals raised VO2max by 7%. Your wearable can estimate yours.",
-      "nl": "VO2max is de meeste zuurstof die je lichaam kan gebruiken bij een maximale inspanning: de standaardmaat voor je conditie. Vaak staat hij in MET, een eenheid van inspanning; 1 MET meer is ongeveer 1 km/u sneller hardlopen. In 33 studies met 102.980 gezonde mensen ging elke MET meer samen met 13% minder kans om te overlijden en 15% minder hart- en vaatziekten. In een trial steeg de VO2max na 8 weken 4x4-intervallen met 7%. Je wearable kan die van jou schatten."
-     },
-     "label": {
-      "en": "33 studies, 102,980 people",
-      "nl": "33 studies, 102.980 mensen"
-     }
-    },
-    {
-     "stat": {
-      "en": "4.2 → 1.4",
-      "nl": "4,2 → 1,4"
-     },
-     "title": {
-      "en": "My LDL fell by two thirds",
-      "nl": "Mijn LDL daalde met twee derde"
-     },
-     "text": {
-      "en": "Mine went from 4.2 to 1.4 mmol/L with three changes: more than 50 g of fibre a day, only lean steaks such as tenderloin and beef shank, and 120 minutes of zone 2 a week. Zone 2 is easy endurance training at a pace where you can still talk. I changed three things at once, so I don't know which did most. What I did, and what research says about each change, is in part 2.",
-      "nl": "Die van mij ging van 4,2 naar 1,4 mmol/L met drie veranderingen: meer dan 50 gram vezels per dag, alleen mager rundvlees zoals ossenhaas en schenkel, en 120 minuten zone 2 per week. Zone 2 is rustige duurtraining op een tempo waarop je nog kunt praten. Ik veranderde drie dingen tegelijk, dus welke het meest deed, weet ik niet. Wat ik deed en wat onderzoek over elke verandering zegt, staat in deel 2."
-     },
-     "label": {
-      "en": "My own data",
-      "nl": "Mijn eigen data"
-     }
-    }
-   ],
-   "sources": [
-    {
-     "pmid": "36036785"
-    },
-    {
-     "pmid": "40878289"
-    },
-    {
-     "pmid": "27122601"
-    },
-    {
-     "pmid": "30694319"
-    },
-    {
-     "pmid": "31642874"
-    },
-    {
-     "pmid": "28444290"
-    },
-    {
-     "pmid": "19454641"
-    },
-    {
-     "pmid": "17414804"
-    },
-    {
-     "pmid": "35072942"
-    }
-   ]
-  },
-  {
-   "title": {
-    "en": "My LDL story",
-    "nl": "Mijn LDL-verhaal"
-   },
-   "text": {
-    "en": "My addiction to work led me to extreme diets, such as carnivore. I thought I was healthy. At 22 my LDL was 7 mmol/L. An LDL that high clearly raises the risk of heart and vascular disease: the European guideline puts anyone with an LDL above 4.9 mmol/L in the high-risk group on that number alone. About three years ago I started testing my cholesterol. At a later test my LDL was 4.2, and with three changes I brought it down to 1.4: more fibre, leaner meat and more zone 2 training. Each change is in part 2.",
-    "nl": "Mijn verslaving aan werk bracht me bij extreme diëten, zoals carnivoor. Ik dacht dat ik gezond was. Op mijn 22e was mijn LDL 7 mmol/L. Een LDL die zo hoog is, verhoogt duidelijk de kans op hart- en vaatziekten: de Europese richtlijn zet iedereen met een LDL boven 4,9 mmol/L op dat getal alleen al in de groep met een hoog risico. Zo'n drie jaar geleden begon ik mijn cholesterol te testen. Bij een latere test was mijn LDL 4,2, en met drie veranderingen kreeg ik hem naar 1,4: meer vezels, magerder vlees en meer training in zone 2. Elke verandering lees je in deel 2."
-   },
-   "bars": {
-    "title": {
-     "en": "My LDL cholesterol (mmol/L)",
-     "nl": "Mijn LDL-cholesterol (mmol/L)"
-    },
-    "items": [
-     {
-      "label": {
-       "en": "At 22",
-       "nl": "Op mijn 22e"
-      },
-      "value": 7.0,
-      "display": {
-       "en": "7.0",
-       "nl": "7,0"
-      }
-     },
-     {
-      "label": {
-       "en": "Later",
-       "nl": "Later"
-      },
-      "value": 4.2,
-      "display": {
-       "en": "4.2",
-       "nl": "4,2"
-      }
-     },
-     {
-      "label": {
-       "en": "After 3 changes",
-       "nl": "Na 3 veranderingen"
-      },
-      "value": 1.4,
-      "display": {
-       "en": "1.4",
-       "nl": "1,4"
-      }
-     }
-    ],
-    "caption": {
-     "en": "Three moments. For comparison, the European guideline goal for people at low risk is below 3.0 mmol/L.",
-     "nl": "Drie momenten. Ter vergelijking: het doel in de Europese richtlijn voor mensen met een laag risico is onder 3,0 mmol/L."
-    }
-   },
-   "after": {
-    "en": "I wasn't the only one. In a survey of 2,029 people on a carnivore diet, the 462 who shared their LDL had a median of 4.5 mmol/L: clearly raised. The survey relied on what people reported themselves. This page is what I wish I'd known at 22: which markers to test for your heart, what each one tells you, and what I changed.",
-    "nl": "Ik was niet de enige. In een enquête onder 2.029 mensen op een carnivoordieet hadden de 462 mensen die hun LDL deelden een mediaan van 4,5 mmol/L: duidelijk verhoogd. De enquête ging uit van wat mensen zelf opgaven. Deze pagina is wat ik op mijn 22e had willen weten: welke waarden je laat testen voor je hart, wat elke waarde zegt, en wat ik veranderde."
-   },
-   "sources": [
-    {
-     "pmid": "31504418"
-    },
-    {
-     "pmid": "34934897"
-    }
-   ]
-  },
-  {
-   "kind": "group",
-   "id": "test",
-   "eyebrow": {
-    "en": "Part 1",
-    "nl": "Deel 1"
-   },
-   "title": {
+  "slug": "hart-jorn",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "title": {
     "en": "What to test for your heart",
     "nl": "Wat je laat testen voor je hart"
-   },
-   "subtitle": {
-    "en": "What each marker is, how it works and the value to look for. The GP's standard test has LDL, HDL and triglycerides. ApoB, Lp(a) and hs-CRP you ask for separately.",
-    "nl": "Wat elke waarde is, hoe het werkt en welke waarde je zoekt. De standaardtest van de huisarts heeft LDL, HDL en triglyceriden. Om ApoB, Lp(a) en hs-CRP vraag je apart."
-   }
   },
-  {
-   "id": "ldl",
-   "title": {
-    "en": "LDL cholesterol",
-    "nl": "LDL-cholesterol"
-   },
-   "text": {
-    "en": "Cholesterol is a fatty substance your body uses to build cells and hormones. It travels through your blood in particles. LDL (low-density lipoprotein) is the main particle that carries it to your tissues. Your LDL cholesterol is how much cholesterol sits in those particles, in mmol/L.",
-    "nl": "Cholesterol is een vetachtige stof waarmee je lichaam cellen en hormonen bouwt. Het reist door je bloed in deeltjes. LDL (lipoproteïne met lage dichtheid) is het belangrijkste deeltje dat het naar je weefsels brengt. Je LDL-cholesterol is hoeveel cholesterol er in die deeltjes zit, in mmol/L."
-   },
-   "items": [
-    {
-     "en": "LDL particles are small enough to pass through the inner lining of your blood vessels, into the wall.",
-     "nl": "LDL-deeltjes zijn klein genoeg om door de binnenwand van je bloedvaten de vaatwand in te gaan."
-    },
-    {
-     "en": "The more particles in your blood, the more get stuck there.",
-     "nl": "Hoe meer deeltjes in je bloed, hoe meer er blijven steken."
-    },
-    {
-     "en": "Immune cells take up the stuck LDL and fill with cholesterol. That sets off inflammation, and over years a plaque grows: a fatty thickening in the vessel wall.",
-     "nl": "Afweercellen nemen het vastzittende LDL op en raken vol cholesterol. Dat zet een ontsteking in gang, en in de loop van jaren groeit er een plaque: een vettige verdikking in de vaatwand."
-    },
-    {
-     "en": "If the thin cap over a plaque tears, a blood clot forms on it. In an artery of your heart, that's a heart attack.",
-     "nl": "Scheurt het dunne kapje over een plaque, dan ontstaat daar een bloedstolsel. In een kransslagader van je hart is dat een hartinfarct."
-    }
-   ],
-   "after": {
-    "en": "A European consensus pooled more than 200 studies with over 2 million people: LDL causes heart and vascular disease, and the risk rises with how high your LDL is and how long it stays high. At a newborn's level, about 0.5 to 1.0 mmol/L, little LDL gets stuck. Above that, the chance rises step by step. You don't need to fast for this test: after a normal meal your LDL is on average at most 0.2 mmol/L lower. The European guideline puts anyone with an LDL above 4.9 mmol/L at high risk on that number alone. A European lab consensus advises referral above 5 mmol/L, because it can point to familial hypercholesterolaemia, an inherited form of high cholesterol. Always discuss an abnormal result with your GP.",
-    "nl": "Een Europese consensus bundelde meer dan 200 studies met ruim 2 miljoen mensen: LDL veroorzaakt hart- en vaatziekten, en het risico stijgt met hoe hoog je LDL is en hoe lang hij hoog blijft. Op het niveau van een pasgeborene, zo'n 0,5 tot 1,0 mmol/L, blijft er weinig LDL steken. Daarboven stijgt die kans stap voor stap. Nuchter zijn hoeft niet voor deze test: na een gewone maaltijd is je LDL gemiddeld hooguit 0,2 mmol/L lager. De Europese richtlijn zet iedereen met een LDL boven 4,9 mmol/L op dat getal alleen al in de groep met een hoog risico. Een Europese labconsensus adviseert boven 5 mmol/L door te verwijzen, omdat het kan wijzen op familiaire hypercholesterolemie, een erfelijke vorm van hoog cholesterol. Bespreek een afwijkende waarde altijd met je huisarts."
-   },
-   "meta": {
-    "en": [
-     "GP: standard",
-     "Flagged by labs from 3.0 mmol/L (EAS)",
-     "NHG goal with raised risk: below 2.6 mmol/L",
-     "ESC goal: below 3.0 at low risk, 1.8 at high risk"
-    ],
-    "nl": [
-     "Huisarts: standaard",
-     "Lab markeert vanaf 3,0 mmol/L (EAS)",
-     "NHG-streefwaarde bij verhoogd risico: onder 2,6 mmol/L",
-     "ESC-doel: onder 3,0 bij laag risico, 1,8 bij hoog risico"
-    ]
-   },
-   "sources": [
-    {
-     "pmid": "28444290"
-    },
-    {
-     "pmid": "32052833"
-    },
-    {
-     "pmid": "27122601"
-    },
-    {
-     "pmid": "31504418"
-    },
-    {
-     "label": {
-      "en": "NHG (Dutch GP guideline): cardiovascular risk management",
-      "nl": "NHG-Standaard Cardiovasculair risicomanagement"
-     },
-     "note": {
-      "en": "Which markers the GP tests, the LDL goal, and advice on exercise and sitting",
-      "nl": "Welke waarden de huisarts bepaalt, de LDL-streefwaarde, en advies over bewegen en zitten"
-     },
-     "url": "https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement"
-    }
-   ]
+  "subtitle": {
+    "en": "At 22 I could have had a heart attack. I thought I was healthy.",
+    "nl": "Op mijn 22e had ik een hartaanval kunnen krijgen. Ik dacht dat ik gezond was."
   },
-  {
-   "id": "apob",
-   "title": "ApoB",
-   "text": {
-    "en": "ApoB (apolipoprotein B) is a protein on the outside of every particle that can build up in your vessel walls: LDL, but also VLDL, the particles that carry triglycerides (a type of fat), and Lp(a). Each of those particles carries exactly one ApoB. So your LDL cholesterol tells you how much cholesterol the particles carry, and ApoB tells you how many particles there are.",
-    "nl": "ApoB (apolipoproteïne B) is een eiwit op de buitenkant van elk deeltje dat zich in je vaatwand kan ophopen: LDL, maar ook VLDL, de deeltjes die triglyceriden (een soort vet) vervoeren, en Lp(a). Elk van die deeltjes draagt precies één ApoB. Je LDL-cholesterol zegt dus hoeveel cholesterol de deeltjes bij zich hebben, en ApoB hoeveel deeltjes er zijn."
-   },
-   "items": [
-    {
-     "en": "Each particle can carry more or less cholesterol.",
-     "nl": "Elk deeltje kan meer of minder cholesterol bij zich hebben."
-    },
-    {
-     "en": "When your particles are small and carry little cholesterol, your LDL can look normal while you have many particles.",
-     "nl": "Zijn je deeltjes klein en hebben ze weinig cholesterol bij zich, dan kan je LDL er normaal uitzien terwijl je veel deeltjes hebt."
-    },
-    {
-     "en": "The number of particles decides how many end up in your vessel wall. Then ApoB shows a higher risk than your LDL.",
-     "nl": "Het aantal deeltjes bepaalt hoeveel er in je vaatwand belanden. Dan laat ApoB een hoger risico zien dan je LDL."
-    },
-    {
-     "en": "This happens more often with high triglycerides, diabetes, belly fat or a very low LDL.",
-     "nl": "Dat gebeurt vaker bij hoge triglyceriden, diabetes, buikvet of een heel laag LDL."
-    }
-   ],
-   "after": {
-    "en": "In most people LDL and ApoB tell the same story: in 346,686 people in the UK, ApoB added almost nothing once total and HDL cholesterol were known. The European guideline estimates that the two don't match in about 1 in 5 people. In 389,529 people not on cholesterol medication, only ApoB stayed linked to heart attacks when it was compared side by side with non-HDL cholesterol and triglycerides. So I advise asking for both. When your ApoB is high compared with your LDL, your risk is higher than your LDL suggests. In my view, fibre has the highest return there.",
-    "nl": "Bij de meeste mensen zeggen LDL en ApoB hetzelfde: bij 346.686 mensen in het Verenigd Koninkrijk voegde ApoB bijna niets toe als totaal- en HDL-cholesterol al bekend waren. Volgens de Europese richtlijn verschillen ze bij ongeveer 1 op de 5 mensen. Bij 389.529 mensen zonder cholesterolmedicatie bleef alleen ApoB samenhangen met hartinfarcten toen het naast non-HDL-cholesterol en triglyceriden werd gelegd. Ik raad daarom aan om beide te laten meten. Is je ApoB hoog vergeleken met je LDL, dan is je risico hoger dan je LDL doet denken. Vezels leveren daar volgens mij het meeste op."
-   },
-   "meta": {
-    "en": [
-     "GP: not standard (NHG)",
-     "Flagged by labs from 1.0 g/L (EAS)",
-     "ESC goal: below 1.0, 0.8 or 0.65 g/L at moderate, high or very high risk"
-    ],
-    "nl": [
-     "Huisarts: niet standaard (NHG)",
-     "Lab markeert vanaf 1,0 g/L (EAS)",
-     "ESC-doel: onder 1,0, 0,8 of 0,65 g/L bij matig, hoog of zeer hoog risico"
-    ]
-   },
-   "sources": [
-    {
-     "pmid": "31642874"
-    },
-    {
-     "pmid": "31216866"
-    },
-    {
-     "pmid": "34773460"
-    },
-    {
-     "pmid": "30694319"
-    },
-    {
-     "pmid": "31504418"
-    },
-    {
-     "pmid": "27122601"
-    }
-   ]
+  "description": {
+    "en": "What to test for your heart and why: LDL, ApoB, Lp(a), hs-CRP and your resting heart rate, with the studies behind each one. By Jorn Kirkels, founder of Cellular.",
+    "nl": "Wat je laat testen voor je hart en waarom: LDL, ApoB, Lp(a), hs-CRP en je rusthartslag, met de studies erbij. Van Jorn Kirkels, oprichter van Cellular."
   },
-  {
-   "id": "lpa",
-   "title": {
-    "en": "Lp(a): lipoprotein(a)",
-    "nl": "Lp(a): lipoproteïne(a)"
-   },
-   "text": {
-    "en": "Lp(a) is an LDL particle with an extra protein attached, called apo(a). More than 90% of your level is set by your genes, more than for any other blood fat. Your level is mostly fixed from childhood, although in women it can rise after menopause. Food and exercise barely change it.",
-    "nl": "Lp(a) is een LDL-deeltje met een extra eiwit eraan, apo(a). Meer dan 90% van je waarde ligt vast in je genen, meer dan bij enig ander bloedvet. Je waarde staat grotendeels vast vanaf je jeugd, al kan hij bij vrouwen na de overgang stijgen. Voeding en sport veranderen hem nauwelijks."
-   },
-   "items": [
-    {
-     "en": "Like LDL, Lp(a) can get stuck in your vessel walls.",
-     "nl": "Net als LDL kan Lp(a) in je vaatwand blijven steken."
-    },
-    {
-     "en": "It carries oxidised fats that fuel inflammation there.",
-     "nl": "Het draagt geoxideerde vetten mee die daar ontsteking aanwakkeren."
-    },
-    {
-     "en": "It's also linked to calcium build-up in the aortic valve, the valve where blood leaves your heart.",
-     "nl": "Het hangt ook samen met kalkafzetting in de aortaklep, de klep waardoor bloed je hart verlaat."
-    },
-    {
-     "en": "The higher your level, the higher the risk: at 100 mg/dL, the risk of heart and vascular disease roughly doubles.",
-     "nl": "Hoe hoger je waarde, hoe hoger het risico: bij 100 mg/dL verdubbelt het risico op hart- en vaatziekten ongeveer."
-    }
-   ],
-   "after": {
-    "en": "About 1.4 billion people have a raised Lp(a). European cardiologists advise measuring it at least once in every adult, especially with early heart disease or high cholesterol in the family. Above 50 mg/dL (about 105 nmol/L) they count it as a risk factor. One of our clients, a 33-year-old entrepreneur, came to us for his gut. His blood showed a total cholesterol of 6.8 mmol/L and a high Lp(a), set by his genes: a higher genetic risk he had no idea about. His plan: 40 to 50 g of fibre a day, zone 2 training and testing regularly. That plan won't lower his Lp(a) much. It lowers the rest of his risk. In 14,051 people, those with an Lp(a) of 50 mg/dL or more and the healthiest habits had a third of the risk of heart and vascular disease of those with the least healthy habits. Or as I put it: 'You can have the genes without them ever showing up, as long as what you do lines up.' With a high Lp(a), guidelines advise keeping your other risk factors low, LDL first, sometimes with medication via your GP. If yours is high, testing your parents, brothers, sisters and children can be worthwhile.",
-    "nl": "Ongeveer 1,4 miljard mensen hebben een verhoogd Lp(a). Europese cardiologen adviseren het bij elke volwassene minstens één keer te meten, zeker bij hart- en vaatziekten op jonge leeftijd of hoog cholesterol in de familie. Boven 50 mg/dL (ongeveer 105 nmol/L) tellen ze het als risicofactor. Een van onze cliënten, een ondernemer van 33, kwam bij ons voor zijn darmen. In zijn bloed zagen we een totaal cholesterol van 6,8 mmol/L en een hoog Lp(a), bepaald door zijn genen: een hoger genetisch risico waar hij geen idee van had. Zijn plan: 40 tot 50 gram vezels per dag, training in zone 2 en regelmatig testen. Dat plan verlaagt zijn Lp(a) nauwelijks. Het verlaagt de rest van zijn risico. Bij 14.051 mensen hadden mensen met een Lp(a) van 50 mg/dL of hoger en de gezondste gewoontes een derde van het risico op hart- en vaatziekten van mensen met de minst gezonde gewoontes. Of zoals ik het zeg: 'Je kunt de genen hebben zonder dat ze ooit naar boven komen, zolang wat je doet daarop is afgestemd.' Bij een hoog Lp(a) adviseren richtlijnen je andere risicofactoren laag te houden, LDL voorop, soms met medicatie via je huisarts. Is die van jou hoog, dan kan het zinvol zijn ook je ouders, broers, zussen en kinderen te laten testen."
-   },
-   "meta": {
-    "en": [
-     "GP: not standard (NHG)",
-     "Raised: above 50 mg/dL or about 105 nmol/L (ESC 2025)",
-     "Units differ per lab and don't convert exactly; 500 mg/L is 50 mg/dL",
-     "Once is enough; women may retest after menopause"
-    ],
-    "nl": [
-     "Huisarts: niet standaard (NHG)",
-     "Verhoogd: boven 50 mg/dL of ongeveer 105 nmol/L (ESC 2025)",
-     "Eenheden verschillen per lab en zijn niet precies om te rekenen; 500 mg/L is 50 mg/dL",
-     "Eén keer is genoeg; vrouwen kunnen na de overgang opnieuw meten"
-    ]
-   },
-   "sources": [
-    {
-     "pmid": "36036785"
-    },
-    {
-     "pmid": "40878289"
-    },
-    {
-     "pmid": "27998826"
-    },
-    {
-     "pmid": "27122601"
-    }
-   ]
+  "intro": {
+    "en": "At 22 my LDL cholesterol was 7 mmol/L. I thought I was healthy. In reality I could have had a heart attack at any moment. This page is what I wish I'd known back then: which markers to test for your heart, what each one tells you, and the three changes that brought my LDL down to 1.4.",
+    "nl": "Op mijn 22e was mijn LDL-cholesterol 7 mmol/L. Ik dacht dat ik gezond was. In werkelijkheid had ik op elk moment een hartaanval kunnen krijgen. Deze pagina is wat ik toen had willen weten: welke waarden je voor je hart laat testen, wat elke waarde zegt, en de drie dingen waardoor mijn LDL naar 1,4 ging."
   },
-  {
-   "id": "hscrp",
-   "title": "hs-CRP",
-   "text": {
-    "en": "Inflammation is how your immune system responds to damage or infection. CRP (C-reactive protein) is a protein your liver then makes. The hs-CRP test (high-sensitivity CRP) also picks up very small amounts, so you see low-grade inflammation: a level that stays slightly raised without an infection. For me it's one of the three most important values to check.",
-    "nl": "Ontsteking is hoe je afweer reageert op schade of een infectie. CRP (C-reactief proteïne) is een eiwit dat je lever dan maakt. De hs-CRP-test (hooggevoelige CRP) meet ook heel kleine hoeveelheden, zodat je lichte ontsteking ziet: een waarde die zonder infectie licht verhoogd blijft. Voor mij is het een van de drie belangrijkste waarden om te checken."
-   },
-   "items": [
+  "sections": [
     {
-     "en": "Inflammation in your vessel wall helps plaques grow, and makes them more likely to tear.",
-     "nl": "Ontsteking in je vaatwand laat plaques groeien en maakt de kans groter dat ze scheuren."
+      "title": {
+        "en": "What almost nobody knows",
+        "nl": "Wat bijna niemand weet"
+      },
+      "text": {
+        "en": "Five findings about your heart, each with a number and what to do with it.",
+        "nl": "Vijf bevindingen over je hart, elk met een getal en wat je ermee doet."
+      },
+      "facts": [
+        {
+          "stat": ">90%",
+          "title": {
+            "en": "Lp(a) is set by your genes, so one test is enough",
+            "nl": "Lp(a) ligt vast in je genen, dus één test is genoeg"
+          },
+          "text": {
+            "en": "Lp(a), lipoprotein(a), is an LDL particle with an extra protein attached. More than 90% of your level comes from your genes, and food and exercise barely change it. About 1 in 5 people have a level above 50 mg/dL, where the European guideline counts it as a risk factor for heart and vascular disease. Your GP doesn't test it as standard. Ask for it once, and keep the result.",
+            "nl": "Lp(a), lipoproteïne(a), is een LDL-deeltje met een extra eiwit eraan. Meer dan 90% van je waarde komt uit je genen, en voeding en sport veranderen hem nauwelijks. Ongeveer 1 op de 5 mensen zit boven 50 mg/dL, en vanaf daar telt de Europese richtlijn het als risicofactor voor hart- en vaatziekten. Je huisarts test het niet standaard. Vraag er één keer om en bewaar de uitslag."
+          },
+          "label": {
+            "en": "European guideline 2025",
+            "nl": "Europese richtlijn 2025"
+          }
+        },
+        {
+          "stat": {
+            "en": "654,783",
+            "nl": "654.783"
+          },
+          "title": {
+            "en": "ApoB counts the particles that end up in your vessel walls",
+            "nl": "ApoB telt de deeltjes die in je vaatwand belanden"
+          },
+          "text": {
+            "en": "LDL cholesterol measures how much cholesterol your LDL particles carry. ApoB (apolipoprotein B) is a protein on each of those particles, exactly one per particle, so it counts them. In genetic studies of 654,783 people, heart risk followed ApoB, whether genes lowered LDL or triglycerides (another blood fat). Most of the time LDL and ApoB agree. When they don't, ApoB tells you more. Ask for ApoB with your cholesterol test.",
+            "nl": "LDL-cholesterol meet hoeveel cholesterol je LDL-deeltjes bij zich hebben. ApoB (apolipoproteïne B) is een eiwit op elk van die deeltjes, precies één per deeltje, dus het telt ze. In genetische studies met 654.783 mensen volgde het hartrisico ApoB, of genen nu LDL of triglyceriden (een ander bloedvet) verlaagden. Meestal zeggen LDL en ApoB hetzelfde. Als ze verschillen, zegt ApoB meer. Vraag om ApoB bij je cholesteroltest."
+          },
+          "label": {
+            "en": "Genetic studies, 654,783 people",
+            "nl": "Genetische studies, 654.783 mensen"
+          }
+        },
+        {
+          "stat": "54%",
+          "title": {
+            "en": "1 mmol/L lower LDL for 40 years: 54% less risk",
+            "nl": "40 jaar lang 1 mmol/L lager LDL: 54% minder risico"
+          },
+          "text": {
+            "en": "LDL causes heart and vascular disease, and the damage adds up: what counts is how high your LDL is and for how long. In trials, every 1 mmol/L lower LDL cut the risk by about 22% within 5 years. In genetic studies, every 1 mmol/L lower LDL over 40 years went with about 54% lower risk. A newborn's LDL is about 0.5 to 1.0 mmol/L. So look at your LDL in your twenties and thirties, long before you notice anything.",
+            "nl": "LDL veroorzaakt hart- en vaatziekten, en de schade telt op: het gaat om hoe hoog je LDL is en hoe lang. In trials verlaagde elke 1 mmol/L minder LDL het risico met zo'n 22% binnen 5 jaar. In genetische studies hing elke 1 mmol/L lager LDL over 40 jaar samen met zo'n 54% minder risico. Een pasgeboren baby heeft een LDL van ongeveer 0,5 tot 1,0 mmol/L. Kijk dus naar je LDL als je twintig of dertig bent, lang voordat je iets merkt."
+          },
+          "label": {
+            "en": "European consensus, 2 million+ people",
+            "nl": "Europese consensus, 2 miljoen+ mensen"
+          }
+        },
+        {
+          "stat": "13%",
+          "title": {
+            "en": "Each step up in fitness: 13% lower risk of dying",
+            "nl": "Elke stap fitter: 13% minder kans om te overlijden"
+          },
+          "text": {
+            "en": "VO2max is the most oxygen your body can use during an all-out effort: the standard measure of fitness. It's often given in METs, a unit of effort; 1 MET more is about 1 km/h faster running pace. Across 33 studies with 102,980 healthy people, every MET more went with a 13% lower risk of dying and 15% fewer heart and vascular events. In a trial, 8 weeks of 4x4 intervals raised VO2max by 7%. Your wearable can estimate yours.",
+            "nl": "VO2max is de meeste zuurstof die je lichaam kan gebruiken bij een maximale inspanning: de standaardmaat voor je conditie. Vaak staat hij in MET, een eenheid van inspanning; 1 MET meer is ongeveer 1 km/u sneller hardlopen. In 33 studies met 102.980 gezonde mensen ging elke MET meer samen met 13% minder kans om te overlijden en 15% minder hart- en vaatziekten. In een trial steeg de VO2max na 8 weken 4x4-intervallen met 7%. Je wearable kan die van jou schatten."
+          },
+          "label": {
+            "en": "33 studies, 102,980 people",
+            "nl": "33 studies, 102.980 mensen"
+          }
+        },
+        {
+          "stat": {
+            "en": "7 mmol/L",
+            "nl": "7 mmol/L"
+          },
+          "title": {
+            "en": "My LDL at 22, while I felt healthy",
+            "nl": "Mijn LDL op mijn 22e, terwijl ik me gezond voelde"
+          },
+          "text": {
+            "en": "You don't feel a high LDL. You only see it in your blood. Mine was 7 mmol/L at 22. The European guideline counts anyone above 4.9 as high risk on that number alone, whatever else is going on.",
+            "nl": "Een hoog LDL voel je niet. Je ziet het alleen in je bloed. Het mijne was 7 mmol/L, op mijn 22e. De Europese richtlijn rekent iedereen boven de 4,9 alleen op dat getal al tot de hoge-risicogroep, wat er verder ook speelt."
+          },
+          "label": {
+            "en": "My own data",
+            "nl": "Mijn eigen data"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "36036785"
+        },
+        {
+          "pmid": "40878289"
+        },
+        {
+          "pmid": "27122601"
+        },
+        {
+          "pmid": "30694319"
+        },
+        {
+          "pmid": "31642874"
+        },
+        {
+          "pmid": "28444290"
+        },
+        {
+          "pmid": "19454641"
+        },
+        {
+          "pmid": "17414804"
+        },
+        {
+          "pmid": "35072942"
+        }
+      ]
     },
     {
-     "en": "Belly fat, smoking and moving little can keep your CRP slightly raised.",
-     "nl": "Buikvet, roken en weinig bewegen kunnen je CRP licht verhoogd houden."
+      "title": {
+        "en": "At 22, I thought I was healthy",
+        "nl": "Op mijn 22e dacht ik dat ik gezond was"
+      },
+      "text": {
+        "en": "I lived for my work. I drank more than eight coffees a day and ate almost only meat: the carnivore diet. I thought that was healthy. Meanwhile I had panic attacks and felt anxious all the time.",
+        "nl": "Ik leefde voor mijn werk. Ik dronk meer dan acht koppen koffie per dag en at bijna alleen vlees: het carnivoordieet. Ik dacht dat dat gezond was. Ondertussen had ik paniekaanvallen en was ik constant onrustig."
+      },
+      "bars": {
+        "title": {
+          "en": "My LDL cholesterol (mmol/L)",
+          "nl": "Mijn LDL-cholesterol (mmol/L)"
+        },
+        "items": [
+          {
+            "label": {
+              "en": "At 22",
+              "nl": "Op mijn 22e"
+            },
+            "value": 7.0,
+            "display": {
+              "en": "7.0",
+              "nl": "7,0"
+            }
+          },
+          {
+            "label": {
+              "en": "Later",
+              "nl": "Later"
+            },
+            "value": 4.2,
+            "display": {
+              "en": "4.2",
+              "nl": "4,2"
+            }
+          },
+          {
+            "label": {
+              "en": "After 3 changes",
+              "nl": "Na 3 veranderingen"
+            },
+            "value": 1.4,
+            "display": {
+              "en": "1.4",
+              "nl": "1,4"
+            }
+          }
+        ],
+        "caption": {
+          "en": "Three moments. For comparison, the European guideline goal for people at low risk is below 3.0 mmol/L.",
+          "nl": "Drie momenten. Ter vergelijking: het doel in de Europese richtlijn voor mensen met een laag risico is onder 3,0 mmol/L."
+        }
+      },
+      "after": {
+        "en": "I started testing regularly. At a later test my LDL was 4.2. With three changes I brought it down to 1.4: more than 50 grams of fibre a day, only lean steak, and 120 minutes of zone 2 training a week. Each change is in part 2. I wasn't the only one: in a survey of 2,029 people on a carnivore diet, the 462 who shared their LDL had a median of 4.5 mmol/L. That survey relied on what people reported themselves.",
+        "nl": "Ik ben regelmatig gaan testen. Bij een latere test was mijn LDL 4,2. Met drie veranderingen kreeg ik hem naar 1,4: meer dan 50 gram vezels per dag, alleen magere stukken vlees, en 120 minuten zone 2-training per week. Elke verandering staat in deel 2. Ik was niet de enige: in een enquête onder 2.029 mensen op een carnivoordieet hadden de 462 die hun LDL deelden een mediaan van 4,5 mmol/L. Die enquête ging uit van wat mensen zelf opgaven."
+      },
+      "sources": [
+        {
+          "pmid": "31504418"
+        },
+        {
+          "pmid": "34934897"
+        }
+      ],
+      "items": [
+        {
+          "en": "Then I had my blood tested. My LDL cholesterol was 7 mmol/L. LDL is the particle that carries cholesterol through your blood, and it can get stuck in the walls of your blood vessels.",
+          "nl": "Toen liet ik mijn bloed testen. Mijn LDL-cholesterol was 7 mmol/L. LDL is het deeltje dat cholesterol door je bloed vervoert, en het kan vast blijven zitten in de wand van je bloedvaten."
+        },
+        {
+          "en": "With an LDL that high, I could have had a heart attack at any moment, at 22. The European guideline puts anyone above 4.9 mmol/L in the high-risk group on that number alone.",
+          "nl": "Met een LDL die zo hoog was, had ik op elk moment een hartaanval kunnen krijgen, op mijn 22e. De Europese richtlijn zet iedereen boven de 4,9 mmol/L alleen op dat getal al in de hoge-risicogroep."
+        },
+        {
+          "en": "My data showed me what I was doing to my body. That was the turning point. From then on, I started working with my body.",
+          "nl": "Mijn data liet me zien wat ik mijn lichaam aandeed. Dat was het keerpunt. Vanaf toen ben ik met mijn lichaam gaan samenwerken."
+        }
+      ],
+      "numbered": false
     },
     {
-     "en": "An infection, an injury or a very hard training session raises CRP for a short time.",
-     "nl": "Een infectie, een blessure of een heel zware training laat je CRP kort stijgen."
+      "kind": "group",
+      "id": "test",
+      "eyebrow": {
+        "en": "Part 1",
+        "nl": "Deel 1"
+      },
+      "title": {
+        "en": "What to test for your heart",
+        "nl": "Wat je laat testen voor je hart"
+      },
+      "subtitle": {
+        "en": "What each marker is, how it works and the value to look for. The GP's standard test has LDL, HDL and triglycerides. ApoB, Lp(a) and hs-CRP you ask for separately.",
+        "nl": "Wat elke waarde is, hoe het werkt en welke waarde je zoekt. De standaardtest van de huisarts heeft LDL, HDL en triglyceriden. Om ApoB, Lp(a) en hs-CRP vraag je apart."
+      }
     },
     {
-     "en": "So only a level that stays raised tells you something about your heart.",
-     "nl": "Alleen een waarde die verhoogd blijft, zegt dus iets over je hart."
+      "id": "ldl",
+      "title": {
+        "en": "LDL cholesterol",
+        "nl": "LDL-cholesterol"
+      },
+      "text": {
+        "en": "Cholesterol is a fatty substance your body uses to build cells and hormones. It travels through your blood in particles. LDL (low-density lipoprotein) is the main particle that carries it to your tissues. Your LDL cholesterol is how much cholesterol sits in those particles, in mmol/L.",
+        "nl": "Cholesterol is een vetachtige stof waarmee je lichaam cellen en hormonen bouwt. Het reist door je bloed in deeltjes. LDL (lipoproteïne met lage dichtheid) is het belangrijkste deeltje dat het naar je weefsels brengt. Je LDL-cholesterol is hoeveel cholesterol er in die deeltjes zit, in mmol/L."
+      },
+      "items": [
+        {
+          "en": "LDL particles are small enough to pass through the inner lining of your blood vessels, into the wall.",
+          "nl": "LDL-deeltjes zijn klein genoeg om door de binnenwand van je bloedvaten de vaatwand in te gaan."
+        },
+        {
+          "en": "The more particles in your blood, the more get stuck there.",
+          "nl": "Hoe meer deeltjes in je bloed, hoe meer er blijven steken."
+        },
+        {
+          "en": "Immune cells take up the stuck LDL and fill with cholesterol. That sets off inflammation, and over years a plaque grows: a fatty thickening in the vessel wall.",
+          "nl": "Afweercellen nemen het vastzittende LDL op en raken vol cholesterol. Dat zet een ontsteking in gang, en in de loop van jaren groeit er een plaque: een vettige verdikking in de vaatwand."
+        },
+        {
+          "en": "If the thin cap over a plaque tears, a blood clot forms on it. In an artery of your heart, that's a heart attack.",
+          "nl": "Scheurt het dunne kapje over een plaque, dan ontstaat daar een bloedstolsel. In een kransslagader van je hart is dat een hartinfarct."
+        }
+      ],
+      "after": {
+        "en": "A European consensus pooled more than 200 studies with over 2 million people: LDL causes heart and vascular disease, and the risk rises with how high your LDL is and how long it stays high. At a newborn's level, about 0.5 to 1.0 mmol/L, little LDL gets stuck. Above that, the chance rises step by step. You don't need to fast for this test: after a normal meal your LDL is on average at most 0.2 mmol/L lower. The European guideline puts anyone with an LDL above 4.9 mmol/L at high risk on that number alone. A European lab consensus advises referral above 5 mmol/L, because it can point to familial hypercholesterolaemia, an inherited form of high cholesterol. Always discuss an abnormal result with your GP.",
+        "nl": "Een Europese consensus bundelde meer dan 200 studies met ruim 2 miljoen mensen: LDL veroorzaakt hart- en vaatziekten, en het risico stijgt met hoe hoog je LDL is en hoe lang hij hoog blijft. Op het niveau van een pasgeborene, zo'n 0,5 tot 1,0 mmol/L, blijft er weinig LDL steken. Daarboven stijgt die kans stap voor stap. Nuchter zijn hoeft niet voor deze test: na een gewone maaltijd is je LDL gemiddeld hooguit 0,2 mmol/L lager. De Europese richtlijn zet iedereen met een LDL boven 4,9 mmol/L op dat getal alleen al in de groep met een hoog risico. Een Europese labconsensus adviseert boven 5 mmol/L door te verwijzen, omdat het kan wijzen op familiaire hypercholesterolemie, een erfelijke vorm van hoog cholesterol. Bespreek een afwijkende waarde altijd met je huisarts."
+      },
+      "meta": {
+        "en": [
+          "GP: standard",
+          "Flagged by labs from 3.0 mmol/L (EAS)",
+          "NHG goal with raised risk: below 2.6 mmol/L",
+          "ESC goal: below 3.0 at low risk, 1.8 at high risk"
+        ],
+        "nl": [
+          "Huisarts: standaard",
+          "Lab markeert vanaf 3,0 mmol/L (EAS)",
+          "NHG-streefwaarde bij verhoogd risico: onder 2,6 mmol/L",
+          "ESC-doel: onder 3,0 bij laag risico, 1,8 bij hoog risico"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "28444290"
+        },
+        {
+          "pmid": "32052833"
+        },
+        {
+          "pmid": "27122601"
+        },
+        {
+          "pmid": "31504418"
+        },
+        {
+          "label": {
+            "en": "NHG (Dutch GP guideline): cardiovascular risk management",
+            "nl": "NHG-Standaard Cardiovasculair risicomanagement"
+          },
+          "note": {
+            "en": "Which markers the GP tests, the LDL goal, and advice on exercise and sitting",
+            "nl": "Welke waarden de huisarts bepaalt, de LDL-streefwaarde, en advies over bewegen en zitten"
+          },
+          "url": "https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement"
+        }
+      ]
+    },
+    {
+      "id": "apob",
+      "title": "ApoB",
+      "text": {
+        "en": "ApoB (apolipoprotein B) is a protein on the outside of every particle that can build up in your vessel walls: LDL, but also VLDL, the particles that carry triglycerides (a type of fat), and Lp(a). Each of those particles carries exactly one ApoB. So your LDL cholesterol tells you how much cholesterol the particles carry, and ApoB tells you how many particles there are.",
+        "nl": "ApoB (apolipoproteïne B) is een eiwit op de buitenkant van elk deeltje dat zich in je vaatwand kan ophopen: LDL, maar ook VLDL, de deeltjes die triglyceriden (een soort vet) vervoeren, en Lp(a). Elk van die deeltjes draagt precies één ApoB. Je LDL-cholesterol zegt dus hoeveel cholesterol de deeltjes bij zich hebben, en ApoB hoeveel deeltjes er zijn."
+      },
+      "items": [
+        {
+          "en": "Each particle can carry more or less cholesterol.",
+          "nl": "Elk deeltje kan meer of minder cholesterol bij zich hebben."
+        },
+        {
+          "en": "When your particles are small and carry little cholesterol, your LDL can look normal while you have many particles.",
+          "nl": "Zijn je deeltjes klein en hebben ze weinig cholesterol bij zich, dan kan je LDL er normaal uitzien terwijl je veel deeltjes hebt."
+        },
+        {
+          "en": "The number of particles decides how many end up in your vessel wall. Then ApoB shows a higher risk than your LDL.",
+          "nl": "Het aantal deeltjes bepaalt hoeveel er in je vaatwand belanden. Dan laat ApoB een hoger risico zien dan je LDL."
+        },
+        {
+          "en": "This happens more often with high triglycerides, diabetes, belly fat or a very low LDL.",
+          "nl": "Dat gebeurt vaker bij hoge triglyceriden, diabetes, buikvet of een heel laag LDL."
+        }
+      ],
+      "after": {
+        "en": "In most people LDL and ApoB tell the same story: in 346,686 people in the UK, ApoB added almost nothing once total and HDL cholesterol were known. The European guideline estimates that the two don't match in about 1 in 5 people. In 389,529 people not on cholesterol medication, only ApoB stayed linked to heart attacks when it was compared side by side with non-HDL cholesterol and triglycerides. So I advise asking for both. When your ApoB is high compared with your LDL, your risk is higher than your LDL suggests. In my view, fibre has the highest return there.",
+        "nl": "Bij de meeste mensen zeggen LDL en ApoB hetzelfde: bij 346.686 mensen in het Verenigd Koninkrijk voegde ApoB bijna niets toe als totaal- en HDL-cholesterol al bekend waren. Volgens de Europese richtlijn verschillen ze bij ongeveer 1 op de 5 mensen. Bij 389.529 mensen zonder cholesterolmedicatie bleef alleen ApoB samenhangen met hartinfarcten toen het naast non-HDL-cholesterol en triglyceriden werd gelegd. Ik raad daarom aan om beide te laten meten. Is je ApoB hoog vergeleken met je LDL, dan is je risico hoger dan je LDL doet denken. Vezels leveren daar volgens mij het meeste op."
+      },
+      "meta": {
+        "en": [
+          "GP: not standard (NHG)",
+          "Flagged by labs from 1.0 g/L (EAS)",
+          "ESC goal: below 1.0, 0.8 or 0.65 g/L at moderate, high or very high risk"
+        ],
+        "nl": [
+          "Huisarts: niet standaard (NHG)",
+          "Lab markeert vanaf 1,0 g/L (EAS)",
+          "ESC-doel: onder 1,0, 0,8 of 0,65 g/L bij matig, hoog of zeer hoog risico"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "31642874"
+        },
+        {
+          "pmid": "31216866"
+        },
+        {
+          "pmid": "34773460"
+        },
+        {
+          "pmid": "30694319"
+        },
+        {
+          "pmid": "31504418"
+        },
+        {
+          "pmid": "27122601"
+        }
+      ]
+    },
+    {
+      "id": "lpa",
+      "title": {
+        "en": "Lp(a): lipoprotein(a)",
+        "nl": "Lp(a): lipoproteïne(a)"
+      },
+      "text": {
+        "en": "Lp(a) is an LDL particle with an extra protein attached, called apo(a). More than 90% of your level is set by your genes, more than for any other blood fat. Your level is mostly fixed from childhood, although in women it can rise after menopause. Food and exercise barely change it.",
+        "nl": "Lp(a) is een LDL-deeltje met een extra eiwit eraan, apo(a). Meer dan 90% van je waarde ligt vast in je genen, meer dan bij enig ander bloedvet. Je waarde staat grotendeels vast vanaf je jeugd, al kan hij bij vrouwen na de overgang stijgen. Voeding en sport veranderen hem nauwelijks."
+      },
+      "items": [
+        {
+          "en": "Like LDL, Lp(a) can get stuck in your vessel walls.",
+          "nl": "Net als LDL kan Lp(a) in je vaatwand blijven steken."
+        },
+        {
+          "en": "It carries oxidised fats that fuel inflammation there.",
+          "nl": "Het draagt geoxideerde vetten mee die daar ontsteking aanwakkeren."
+        },
+        {
+          "en": "It's also linked to calcium build-up in the aortic valve, the valve where blood leaves your heart.",
+          "nl": "Het hangt ook samen met kalkafzetting in de aortaklep, de klep waardoor bloed je hart verlaat."
+        },
+        {
+          "en": "The higher your level, the higher the risk: at 100 mg/dL, the risk of heart and vascular disease roughly doubles.",
+          "nl": "Hoe hoger je waarde, hoe hoger het risico: bij 100 mg/dL verdubbelt het risico op hart- en vaatziekten ongeveer."
+        }
+      ],
+      "after": {
+        "en": "About 1.4 billion people have a raised Lp(a). European cardiologists advise measuring it at least once in every adult, especially with early heart disease or high cholesterol in the family. Above 50 mg/dL (about 105 nmol/L) they count it as a risk factor. One of our clients, a 33-year-old entrepreneur, came to us for his gut. His blood showed a total cholesterol of 6.8 mmol/L and a high Lp(a), set by his genes: a higher genetic risk he had no idea about. His plan: 40 to 50 g of fibre a day, zone 2 training and testing regularly. That plan won't lower his Lp(a) much. It lowers the rest of his risk. In 14,051 people, those with an Lp(a) of 50 mg/dL or more and the healthiest habits had a third of the risk of heart and vascular disease of those with the least healthy habits. Or as I put it: 'You can have the genes without them ever showing up, as long as what you do lines up.' With a high Lp(a), guidelines advise keeping your other risk factors low, LDL first, sometimes with medication via your GP. If yours is high, testing your parents, brothers, sisters and children can be worthwhile.",
+        "nl": "Ongeveer 1,4 miljard mensen hebben een verhoogd Lp(a). Europese cardiologen adviseren het bij elke volwassene minstens één keer te meten, zeker bij hart- en vaatziekten op jonge leeftijd of hoog cholesterol in de familie. Boven 50 mg/dL (ongeveer 105 nmol/L) tellen ze het als risicofactor. Een van onze cliënten, een ondernemer van 33, kwam bij ons voor zijn darmen. In zijn bloed zagen we een totaal cholesterol van 6,8 mmol/L en een hoog Lp(a), bepaald door zijn genen: een hoger genetisch risico waar hij geen idee van had. Zijn plan: 40 tot 50 gram vezels per dag, training in zone 2 en regelmatig testen. Dat plan verlaagt zijn Lp(a) nauwelijks. Het verlaagt de rest van zijn risico. Bij 14.051 mensen hadden mensen met een Lp(a) van 50 mg/dL of hoger en de gezondste gewoontes een derde van het risico op hart- en vaatziekten van mensen met de minst gezonde gewoontes. Of zoals ik het zeg: 'Je kunt de genen hebben zonder dat ze ooit naar boven komen, zolang wat je doet daarop is afgestemd.' Bij een hoog Lp(a) adviseren richtlijnen je andere risicofactoren laag te houden, LDL voorop, soms met medicatie via je huisarts. Is die van jou hoog, dan kan het zinvol zijn ook je ouders, broers, zussen en kinderen te laten testen."
+      },
+      "meta": {
+        "en": [
+          "GP: not standard (NHG)",
+          "Raised: above 50 mg/dL or about 105 nmol/L (ESC 2025)",
+          "Units differ per lab and don't convert exactly; 500 mg/L is 50 mg/dL",
+          "Once is enough; women may retest after menopause"
+        ],
+        "nl": [
+          "Huisarts: niet standaard (NHG)",
+          "Verhoogd: boven 50 mg/dL of ongeveer 105 nmol/L (ESC 2025)",
+          "Eenheden verschillen per lab en zijn niet precies om te rekenen; 500 mg/L is 50 mg/dL",
+          "Eén keer is genoeg; vrouwen kunnen na de overgang opnieuw meten"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "36036785"
+        },
+        {
+          "pmid": "40878289"
+        },
+        {
+          "pmid": "27998826"
+        },
+        {
+          "pmid": "27122601"
+        }
+      ]
+    },
+    {
+      "id": "hscrp",
+      "title": "hs-CRP",
+      "text": {
+        "en": "Inflammation is how your immune system responds to damage or infection. CRP (C-reactive protein) is a protein your liver then makes. The hs-CRP test (high-sensitivity CRP) also picks up very small amounts, so you see low-grade inflammation: a level that stays slightly raised without an infection. For me it's one of the three most important values to check.",
+        "nl": "Ontsteking is hoe je afweer reageert op schade of een infectie. CRP (C-reactief proteïne) is een eiwit dat je lever dan maakt. De hs-CRP-test (hooggevoelige CRP) meet ook heel kleine hoeveelheden, zodat je lichte ontsteking ziet: een waarde die zonder infectie licht verhoogd blijft. Voor mij is het een van de drie belangrijkste waarden om te checken."
+      },
+      "items": [
+        {
+          "en": "Inflammation in your vessel wall helps plaques grow, and makes them more likely to tear.",
+          "nl": "Ontsteking in je vaatwand laat plaques groeien en maakt de kans groter dat ze scheuren."
+        },
+        {
+          "en": "Belly fat, smoking and moving little can keep your CRP slightly raised.",
+          "nl": "Buikvet, roken en weinig bewegen kunnen je CRP licht verhoogd houden."
+        },
+        {
+          "en": "An infection, an injury or a very hard training session raises CRP for a short time.",
+          "nl": "Een infectie, een blessure of een heel zware training laat je CRP kort stijgen."
+        },
+        {
+          "en": "So only a level that stays raised tells you something about your heart.",
+          "nl": "Alleen een waarde die verhoogd blijft, zegt dus iets over je hart."
+        }
+      ],
+      "after": {
+        "en": "In 160,309 people from 54 studies, a three times higher CRP went with a 37% higher risk of coronary heart disease (narrowed arteries of the heart), after taking the usual risk factors into account. CRP was also linked to other diseases, so it's a general alarm signal and isn't specific to your heart. American cardiologists now advise measuring hs-CRP in everyone, together with cholesterol: below 1 mg/L counts as lower risk, 1 to 3 as average and above 3 as higher. The European guideline counts a level that stays above 2 mg/L as a factor that can move you into a higher risk group. Measure when you're well, not during a cold and not right after a race. Above 10 mg/L, measure again after 2 to 3 weeks and use the lower value. Exercise training lowered CRP in 83 trials, most clearly when people also lost body fat. In my experience, food has the biggest effect on it, then poor sleep and stress.",
+        "nl": "Bij 160.309 mensen uit 54 studies ging een drie keer hogere CRP samen met 37% meer kans op coronaire hartziekte (vernauwde kransslagaders), ook na correctie voor de bekende risicofactoren. CRP hing ook samen met andere ziektes, dus het is een algemeen alarmsignaal en niet specifiek voor je hart. Amerikaanse cardiologen adviseren nu om bij iedereen hs-CRP te meten, samen met cholesterol: onder 1 mg/L telt als lager risico, 1 tot 3 als gemiddeld en boven 3 als hoger. De Europese richtlijn telt een waarde die boven 2 mg/L blijft als factor die je in een hogere risicogroep kan zetten. Meet als je je goed voelt, niet tijdens een verkoudheid en niet vlak na een wedstrijd. Boven 10 mg/L meet je na 2 tot 3 weken opnieuw en gebruik je de laagste waarde. Sporten verlaagde CRP in 83 studies, het duidelijkst als mensen ook lichaamsvet verloren. In mijn ervaring heeft voeding er het meeste effect op, daarna slecht slapen en stress."
+      },
+      "meta": {
+        "en": [
+          "GP: regular CRP, not the sensitive hs-CRP",
+          "Lower, average, higher risk: below 1, 1 to 3, above 3 mg/L (ACC)",
+          "ESC: stays above 2 mg/L"
+        ],
+        "nl": [
+          "Huisarts: gewone CRP, niet de gevoelige hs-CRP",
+          "Lager, gemiddeld, hoger risico: onder 1, 1 tot 3, boven 3 mg/L (ACC)",
+          "ESC: blijft boven 2 mg/L"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "20031199"
+        },
+        {
+          "pmid": "41020749"
+        },
+        {
+          "pmid": "40878289"
+        },
+        {
+          "pmid": "32052833"
+        },
+        {
+          "pmid": "15893167"
+        },
+        {
+          "pmid": "27445361"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Triglycerides and HDL",
+        "nl": "Triglyceriden en HDL"
+      },
+      "text": {
+        "en": "Triglycerides are the most common fat in your blood: the form in which your body stores energy from food. HDL (high-density lipoprotein) is the particle that carries extra cholesterol from your tissues back to your liver. Both are in the GP's standard test, and many people read a high HDL with low triglycerides as a sign that all is well.",
+        "nl": "Triglyceriden zijn het meest voorkomende vet in je bloed: de vorm waarin je lichaam energie uit eten opslaat. HDL (lipoproteïne met hoge dichtheid) is het deeltje dat overtollig cholesterol uit je weefsels terug naar je lever brengt. Beide zitten in de standaardtest van de huisarts, en veel mensen lezen een hoog HDL met lage triglyceriden als teken dat alles goed is."
+      },
+      "items": [
+        {
+          "en": "Triglycerides travel in particles that also carry ApoB, so high triglycerides usually mean more particles.",
+          "nl": "Triglyceriden reizen in deeltjes die ook ApoB dragen, dus hoge triglyceriden betekenen meestal meer deeltjes."
+        },
+        {
+          "en": "In genetic studies, lowering triglycerides lowered heart risk only as far as ApoB went down.",
+          "nl": "In genetische studies daalde het hartrisico door lagere triglyceriden alleen zover ApoB daalde."
+        },
+        {
+          "en": "Genes that raise HDL didn't lower the risk of a heart attack.",
+          "nl": "Genen die HDL verhogen, verlaagden de kans op een hartinfarct niet."
+        },
+        {
+          "en": "Very high HDL even went with higher mortality: in men from about 2.5 mmol/L, in women from 3.5.",
+          "nl": "Heel hoog HDL ging zelfs samen met een hogere sterfte: bij mannen vanaf ongeveer 2,5 mmol/L, bij vrouwen vanaf 3,5."
+        }
+      ],
+      "after": {
+        "en": "On carnivore this is easy to miss. In the survey of 2,029 carnivore dieters, the people who shared results had a good HDL (1.8 mmol/L) and low triglycerides (0.8 mmol/L), with a median LDL of 4.5 mmol/L. A good HDL doesn't cancel out a high LDL. You don't need to fast for these either: after a normal meal triglycerides are on average up to 0.3 mmol/L higher, and HDL doesn't change. Fasting only makes sense when your triglycerides come back above 5 mmol/L.",
+        "nl": "Op carnivoor mis je dit makkelijk. In de enquête onder 2.029 carnivoor-eters hadden de mensen die hun uitslag deelden een goed HDL (1,8 mmol/L) en lage triglyceriden (0,8 mmol/L), met een mediaan LDL van 4,5 mmol/L. Een goed HDL maakt een hoog LDL niet goed. Nuchter zijn hoeft ook hier niet: na een gewone maaltijd zijn triglyceriden gemiddeld hooguit 0,3 mmol/L hoger, en HDL verandert niet. Nuchter prikken heeft pas zin als je triglyceriden boven 5 mmol/L uitkomen."
+      },
+      "meta": {
+        "en": [
+          "GP: standard",
+          "Flagged by labs: triglycerides from 2.0 mmol/L (1.7 fasting), HDL at 1.0 mmol/L or lower (EAS)"
+        ],
+        "nl": [
+          "Huisarts: standaard",
+          "Lab markeert: triglyceriden vanaf 2,0 mmol/L (nuchter 1,7), HDL bij 1,0 mmol/L of lager (EAS)"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "30694319"
+        },
+        {
+          "pmid": "34773460"
+        },
+        {
+          "pmid": "22607825"
+        },
+        {
+          "pmid": "28419274"
+        },
+        {
+          "pmid": "34934897"
+        },
+        {
+          "pmid": "27122601"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Resting heart rate and VO2max",
+        "nl": "Rusthartslag en VO2max"
+      },
+      "text": {
+        "en": "Your resting heart rate is how many times your heart beats per minute when you're fully at rest. VO2max is the most oxygen your body can use per minute during an all-out effort, in millilitres per kilo of body weight. Both say a lot about your heart, and you measure them without a needle.",
+        "nl": "Je rusthartslag is hoe vaak je hart per minuut slaat als je helemaal in rust bent. VO2max is de meeste zuurstof die je lichaam per minuut kan gebruiken bij een maximale inspanning, in milliliter per kilo lichaamsgewicht. Beide zeggen veel over je hart, en je meet ze zonder naald."
+      },
+      "items": [
+        {
+          "en": "Endurance training makes your heart pump more blood per beat. In one trial, 8 weeks of intervals raised that by about 10%.",
+          "nl": "Duurtraining laat je hart per slag meer bloed rondpompen. In een trial steeg dat na 8 weken intervallen met ongeveer 10%."
+        },
+        {
+          "en": "So at rest your heart needs fewer beats. Across 191 studies, endurance training lowered resting heart rate.",
+          "nl": "In rust heeft je hart dan minder slagen nodig. In 191 studies verlaagde duurtraining de rusthartslag."
+        },
+        {
+          "en": "With more blood per beat, more oxygen reaches your muscles, and your VO2max goes up.",
+          "nl": "Met meer bloed per slag krijgen je spieren meer zuurstof, en stijgt je VO2max."
+        }
+      ],
+      "after": {
+        "en": "In 46 studies with 1.2 million people, every 10 beats a minute higher resting heart rate went with a 9% higher risk of dying. For fitness the link is stronger: each MET more (about 1 km/h faster running pace) went with a 13% lower risk of dying, and the least fit group had a 70% higher risk than the fittest. A wearable tracks your resting heart rate every night. Its VO2max is an estimate: devices that use your runs are right on average, but for one person they can be off by up to about 10 ml per kilo per minute. So follow your own trend on the same device, and do a lab test on a treadmill or bike if you want the exact number.",
+        "nl": "In 46 studies met 1,2 miljoen mensen ging elke 10 slagen per minuut hogere rusthartslag samen met 9% meer kans om te overlijden. Voor conditie is het verband sterker: elke MET meer (ongeveer 1 km/u sneller hardlopen) ging samen met 13% minder kans om te overlijden, en de minst fitte groep had 70% meer risico dan de fitste. Een wearable volgt je rusthartslag elke nacht. Zijn VO2max is een schatting: apparaten die je hardlooprondes gebruiken zitten er gemiddeld goed op, maar voor één persoon kunnen ze tot zo'n 10 ml per kilo per minuut afwijken. Volg dus je eigen trend op hetzelfde apparaat, en doe een inspanningstest op een loopband of fiets als je het precieze getal wilt."
+      },
+      "meta": {
+        "en": [
+          "Measure: with a wearable, no blood test needed",
+          "Low fitness in the 33 studies: below 7.9 METs, about 28 ml/kg/min"
+        ],
+        "nl": [
+          "Meten: met een wearable, zonder bloedtest",
+          "Lage conditie in de 33 studies: onder 7,9 MET, ongeveer 28 ml/kg/min"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "17414804"
+        },
+        {
+          "pmid": "30513777"
+        },
+        {
+          "pmid": "26598376"
+        },
+        {
+          "pmid": "19454641"
+        },
+        {
+          "pmid": "35072942"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "The basics your GP checks",
+        "nl": "De basis die je huisarts meet"
+      },
+      "text": {
+        "en": "A GP heart risk profile also includes these. You probably know them already.",
+        "nl": "Een hartrisicoprofiel bij de huisarts kijkt ook naar deze punten. Je kent ze waarschijnlijk al."
+      },
+      "numbered": false,
+      "items": [
+        {
+          "en": "Blood pressure, measured more than once.",
+          "nl": "Bloeddruk, meer dan één keer gemeten."
+        },
+        {
+          "en": "Glucose, preferably fasting.",
+          "nl": "Glucose, bij voorkeur nuchter."
+        },
+        {
+          "en": "Kidney function (eGFR) and protein (albumin) in your urine.",
+          "nl": "Nierfunctie (eGFR) en eiwit (albumine) in je urine."
+        },
+        {
+          "en": "Your BMI and waist.",
+          "nl": "Je BMI en middelomtrek."
+        },
+        {
+          "en": "Smoking, alcohol, food and how much you move: the GP guideline advises at least 150 minutes a week of moderate exercise, such as walking or cycling, and no more than 8 hours a day sitting.",
+          "nl": "Roken, alcohol, voeding en hoeveel je beweegt: de richtlijn adviseert minstens 150 minuten per week matig intensief bewegen, zoals wandelen of fietsen, en niet meer dan 8 uur per dag zitten."
+        }
+      ],
+      "after": {
+        "en": "Your GP estimates heart risk with these for men from 40 and women from 50, or earlier with early heart disease in the family or other risk factors. Under 40 without risk factors, the guideline doesn't advise a routine check.",
+        "nl": "Je huisarts schat hiermee je hartrisico bij mannen vanaf 40 en vrouwen vanaf 50, of eerder bij hart- en vaatziekten op jonge leeftijd in de familie of andere risicofactoren. Onder de 40 zonder risicofactoren raadt de richtlijn geen routinecheck aan."
+      },
+      "sources": [
+        {
+          "label": {
+            "en": "NHG (Dutch GP guideline): cardiovascular risk management",
+            "nl": "NHG-Standaard Cardiovasculair risicomanagement"
+          },
+          "note": {
+            "en": "Which markers the GP tests, the LDL goal, and advice on exercise and sitting",
+            "nl": "Welke waarden de huisarts bepaalt, de LDL-streefwaarde, en advies over bewegen en zitten"
+          },
+          "url": "https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "en": "Part 2",
+        "nl": "Deel 2"
+      },
+      "title": {
+        "en": "How I brought my LDL from 4.2 to 1.4",
+        "nl": "Hoe ik mijn LDL van 4,2 naar 1,4 kreeg"
+      },
+      "subtitle": {
+        "en": "Three changes at once, so I don't know which did the most. Per change: what I did and what research says.",
+        "nl": "Drie veranderingen tegelijk, dus welke het meest deed, weet ik niet. Per verandering: wat ik deed en wat onderzoek zegt."
+      }
+    },
+    {
+      "title": {
+        "en": "Fibre: 50 grams or more a day",
+        "nl": "Vezels: 50 gram of meer per dag"
+      },
+      "text": {
+        "en": "Fibre is the part of plant food your gut can't digest: in vegetables, fruit, legumes (beans, lentils, chickpeas), whole grains, oats and nuts. Meat has none. Soluble fibre is the kind that forms a gel with water, as in oats, legumes and fruit. It lowers LDL through your bile.",
+        "nl": "Vezels zijn het deel van plantaardig eten dat je darm niet kan verteren: in groente, fruit, peulvruchten (bonen, linzen, kikkererwten), volkoren granen, haver en noten. Vlees bevat geen vezels. Oplosbare vezels vormen met water een gel, zoals in haver, peulvruchten en fruit. Ze verlagen je LDL via je gal."
+      },
+      "items": [
+        {
+          "en": "Your liver makes bile from cholesterol. Bile helps you digest fat, and your gut normally takes most of it back up.",
+          "nl": "Je lever maakt gal van cholesterol. Gal helpt je vet te verteren, en je darm neemt het meeste ervan normaal weer op."
+        },
+        {
+          "en": "Soluble fibre holds on to bile in your gut, so more of it leaves your body.",
+          "nl": "Oplosbare vezels houden gal vast in je darm, zodat er meer van je lichaam verlaat."
+        },
+        {
+          "en": "Your liver has to make new bile, and uses cholesterol from your blood to do it. Your LDL goes down.",
+          "nl": "Je lever moet nieuwe gal maken en gebruikt daarvoor cholesterol uit je bloed. Je LDL daalt."
+        }
+      ],
+      "after": {
+        "en": "The effect per gram is small. In 67 trials, each gram of soluble fibre lowered LDL by about 0.06 mmol/L: 3 grams from oats, about three bowls of 28 grams, lowered it by about 0.13. Those trials tested a few grams of soluble fibre, far less than my 50 grams of total fibre, so they can't tell how much of my drop came from fibre. Over the long term the picture is bigger. In 185 studies, the people who ate the most fibre had a 15 to 30% lower risk of dying and of heart and vascular disease than those who ate the least. The benefit was clearest at 25 to 29 grams a day, and the curves suggest more could help more. The Netherlands Nutrition Centre advises at least 30 grams a day for men and 24 for women, and says more isn't needed. My 50 grams is well above that. Still, in my view fibre has the highest return.",
+        "nl": "Het effect per gram is klein. In 67 trials verlaagde elke gram oplosbare vezels het LDL met zo'n 0,06 mmol/L: 3 gram uit haver, ongeveer drie kommen van 28 gram, verlaagde het met zo'n 0,13. Die trials testten een paar gram oplosbare vezels, veel minder dan mijn 50 gram vezels in totaal, dus ze kunnen niet zeggen hoeveel van mijn daling door vezels kwam. Op lange termijn is het beeld groter. In 185 studies hadden de mensen die de meeste vezels aten 15 tot 30% minder kans om te overlijden en op hart- en vaatziekten dan de mensen die er het minst aten. Het voordeel was het duidelijkst bij 25 tot 29 gram per dag, en de curves wijzen erop dat meer nog meer kan helpen. Het Voedingscentrum adviseert mannen minstens 30 gram per dag en vrouwen 24, en zegt dat meer niet nodig is. Mijn 50 gram zit daar ruim boven. Toch leveren vezels volgens mij het meeste op."
+      },
+      "caution": {
+        "en": "Going from little fibre to 50 grams at once can cause wind, cramps or constipation. Build it up step by step and drink enough with it.",
+        "nl": "Ga je in één keer van weinig vezels naar 50 gram, dan kun je last krijgen van winderigheid, krampen of verstopping. Bouw het stap voor stap op en drink er genoeg bij."
+      },
+      "meta": {
+        "en": [
+          "Netherlands Nutrition Centre: at least 30 g (men) or 24 g (women) a day"
+        ],
+        "nl": [
+          "Voedingscentrum: minstens 30 gram (mannen) of 24 gram (vrouwen) per dag"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "21776465"
+        },
+        {
+          "pmid": "9925120"
+        },
+        {
+          "pmid": "30638909"
+        },
+        {
+          "label": {
+            "en": "Netherlands Nutrition Centre: fibre",
+            "nl": "Voedingscentrum: vezels"
+          },
+          "note": {
+            "en": "At least 30 g (men) and 24 g (women) a day; build up step by step and drink enough",
+            "nl": "Minstens 30 gram (mannen) en 24 gram (vrouwen) per dag; bouw stap voor stap op en drink genoeg"
+          },
+          "url": "https://www.voedingscentrum.nl/encyclopedie/vezels.aspx"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Lean steak instead of fatty cuts",
+        "nl": "Mager vlees in plaats van vette stukken"
+      },
+      "text": {
+        "en": "Saturated fat is the fat that's solid at room temperature: in fatty meat, butter, cheese, cream and coconut oil. I kept eating steak, but only non-fatty cuts such as tenderloin and beef shank.",
+        "nl": "Verzadigd vet is het vet dat bij kamertemperatuur vast is: in vet vlees, boter, kaas, room en kokosolie. Ik bleef steak eten, maar alleen magere stukken zoals ossenhaas en schenkel."
+      },
+      "items": [
+        {
+          "en": "Your liver clears LDL from your blood with LDL receptors: docking points on its cells that pull LDL in.",
+          "nl": "Je lever haalt LDL uit je bloed met LDL-receptoren: aanlegplaatsen op de levercellen die LDL naar binnen halen."
+        },
+        {
+          "en": "Some saturated fats make those receptors less active, so more LDL stays in your blood.",
+          "nl": "Sommige verzadigde vetten maken die receptoren minder actief, zodat er meer LDL in je bloed blijft."
+        },
+        {
+          "en": "Several unsaturated fats, as in olive oil and nuts, do the opposite.",
+          "nl": "Verschillende onverzadigde vetten, zoals in olijfolie en noten, doen het omgekeerde."
+        }
+      ],
+      "after": {
+        "en": "In a trial, 113 healthy adults ate red meat, white meat or plant protein for 4 weeks each, on a diet high or low in saturated fat. High saturated fat raised LDL and ApoB whatever the protein. Red and white meat raised LDL equally, and plant protein gave the lowest LDL. So it's mostly the fat in the meat, and the protein source counts too. In 15 long trials with about 59,000 people, eating less saturated fat for at least two years lowered the risk of heart and vascular events by 21%. It made little or no difference to the risk of dying. Good to know: swapping saturated fat for carbs or unsaturated fat can raise Lp(a) by 10 to 15%, while your LDL goes down.",
+        "nl": "In een trial aten 113 gezonde volwassenen elk 4 weken rood vlees, wit vlees of plantaardig eiwit, in een dieet met veel of weinig verzadigd vet. Veel verzadigd vet verhoogde LDL en ApoB, welk eiwit ze ook aten. Rood en wit vlees verhoogden LDL evenveel, en met plantaardig eiwit was LDL het laagst. Het gaat dus vooral om het vet in het vlees, en de eiwitbron telt ook mee. In 15 lange trials met zo'n 59.000 mensen verlaagde minder verzadigd vet eten, minstens twee jaar lang, de kans op een hart- of vaatziekte met 21%. Op de kans om te overlijden maakte het weinig of geen verschil. Goed om te weten: verzadigd vet vervangen door koolhydraten of onverzadigd vet kan je Lp(a) 10 tot 15% verhogen, terwijl je LDL daalt."
+      },
+      "sources": [
+        {
+          "pmid": "9129498"
+        },
+        {
+          "pmid": "31161217"
+        },
+        {
+          "pmid": "32428300"
+        },
+        {
+          "pmid": "36036785"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Zone 2 and 4x4 intervals",
+        "nl": "Zone 2 en 4x4-intervallen"
+      },
+      "text": {
+        "en": "Zone 2 is easy endurance training: a heart rate low enough that you can still talk. When my LDL went down, I did 120 minutes of zone 2 a week. Now I train about 150 minutes a week in zone 2, plus Norwegian 4x4 intervals twice a week to raise my VO2max. Of everything, running lowered my stress the most, and it helped me lower my LDL. I'm training for a 50 km ultra in Dubai.",
+        "nl": "Zone 2 is rustige duurtraining: een hartslag zo laag dat je nog kunt praten. Toen mijn LDL daalde, deed ik 120 minuten zone 2 per week. Nu train ik zo'n 150 minuten per week in zone 2, plus twee keer per week Noorse 4x4-intervallen om mijn VO2max te verhogen. Van alles verlaagde hardlopen mijn stress het meest, en het hielp me mijn LDL te verlagen. Ik train voor een ultra van 50 km in Dubai."
+      },
+      "items": [
+        {
+          "en": "4 minutes all-out. In the study: 90 to 95% of your maximum heart rate.",
+          "nl": "4 minuten alles geven. In de studie: 90 tot 95% van je maximale hartslag."
+        },
+        {
+          "en": "3 minutes rest. In the study: easy jogging at about 70%.",
+          "nl": "3 minuten rust. In de studie: rustig joggen op ongeveer 70%."
+        },
+        {
+          "en": "Repeat four times.",
+          "nl": "Herhaal dat vier keer."
+        },
+        {
+          "en": "I do this twice a week.",
+          "nl": "Ik doe dit twee keer per week."
+        }
+      ],
+      "after": {
+        "en": "In 40 moderately trained men, 8 weeks of 4x4 intervals raised VO2max by 7%, more than the same amount of work at an easy or medium pace. On LDL, training alone does little: in 49 trials with 2,990 men, aerobic exercise lowered triglycerides by 9% and LDL by only 3%, too little to be sure of. Together with food it works better. In a one-year trial with 377 people with raised LDL and low HDL, a lower-fat diet only lowered LDL clearly when they also exercised: in men by about 0.5 mmol/L. The WHO advises adults 150 to 300 minutes of moderate exercise a week, or 75 to 150 minutes of hard exercise.",
+        "nl": "Bij 40 redelijk getrainde mannen steeg de VO2max na 8 weken 4x4-intervallen met 7%, meer dan met evenveel werk op een rustig of middelhoog tempo. Op LDL doet training alleen weinig: in 49 trials met 2.990 mannen verlaagde duurtraining de triglyceriden met 9% en LDL met maar 3%, te weinig om zeker te zijn. Samen met voeding werkt het beter. In een trial van een jaar met 377 mensen met een verhoogd LDL en een laag HDL verlaagde een vetarmer dieet het LDL alleen duidelijk als ze er ook bij sportten: bij mannen met zo'n 0,5 mmol/L. De WHO adviseert volwassenen 150 tot 300 minuten matig intensief bewegen per week, of 75 tot 150 minuten zwaar."
+      },
+      "caution": {
+        "en": "Hard intervals put real strain on your heart. New to hard training, or do you have chest pain, dizziness or a heart condition? Check with your GP first.",
+        "nl": "Zware intervallen vragen echt iets van je hart. Ben je nieuw met zware training, of heb je pijn op de borst, duizeligheid of een hartaandoening? Overleg dan eerst met je huisarts."
+      },
+      "sources": [
+        {
+          "pmid": "17414804"
+        },
+        {
+          "pmid": "18645633"
+        },
+        {
+          "pmid": "9647874"
+        },
+        {
+          "pmid": "33239350"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "My resting heart rate: 53 to 37 in 12 months",
+        "nl": "Mijn rusthartslag: van 53 naar 37 in 12 maanden"
+      },
+      "text": {
+        "en": "Over 12 months my resting heart rate went from 53 to 37. I walked on a walking pad under my desk with a 10 kg weighted vest, for 30,000 to 40,000 steps a day. Each week I also did 200 minutes in zone 2 and 30 to 60 minutes in zone 4 or higher (so hard you can only say a few words). I changed more than one thing, so I don't know which part did the most.",
+        "nl": "In 12 maanden ging mijn rusthartslag van 53 naar 37. Ik liep op een loopband onder mijn bureau met een gewichtsvest van 10 kilo: 30.000 tot 40.000 stappen per dag. Per week deed ik daarnaast 200 minuten in zone 2 en 30 tot 60 minuten in zone 4 of hoger (zo zwaar dat je nog maar een paar woorden kunt zeggen). Ik veranderde meer dan één ding, dus wat het meeste deed, weet ik niet."
+      },
+      "bars": {
+        "title": {
+          "en": "My resting heart rate (beats per minute)",
+          "nl": "Mijn rusthartslag (slagen per minuut)"
+        },
+        "items": [
+          {
+            "label": {
+              "en": "Before",
+              "nl": "Ervoor"
+            },
+            "value": 53,
+            "display": "53"
+          },
+          {
+            "label": {
+              "en": "12 months later",
+              "nl": "12 maanden later"
+            },
+            "value": 37,
+            "display": "37"
+          }
+        ],
+        "caption": {
+          "en": "Two measurements, 12 months apart.",
+          "nl": "Twee metingen, 12 maanden na elkaar."
+        }
+      },
+      "after": {
+        "en": "Across 191 studies, endurance training lowered resting heart rate, more in people who started higher. On steps, the research is clear up to a point: in 47,471 adults, the risk of dying kept falling up to 8,000 to 10,000 steps a day for people under 60, and up to 6,000 to 8,000 for people over 60. My 30,000 to 40,000 is far beyond that, so the research can't tell whether the extra steps did anything for my heart. The GP guideline advises sitting no more than 8 hours a day, and a walking pad is one way to get there.",
+        "nl": "In 191 studies verlaagde duurtraining de rusthartslag, meer bij mensen die hoger begonnen. Over stappen is het onderzoek duidelijk tot een bepaald punt: bij 47.471 volwassenen bleef de kans om te overlijden dalen tot 8.000 à 10.000 stappen per dag bij mensen onder de 60, en tot 6.000 à 8.000 bij mensen boven de 60. Mijn 30.000 tot 40.000 zit daar ver boven, dus het onderzoek kan niet zeggen of die extra stappen iets voor mijn hart deden. De huisartsenrichtlijn adviseert niet meer dan 8 uur per dag te zitten, en een loopband onder je bureau is één manier om daar te komen."
+      },
+      "caution": {
+        "en": "A resting heart rate this low is common in trained endurance athletes: without symptoms, a heart rate of 30 or more counts as normal for them. A low heart rate with dizziness or fainting is a reason to see your GP.",
+        "nl": "Zo'n lage rusthartslag komt veel voor bij getrainde duursporters: zonder klachten geldt een hartslag van 30 of meer bij hen als normaal. Een lage hartslag met duizeligheid of flauwvallen is een reden om naar je huisarts te gaan."
+      },
+      "sources": [
+        {
+          "pmid": "30513777"
+        },
+        {
+          "pmid": "35247352"
+        },
+        {
+          "pmid": "28231933"
+        },
+        {
+          "label": {
+            "en": "NHG (Dutch GP guideline): cardiovascular risk management",
+            "nl": "NHG-Standaard Cardiovasculair risicomanagement"
+          },
+          "note": {
+            "en": "Which markers the GP tests, the LDL goal, and advice on exercise and sitting",
+            "nl": "Welke waarden de huisarts bepaalt, de LDL-streefwaarde, en advies over bewegen en zitten"
+          },
+          "url": "https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "en": "Part 3",
+        "nl": "Deel 3"
+      },
+      "title": {
+        "en": "Which heart markers should you ask for?",
+        "nl": "Naar welke hartwaarden vraag je?"
+      },
+      "subtitle": {
+        "en": "Ten questions. You'll see right away where to start.",
+        "nl": "Tien vragen. Je ziet meteen waar je begint."
+      }
+    },
+    {
+      "title": {
+        "en": "Where to start",
+        "nl": "Waar begin je?"
+      },
+      "check": {
+        "intro": {
+          "en": "Choose no, not sure or yes for each question. Each answer counts towards one or two areas.",
+          "nl": "Kies per vraag nee, weet ik niet of ja. Elk antwoord telt mee bij één of twee gebieden."
+        },
+        "answers": {
+          "en": [
+            "No",
+            "Not sure",
+            "Yes"
+          ],
+          "nl": [
+            "Nee",
+            "Weet ik niet",
+            "Ja"
+          ]
+        },
+        "questions": [
+          {
+            "q": {
+              "en": "A parent, brother or sister had a heart attack, stroke or stent young: men before 55, women before 60.",
+              "nl": "Een ouder, broer of zus kreeg jong een hartinfarct, beroerte of stent: mannen voor hun 55e, vrouwen voor hun 60e."
+            },
+            "areas": [
+              "lpa",
+              "ldl"
+            ]
+          },
+          {
+            "q": {
+              "en": "Someone in your family has been told they have very high cholesterol.",
+              "nl": "Iemand in je familie heeft te horen gekregen dat hij of zij een heel hoog cholesterol heeft."
+            },
+            "areas": [
+              "lpa",
+              "ldl"
+            ]
+          },
+          {
+            "q": {
+              "en": "An earlier blood test showed high cholesterol.",
+              "nl": "Een eerdere bloedtest liet een hoog cholesterol zien."
+            },
+            "areas": [
+              "ldl"
+            ]
+          },
+          {
+            "q": {
+              "en": "Most days you eat fatty meat, butter, cheese or cream, or you follow a carnivore or keto diet.",
+              "nl": "Je eet de meeste dagen vet vlees, boter, kaas of room, of je volgt een carnivoor- of ketodieet."
+            },
+            "areas": [
+              "ldl"
+            ]
+          },
+          {
+            "q": {
+              "en": "You eat less than 30 grams of fibre a day.",
+              "nl": "Je eet minder dan 30 gram vezels per dag."
+            },
+            "areas": [
+              "ldl"
+            ]
+          },
+          {
+            "q": {
+              "en": "You carry extra weight around your belly.",
+              "nl": "Je draagt extra gewicht rond je buik."
+            },
+            "areas": [
+              "ldl",
+              "crp"
+            ]
+          },
+          {
+            "q": {
+              "en": "You smoke.",
+              "nl": "Je rookt."
+            },
+            "areas": [
+              "crp"
+            ]
+          },
+          {
+            "q": {
+              "en": "You exercise less than 150 minutes a week.",
+              "nl": "Je beweegt minder dan 150 minuten per week."
+            },
+            "areas": [
+              "fit",
+              "crp"
+            ]
+          },
+          {
+            "q": {
+              "en": "Three flights of stairs leave you more out of breath than others your age.",
+              "nl": "Na drie trappen ben je meer buiten adem dan anderen van je leeftijd."
+            },
+            "areas": [
+              "fit"
+            ]
+          },
+          {
+            "q": {
+              "en": "You sit for more than 8 hours a day.",
+              "nl": "Je zit meer dan 8 uur per dag."
+            },
+            "areas": [
+              "fit"
+            ]
+          }
+        ],
+        "areas": {
+          "lpa": {
+            "label": {
+              "en": "Lp(a) and your family",
+              "nl": "Lp(a) en je familie"
+            },
+            "text": {
+              "en": "Your answers point to heart disease or high cholesterol in your family. Lp(a) is mostly set by your genes, so one test tells you a lot, for life. Guidelines advise everyone to measure it once, and especially with a family history.",
+              "nl": "Je antwoorden wijzen op hart- en vaatziekten of hoog cholesterol in je familie. Lp(a) ligt grotendeels vast in je genen, dus één test zegt veel, voor je hele leven. Richtlijnen adviseren iedereen het één keer te meten, en zeker als het in de familie zit."
+            },
+            "measure": {
+              "en": "Lp(a) once, plus LDL and ApoB. Write down the unit (mg/dL or nmol/L). Always discuss an abnormal result with your GP.",
+              "nl": "Lp(a) één keer, plus LDL en ApoB. Schrijf de eenheid op (mg/dL of nmol/L). Bespreek een afwijkende waarde altijd met je huisarts."
+            }
+          },
+          "ldl": {
+            "label": {
+              "en": "LDL and ApoB",
+              "nl": "LDL en ApoB"
+            },
+            "text": {
+              "en": "Your answers point to the particles that carry cholesterol into your vessel walls. What you eat moves them most. ApoB shows whether you have more particles than your LDL suggests.",
+              "nl": "Je antwoorden wijzen op de deeltjes die cholesterol je vaatwand in brengen. Wat je eet, beweegt ze het meest. ApoB laat zien of je meer deeltjes hebt dan je LDL doet denken."
+            },
+            "measure": {
+              "en": "LDL cholesterol and ApoB in one blood test. You don't need to fast.",
+              "nl": "LDL-cholesterol en ApoB in één bloedtest. Nuchter zijn hoeft niet."
+            }
+          },
+          "crp": {
+            "label": {
+              "en": "Inflammation",
+              "nl": "Ontsteking"
+            },
+            "text": {
+              "en": "Your answers point to habits that go with low-grade inflammation, such as belly fat, smoking and moving little.",
+              "nl": "Je antwoorden wijzen op gewoontes die samengaan met lichte ontsteking, zoals buikvet, roken en weinig bewegen."
+            },
+            "measure": {
+              "en": "hs-CRP, when you're well and not right after a hard training session.",
+              "nl": "hs-CRP, als je je goed voelt en niet vlak na een zware training."
+            }
+          },
+          "fit": {
+            "label": {
+              "en": "Fitness",
+              "nl": "Conditie"
+            },
+            "text": {
+              "en": "Your answers point to your fitness. A lower resting heart rate and a higher VO2max go with a lower risk, and both respond to training.",
+              "nl": "Je antwoorden wijzen op je conditie. Een lagere rusthartslag en een hogere VO2max gaan samen met een lager risico, en allebei reageren ze op training."
+            },
+            "measure": {
+              "en": "Your resting heart rate and VO2max estimate, with a wearable.",
+              "nl": "Je rusthartslag en geschatte VO2max, met een wearable."
+            }
+          }
+        },
+        "note": {
+          "en": "This check doesn't establish anything. It shows where you could start. Chest pain, shortness of breath or palpitations? See your GP.",
+          "nl": "Deze check stelt niets vast. Hij laat zien waar je kunt beginnen. Pijn op de borst, kortademig of hartkloppingen? Ga naar je huisarts."
+        }
+      },
+      "sources": [
+        {
+          "pmid": "40878289"
+        },
+        {
+          "pmid": "36036785"
+        }
+      ]
     }
-   ],
-   "after": {
-    "en": "In 160,309 people from 54 studies, a three times higher CRP went with a 37% higher risk of coronary heart disease (narrowed arteries of the heart), after taking the usual risk factors into account. CRP was also linked to other diseases, so it's a general alarm signal and isn't specific to your heart. American cardiologists now advise measuring hs-CRP in everyone, together with cholesterol: below 1 mg/L counts as lower risk, 1 to 3 as average and above 3 as higher. The European guideline counts a level that stays above 2 mg/L as a factor that can move you into a higher risk group. Measure when you're well, not during a cold and not right after a race. Above 10 mg/L, measure again after 2 to 3 weeks and use the lower value. Exercise training lowered CRP in 83 trials, most clearly when people also lost body fat. In my experience, food has the biggest effect on it, then poor sleep and stress.",
-    "nl": "Bij 160.309 mensen uit 54 studies ging een drie keer hogere CRP samen met 37% meer kans op coronaire hartziekte (vernauwde kransslagaders), ook na correctie voor de bekende risicofactoren. CRP hing ook samen met andere ziektes, dus het is een algemeen alarmsignaal en niet specifiek voor je hart. Amerikaanse cardiologen adviseren nu om bij iedereen hs-CRP te meten, samen met cholesterol: onder 1 mg/L telt als lager risico, 1 tot 3 als gemiddeld en boven 3 als hoger. De Europese richtlijn telt een waarde die boven 2 mg/L blijft als factor die je in een hogere risicogroep kan zetten. Meet als je je goed voelt, niet tijdens een verkoudheid en niet vlak na een wedstrijd. Boven 10 mg/L meet je na 2 tot 3 weken opnieuw en gebruik je de laagste waarde. Sporten verlaagde CRP in 83 studies, het duidelijkst als mensen ook lichaamsvet verloren. In mijn ervaring heeft voeding er het meeste effect op, daarna slecht slapen en stress."
-   },
-   "meta": {
-    "en": [
-     "GP: regular CRP, not the sensitive hs-CRP",
-     "Lower, average, higher risk: below 1, 1 to 3, above 3 mg/L (ACC)",
-     "ESC: stays above 2 mg/L"
-    ],
-    "nl": [
-     "Huisarts: gewone CRP, niet de gevoelige hs-CRP",
-     "Lager, gemiddeld, hoger risico: onder 1, 1 tot 3, boven 3 mg/L (ACC)",
-     "ESC: blijft boven 2 mg/L"
-    ]
-   },
-   "sources": [
-    {
-     "pmid": "20031199"
-    },
-    {
-     "pmid": "41020749"
-    },
-    {
-     "pmid": "40878289"
-    },
-    {
-     "pmid": "32052833"
-    },
-    {
-     "pmid": "15893167"
-    },
-    {
-     "pmid": "27445361"
-    }
-   ]
+  ],
+  "closing": {
+    "en": "Heart and vascular disease build up over years, long before you feel anything. Most of what drives it you can see in one blood test and a wearable: LDL and ApoB, Lp(a) once, hs-CRP when you're well, and your resting heart rate every night. Change one thing at a time, and retest at the same lab after a few months. In the trial we start with what your wearable already measures, such as your resting heart rate and HRV (the small variation in time between your heartbeats), and go through your next step together. Always discuss an abnormal result with your GP.",
+    "nl": "Hart- en vaatziekten bouwen zich in jaren op, lang voordat je iets merkt. Het meeste wat daarbij meespeelt, zie je in één bloedtest en een wearable: LDL en ApoB, Lp(a) één keer, hs-CRP als je je goed voelt, en je rusthartslag elke nacht. Verander één ding tegelijk, en test na een paar maanden opnieuw bij hetzelfde lab. In de trial beginnen we met wat je wearable al meet, zoals je rusthartslag en HRV (het kleine verschil in tijd tussen je hartslagen), en bespreken we samen je volgende stap. Bespreek een afwijkende waarde altijd met je huisarts."
   },
-  {
-   "title": {
-    "en": "Triglycerides and HDL",
-    "nl": "Triglyceriden en HDL"
-   },
-   "text": {
-    "en": "Triglycerides are the most common fat in your blood: the form in which your body stores energy from food. HDL (high-density lipoprotein) is the particle that carries extra cholesterol from your tissues back to your liver. Both are in the GP's standard test, and many people read a high HDL with low triglycerides as a sign that all is well.",
-    "nl": "Triglyceriden zijn het meest voorkomende vet in je bloed: de vorm waarin je lichaam energie uit eten opslaat. HDL (lipoproteïne met hoge dichtheid) is het deeltje dat overtollig cholesterol uit je weefsels terug naar je lever brengt. Beide zitten in de standaardtest van de huisarts, en veel mensen lezen een hoog HDL met lage triglyceriden als teken dat alles goed is."
-   },
-   "items": [
-    {
-     "en": "Triglycerides travel in particles that also carry ApoB, so high triglycerides usually mean more particles.",
-     "nl": "Triglyceriden reizen in deeltjes die ook ApoB dragen, dus hoge triglyceriden betekenen meestal meer deeltjes."
-    },
-    {
-     "en": "In genetic studies, lowering triglycerides lowered heart risk only as far as ApoB went down.",
-     "nl": "In genetische studies daalde het hartrisico door lagere triglyceriden alleen zover ApoB daalde."
-    },
-    {
-     "en": "Genes that raise HDL didn't lower the risk of a heart attack.",
-     "nl": "Genen die HDL verhogen, verlaagden de kans op een hartinfarct niet."
-    },
-    {
-     "en": "Very high HDL even went with higher mortality: in men from about 2.5 mmol/L, in women from 3.5.",
-     "nl": "Heel hoog HDL ging zelfs samen met een hogere sterfte: bij mannen vanaf ongeveer 2,5 mmol/L, bij vrouwen vanaf 3,5."
-    }
-   ],
-   "after": {
-    "en": "On carnivore this is easy to miss. In the survey of 2,029 carnivore dieters, the people who shared results had a good HDL (1.8 mmol/L) and low triglycerides (0.8 mmol/L), with a median LDL of 4.5 mmol/L. A good HDL doesn't cancel out a high LDL. You don't need to fast for these either: after a normal meal triglycerides are on average up to 0.3 mmol/L higher, and HDL doesn't change. Fasting only makes sense when your triglycerides come back above 5 mmol/L.",
-    "nl": "Op carnivoor mis je dit makkelijk. In de enquête onder 2.029 carnivoor-eters hadden de mensen die hun uitslag deelden een goed HDL (1,8 mmol/L) en lage triglyceriden (0,8 mmol/L), met een mediaan LDL van 4,5 mmol/L. Een goed HDL maakt een hoog LDL niet goed. Nuchter zijn hoeft ook hier niet: na een gewone maaltijd zijn triglyceriden gemiddeld hooguit 0,3 mmol/L hoger, en HDL verandert niet. Nuchter prikken heeft pas zin als je triglyceriden boven 5 mmol/L uitkomen."
-   },
-   "meta": {
-    "en": [
-     "GP: standard",
-     "Flagged by labs: triglycerides from 2.0 mmol/L (1.7 fasting), HDL at 1.0 mmol/L or lower (EAS)"
-    ],
-    "nl": [
-     "Huisarts: standaard",
-     "Lab markeert: triglyceriden vanaf 2,0 mmol/L (nuchter 1,7), HDL bij 1,0 mmol/L of lager (EAS)"
-    ]
-   },
-   "sources": [
-    {
-     "pmid": "30694319"
-    },
-    {
-     "pmid": "34773460"
-    },
-    {
-     "pmid": "22607825"
-    },
-    {
-     "pmid": "28419274"
-    },
-    {
-     "pmid": "34934897"
-    },
-    {
-     "pmid": "27122601"
-    }
-   ]
-  },
-  {
-   "title": {
-    "en": "Resting heart rate and VO2max",
-    "nl": "Rusthartslag en VO2max"
-   },
-   "text": {
-    "en": "Your resting heart rate is how many times your heart beats per minute when you're fully at rest. VO2max is the most oxygen your body can use per minute during an all-out effort, in millilitres per kilo of body weight. Both say a lot about your heart, and you measure them without a needle.",
-    "nl": "Je rusthartslag is hoe vaak je hart per minuut slaat als je helemaal in rust bent. VO2max is de meeste zuurstof die je lichaam per minuut kan gebruiken bij een maximale inspanning, in milliliter per kilo lichaamsgewicht. Beide zeggen veel over je hart, en je meet ze zonder naald."
-   },
-   "items": [
-    {
-     "en": "Endurance training makes your heart pump more blood per beat. In one trial, 8 weeks of intervals raised that by about 10%.",
-     "nl": "Duurtraining laat je hart per slag meer bloed rondpompen. In een trial steeg dat na 8 weken intervallen met ongeveer 10%."
-    },
-    {
-     "en": "So at rest your heart needs fewer beats. Across 191 studies, endurance training lowered resting heart rate.",
-     "nl": "In rust heeft je hart dan minder slagen nodig. In 191 studies verlaagde duurtraining de rusthartslag."
-    },
-    {
-     "en": "With more blood per beat, more oxygen reaches your muscles, and your VO2max goes up.",
-     "nl": "Met meer bloed per slag krijgen je spieren meer zuurstof, en stijgt je VO2max."
-    }
-   ],
-   "after": {
-    "en": "In 46 studies with 1.2 million people, every 10 beats a minute higher resting heart rate went with a 9% higher risk of dying. For fitness the link is stronger: each MET more (about 1 km/h faster running pace) went with a 13% lower risk of dying, and the least fit group had a 70% higher risk than the fittest. A wearable tracks your resting heart rate every night. Its VO2max is an estimate: devices that use your runs are right on average, but for one person they can be off by up to about 10 ml per kilo per minute. So follow your own trend on the same device, and do a lab test on a treadmill or bike if you want the exact number.",
-    "nl": "In 46 studies met 1,2 miljoen mensen ging elke 10 slagen per minuut hogere rusthartslag samen met 9% meer kans om te overlijden. Voor conditie is het verband sterker: elke MET meer (ongeveer 1 km/u sneller hardlopen) ging samen met 13% minder kans om te overlijden, en de minst fitte groep had 70% meer risico dan de fitste. Een wearable volgt je rusthartslag elke nacht. Zijn VO2max is een schatting: apparaten die je hardlooprondes gebruiken zitten er gemiddeld goed op, maar voor één persoon kunnen ze tot zo'n 10 ml per kilo per minuut afwijken. Volg dus je eigen trend op hetzelfde apparaat, en doe een inspanningstest op een loopband of fiets als je het precieze getal wilt."
-   },
-   "meta": {
-    "en": [
-     "Measure: with a wearable, no blood test needed",
-     "Low fitness in the 33 studies: below 7.9 METs, about 28 ml/kg/min"
-    ],
-    "nl": [
-     "Meten: met een wearable, zonder bloedtest",
-     "Lage conditie in de 33 studies: onder 7,9 MET, ongeveer 28 ml/kg/min"
-    ]
-   },
-   "sources": [
-    {
-     "pmid": "17414804"
-    },
-    {
-     "pmid": "30513777"
-    },
-    {
-     "pmid": "26598376"
-    },
-    {
-     "pmid": "19454641"
-    },
-    {
-     "pmid": "35072942"
-    }
-   ]
-  },
-  {
-   "title": {
-    "en": "The basics your GP checks",
-    "nl": "De basis die je huisarts meet"
-   },
-   "text": {
-    "en": "A GP heart risk profile also includes these. You probably know them already.",
-    "nl": "Een hartrisicoprofiel bij de huisarts kijkt ook naar deze punten. Je kent ze waarschijnlijk al."
-   },
-   "numbered": false,
-   "items": [
-    {
-     "en": "Blood pressure, measured more than once.",
-     "nl": "Bloeddruk, meer dan één keer gemeten."
-    },
-    {
-     "en": "Glucose, preferably fasting.",
-     "nl": "Glucose, bij voorkeur nuchter."
-    },
-    {
-     "en": "Kidney function (eGFR) and protein (albumin) in your urine.",
-     "nl": "Nierfunctie (eGFR) en eiwit (albumine) in je urine."
-    },
-    {
-     "en": "Your BMI and waist.",
-     "nl": "Je BMI en middelomtrek."
-    },
-    {
-     "en": "Smoking, alcohol, food and how much you move: the GP guideline advises at least 150 minutes a week of moderate exercise, such as walking or cycling, and no more than 8 hours a day sitting.",
-     "nl": "Roken, alcohol, voeding en hoeveel je beweegt: de richtlijn adviseert minstens 150 minuten per week matig intensief bewegen, zoals wandelen of fietsen, en niet meer dan 8 uur per dag zitten."
-    }
-   ],
-   "after": {
-    "en": "Your GP estimates heart risk with these for men from 40 and women from 50, or earlier with early heart disease in the family or other risk factors. Under 40 without risk factors, the guideline doesn't advise a routine check.",
-    "nl": "Je huisarts schat hiermee je hartrisico bij mannen vanaf 40 en vrouwen vanaf 50, of eerder bij hart- en vaatziekten op jonge leeftijd in de familie of andere risicofactoren. Onder de 40 zonder risicofactoren raadt de richtlijn geen routinecheck aan."
-   },
-   "sources": [
-    {
-     "label": {
-      "en": "NHG (Dutch GP guideline): cardiovascular risk management",
-      "nl": "NHG-Standaard Cardiovasculair risicomanagement"
-     },
-     "note": {
-      "en": "Which markers the GP tests, the LDL goal, and advice on exercise and sitting",
-      "nl": "Welke waarden de huisarts bepaalt, de LDL-streefwaarde, en advies over bewegen en zitten"
-     },
-     "url": "https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement"
-    }
-   ]
-  },
-  {
-   "kind": "group",
-   "eyebrow": {
-    "en": "Part 2",
-    "nl": "Deel 2"
-   },
-   "title": {
-    "en": "How I brought my LDL from 4.2 to 1.4",
-    "nl": "Hoe ik mijn LDL van 4,2 naar 1,4 kreeg"
-   },
-   "subtitle": {
-    "en": "Three changes at once, so I don't know which did the most. Per change: what I did and what research says.",
-    "nl": "Drie veranderingen tegelijk, dus welke het meest deed, weet ik niet. Per verandering: wat ik deed en wat onderzoek zegt."
-   }
-  },
-  {
-   "title": {
-    "en": "Fibre: 50 grams or more a day",
-    "nl": "Vezels: 50 gram of meer per dag"
-   },
-   "text": {
-    "en": "Fibre is the part of plant food your gut can't digest: in vegetables, fruit, legumes (beans, lentils, chickpeas), whole grains, oats and nuts. Meat has none. Soluble fibre is the kind that forms a gel with water, as in oats, legumes and fruit. It lowers LDL through your bile.",
-    "nl": "Vezels zijn het deel van plantaardig eten dat je darm niet kan verteren: in groente, fruit, peulvruchten (bonen, linzen, kikkererwten), volkoren granen, haver en noten. Vlees bevat geen vezels. Oplosbare vezels vormen met water een gel, zoals in haver, peulvruchten en fruit. Ze verlagen je LDL via je gal."
-   },
-   "items": [
-    {
-     "en": "Your liver makes bile from cholesterol. Bile helps you digest fat, and your gut normally takes most of it back up.",
-     "nl": "Je lever maakt gal van cholesterol. Gal helpt je vet te verteren, en je darm neemt het meeste ervan normaal weer op."
-    },
-    {
-     "en": "Soluble fibre holds on to bile in your gut, so more of it leaves your body.",
-     "nl": "Oplosbare vezels houden gal vast in je darm, zodat er meer van je lichaam verlaat."
-    },
-    {
-     "en": "Your liver has to make new bile, and uses cholesterol from your blood to do it. Your LDL goes down.",
-     "nl": "Je lever moet nieuwe gal maken en gebruikt daarvoor cholesterol uit je bloed. Je LDL daalt."
-    }
-   ],
-   "after": {
-    "en": "The effect per gram is small. In 67 trials, each gram of soluble fibre lowered LDL by about 0.06 mmol/L: 3 grams from oats, about three bowls of 28 grams, lowered it by about 0.13. Those trials tested a few grams of soluble fibre, far less than my 50 grams of total fibre, so they can't tell how much of my drop came from fibre. Over the long term the picture is bigger. In 185 studies, the people who ate the most fibre had a 15 to 30% lower risk of dying and of heart and vascular disease than those who ate the least. The benefit was clearest at 25 to 29 grams a day, and the curves suggest more could help more. The Netherlands Nutrition Centre advises at least 30 grams a day for men and 24 for women, and says more isn't needed. My 50 grams is well above that. Still, in my view fibre has the highest return.",
-    "nl": "Het effect per gram is klein. In 67 trials verlaagde elke gram oplosbare vezels het LDL met zo'n 0,06 mmol/L: 3 gram uit haver, ongeveer drie kommen van 28 gram, verlaagde het met zo'n 0,13. Die trials testten een paar gram oplosbare vezels, veel minder dan mijn 50 gram vezels in totaal, dus ze kunnen niet zeggen hoeveel van mijn daling door vezels kwam. Op lange termijn is het beeld groter. In 185 studies hadden de mensen die de meeste vezels aten 15 tot 30% minder kans om te overlijden en op hart- en vaatziekten dan de mensen die er het minst aten. Het voordeel was het duidelijkst bij 25 tot 29 gram per dag, en de curves wijzen erop dat meer nog meer kan helpen. Het Voedingscentrum adviseert mannen minstens 30 gram per dag en vrouwen 24, en zegt dat meer niet nodig is. Mijn 50 gram zit daar ruim boven. Toch leveren vezels volgens mij het meeste op."
-   },
-   "caution": {
-    "en": "Going from little fibre to 50 grams at once can cause wind, cramps or constipation. Build it up step by step and drink enough with it.",
-    "nl": "Ga je in één keer van weinig vezels naar 50 gram, dan kun je last krijgen van winderigheid, krampen of verstopping. Bouw het stap voor stap op en drink er genoeg bij."
-   },
-   "meta": {
-    "en": [
-     "Netherlands Nutrition Centre: at least 30 g (men) or 24 g (women) a day"
-    ],
-    "nl": [
-     "Voedingscentrum: minstens 30 gram (mannen) of 24 gram (vrouwen) per dag"
-    ]
-   },
-   "sources": [
-    {
-     "pmid": "21776465"
-    },
-    {
-     "pmid": "9925120"
-    },
-    {
-     "pmid": "30638909"
-    },
-    {
-     "label": {
-      "en": "Netherlands Nutrition Centre: fibre",
-      "nl": "Voedingscentrum: vezels"
-     },
-     "note": {
-      "en": "At least 30 g (men) and 24 g (women) a day; build up step by step and drink enough",
-      "nl": "Minstens 30 gram (mannen) en 24 gram (vrouwen) per dag; bouw stap voor stap op en drink genoeg"
-     },
-     "url": "https://www.voedingscentrum.nl/encyclopedie/vezels.aspx"
-    }
-   ]
-  },
-  {
-   "title": {
-    "en": "Lean steak instead of fatty cuts",
-    "nl": "Mager vlees in plaats van vette stukken"
-   },
-   "text": {
-    "en": "Saturated fat is the fat that's solid at room temperature: in fatty meat, butter, cheese, cream and coconut oil. I kept eating steak, but only non-fatty cuts such as tenderloin and beef shank.",
-    "nl": "Verzadigd vet is het vet dat bij kamertemperatuur vast is: in vet vlees, boter, kaas, room en kokosolie. Ik bleef steak eten, maar alleen magere stukken zoals ossenhaas en schenkel."
-   },
-   "items": [
-    {
-     "en": "Your liver clears LDL from your blood with LDL receptors: docking points on its cells that pull LDL in.",
-     "nl": "Je lever haalt LDL uit je bloed met LDL-receptoren: aanlegplaatsen op de levercellen die LDL naar binnen halen."
-    },
-    {
-     "en": "Some saturated fats make those receptors less active, so more LDL stays in your blood.",
-     "nl": "Sommige verzadigde vetten maken die receptoren minder actief, zodat er meer LDL in je bloed blijft."
-    },
-    {
-     "en": "Several unsaturated fats, as in olive oil and nuts, do the opposite.",
-     "nl": "Verschillende onverzadigde vetten, zoals in olijfolie en noten, doen het omgekeerde."
-    }
-   ],
-   "after": {
-    "en": "In a trial, 113 healthy adults ate red meat, white meat or plant protein for 4 weeks each, on a diet high or low in saturated fat. High saturated fat raised LDL and ApoB whatever the protein. Red and white meat raised LDL equally, and plant protein gave the lowest LDL. So it's mostly the fat in the meat, and the protein source counts too. In 15 long trials with about 59,000 people, eating less saturated fat for at least two years lowered the risk of heart and vascular events by 21%. It made little or no difference to the risk of dying. Good to know: swapping saturated fat for carbs or unsaturated fat can raise Lp(a) by 10 to 15%, while your LDL goes down.",
-    "nl": "In een trial aten 113 gezonde volwassenen elk 4 weken rood vlees, wit vlees of plantaardig eiwit, in een dieet met veel of weinig verzadigd vet. Veel verzadigd vet verhoogde LDL en ApoB, welk eiwit ze ook aten. Rood en wit vlees verhoogden LDL evenveel, en met plantaardig eiwit was LDL het laagst. Het gaat dus vooral om het vet in het vlees, en de eiwitbron telt ook mee. In 15 lange trials met zo'n 59.000 mensen verlaagde minder verzadigd vet eten, minstens twee jaar lang, de kans op een hart- of vaatziekte met 21%. Op de kans om te overlijden maakte het weinig of geen verschil. Goed om te weten: verzadigd vet vervangen door koolhydraten of onverzadigd vet kan je Lp(a) 10 tot 15% verhogen, terwijl je LDL daalt."
-   },
-   "sources": [
-    {
-     "pmid": "9129498"
-    },
-    {
-     "pmid": "31161217"
-    },
-    {
-     "pmid": "32428300"
-    },
-    {
-     "pmid": "36036785"
-    }
-   ]
-  },
-  {
-   "title": {
-    "en": "Zone 2 and 4x4 intervals",
-    "nl": "Zone 2 en 4x4-intervallen"
-   },
-   "text": {
-    "en": "Zone 2 is easy endurance training: a heart rate low enough that you can still talk. When my LDL went down, I did 120 minutes of zone 2 a week. Now I train about 150 minutes a week in zone 2, plus Norwegian 4x4 intervals twice a week to raise my VO2max. Of everything, running lowered my stress the most, and it helped me lower my LDL. I'm training for a 50 km ultra in Dubai.",
-    "nl": "Zone 2 is rustige duurtraining: een hartslag zo laag dat je nog kunt praten. Toen mijn LDL daalde, deed ik 120 minuten zone 2 per week. Nu train ik zo'n 150 minuten per week in zone 2, plus twee keer per week Noorse 4x4-intervallen om mijn VO2max te verhogen. Van alles verlaagde hardlopen mijn stress het meest, en het hielp me mijn LDL te verlagen. Ik train voor een ultra van 50 km in Dubai."
-   },
-   "items": [
-    {
-     "en": "4 minutes all-out. In the study: 90 to 95% of your maximum heart rate.",
-     "nl": "4 minuten alles geven. In de studie: 90 tot 95% van je maximale hartslag."
-    },
-    {
-     "en": "3 minutes rest. In the study: easy jogging at about 70%.",
-     "nl": "3 minuten rust. In de studie: rustig joggen op ongeveer 70%."
-    },
-    {
-     "en": "Repeat four times.",
-     "nl": "Herhaal dat vier keer."
-    },
-    {
-     "en": "I do this twice a week.",
-     "nl": "Ik doe dit twee keer per week."
-    }
-   ],
-   "after": {
-    "en": "In 40 moderately trained men, 8 weeks of 4x4 intervals raised VO2max by 7%, more than the same amount of work at an easy or medium pace. On LDL, training alone does little: in 49 trials with 2,990 men, aerobic exercise lowered triglycerides by 9% and LDL by only 3%, too little to be sure of. Together with food it works better. In a one-year trial with 377 people with raised LDL and low HDL, a lower-fat diet only lowered LDL clearly when they also exercised: in men by about 0.5 mmol/L. The WHO advises adults 150 to 300 minutes of moderate exercise a week, or 75 to 150 minutes of hard exercise.",
-    "nl": "Bij 40 redelijk getrainde mannen steeg de VO2max na 8 weken 4x4-intervallen met 7%, meer dan met evenveel werk op een rustig of middelhoog tempo. Op LDL doet training alleen weinig: in 49 trials met 2.990 mannen verlaagde duurtraining de triglyceriden met 9% en LDL met maar 3%, te weinig om zeker te zijn. Samen met voeding werkt het beter. In een trial van een jaar met 377 mensen met een verhoogd LDL en een laag HDL verlaagde een vetarmer dieet het LDL alleen duidelijk als ze er ook bij sportten: bij mannen met zo'n 0,5 mmol/L. De WHO adviseert volwassenen 150 tot 300 minuten matig intensief bewegen per week, of 75 tot 150 minuten zwaar."
-   },
-   "caution": {
-    "en": "Hard intervals put real strain on your heart. New to hard training, or do you have chest pain, dizziness or a heart condition? Check with your GP first.",
-    "nl": "Zware intervallen vragen echt iets van je hart. Ben je nieuw met zware training, of heb je pijn op de borst, duizeligheid of een hartaandoening? Overleg dan eerst met je huisarts."
-   },
-   "sources": [
-    {
-     "pmid": "17414804"
-    },
-    {
-     "pmid": "18645633"
-    },
-    {
-     "pmid": "9647874"
-    },
-    {
-     "pmid": "33239350"
-    }
-   ]
-  },
-  {
-   "title": {
-    "en": "My resting heart rate: 53 to 37 in 12 months",
-    "nl": "Mijn rusthartslag: van 53 naar 37 in 12 maanden"
-   },
-   "text": {
-    "en": "Over 12 months my resting heart rate went from 53 to 37. I walked on a walking pad under my desk with a 10 kg weighted vest, for 30,000 to 40,000 steps a day. Each week I also did 200 minutes in zone 2 and 30 to 60 minutes in zone 4 or higher (so hard you can only say a few words). I changed more than one thing, so I don't know which part did the most.",
-    "nl": "In 12 maanden ging mijn rusthartslag van 53 naar 37. Ik liep op een loopband onder mijn bureau met een gewichtsvest van 10 kilo: 30.000 tot 40.000 stappen per dag. Per week deed ik daarnaast 200 minuten in zone 2 en 30 tot 60 minuten in zone 4 of hoger (zo zwaar dat je nog maar een paar woorden kunt zeggen). Ik veranderde meer dan één ding, dus wat het meeste deed, weet ik niet."
-   },
-   "bars": {
+  "cta": {
+    "button_url": "#start-trial",
     "title": {
-     "en": "My resting heart rate (beats per minute)",
-     "nl": "Mijn rusthartslag (slagen per minuut)"
+      "en": "See where your heart stands",
+      "nl": "Zie waar jouw hart staat"
     },
-    "items": [
-     {
-      "label": {
-       "en": "Before",
-       "nl": "Ervoor"
-      },
-      "value": 53,
-      "display": "53"
-     },
-     {
-      "label": {
-       "en": "12 months later",
-       "nl": "12 maanden later"
-      },
-      "value": 37,
-      "display": "37"
-     }
-    ],
-    "caption": {
-     "en": "Two measurements, 12 months apart.",
-     "nl": "Twee metingen, 12 maanden na elkaar."
+    "steps": {
+      "en": [
+        [
+          "Sign up",
+          "Click the button and leave your details."
+        ],
+        [
+          "Connect",
+          "Link your wearable, or get a free 30-day WHOOP."
+        ],
+        [
+          "Analyse",
+          "We read 30+ biometrics, like your resting heart rate, HRV and recovery. You get your protocol by video."
+        ],
+        [
+          "Follow-up",
+          "A call to go through your results and your next step for your heart."
+        ]
+      ],
+      "nl": [
+        [
+          "Aanmelden",
+          "Klik op de knop en laat je gegevens achter."
+        ],
+        [
+          "Koppelen",
+          "Koppel je wearable, of krijg 30 dagen gratis een WHOOP."
+        ],
+        [
+          "Analyse",
+          "We lezen 30+ waarden uit, zoals je rusthartslag, HRV en herstel. Je krijgt je protocol per video."
+        ],
+        [
+          "Opvolging",
+          "In een call bespreken we je uitkomst en je volgende stap voor je hart."
+        ]
+      ]
     }
-   },
-   "after": {
-    "en": "Across 191 studies, endurance training lowered resting heart rate, more in people who started higher. On steps, the research is clear up to a point: in 47,471 adults, the risk of dying kept falling up to 8,000 to 10,000 steps a day for people under 60, and up to 6,000 to 8,000 for people over 60. My 30,000 to 40,000 is far beyond that, so the research can't tell whether the extra steps did anything for my heart. The GP guideline advises sitting no more than 8 hours a day, and a walking pad is one way to get there.",
-    "nl": "In 191 studies verlaagde duurtraining de rusthartslag, meer bij mensen die hoger begonnen. Over stappen is het onderzoek duidelijk tot een bepaald punt: bij 47.471 volwassenen bleef de kans om te overlijden dalen tot 8.000 à 10.000 stappen per dag bij mensen onder de 60, en tot 6.000 à 8.000 bij mensen boven de 60. Mijn 30.000 tot 40.000 zit daar ver boven, dus het onderzoek kan niet zeggen of die extra stappen iets voor mijn hart deden. De huisartsenrichtlijn adviseert niet meer dan 8 uur per dag te zitten, en een loopband onder je bureau is één manier om daar te komen."
-   },
-   "caution": {
-    "en": "A resting heart rate this low is common in trained endurance athletes: without symptoms, a heart rate of 30 or more counts as normal for them. A low heart rate with dizziness or fainting is a reason to see your GP.",
-    "nl": "Zo'n lage rusthartslag komt veel voor bij getrainde duursporters: zonder klachten geldt een hartslag van 30 of meer bij hen als normaal. Een lage hartslag met duizeligheid of flauwvallen is een reden om naar je huisarts te gaan."
-   },
-   "sources": [
-    {
-     "pmid": "30513777"
-    },
-    {
-     "pmid": "35247352"
-    },
-    {
-     "pmid": "28231933"
-    },
-    {
-     "label": {
-      "en": "NHG (Dutch GP guideline): cardiovascular risk management",
-      "nl": "NHG-Standaard Cardiovasculair risicomanagement"
-     },
-     "note": {
-      "en": "Which markers the GP tests, the LDL goal, and advice on exercise and sitting",
-      "nl": "Welke waarden de huisarts bepaalt, de LDL-streefwaarde, en advies over bewegen en zitten"
-     },
-     "url": "https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement"
-    }
-   ]
-  },
-  {
-   "kind": "group",
-   "eyebrow": {
-    "en": "Part 3",
-    "nl": "Deel 3"
-   },
-   "title": {
-    "en": "Which heart markers should you ask for?",
-    "nl": "Naar welke hartwaarden vraag je?"
-   },
-   "subtitle": {
-    "en": "Ten questions. You'll see right away where to start.",
-    "nl": "Tien vragen. Je ziet meteen waar je begint."
-   }
-  },
-  {
-   "title": {
-    "en": "Where to start",
-    "nl": "Waar begin je?"
-   },
-   "check": {
-    "intro": {
-     "en": "Choose no, not sure or yes for each question. Each answer counts towards one or two areas.",
-     "nl": "Kies per vraag nee, weet ik niet of ja. Elk antwoord telt mee bij één of twee gebieden."
-    },
-    "answers": {
-     "en": [
-      "No",
-      "Not sure",
-      "Yes"
-     ],
-     "nl": [
-      "Nee",
-      "Weet ik niet",
-      "Ja"
-     ]
-    },
-    "questions": [
-     {
-      "q": {
-       "en": "A parent, brother or sister had a heart attack, stroke or stent young: men before 55, women before 60.",
-       "nl": "Een ouder, broer of zus kreeg jong een hartinfarct, beroerte of stent: mannen voor hun 55e, vrouwen voor hun 60e."
-      },
-      "areas": [
-       "lpa",
-       "ldl"
-      ]
-     },
-     {
-      "q": {
-       "en": "Someone in your family has been told they have very high cholesterol.",
-       "nl": "Iemand in je familie heeft te horen gekregen dat hij of zij een heel hoog cholesterol heeft."
-      },
-      "areas": [
-       "lpa",
-       "ldl"
-      ]
-     },
-     {
-      "q": {
-       "en": "An earlier blood test showed high cholesterol.",
-       "nl": "Een eerdere bloedtest liet een hoog cholesterol zien."
-      },
-      "areas": [
-       "ldl"
-      ]
-     },
-     {
-      "q": {
-       "en": "Most days you eat fatty meat, butter, cheese or cream, or you follow a carnivore or keto diet.",
-       "nl": "Je eet de meeste dagen vet vlees, boter, kaas of room, of je volgt een carnivoor- of ketodieet."
-      },
-      "areas": [
-       "ldl"
-      ]
-     },
-     {
-      "q": {
-       "en": "You eat less than 30 grams of fibre a day.",
-       "nl": "Je eet minder dan 30 gram vezels per dag."
-      },
-      "areas": [
-       "ldl"
-      ]
-     },
-     {
-      "q": {
-       "en": "You carry extra weight around your belly.",
-       "nl": "Je draagt extra gewicht rond je buik."
-      },
-      "areas": [
-       "ldl",
-       "crp"
-      ]
-     },
-     {
-      "q": {
-       "en": "You smoke.",
-       "nl": "Je rookt."
-      },
-      "areas": [
-       "crp"
-      ]
-     },
-     {
-      "q": {
-       "en": "You exercise less than 150 minutes a week.",
-       "nl": "Je beweegt minder dan 150 minuten per week."
-      },
-      "areas": [
-       "fit",
-       "crp"
-      ]
-     },
-     {
-      "q": {
-       "en": "Three flights of stairs leave you more out of breath than others your age.",
-       "nl": "Na drie trappen ben je meer buiten adem dan anderen van je leeftijd."
-      },
-      "areas": [
-       "fit"
-      ]
-     },
-     {
-      "q": {
-       "en": "You sit for more than 8 hours a day.",
-       "nl": "Je zit meer dan 8 uur per dag."
-      },
-      "areas": [
-       "fit"
-      ]
-     }
-    ],
-    "areas": {
-     "lpa": {
-      "label": {
-       "en": "Lp(a) and your family",
-       "nl": "Lp(a) en je familie"
-      },
-      "text": {
-       "en": "Your answers point to heart disease or high cholesterol in your family. Lp(a) is mostly set by your genes, so one test tells you a lot, for life. Guidelines advise everyone to measure it once, and especially with a family history.",
-       "nl": "Je antwoorden wijzen op hart- en vaatziekten of hoog cholesterol in je familie. Lp(a) ligt grotendeels vast in je genen, dus één test zegt veel, voor je hele leven. Richtlijnen adviseren iedereen het één keer te meten, en zeker als het in de familie zit."
-      },
-      "measure": {
-       "en": "Lp(a) once, plus LDL and ApoB. Write down the unit (mg/dL or nmol/L). Always discuss an abnormal result with your GP.",
-       "nl": "Lp(a) één keer, plus LDL en ApoB. Schrijf de eenheid op (mg/dL of nmol/L). Bespreek een afwijkende waarde altijd met je huisarts."
-      }
-     },
-     "ldl": {
-      "label": {
-       "en": "LDL and ApoB",
-       "nl": "LDL en ApoB"
-      },
-      "text": {
-       "en": "Your answers point to the particles that carry cholesterol into your vessel walls. What you eat moves them most. ApoB shows whether you have more particles than your LDL suggests.",
-       "nl": "Je antwoorden wijzen op de deeltjes die cholesterol je vaatwand in brengen. Wat je eet, beweegt ze het meest. ApoB laat zien of je meer deeltjes hebt dan je LDL doet denken."
-      },
-      "measure": {
-       "en": "LDL cholesterol and ApoB in one blood test. You don't need to fast.",
-       "nl": "LDL-cholesterol en ApoB in één bloedtest. Nuchter zijn hoeft niet."
-      }
-     },
-     "crp": {
-      "label": {
-       "en": "Inflammation",
-       "nl": "Ontsteking"
-      },
-      "text": {
-       "en": "Your answers point to habits that go with low-grade inflammation, such as belly fat, smoking and moving little.",
-       "nl": "Je antwoorden wijzen op gewoontes die samengaan met lichte ontsteking, zoals buikvet, roken en weinig bewegen."
-      },
-      "measure": {
-       "en": "hs-CRP, when you're well and not right after a hard training session.",
-       "nl": "hs-CRP, als je je goed voelt en niet vlak na een zware training."
-      }
-     },
-     "fit": {
-      "label": {
-       "en": "Fitness",
-       "nl": "Conditie"
-      },
-      "text": {
-       "en": "Your answers point to your fitness. A lower resting heart rate and a higher VO2max go with a lower risk, and both respond to training.",
-       "nl": "Je antwoorden wijzen op je conditie. Een lagere rusthartslag en een hogere VO2max gaan samen met een lager risico, en allebei reageren ze op training."
-      },
-      "measure": {
-       "en": "Your resting heart rate and VO2max estimate, with a wearable.",
-       "nl": "Je rusthartslag en geschatte VO2max, met een wearable."
-      }
-     }
-    },
-    "note": {
-     "en": "This check doesn't establish anything. It shows where you could start. Chest pain, shortness of breath or palpitations? See your GP.",
-     "nl": "Deze check stelt niets vast. Hij laat zien waar je kunt beginnen. Pijn op de borst, kortademig of hartkloppingen? Ga naar je huisarts."
-    }
-   },
-   "sources": [
-    {
-     "pmid": "40878289"
-    },
-    {
-     "pmid": "36036785"
-    }
-   ]
   }
- ],
- "closing": {
-  "en": "Heart and vascular disease build up over years, long before you feel anything. Most of what drives it you can see in one blood test and a wearable: LDL and ApoB, Lp(a) once, hs-CRP when you're well, and your resting heart rate every night. Change one thing at a time, and retest at the same lab after a few months. In the trial we start with what your wearable already measures, such as your resting heart rate and HRV (the small variation in time between your heartbeats), and go through your next step together. Always discuss an abnormal result with your GP.",
-  "nl": "Hart- en vaatziekten bouwen zich in jaren op, lang voordat je iets merkt. Het meeste wat daarbij meespeelt, zie je in één bloedtest en een wearable: LDL en ApoB, Lp(a) één keer, hs-CRP als je je goed voelt, en je rusthartslag elke nacht. Verander één ding tegelijk, en test na een paar maanden opnieuw bij hetzelfde lab. In de trial beginnen we met wat je wearable al meet, zoals je rusthartslag en HRV (het kleine verschil in tijd tussen je hartslagen), en bespreken we samen je volgende stap. Bespreek een afwijkende waarde altijd met je huisarts."
- },
- "cta": {
-  "button_url": "#start-trial",
-  "title": {
-   "en": "See where your heart stands",
-   "nl": "Zie waar jouw hart staat"
-  },
-  "steps": {
-   "en": [
-    [
-     "Sign up",
-     "Click the button and leave your details."
-    ],
-    [
-     "Connect",
-     "Link your wearable, or get a free 30-day WHOOP."
-    ],
-    [
-     "Analyse",
-     "We read 30+ biometrics, like your resting heart rate, HRV and recovery. You get your protocol by video."
-    ],
-    [
-     "Follow-up",
-     "A call to go through your results and your next step for your heart."
-    ]
-   ],
-   "nl": [
-    [
-     "Aanmelden",
-     "Klik op de knop en laat je gegevens achter."
-    ],
-    [
-     "Koppelen",
-     "Koppel je wearable, of krijg 30 dagen gratis een WHOOP."
-    ],
-    [
-     "Analyse",
-     "We lezen 30+ waarden uit, zoals je rusthartslag, HRV en herstel. Je krijgt je protocol per video."
-    ],
-    [
-     "Opvolging",
-     "In een call bespreken we je uitkomst en je volgende stap voor je hart."
-    ]
-   ]
-  }
- }
 }
