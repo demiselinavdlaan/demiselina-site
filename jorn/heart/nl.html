@@ -1,0 +1,811 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wat je laat testen voor je hart · Jorn Kirkels · Cellular</title>
+  <meta name="description" content="Wat je laat testen voor je hart en waarom: LDL, ApoB, Lp(a), hs-CRP en je rusthartslag, met de studies erbij. Van Jorn Kirkels, oprichter van Cellular." />
+  <meta property="og:title" content="Wat je laat testen voor je hart" />
+  <meta property="og:description" content="Wat je laat testen voor je hart en waarom: LDL, ApoB, Lp(a), hs-CRP en je rusthartslag, met de studies erbij. Van Jorn Kirkels, oprichter van Cellular." />
+  <meta property="og:image" content="https://demiselina.com/jorn/heart/jorn.jpg" />
+  <meta property="og:locale" content="nl_NL" />
+  <meta name="robots" content="noindex" />
+  <link rel="alternate" hreflang="en" href="https://demiselina.com/jorn/heart/index.html" />
+  <link rel="alternate" hreflang="nl" href="https://demiselina.com/jorn/heart/nl.html" />
+  <link rel="preload" href="InterVariable.woff2" as="font" type="font/woff2" crossorigin />
+  <style>@font-face{font-family:"Inter";font-style:normal;font-weight:100 900;font-display:swap;src:url("InterVariable.woff2") format("woff2")}@font-face{font-family:"Inter Variable";font-style:normal;font-weight:100 900;font-display:swap;src:url("InterVariable.woff2") format("woff2")}</style>
+  <link rel="stylesheet" href="page.css?v=1793006709" />
+  <style>
+.gp-flow .node rect{fill:var(--card);stroke:var(--border);stroke-width:1;transition:fill .2s,stroke .2s}
+.gp-flow .node.accent rect{fill:var(--muted)}
+.gp-flow .node{cursor:pointer;outline:none}
+.gp-flow .node text{fill:var(--foreground);font-size:11.5px;font-weight:500;pointer-events:none}
+.gp-flow .node text .sub{fill:var(--muted-foreground);font-weight:450}
+.gp-flow .node:hover rect,.gp-flow .node:focus-visible rect{stroke:var(--muted-foreground)}
+.gp-flow .node.on rect{stroke:var(--info);fill:color-mix(in oklab,var(--info) 9%,var(--card))}
+.gp-flow .edge{fill:none;stroke:var(--border);stroke-width:1.2;transition:stroke .2s,opacity .2s}
+.gp-flow .flowline{fill:none;stroke:var(--info);stroke-width:1.4;stroke-dasharray:3 5;opacity:0;transition:opacity .2s}
+.gp-flow .flowline.on{opacity:1;animation:gpdash 1.1s linear infinite}
+.gp-flow .head{fill:var(--border);transition:fill .2s}
+.gp-flow .head.on{fill:var(--info)}
+@keyframes gpdash{to{stroke-dashoffset:-16}}
+@media (prefers-reduced-motion:reduce){.gp-flow .flowline.on{animation:none}}
+.gp-flow .panel{min-height:4.2rem}
+.gp-filter button[aria-pressed=true]{background:var(--muted);color:var(--foreground);font-weight:500}
+.gp-week .day{border:1px solid transparent;transition:background .15s,border-color .15s}
+.gp-week .day[aria-pressed=true]{background:var(--muted);border-color:var(--border)}
+.gp-week .day[aria-pressed=true] .dl{color:var(--foreground);font-weight:500}
+.gp-week .dot{width:7px;height:7px;border-radius:9999px;display:inline-block}
+.gp-week ol{counter-reset:s}
+.gp-week ol li{counter-increment:s;display:flex;gap:.6rem}
+.gp-week ol li::before{content:counter(s);width:1rem;flex-shrink:0;color:var(--muted-foreground);font-size:12px;padding-top:1px}
+.gp-cycle .band{fill:transparent;transition:fill .2s}
+.gp-cycle .band.on{fill:var(--muted)}
+.gp-cycle .ln{fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;transition:opacity .2s}
+.gp-cycle .grid{stroke:var(--border);stroke-width:1}
+.gp-cycle .ax{fill:var(--muted-foreground);font-size:10px}
+.gp-cycle .lab{fill:var(--foreground);font-size:9.5px;font-weight:500}
+.gp-cycle .cross{stroke:var(--muted-foreground);stroke-width:1;stroke-dasharray:2 3}
+.gp-cycle .tip{position:absolute;pointer-events:none;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:6px 8px;font-size:11.5px;line-height:1.45;box-shadow:0 2px 8px rgb(0 0 0 / .06);white-space:nowrap}
+.gp-cycle .ph[aria-pressed=true]{background:var(--muted);color:var(--foreground);font-weight:500}
+.gp-cycle .sw{display:inline-block;width:14px;height:2px;border-radius:2px;vertical-align:middle}
+.gp-check .seg button{border-radius:5px;padding:.4rem 0;color:var(--muted-foreground);transition:background .15s,color .15s}
+.gp-check .seg button:hover{color:var(--foreground)}
+.gp-check .seg button[aria-pressed=true]{background:var(--foreground);color:var(--background);font-weight:500}
+.gp-check .track{height:6px;border-radius:9999px;background:var(--muted);overflow:hidden}
+.gp-check .fill{height:100%;width:0;border-radius:9999px;background:var(--muted-foreground);transition:width .35s ease-out,background .2s}
+.gp-check .bar.top .fill{background:var(--foreground)}
+.gp-check .bar.top .bl{color:var(--foreground);font-weight:500}
+@media (prefers-reduced-motion:reduce){.gp-check .fill{transition:none}}
+</style>
+  <style>
+[data-jump]{scroll-margin-top:8px}
+[data-jump].gp-hl h2{animation:gphl 2.8s ease-out}
+@keyframes gphl{0%,35%{color:var(--info)}100%{color:var(--foreground)}}
+.gp-back{position:fixed;left:50%;bottom:20px;z-index:50;transform:translateX(-50%);display:none;align-items:center;gap:6px;white-space:nowrap;padding:8px 14px;border-radius:999px;border:1px solid var(--border);background:var(--card);color:var(--foreground);font-size:13px;box-shadow:0 6px 20px rgb(0 0 0/.08);cursor:pointer}
+.gp-back.on{display:inline-flex}
+.gp-from{display:none;align-items:center;gap:8px;margin:0 0 12px;font-size:12px;color:var(--muted-foreground)}
+.gp-from img{width:20px;height:20px;border-radius:999px;object-fit:cover}
+[data-jump].gp-on .gp-from{display:flex}
+</style>
+</head>
+<body class="antialiased bg-sidebar text-foreground">
+  <main class="mx-auto min-h-svh w-full max-w-[600px] border-x border-border-faint bg-background">
+    <div class="flex h-12 items-center justify-between border-b border-border-faint px-5">
+      <img src="logo-cellular.png" alt="Cellular" class="h-[15px] w-auto dark:invert" />
+      <nav aria-label="Taal / Language" class="flex items-center rounded-md border border-border-faint p-0.5 text-[12px]"><a href="index.html" hreflang="en" class="rounded-[5px] px-2 py-0.5 text-muted-foreground hover:text-foreground">EN</a><a href="nl.html" hreflang="nl" class="rounded-[5px] px-2 py-0.5 bg-muted font-medium text-foreground">NL</a></nav>
+    </div>
+    <div class="px-6 pt-8">
+      <div class="flex items-center gap-3">
+        <img src="jorn.jpg" alt="Jorn Kirkels" class="size-10 shrink-0 rounded-full object-cover" />
+        <div class="grid gap-0.5 leading-tight">
+          <span class="flex items-center gap-1 text-[14px] font-medium">Jorn Kirkels <svg class="size-3.5 shrink-0 text-info" viewBox="0 0 16 16" fill="currentColor" aria-label="Geverifieerd"><path d="M8 .9 9.7 2.3l2.2-.2.6 2.1 1.9 1.1-.8 2.1.8 2.1-1.9 1.1-.6 2.1-2.2-.2L8 13.9 6.3 12.5l-2.2.2-.6-2.1L1.6 9.5l.8-2.1-.8-2.1 1.9-1.1.6-2.1 2.2.2Z"/><path d="m5.6 7.6 1.7 1.7 3.2-3.4" fill="none" stroke="var(--background)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span class="text-[12.5px] text-muted-foreground">@jornkirkels</span>
+        </div>
+      </div>
+      <h1 class="mt-8 text-[26px] font-normal leading-[1.15] tracking-[-0.02em]">Wat je laat testen voor je hart</h1>
+      <p class="mt-2 text-[15px] text-muted-foreground">Op mijn 22e was mijn LDL 7 mmol/L. Ik dacht dat ik gezond at.</p>
+      <p class="mt-6 text-[15px] leading-[1.7] text-foreground/85">Ik volgde toen een carnivoordieet: alleen vlees, heel weinig groente of fruit. De meeste mensen kijken nooit verder dan één cholesterolgetal, en de standaardtest van de huisarts mist drie waarden waar hartrichtlijnen nu naar wijzen: ApoB, Lp(a) en hs-CRP. Op deze pagina eerst wat bijna niemand weet, dan welke waarden je laat testen en wat elke waarde zegt, dan wat ik veranderde om mijn LDL van 4,2 naar 1,4 te krijgen, en een korte check waar je begint.</p>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat bijna niemand weet</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Vijf bevindingen over je hart, elk met een getal en wat je ermee doet.</p><div class="mt-5 grid gap-2.5"><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">&gt;90%</p><p class="mt-3 text-[15px] font-medium leading-snug">Lp(a) ligt vast in je genen, dus één test is genoeg</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">Lp(a), lipoproteïne(a), is een LDL-deeltje met een extra eiwit eraan. Meer dan 90% van je waarde komt uit je genen, en voeding en sport veranderen hem nauwelijks. Ongeveer 1 op de 5 mensen zit boven 50 mg/dL, en vanaf daar telt de Europese richtlijn het als risicofactor voor hart- en vaatziekten. Je huisarts test het niet standaard. Vraag er één keer om en bewaar de uitslag.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Europese richtlijn 2025</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">654.783</p><p class="mt-3 text-[15px] font-medium leading-snug">ApoB telt de deeltjes die in je vaatwand belanden</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">LDL-cholesterol meet hoeveel cholesterol je LDL-deeltjes bij zich hebben. ApoB (apolipoproteïne B) is een eiwit op elk van die deeltjes, precies één per deeltje, dus het telt ze. In genetische studies met 654.783 mensen volgde het hartrisico ApoB, of genen nu LDL of triglyceriden (een ander bloedvet) verlaagden. Meestal zeggen LDL en ApoB hetzelfde. Als ze verschillen, zegt ApoB meer. Vraag om ApoB bij je cholesteroltest.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Genetische studies, 654.783 mensen</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">54%</p><p class="mt-3 text-[15px] font-medium leading-snug">40 jaar lang 1 mmol/L lager LDL: 54% minder risico</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">LDL veroorzaakt hart- en vaatziekten, en de schade telt op: het gaat om hoe hoog je LDL is en hoe lang. In trials verlaagde elke 1 mmol/L minder LDL het risico met zo'n 22% binnen 5 jaar. In genetische studies hing elke 1 mmol/L lager LDL over 40 jaar samen met zo'n 54% minder risico. Een pasgeboren baby heeft een LDL van ongeveer 0,5 tot 1,0 mmol/L. Kijk dus naar je LDL als je twintig of dertig bent, lang voordat je iets merkt.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Europese consensus, 2 miljoen+ mensen</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">13%</p><p class="mt-3 text-[15px] font-medium leading-snug">Elke stap fitter: 13% minder kans om te overlijden</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">VO2max is de meeste zuurstof die je lichaam kan gebruiken bij een maximale inspanning: de standaardmaat voor je conditie. Vaak staat hij in MET, een eenheid van inspanning; 1 MET meer is ongeveer 1 km/u sneller hardlopen. In 33 studies met 102.980 gezonde mensen ging elke MET meer samen met 13% minder kans om te overlijden en 15% minder hart- en vaatziekten. In een trial steeg de VO2max na 8 weken 4x4-intervallen met 7%. Je wearable kan die van jou schatten.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">33 studies, 102.980 mensen</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">4,2 → 1,4</p><p class="mt-3 text-[15px] font-medium leading-snug">Mijn LDL daalde met twee derde</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">Die van mij ging van 4,2 naar 1,4 mmol/L met drie veranderingen: meer dan 50 gram vezels per dag, alleen mager rundvlees zoals ossenhaas en schenkel, en 120 minuten zone 2 per week. Zone 2 is rustige duurtraining op een tempo waarop je nog kunt praten. Ik veranderde drie dingen tegelijk, dus welke het meest deed, weet ik niet. Wat ik deed en wat onderzoek over elke verandering zegt, staat in deel 2.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Mijn eigen data</p></div></div>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/36036785/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kronenberg F, Mora S, Stroes ESG, Ference BA, Arsenault BJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">36036785</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC9639807</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/40878289/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mach F, Koskinas KC, Roeters van Lennep JE, Tokgözoğlu L, Badimon L et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2025 <span class="px-1 text-border">·</span> PMID <span class="text-info">40878289</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/27122601/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Fasting is not routinely required for determination of a lipid profile: clinical and laboratory implications including flagging at desirable concentration cut-points-a joint consensus statement from the European Atherosclerosis Society and European Federation of Clinical Chemistry and Laboratory Medicine.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Nordestgaard BG, Langsted A, Mora S, Kolovou G, Baum H et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2016 <span class="px-1 text-border">·</span> PMID <span class="text-info">27122601</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4929379</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30694319/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Association of Triglyceride-Lowering LPL Variants and LDL-C-Lowering LDLR Variants With Risk of Coronary Heart Disease.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Ference BA, Kastelein JJP, Ray KK, Ginsberg HN, Chapman MJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">JAMA 2019 <span class="px-1 text-border">·</span> PMID <span class="text-info">30694319</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6439767</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31642874/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Apolipoprotein B Particles and Cardiovascular Disease: A Narrative Review.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Sniderman AD, Thanassoulis G, Glavinovic T, Navar AM, Pencina M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">JAMA Cardiol 2019 <span class="px-1 text-border">·</span> PMID <span class="text-info">31642874</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC7369156</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28444290/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Ference BA, Ginsberg HN, Graham I, Ray KK, Packard CJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2017 <span class="px-1 text-border">·</span> PMID <span class="text-info">28444290</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC5837225</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/19454641/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Cardiorespiratory fitness as a quantitative predictor of all-cause mortality and cardiovascular events in healthy men and women: a meta-analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kodama S, Saito K, Tanaka S, Maki M, Yachi Y et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">JAMA 2009 <span class="px-1 text-border">·</span> PMID <span class="text-info">19454641</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/17414804/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Aerobic high-intensity intervals improve VO2max more than moderate training.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Helgerud J, Høydal K, Wang E, Karlsen T, Berg P et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2007 <span class="px-1 text-border">·</span> PMID <span class="text-info">17414804</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/35072942/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Validity of Estimating the Maximal Oxygen Consumption by Consumer Wearables: A Systematic Review with Meta-analysis and Expert Statement of the INTERLIVE Network.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Molina-Garcia P, Notbohm HL, Schumann M, Argent R, Hetherington-Rauth M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sports Med 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">35072942</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC9213394</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Mijn LDL-verhaal</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Mijn verslaving aan werk bracht me bij extreme diëten, zoals carnivoor. Ik dacht dat ik gezond was. Op mijn 22e was mijn LDL 7 mmol/L. Een LDL die zo hoog is, verhoogt duidelijk de kans op hart- en vaatziekten: de Europese richtlijn zet iedereen met een LDL boven 4,9 mmol/L op dat getal alleen al in de groep met een hoog risico. Zo'n drie jaar geleden begon ik mijn cholesterol te testen. Bij een latere test was mijn LDL 4,2, en met drie veranderingen kreeg ik hem naar 1,4: meer vezels, magerder vlees en meer training in zone 2. Elke verandering lees je in deel 2.</p><figure class="mt-5"><div class="rounded-xl border border-border-faint bg-card px-4 py-3"><p class="text-[13px] font-medium">Mijn LDL-cholesterol (mmol/L)</p><div class="mt-1.5">
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Op mijn 22e</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:100.0%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">7,0</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Later</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:60.0%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">4,2</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Na 3 veranderingen</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:20.0%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">1,4</span>
+          </div></div></div><p class="mt-2 text-[12px] leading-snug text-muted-foreground">Drie momenten. Ter vergelijking: het doel in de Europese richtlijn voor mensen met een laag risico is onder 3,0 mmol/L.</p></figure><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Ik was niet de enige. In een enquête onder 2.029 mensen op een carnivoordieet hadden de 462 mensen die hun LDL deelden een mediaan van 4,5 mmol/L: duidelijk verhoogd. De enquête ging uit van wat mensen zelf opgaven. Deze pagina is wat ik op mijn 22e had willen weten: welke waarden je laat testen voor je hart, wat elke waarde zegt, en wat ik veranderde.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31504418/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mach F, Baigent C, Catapano AL, Koskinas KC, Casula M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">31504418</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/34934897/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Behavioral Characteristics and Self-Reported Health Status among 2029 Adults Consuming a "Carnivore Diet".</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Lennerz BS, Mey JT, Henn OH, Ludwig DS</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Curr Dev Nutr 2021 <span class="px-1 text-border">·</span> PMID <span class="text-info">34934897</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC8684475</span></p>
+      </a>
+    </div>
+    <div id="test" data-jump class="mx-6 mt-24">
+      <p class="gp-from"><img src="jorn.jpg" alt="" width="20" height="20" /><span>Jorn Kirkels <span class="px-1 text-border">·</span> Wat je laat testen voor je hart</span></p>
+      <p class="text-[12px] text-muted-foreground">Deel 1</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Wat je laat testen voor je hart</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Wat elke waarde is, hoe het werkt en welke waarde je zoekt. De standaardtest van de huisarts heeft LDL, HDL en triglyceriden. Om ApoB, Lp(a) en hs-CRP vraag je apart.</p>
+    </div>
+    <div id="ldl" data-jump class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <p class="gp-from"><img src="jorn.jpg" alt="" width="20" height="20" /><span>Jorn Kirkels <span class="px-1 text-border">·</span> Wat je laat testen voor je hart</span></p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">LDL-cholesterol</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Cholesterol is een vetachtige stof waarmee je lichaam cellen en hormonen bouwt. Het reist door je bloed in deeltjes. LDL (lipoproteïne met lage dichtheid) is het belangrijkste deeltje dat het naar je weefsels brengt. Je LDL-cholesterol is hoeveel cholesterol er in die deeltjes zit, in mmol/L.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>LDL-deeltjes zijn klein genoeg om door de binnenwand van je bloedvaten de vaatwand in te gaan.</li><li>Hoe meer deeltjes in je bloed, hoe meer er blijven steken.</li><li>Afweercellen nemen het vastzittende LDL op en raken vol cholesterol. Dat zet een ontsteking in gang, en in de loop van jaren groeit er een plaque: een vettige verdikking in de vaatwand.</li><li>Scheurt het dunne kapje over een plaque, dan ontstaat daar een bloedstolsel. In een kransslagader van je hart is dat een hartinfarct.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Een Europese consensus bundelde meer dan 200 studies met ruim 2 miljoen mensen: LDL veroorzaakt hart- en vaatziekten, en het risico stijgt met hoe hoog je LDL is en hoe lang hij hoog blijft. Op het niveau van een pasgeborene, zo'n 0,5 tot 1,0 mmol/L, blijft er weinig LDL steken. Daarboven stijgt die kans stap voor stap. Nuchter zijn hoeft niet voor deze test: na een gewone maaltijd is je LDL gemiddeld hooguit 0,2 mmol/L lager. De Europese richtlijn zet iedereen met een LDL boven 4,9 mmol/L op dat getal alleen al in de groep met een hoog risico. Een Europese labconsensus adviseert boven 5 mmol/L door te verwijzen, omdat het kan wijzen op familiaire hypercholesterolemie, een erfelijke vorm van hoog cholesterol. Bespreek een afwijkende waarde altijd met je huisarts.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">Huisarts: standaard <span class="px-1 text-border">·</span> Lab markeert vanaf 3,0 mmol/L (EAS) <span class="px-1 text-border">·</span> NHG-streefwaarde bij verhoogd risico: onder 2,6 mmol/L <span class="px-1 text-border">·</span> ESC-doel: onder 3,0 bij laag risico, 1,8 bij hoog risico</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28444290/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Ference BA, Ginsberg HN, Graham I, Ray KK, Packard CJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2017 <span class="px-1 text-border">·</span> PMID <span class="text-info">28444290</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC5837225</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/32052833/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Low-density lipoproteins cause atherosclerotic cardiovascular disease: pathophysiological, genetic, and therapeutic insights: a consensus statement from the European Atherosclerosis Society Consensus Panel.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Borén J, Chapman MJ, Krauss RM, Packard CJ, Bentzon JF et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">32052833</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC7308544</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/27122601/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Fasting is not routinely required for determination of a lipid profile: clinical and laboratory implications including flagging at desirable concentration cut-points-a joint consensus statement from the European Atherosclerosis Society and European Federation of Clinical Chemistry and Laboratory Medicine.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Nordestgaard BG, Langsted A, Mora S, Kolovou G, Baum H et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2016 <span class="px-1 text-border">·</span> PMID <span class="text-info">27122601</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4929379</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31504418/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mach F, Baigent C, Catapano AL, Koskinas KC, Casula M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">31504418</span></p>
+      </a>
+      <a href="https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">NHG-Standaard Cardiovasculair risicomanagement</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Welke waarden de huisarts bepaalt, de LDL-streefwaarde, en advies over bewegen en zitten</p>
+      </a>
+    </div>
+    <div id="apob" data-jump class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <p class="gp-from"><img src="jorn.jpg" alt="" width="20" height="20" /><span>Jorn Kirkels <span class="px-1 text-border">·</span> Wat je laat testen voor je hart</span></p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">ApoB</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">ApoB (apolipoproteïne B) is een eiwit op de buitenkant van elk deeltje dat zich in je vaatwand kan ophopen: LDL, maar ook VLDL, de deeltjes die triglyceriden (een soort vet) vervoeren, en Lp(a). Elk van die deeltjes draagt precies één ApoB. Je LDL-cholesterol zegt dus hoeveel cholesterol de deeltjes bij zich hebben, en ApoB hoeveel deeltjes er zijn.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Elk deeltje kan meer of minder cholesterol bij zich hebben.</li><li>Zijn je deeltjes klein en hebben ze weinig cholesterol bij zich, dan kan je LDL er normaal uitzien terwijl je veel deeltjes hebt.</li><li>Het aantal deeltjes bepaalt hoeveel er in je vaatwand belanden. Dan laat ApoB een hoger risico zien dan je LDL.</li><li>Dat gebeurt vaker bij hoge triglyceriden, diabetes, buikvet of een heel laag LDL.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Bij de meeste mensen zeggen LDL en ApoB hetzelfde: bij 346.686 mensen in het Verenigd Koninkrijk voegde ApoB bijna niets toe als totaal- en HDL-cholesterol al bekend waren. Volgens de Europese richtlijn verschillen ze bij ongeveer 1 op de 5 mensen. Bij 389.529 mensen zonder cholesterolmedicatie bleef alleen ApoB samenhangen met hartinfarcten toen het naast non-HDL-cholesterol en triglyceriden werd gelegd. Ik raad daarom aan om beide te laten meten. Is je ApoB hoog vergeleken met je LDL, dan is je risico hoger dan je LDL doet denken. Vezels leveren daar volgens mij het meeste op.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">Huisarts: niet standaard (NHG) <span class="px-1 text-border">·</span> Lab markeert vanaf 1,0 g/L (EAS) <span class="px-1 text-border">·</span> ESC-doel: onder 1,0, 0,8 of 0,65 g/L bij matig, hoog of zeer hoog risico</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31642874/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Apolipoprotein B Particles and Cardiovascular Disease: A Narrative Review.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Sniderman AD, Thanassoulis G, Glavinovic T, Navar AM, Pencina M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">JAMA Cardiol 2019 <span class="px-1 text-border">·</span> PMID <span class="text-info">31642874</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC7369156</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31216866/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Comparison of Conventional Lipoprotein Tests and Apolipoproteins in the Prediction of Cardiovascular Disease.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Welsh C, Celis-Morales CA, Brown R, Mackay DF, Lewsey J et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Circulation 2019 <span class="px-1 text-border">·</span> PMID <span class="text-info">31216866</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6693929</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/34773460/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Association of Apolipoprotein B-Containing Lipoproteins and Risk of Myocardial Infarction in Individuals With and Without Atherosclerosis: Distinguishing Between Particle Concentration, Type, and Content.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Marston NA, Giugliano RP, Melloni GEM, Park JG, Morrill V et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">JAMA Cardiol 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">34773460</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC8590731</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30694319/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Association of Triglyceride-Lowering LPL Variants and LDL-C-Lowering LDLR Variants With Risk of Coronary Heart Disease.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Ference BA, Kastelein JJP, Ray KK, Ginsberg HN, Chapman MJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">JAMA 2019 <span class="px-1 text-border">·</span> PMID <span class="text-info">30694319</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6439767</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31504418/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mach F, Baigent C, Catapano AL, Koskinas KC, Casula M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">31504418</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/27122601/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Fasting is not routinely required for determination of a lipid profile: clinical and laboratory implications including flagging at desirable concentration cut-points-a joint consensus statement from the European Atherosclerosis Society and European Federation of Clinical Chemistry and Laboratory Medicine.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Nordestgaard BG, Langsted A, Mora S, Kolovou G, Baum H et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2016 <span class="px-1 text-border">·</span> PMID <span class="text-info">27122601</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4929379</span></p>
+      </a>
+    </div>
+    <div id="lpa" data-jump class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <p class="gp-from"><img src="jorn.jpg" alt="" width="20" height="20" /><span>Jorn Kirkels <span class="px-1 text-border">·</span> Wat je laat testen voor je hart</span></p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Lp(a): lipoproteïne(a)</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Lp(a) is een LDL-deeltje met een extra eiwit eraan, apo(a). Meer dan 90% van je waarde ligt vast in je genen, meer dan bij enig ander bloedvet. Je waarde staat grotendeels vast vanaf je jeugd, al kan hij bij vrouwen na de overgang stijgen. Voeding en sport veranderen hem nauwelijks.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Net als LDL kan Lp(a) in je vaatwand blijven steken.</li><li>Het draagt geoxideerde vetten mee die daar ontsteking aanwakkeren.</li><li>Het hangt ook samen met kalkafzetting in de aortaklep, de klep waardoor bloed je hart verlaat.</li><li>Hoe hoger je waarde, hoe hoger het risico: bij 100 mg/dL verdubbelt het risico op hart- en vaatziekten ongeveer.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Ongeveer 1,4 miljard mensen hebben een verhoogd Lp(a). Europese cardiologen adviseren het bij elke volwassene minstens één keer te meten, zeker bij hart- en vaatziekten op jonge leeftijd of hoog cholesterol in de familie. Boven 50 mg/dL (ongeveer 105 nmol/L) tellen ze het als risicofactor. Een van onze cliënten, een ondernemer van 33, kwam bij ons voor zijn darmen. In zijn bloed zagen we een totaal cholesterol van 6,8 mmol/L en een hoog Lp(a), bepaald door zijn genen: een hoger genetisch risico waar hij geen idee van had. Zijn plan: 40 tot 50 gram vezels per dag, training in zone 2 en regelmatig testen. Dat plan verlaagt zijn Lp(a) nauwelijks. Het verlaagt de rest van zijn risico. Bij 14.051 mensen hadden mensen met een Lp(a) van 50 mg/dL of hoger en de gezondste gewoontes een derde van het risico op hart- en vaatziekten van mensen met de minst gezonde gewoontes. Of zoals ik het zeg: 'Je kunt de genen hebben zonder dat ze ooit naar boven komen, zolang wat je doet daarop is afgestemd.' Bij een hoog Lp(a) adviseren richtlijnen je andere risicofactoren laag te houden, LDL voorop, soms met medicatie via je huisarts. Is die van jou hoog, dan kan het zinvol zijn ook je ouders, broers, zussen en kinderen te laten testen.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">Huisarts: niet standaard (NHG) <span class="px-1 text-border">·</span> Verhoogd: boven 50 mg/dL of ongeveer 105 nmol/L (ESC 2025) <span class="px-1 text-border">·</span> Eenheden verschillen per lab en zijn niet precies om te rekenen; 500 mg/L is 50 mg/dL <span class="px-1 text-border">·</span> Eén keer is genoeg; vrouwen kunnen na de overgang opnieuw meten</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/36036785/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kronenberg F, Mora S, Stroes ESG, Ference BA, Arsenault BJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">36036785</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC9639807</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/40878289/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mach F, Koskinas KC, Roeters van Lennep JE, Tokgözoğlu L, Badimon L et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2025 <span class="px-1 text-border">·</span> PMID <span class="text-info">40878289</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/27998826/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Ideal cardiovascular health influences cardiovascular disease risk associated with high lipoprotein(a) levels and genotype: The EPIC-Norfolk prospective population study.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Perrot N, Verbeek R, Sandhu M, Boekholdt SM, Hovingh GK et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Atherosclerosis 2017 <span class="px-1 text-border">·</span> PMID <span class="text-info">27998826</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC5321848</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/27122601/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Fasting is not routinely required for determination of a lipid profile: clinical and laboratory implications including flagging at desirable concentration cut-points-a joint consensus statement from the European Atherosclerosis Society and European Federation of Clinical Chemistry and Laboratory Medicine.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Nordestgaard BG, Langsted A, Mora S, Kolovou G, Baum H et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2016 <span class="px-1 text-border">·</span> PMID <span class="text-info">27122601</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4929379</span></p>
+      </a>
+    </div>
+    <div id="hscrp" data-jump class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <p class="gp-from"><img src="jorn.jpg" alt="" width="20" height="20" /><span>Jorn Kirkels <span class="px-1 text-border">·</span> Wat je laat testen voor je hart</span></p>
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">hs-CRP</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Ontsteking is hoe je afweer reageert op schade of een infectie. CRP (C-reactief proteïne) is een eiwit dat je lever dan maakt. De hs-CRP-test (hooggevoelige CRP) meet ook heel kleine hoeveelheden, zodat je lichte ontsteking ziet: een waarde die zonder infectie licht verhoogd blijft. Voor mij is het een van de drie belangrijkste waarden om te checken.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Ontsteking in je vaatwand laat plaques groeien en maakt de kans groter dat ze scheuren.</li><li>Buikvet, roken en weinig bewegen kunnen je CRP licht verhoogd houden.</li><li>Een infectie, een blessure of een heel zware training laat je CRP kort stijgen.</li><li>Alleen een waarde die verhoogd blijft, zegt dus iets over je hart.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Bij 160.309 mensen uit 54 studies ging een drie keer hogere CRP samen met 37% meer kans op coronaire hartziekte (vernauwde kransslagaders), ook na correctie voor de bekende risicofactoren. CRP hing ook samen met andere ziektes, dus het is een algemeen alarmsignaal en niet specifiek voor je hart. Amerikaanse cardiologen adviseren nu om bij iedereen hs-CRP te meten, samen met cholesterol: onder 1 mg/L telt als lager risico, 1 tot 3 als gemiddeld en boven 3 als hoger. De Europese richtlijn telt een waarde die boven 2 mg/L blijft als factor die je in een hogere risicogroep kan zetten. Meet als je je goed voelt, niet tijdens een verkoudheid en niet vlak na een wedstrijd. Boven 10 mg/L meet je na 2 tot 3 weken opnieuw en gebruik je de laagste waarde. Sporten verlaagde CRP in 83 studies, het duidelijkst als mensen ook lichaamsvet verloren. In mijn ervaring heeft voeding er het meeste effect op, daarna slecht slapen en stress.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">Huisarts: gewone CRP, niet de gevoelige hs-CRP <span class="px-1 text-border">·</span> Lager, gemiddeld, hoger risico: onder 1, 1 tot 3, boven 3 mg/L (ACC) <span class="px-1 text-border">·</span> ESC: blijft boven 2 mg/L</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/20031199/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">C-reactive protein concentration and risk of coronary heart disease, stroke, and mortality: an individual participant meta-analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Emerging Risk Factors Collaboration, Kaptoge S, Di Angelantonio E, Lowe G, Pepys MB et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Lancet 2010 <span class="px-1 text-border">·</span> PMID <span class="text-info">20031199</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC3162187</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/41020749/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Inflammation and Cardiovascular Disease: 2025 ACC Scientific Statement: A Report of the American College of Cardiology.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mensah GA, Arnold N, Prabhu SD, Ridker PM, Welty FK</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Am Coll Cardiol 2026 <span class="px-1 text-border">·</span> PMID <span class="text-info">41020749</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/40878289/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mach F, Koskinas KC, Roeters van Lennep JE, Tokgözoğlu L, Badimon L et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2025 <span class="px-1 text-border">·</span> PMID <span class="text-info">40878289</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/32052833/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Low-density lipoproteins cause atherosclerotic cardiovascular disease: pathophysiological, genetic, and therapeutic insights: a consensus statement from the European Atherosclerosis Society Consensus Panel.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Borén J, Chapman MJ, Krauss RM, Packard CJ, Bentzon JF et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">32052833</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC7308544</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/15893167/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">The effects of physical activity on serum C-reactive protein and inflammatory markers: a systematic review.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kasapis C, Thompson PD</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Am Coll Cardiol 2005 <span class="px-1 text-border">·</span> PMID <span class="text-info">15893167</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/27445361/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effect of exercise training on C reactive protein: a systematic review and meta-analysis of randomised and non-randomised controlled trials.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Fedewa MV, Hathaway ED, Ward-Ritacco CL</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Br J Sports Med 2017 <span class="px-1 text-border">·</span> PMID <span class="text-info">27445361</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Triglyceriden en HDL</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Triglyceriden zijn het meest voorkomende vet in je bloed: de vorm waarin je lichaam energie uit eten opslaat. HDL (lipoproteïne met hoge dichtheid) is het deeltje dat overtollig cholesterol uit je weefsels terug naar je lever brengt. Beide zitten in de standaardtest van de huisarts, en veel mensen lezen een hoog HDL met lage triglyceriden als teken dat alles goed is.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Triglyceriden reizen in deeltjes die ook ApoB dragen, dus hoge triglyceriden betekenen meestal meer deeltjes.</li><li>In genetische studies daalde het hartrisico door lagere triglyceriden alleen zover ApoB daalde.</li><li>Genen die HDL verhogen, verlaagden de kans op een hartinfarct niet.</li><li>Heel hoog HDL ging zelfs samen met een hogere sterfte: bij mannen vanaf ongeveer 2,5 mmol/L, bij vrouwen vanaf 3,5.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Op carnivoor mis je dit makkelijk. In de enquête onder 2.029 carnivoor-eters hadden de mensen die hun uitslag deelden een goed HDL (1,8 mmol/L) en lage triglyceriden (0,8 mmol/L), met een mediaan LDL van 4,5 mmol/L. Een goed HDL maakt een hoog LDL niet goed. Nuchter zijn hoeft ook hier niet: na een gewone maaltijd zijn triglyceriden gemiddeld hooguit 0,3 mmol/L hoger, en HDL verandert niet. Nuchter prikken heeft pas zin als je triglyceriden boven 5 mmol/L uitkomen.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">Huisarts: standaard <span class="px-1 text-border">·</span> Lab markeert: triglyceriden vanaf 2,0 mmol/L (nuchter 1,7), HDL bij 1,0 mmol/L of lager (EAS)</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30694319/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Association of Triglyceride-Lowering LPL Variants and LDL-C-Lowering LDLR Variants With Risk of Coronary Heart Disease.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Ference BA, Kastelein JJP, Ray KK, Ginsberg HN, Chapman MJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">JAMA 2019 <span class="px-1 text-border">·</span> PMID <span class="text-info">30694319</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6439767</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/34773460/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Association of Apolipoprotein B-Containing Lipoproteins and Risk of Myocardial Infarction in Individuals With and Without Atherosclerosis: Distinguishing Between Particle Concentration, Type, and Content.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Marston NA, Giugliano RP, Melloni GEM, Park JG, Morrill V et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">JAMA Cardiol 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">34773460</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC8590731</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/22607825/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation study.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Voight BF, Peloso GM, Orho-Melander M, Frikke-Schmidt R, Barbalic M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Lancet 2012 <span class="px-1 text-border">·</span> PMID <span class="text-info">22607825</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC3419820</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28419274/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Extreme high high-density lipoprotein cholesterol is paradoxically associated with high mortality in men and women: two prospective cohort studies.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Madsen CM, Varbo A, Nordestgaard BG</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2017 <span class="px-1 text-border">·</span> PMID <span class="text-info">28419274</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/34934897/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Behavioral Characteristics and Self-Reported Health Status among 2029 Adults Consuming a "Carnivore Diet".</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Lennerz BS, Mey JT, Henn OH, Ludwig DS</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Curr Dev Nutr 2021 <span class="px-1 text-border">·</span> PMID <span class="text-info">34934897</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC8684475</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/27122601/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Fasting is not routinely required for determination of a lipid profile: clinical and laboratory implications including flagging at desirable concentration cut-points-a joint consensus statement from the European Atherosclerosis Society and European Federation of Clinical Chemistry and Laboratory Medicine.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Nordestgaard BG, Langsted A, Mora S, Kolovou G, Baum H et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2016 <span class="px-1 text-border">·</span> PMID <span class="text-info">27122601</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4929379</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Rusthartslag en VO2max</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Je rusthartslag is hoe vaak je hart per minuut slaat als je helemaal in rust bent. VO2max is de meeste zuurstof die je lichaam per minuut kan gebruiken bij een maximale inspanning, in milliliter per kilo lichaamsgewicht. Beide zeggen veel over je hart, en je meet ze zonder naald.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Duurtraining laat je hart per slag meer bloed rondpompen. In een trial steeg dat na 8 weken intervallen met ongeveer 10%.</li><li>In rust heeft je hart dan minder slagen nodig. In 191 studies verlaagde duurtraining de rusthartslag.</li><li>Met meer bloed per slag krijgen je spieren meer zuurstof, en stijgt je VO2max.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In 46 studies met 1,2 miljoen mensen ging elke 10 slagen per minuut hogere rusthartslag samen met 9% meer kans om te overlijden. Voor conditie is het verband sterker: elke MET meer (ongeveer 1 km/u sneller hardlopen) ging samen met 13% minder kans om te overlijden, en de minst fitte groep had 70% meer risico dan de fitste. Een wearable volgt je rusthartslag elke nacht. Zijn VO2max is een schatting: apparaten die je hardlooprondes gebruiken zitten er gemiddeld goed op, maar voor één persoon kunnen ze tot zo'n 10 ml per kilo per minuut afwijken. Volg dus je eigen trend op hetzelfde apparaat, en doe een inspanningstest op een loopband of fiets als je het precieze getal wilt.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">Meten: met een wearable, zonder bloedtest <span class="px-1 text-border">·</span> Lage conditie in de 33 studies: onder 7,9 MET, ongeveer 28 ml/kg/min</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/17414804/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Aerobic high-intensity intervals improve VO2max more than moderate training.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Helgerud J, Høydal K, Wang E, Karlsen T, Berg P et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2007 <span class="px-1 text-border">·</span> PMID <span class="text-info">17414804</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30513777/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Reimers AK, Knapp G, Reimers CD</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Clin Med 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">30513777</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6306777</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/26598376/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Resting heart rate and all-cause and cardiovascular mortality in the general population: a meta-analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Zhang D, Shen X, Qi X</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">CMAJ 2016 <span class="px-1 text-border">·</span> PMID <span class="text-info">26598376</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4754196</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/19454641/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Cardiorespiratory fitness as a quantitative predictor of all-cause mortality and cardiovascular events in healthy men and women: a meta-analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kodama S, Saito K, Tanaka S, Maki M, Yachi Y et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">JAMA 2009 <span class="px-1 text-border">·</span> PMID <span class="text-info">19454641</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/35072942/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Validity of Estimating the Maximal Oxygen Consumption by Consumer Wearables: A Systematic Review with Meta-analysis and Expert Statement of the INTERLIVE Network.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Molina-Garcia P, Notbohm HL, Schumann M, Argent R, Hetherington-Rauth M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sports Med 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">35072942</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC9213394</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">De basis die je huisarts meet</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Een hartrisicoprofiel bij de huisarts kijkt ook naar deze punten. Je kent ze waarschijnlijk al.</p><ul class="mt-3 list-disc space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Bloeddruk, meer dan één keer gemeten.</li><li>Glucose, bij voorkeur nuchter.</li><li>Nierfunctie (eGFR) en eiwit (albumine) in je urine.</li><li>Je BMI en middelomtrek.</li><li>Roken, alcohol, voeding en hoeveel je beweegt: de richtlijn adviseert minstens 150 minuten per week matig intensief bewegen, zoals wandelen of fietsen, en niet meer dan 8 uur per dag zitten.</li></ul><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Je huisarts schat hiermee je hartrisico bij mannen vanaf 40 en vrouwen vanaf 50, of eerder bij hart- en vaatziekten op jonge leeftijd in de familie of andere risicofactoren. Onder de 40 zonder risicofactoren raadt de richtlijn geen routinecheck aan.</p>
+      
+      
+      <a href="https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">NHG-Standaard Cardiovasculair risicomanagement</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Welke waarden de huisarts bepaalt, de LDL-streefwaarde, en advies over bewegen en zitten</p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 2</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Hoe ik mijn LDL van 4,2 naar 1,4 kreeg</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Drie veranderingen tegelijk, dus welke het meest deed, weet ik niet. Per verandering: wat ik deed en wat onderzoek zegt.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Vezels: 50 gram of meer per dag</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Vezels zijn het deel van plantaardig eten dat je darm niet kan verteren: in groente, fruit, peulvruchten (bonen, linzen, kikkererwten), volkoren granen, haver en noten. Vlees bevat geen vezels. Oplosbare vezels vormen met water een gel, zoals in haver, peulvruchten en fruit. Ze verlagen je LDL via je gal.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Je lever maakt gal van cholesterol. Gal helpt je vet te verteren, en je darm neemt het meeste ervan normaal weer op.</li><li>Oplosbare vezels houden gal vast in je darm, zodat er meer van je lichaam verlaat.</li><li>Je lever moet nieuwe gal maken en gebruikt daarvoor cholesterol uit je bloed. Je LDL daalt.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Het effect per gram is klein. In 67 trials verlaagde elke gram oplosbare vezels het LDL met zo'n 0,06 mmol/L: 3 gram uit haver, ongeveer drie kommen van 28 gram, verlaagde het met zo'n 0,13. Die trials testten een paar gram oplosbare vezels, veel minder dan mijn 50 gram vezels in totaal, dus ze kunnen niet zeggen hoeveel van mijn daling door vezels kwam. Op lange termijn is het beeld groter. In 185 studies hadden de mensen die de meeste vezels aten 15 tot 30% minder kans om te overlijden en op hart- en vaatziekten dan de mensen die er het minst aten. Het voordeel was het duidelijkst bij 25 tot 29 gram per dag, en de curves wijzen erop dat meer nog meer kan helpen. Het Voedingscentrum adviseert mannen minstens 30 gram per dag en vrouwen 24, en zegt dat meer niet nodig is. Mijn 50 gram zit daar ruim boven. Toch leveren vezels volgens mij het meeste op.</p><p class="mt-4 rounded-md bg-muted/60 px-3.5 py-2.5 text-[13px] leading-[1.6] text-foreground/85"><span class="font-medium">Let op.</span> Ga je in één keer van weinig vezels naar 50 gram, dan kun je last krijgen van winderigheid, krampen of verstopping. Bouw het stap voor stap op en drink er genoeg bij.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">Voedingscentrum: minstens 30 gram (mannen) of 24 gram (vrouwen) per dag</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/21776465/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Mechanisms underlying the cholesterol-lowering properties of soluble dietary fibre polysaccharides.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Gunness P, Gidley MJ</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Food Funct 2010 <span class="px-1 text-border">·</span> PMID <span class="text-info">21776465</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/9925120/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Cholesterol-lowering effects of dietary fiber: a meta-analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Brown L, Rosner B, Willett WW, Sacks FM</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Am J Clin Nutr 1999 <span class="px-1 text-border">·</span> PMID <span class="text-info">9925120</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30638909/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Carbohydrate quality and human health: a series of systematic reviews and meta-analyses.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Reynolds A, Mann J, Cummings J, Winter N, Mete E et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Lancet 2019 <span class="px-1 text-border">·</span> PMID <span class="text-info">30638909</span></p>
+      </a>
+      <a href="https://www.voedingscentrum.nl/encyclopedie/vezels.aspx" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Voedingscentrum: vezels</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Minstens 30 gram (mannen) en 24 gram (vrouwen) per dag; bouw stap voor stap op en drink genoeg</p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Mager vlees in plaats van vette stukken</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Verzadigd vet is het vet dat bij kamertemperatuur vast is: in vet vlees, boter, kaas, room en kokosolie. Ik bleef steak eten, maar alleen magere stukken zoals ossenhaas en schenkel.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Je lever haalt LDL uit je bloed met LDL-receptoren: aanlegplaatsen op de levercellen die LDL naar binnen halen.</li><li>Sommige verzadigde vetten maken die receptoren minder actief, zodat er meer LDL in je bloed blijft.</li><li>Verschillende onverzadigde vetten, zoals in olijfolie en noten, doen het omgekeerde.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In een trial aten 113 gezonde volwassenen elk 4 weken rood vlees, wit vlees of plantaardig eiwit, in een dieet met veel of weinig verzadigd vet. Veel verzadigd vet verhoogde LDL en ApoB, welk eiwit ze ook aten. Rood en wit vlees verhoogden LDL evenveel, en met plantaardig eiwit was LDL het laagst. Het gaat dus vooral om het vet in het vlees, en de eiwitbron telt ook mee. In 15 lange trials met zo'n 59.000 mensen verlaagde minder verzadigd vet eten, minstens twee jaar lang, de kans op een hart- of vaatziekte met 21%. Op de kans om te overlijden maakte het weinig of geen verschil. Goed om te weten: verzadigd vet vervangen door koolhydraten of onverzadigd vet kan je Lp(a) 10 tot 15% verhogen, terwijl je LDL daalt.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/9129498/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Theoretical considerations of what regulates low-density-lipoprotein and high-density-lipoprotein cholesterol.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Dietschy JM</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Am J Clin Nutr 1997 <span class="px-1 text-border">·</span> PMID <span class="text-info">9129498</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31161217/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of red meat, white meat, and nonmeat protein sources on atherogenic lipoprotein measures in the context of low compared with high saturated fat intake: a randomized controlled trial.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Bergeron N, Chiu S, Williams PT, M King S, Krauss RM</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Am J Clin Nutr 2019 <span class="px-1 text-border">·</span> PMID <span class="text-info">31161217</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6599736</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/32428300/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Reduction in saturated fat intake for cardiovascular disease.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Hooper L, Martin N, Jimoh OF, Kirk C, Foster E et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Cochrane Database Syst Rev 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">32428300</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC7388853</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/36036785/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kronenberg F, Mora S, Stroes ESG, Ference BA, Arsenault BJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">36036785</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC9639807</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Zone 2 en 4x4-intervallen</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Zone 2 is rustige duurtraining: een hartslag zo laag dat je nog kunt praten. Toen mijn LDL daalde, deed ik 120 minuten zone 2 per week. Nu train ik zo'n 150 minuten per week in zone 2, plus twee keer per week Noorse 4x4-intervallen om mijn VO2max te verhogen. Van alles verlaagde hardlopen mijn stress het meest, en het hielp me mijn LDL te verlagen. Ik train voor een ultra van 50 km in Dubai.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>4 minuten alles geven. In de studie: 90 tot 95% van je maximale hartslag.</li><li>3 minuten rust. In de studie: rustig joggen op ongeveer 70%.</li><li>Herhaal dat vier keer.</li><li>Ik doe dit twee keer per week.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Bij 40 redelijk getrainde mannen steeg de VO2max na 8 weken 4x4-intervallen met 7%, meer dan met evenveel werk op een rustig of middelhoog tempo. Op LDL doet training alleen weinig: in 49 trials met 2.990 mannen verlaagde duurtraining de triglyceriden met 9% en LDL met maar 3%, te weinig om zeker te zijn. Samen met voeding werkt het beter. In een trial van een jaar met 377 mensen met een verhoogd LDL en een laag HDL verlaagde een vetarmer dieet het LDL alleen duidelijk als ze er ook bij sportten: bij mannen met zo'n 0,5 mmol/L. De WHO adviseert volwassenen 150 tot 300 minuten matig intensief bewegen per week, of 75 tot 150 minuten zwaar.</p><p class="mt-4 rounded-md bg-muted/60 px-3.5 py-2.5 text-[13px] leading-[1.6] text-foreground/85"><span class="font-medium">Let op.</span> Zware intervallen vragen echt iets van je hart. Ben je nieuw met zware training, of heb je pijn op de borst, duizeligheid of een hartaandoening? Overleg dan eerst met je huisarts.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/17414804/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Aerobic high-intensity intervals improve VO2max more than moderate training.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Helgerud J, Høydal K, Wang E, Karlsen T, Berg P et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2007 <span class="px-1 text-border">·</span> PMID <span class="text-info">17414804</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/18645633/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Aerobic exercise and lipids and lipoproteins in men: a meta-analysis of randomized controlled trials.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kelley GA, Kelley KS</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Mens Health Gend 2006 <span class="px-1 text-border">·</span> PMID <span class="text-info">18645633</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC2475654</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/9647874/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of diet and exercise in men and postmenopausal women with low levels of HDL cholesterol and high levels of LDL cholesterol.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Stefanick ML, Mackey S, Sheehan M, Ellsworth N, Haskell WL et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">N Engl J Med 1998 <span class="px-1 text-border">·</span> PMID <span class="text-info">9647874</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/33239350/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">World Health Organization 2020 guidelines on physical activity and sedentary behaviour.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Bull FC, Al-Ansari SS, Biddle S, Borodulin K, Buman MP et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Br J Sports Med 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">33239350</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC7719906</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Mijn rusthartslag: van 53 naar 37 in 12 maanden</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">In 12 maanden ging mijn rusthartslag van 53 naar 37. Ik liep op een loopband onder mijn bureau met een gewichtsvest van 10 kilo: 30.000 tot 40.000 stappen per dag. Per week deed ik daarnaast 200 minuten in zone 2 en 30 tot 60 minuten in zone 4 of hoger (zo zwaar dat je nog maar een paar woorden kunt zeggen). Ik veranderde meer dan één ding, dus wat het meeste deed, weet ik niet.</p><figure class="mt-5"><div class="rounded-xl border border-border-faint bg-card px-4 py-3"><p class="text-[13px] font-medium">Mijn rusthartslag (slagen per minuut)</p><div class="mt-1.5">
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Ervoor</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:100.0%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">53</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">12 maanden later</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:69.8%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">37</span>
+          </div></div></div><p class="mt-2 text-[12px] leading-snug text-muted-foreground">Twee metingen, 12 maanden na elkaar.</p></figure><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In 191 studies verlaagde duurtraining de rusthartslag, meer bij mensen die hoger begonnen. Over stappen is het onderzoek duidelijk tot een bepaald punt: bij 47.471 volwassenen bleef de kans om te overlijden dalen tot 8.000 à 10.000 stappen per dag bij mensen onder de 60, en tot 6.000 à 8.000 bij mensen boven de 60. Mijn 30.000 tot 40.000 zit daar ver boven, dus het onderzoek kan niet zeggen of die extra stappen iets voor mijn hart deden. De huisartsenrichtlijn adviseert niet meer dan 8 uur per dag te zitten, en een loopband onder je bureau is één manier om daar te komen.</p><p class="mt-4 rounded-md bg-muted/60 px-3.5 py-2.5 text-[13px] leading-[1.6] text-foreground/85"><span class="font-medium">Let op.</span> Zo'n lage rusthartslag komt veel voor bij getrainde duursporters: zonder klachten geldt een hartslag van 30 of meer bij hen als normaal. Een lage hartslag met duizeligheid of flauwvallen is een reden om naar je huisarts te gaan.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30513777/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Reimers AK, Knapp G, Reimers CD</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Clin Med 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">30513777</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6306777</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/35247352/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Paluch AE, Bajpai S, Bassett DR, Carnethon MR, Ekelund U et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Lancet Public Health 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">35247352</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC9289978</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28231933/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">International Recommendations for Electrocardiographic Interpretation in Athletes.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Sharma S, Drezner JA, Baggish A, Papadakis M, Wilson MG et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Am Coll Cardiol 2017 <span class="px-1 text-border">·</span> PMID <span class="text-info">28231933</span></p>
+      </a>
+      <a href="https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">NHG-Standaard Cardiovasculair risicomanagement</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Welke waarden de huisarts bepaalt, de LDL-streefwaarde, en advies over bewegen en zitten</p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 3</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Naar welke hartwaarden vraag je?</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Tien vragen. Je ziet meteen waar je begint.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Waar begin je?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Kies per vraag nee, weet ik niet of ja. Elk antwoord telt mee bij één of twee gebieden.</p>
+      <div class="gp-check mt-5">
+        <div class="overflow-hidden rounded-xl border border-border-faint bg-card">
+          <ol class="divide-y divide-border-faint"><li class="q px-4 py-3.5" data-areas="lpa,ldl"><p class="text-[14px] leading-snug">Een ouder, broer of zus kreeg jong een hartinfarct, beroerte of stent: mannen voor hun 55e, vrouwen voor hun 60e.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li><li class="q px-4 py-3.5" data-areas="lpa,ldl"><p class="text-[14px] leading-snug">Iemand in je familie heeft te horen gekregen dat hij of zij een heel hoog cholesterol heeft.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li><li class="q px-4 py-3.5" data-areas="ldl"><p class="text-[14px] leading-snug">Een eerdere bloedtest liet een hoog cholesterol zien.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li><li class="q px-4 py-3.5" data-areas="ldl"><p class="text-[14px] leading-snug">Je eet de meeste dagen vet vlees, boter, kaas of room, of je volgt een carnivoor- of ketodieet.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li><li class="q px-4 py-3.5" data-areas="ldl"><p class="text-[14px] leading-snug">Je eet minder dan 30 gram vezels per dag.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li><li class="q px-4 py-3.5" data-areas="ldl,crp"><p class="text-[14px] leading-snug">Je draagt extra gewicht rond je buik.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li><li class="q px-4 py-3.5" data-areas="crp"><p class="text-[14px] leading-snug">Je rookt.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li><li class="q px-4 py-3.5" data-areas="fit,crp"><p class="text-[14px] leading-snug">Je beweegt minder dan 150 minuten per week.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li><li class="q px-4 py-3.5" data-areas="fit"><p class="text-[14px] leading-snug">Na drie trappen ben je meer buiten adem dan anderen van je leeftijd.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li><li class="q px-4 py-3.5" data-areas="fit"><p class="text-[14px] leading-snug">Je zit meer dan 8 uur per dag.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Weet ik niet</button><button type="button" data-v="2" aria-pressed="false">Ja</button></div></li></ol>
+          <div class="border-t border-border-faint bg-muted/30 px-4 py-4" aria-live="polite">
+            <p class="cnt text-[12px] text-muted-foreground"></p>
+            <div class="bars mt-3 space-y-2.5"><div class="bar" data-k="lpa"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Lp(a) en je familie</span></div><div class="track mt-1"><div class="fill"></div></div></div><div class="bar" data-k="ldl"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">LDL en ApoB</span></div><div class="track mt-1"><div class="fill"></div></div></div><div class="bar" data-k="crp"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Ontsteking</span></div><div class="track mt-1"><div class="fill"></div></div></div><div class="bar" data-k="fit"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Conditie</span></div><div class="track mt-1"><div class="fill"></div></div></div></div>
+            <div class="top mt-5 border-t border-border-faint pt-4" hidden>
+              <p class="text-[12px] text-muted-foreground">Kijk eerst naar</p>
+              <p class="t mt-0.5 text-[18px] font-medium tracking-[-0.01em]"></p>
+              <p class="d mt-1 text-[13.5px] leading-[1.55] text-muted-foreground"></p>
+              <p class="mt-3 text-[12px] text-muted-foreground">Wat je kunt meten</p>
+              <p class="m mt-0.5 text-[13.5px] leading-[1.55]"></p>
+              <a href="#trial" class="mt-3 inline-block text-[13.5px] font-medium text-info">Naar de trial &rarr;</a>
+            </div>
+            <p class="none mt-4 text-[13.5px] leading-[1.55] text-muted-foreground" hidden>Je herkent weinig van deze signalen. Meten laat zien of dat klopt.</p>
+          </div>
+        </div>
+        <p class="mt-2 text-[11.5px] text-muted-foreground">Tik per vraag op een antwoord. Je antwoorden worden nergens opgeslagen.</p><p class="mt-2 text-[12px] leading-snug text-muted-foreground">Deze check stelt niets vast. Hij laat zien waar je kunt beginnen. Pijn op de borst, kortademig of hartkloppingen? Ga naar je huisarts.</p>
+        <script type="application/json">{"areas": {"lpa": {"label": "Lp(a) en je familie", "text": "Je antwoorden wijzen op hart- en vaatziekten of hoog cholesterol in je familie. Lp(a) ligt grotendeels vast in je genen, dus één test zegt veel, voor je hele leven. Richtlijnen adviseren iedereen het één keer te meten, en zeker als het in de familie zit.", "measure": "Lp(a) één keer, plus LDL en ApoB. Schrijf de eenheid op (mg/dL of nmol/L). Bespreek een afwijkende waarde altijd met je huisarts."}, "ldl": {"label": "LDL en ApoB", "text": "Je antwoorden wijzen op de deeltjes die cholesterol je vaatwand in brengen. Wat je eet, beweegt ze het meest. ApoB laat zien of je meer deeltjes hebt dan je LDL doet denken.", "measure": "LDL-cholesterol en ApoB in één bloedtest. Nuchter zijn hoeft niet."}, "crp": {"label": "Ontsteking", "text": "Je antwoorden wijzen op gewoontes die samengaan met lichte ontsteking, zoals buikvet, roken en weinig bewegen.", "measure": "hs-CRP, als je je goed voelt en niet vlak na een zware training."}, "fit": {"label": "Conditie", "text": "Je antwoorden wijzen op je conditie. Een lagere rusthartslag en een hogere VO2max gaan samen met een lager risico, en allebei reageren ze op training.", "measure": "Je rusthartslag en geschatte VO2max, met een wearable."}}, "count": "{n} van {t} beantwoord", "min": 3}</script>
+      </div>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/40878289/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Mach F, Koskinas KC, Roeters van Lennep JE, Tokgözoğlu L, Badimon L et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2025 <span class="px-1 text-border">·</span> PMID <span class="text-info">40878289</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/36036785/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kronenberg F, Mora S, Stroes ESG, Ference BA, Arsenault BJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur Heart J 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">36036785</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC9639807</span></p>
+      </a>
+    </div><p class="mx-6 mt-12 border-t border-border-faint pt-10 text-[15px] leading-[1.7] text-foreground/85">Hart- en vaatziekten bouwen zich in jaren op, lang voordat je iets merkt. Het meeste wat daarbij meespeelt, zie je in één bloedtest en een wearable: LDL en ApoB, Lp(a) één keer, hs-CRP als je je goed voelt, en je rusthartslag elke nacht. Verander één ding tegelijk, en test na een paar maanden opnieuw bij hetzelfde lab. In de trial beginnen we met wat je wearable al meet, zoals je rusthartslag en HRV (het kleine verschil in tijd tussen je hartslagen), en bespreken we samen je volgende stap. Bespreek een afwijkende waarde altijd met je huisarts.</p>
+    <div id="trial" class="mx-6 mt-12 rounded-xl border border-border-faint bg-card p-6 text-card-foreground">
+      <p class="text-[12px] text-muted-foreground">De trial</p>
+      <p class="mt-1 text-[17px] font-normal tracking-[-0.01em]">Zie waar jouw hart staat</p>
+      <ol class="mt-4 space-y-2.5">
+        <li class="flex gap-3">
+          <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">01</span>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Aanmelden.</span> <span class="text-muted-foreground">Klik op de knop en laat je gegevens achter.</span></p>
+        </li>
+        <li class="flex gap-3">
+          <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">02</span>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Koppelen.</span> <span class="text-muted-foreground">Koppel je wearable, of krijg 30 dagen gratis een WHOOP.</span></p>
+        </li>
+        <li class="flex gap-3">
+          <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">03</span>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Analyse.</span> <span class="text-muted-foreground">We lezen 30+ waarden uit, zoals je rusthartslag, HRV en herstel. Je krijgt je protocol per video.</span></p>
+        </li>
+        <li class="flex gap-3">
+          <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">04</span>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Opvolging.</span> <span class="text-muted-foreground">In een call bespreken we je uitkomst en je volgende stap voor je hart.</span></p>
+        </li></ol>
+      <div class="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2.5"><img src="logo-whoop.png" alt="WHOOP" class="w-auto shrink-0 opacity-80 dark:invert" style="height:10px" /><img src="logo-withings.png" alt="Withings" class="w-auto shrink-0 opacity-80 dark:invert" style="height:9px" /><img src="logo-oura.png" alt="Oura" class="w-auto shrink-0 opacity-80 dark:invert" style="height:11px" /><img src="logo-apple.png" alt="Apple" class="w-auto shrink-0 opacity-80 dark:invert" style="height:14px" /><img src="logo-fitbit.png" alt="Google Fitbit" class="w-auto shrink-0 opacity-80 dark:invert" style="height:12px" /></div>
+      <div class="mt-5 flex items-center gap-3 border-t border-border-faint pt-5"><div class="flex shrink-0 -space-x-2"><img src="leontine.jpg" alt="Leontine Borsato" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="daniel.jpg" alt="Daniel Dalen" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="bas.jpg" alt="Bas Lengers" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="thijs.jpg" alt="Thijs Verlangen" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="simone.jpg" alt="Simone Levie" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /></div><p class="text-[13px] font-medium">Vertrouwd door 400+ mensen</p></div>
+      
+      <a href="#start-trial" class="group/button inline-flex shrink-0 cursor-(--pointer) items-center justify-center rounded-md border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all duration-50 ease-out outline-none select-none active:translate-y-px bg-primary text-primary-foreground hover:bg-primary/90 h-9 gap-1.5 px-3 mt-5 w-full">Start de trial</a>
+      <p class="mt-3 text-center text-[11.5px] text-muted-foreground">Wordt privé afgehandeld door ons team.</p>
+    </div>
+    <div class="mx-6 mt-12 border-t border-border-faint pt-10">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat members zeggen</h2>
+      <div class="mt-5 grid gap-2.5" style="mask-image:linear-gradient(to bottom,#000 calc(100% - 8rem),transparent);-webkit-mask-image:linear-gradient(to bottom,#000 calc(100% - 8rem),transparent)">
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="leontine.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Leontine Borsato</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">Influencer, tv-presentatrice en celebrity</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Ik voel me heel goed! Het eten is wel wat lastig met zoveel reisjes, maar alles op z'n tijd.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="jayjay.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">JayJay Boske</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">Ondernemer, spreker en influencer</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Als ik het niet zie, is het er voor mij niet.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="rob.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Rob Lipsett</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">Creator en ondernemer</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;This is super thorough, love it.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="ruud.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Ruud &amp; Renée</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">CEO en medeoprichter, Thrivin</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Heb echt gekke energie, hele dagen door. Echt super.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="daniel.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Daniel Dalen</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">CEO en oprichter, Ecomflow</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Haha, je bent echt een beast, bro.&rdquo;</blockquote>
+        </figure>
+      </div>
+    </div>
+    <div class="mx-6 mt-12 border-t border-border-faint pt-10">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Meer guides</h2>
+      <div class="mt-5 grid grid-cols-2 gap-2.5">
+        <a href="../energy/nl.html" class="group col-span-2 block p-5 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[12px] text-muted-foreground">Volgende guide</p>
+          <p class="mt-1 text-[17px] font-normal leading-[1.3] tracking-[-0.01em]">Waarom je om 15.00 uur instort</p>
+          <p class="mt-1.5 line-clamp-2 text-[13.5px] leading-[1.55] text-muted-foreground">Wat er 's middags in je lichaam gebeurt, wat je dip dieper maakt en wat je eraan kunt doen.</p>
+          <div class="mt-4 flex items-center justify-between border-t border-border-faint pt-3.5 text-[13px]"><span class="text-muted-foreground">42 studies · 4 delen</span>
+            <span class="font-medium">Lees de guide <span class="inline-block transition-transform group-hover:translate-x-0.5">&rarr;</span></span></div>
+        </a>
+        <a href="../waking-up/nl.html" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Elke ochtend fit wakker worden</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>42 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../focus/nl.html" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Mijn 10 focus-tips</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>42 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../blood-markers/nl.html" class="group flex flex-col justify-between gap-4 p-4 col-span-2 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">De bloedwaarden die ik laat meten</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>31 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+      </div>
+    </div>
+    <div class="px-6 pt-12">
+      <details class="group border-y border-border-faint"><summary class="flex cursor-pointer list-none items-center justify-between gap-3 py-3 text-[13px] font-medium [&::-webkit-details-marker]:hidden"><span>Alle bronnen <span class="font-normal text-muted-foreground">(36)</span></span><svg class="size-3.5 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></summary><ol class="mb-4 mt-1 list-decimal space-y-1.5 pl-4 text-xs leading-snug text-muted-foreground"><li><a href="https://pubmed.ncbi.nlm.nih.gov/36036785/" class="hover:text-foreground">Kronenberg F et al., Eur Heart J 2022</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/40878289/" class="hover:text-foreground">Mach F et al., Eur Heart J 2025</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/27122601/" class="hover:text-foreground">Nordestgaard BG et al., Eur Heart J 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/30694319/" class="hover:text-foreground">Ference BA et al., JAMA 2019</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/31642874/" class="hover:text-foreground">Sniderman AD et al., JAMA Cardiol 2019</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/28444290/" class="hover:text-foreground">Ference BA et al., Eur Heart J 2017</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/19454641/" class="hover:text-foreground">Kodama S et al., JAMA 2009</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17414804/" class="hover:text-foreground">Helgerud J et al., Med Sci Sports Exerc 2007</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/35072942/" class="hover:text-foreground">Molina-Garcia P et al., Sports Med 2022</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/31504418/" class="hover:text-foreground">Mach F et al., Eur Heart J 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/34934897/" class="hover:text-foreground">Lennerz BS et al., Curr Dev Nutr 2021</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/32052833/" class="hover:text-foreground">Borén J et al., Eur Heart J 2020</a></li><li><a href="https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement" class="hover:text-foreground">NHG-Standaard Cardiovasculair risicomanagement</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/31216866/" class="hover:text-foreground">Welsh C et al., Circulation 2019</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/34773460/" class="hover:text-foreground">Marston NA et al., JAMA Cardiol 2022</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/27998826/" class="hover:text-foreground">Perrot N et al., Atherosclerosis 2017</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/20031199/" class="hover:text-foreground">Emerging Risk Factors Collaboration et al., Lancet 2010</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/41020749/" class="hover:text-foreground">Mensah GA et al., J Am Coll Cardiol 2026</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/15893167/" class="hover:text-foreground">Kasapis C et al., J Am Coll Cardiol 2005</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/27445361/" class="hover:text-foreground">Fedewa MV et al., Br J Sports Med 2017</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/22607825/" class="hover:text-foreground">Voight BF et al., Lancet 2012</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/28419274/" class="hover:text-foreground">Madsen CM et al., Eur Heart J 2017</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/30513777/" class="hover:text-foreground">Reimers AK et al., J Clin Med 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/26598376/" class="hover:text-foreground">Zhang D et al., CMAJ 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/21776465/" class="hover:text-foreground">Gunness P et al., Food Funct 2010</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/9925120/" class="hover:text-foreground">Brown L et al., Am J Clin Nutr 1999</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/30638909/" class="hover:text-foreground">Reynolds A et al., Lancet 2019</a></li><li><a href="https://www.voedingscentrum.nl/encyclopedie/vezels.aspx" class="hover:text-foreground">Voedingscentrum: vezels</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/9129498/" class="hover:text-foreground">Dietschy JM, Am J Clin Nutr 1997</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/31161217/" class="hover:text-foreground">Bergeron N et al., Am J Clin Nutr 2019</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/32428300/" class="hover:text-foreground">Hooper L et al., Cochrane Database Syst Rev 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/18645633/" class="hover:text-foreground">Kelley GA et al., J Mens Health Gend 2006</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/9647874/" class="hover:text-foreground">Stefanick ML et al., N Engl J Med 1998</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/33239350/" class="hover:text-foreground">Bull FC et al., Br J Sports Med 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/35247352/" class="hover:text-foreground">Paluch AE et al., Lancet Public Health 2022</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/28231933/" class="hover:text-foreground">Sharma S et al., J Am Coll Cardiol 2017</a></li></ol></details>
+      <p class="mt-4 pb-10 text-xs text-muted-foreground">Deze pagina is informatie, geen medisch advies.</p>
+    </div>
+  </main>
+  <script>
+document.querySelectorAll('.gp-flow').forEach(function(f){
+  var data=JSON.parse(f.querySelector('script[type="application/json"]').textContent);
+  var title=f.querySelector('.panel .t'), body=f.querySelector('.panel .d');
+  function sel(id){
+    f.querySelectorAll('.node').forEach(function(n){n.classList.toggle('on',n.dataset.id===id)});
+    f.querySelectorAll('[data-edge]').forEach(function(e){
+      var ends=e.dataset.edge.split('>'); e.classList.toggle('on',ends[0]===id||ends[1]===id);
+    });
+    var d=data[id]; title.textContent=d.t; body.textContent=d.d;
+  }
+  f.querySelectorAll('.node').forEach(function(n){
+    n.addEventListener('click',function(){sel(n.dataset.id)});
+    n.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();sel(n.dataset.id)}});
+  });
+  sel(f.dataset.start);
+});
+document.querySelectorAll('.gp-week').forEach(function(w){
+  var data=JSON.parse(w.querySelector('script[type="application/json"]').textContent);
+  var head=w.querySelector('.wk-head'), am=w.querySelector('.wk-am'), pm=w.querySelector('.wk-pm');
+  function fill(ol,steps){ol.innerHTML='';steps.forEach(function(t){var li=document.createElement('li');li.textContent=t;ol.appendChild(li)})}
+  function sel(i){
+    w.querySelectorAll('.day').forEach(function(b,j){b.setAttribute('aria-pressed',j===i?'true':'false')});
+    var d=data.days[i]; head.textContent=d.title; fill(am,d.am); fill(pm,d.pm);
+  }
+  w.querySelectorAll('.day').forEach(function(b,i){b.addEventListener('click',function(){sel(i)})});
+  sel(data.start||0);
+});
+document.querySelectorAll('.gp-cycle').forEach(function(c){
+  var data=JSON.parse(c.querySelector('script[type="application/json"]').textContent);
+  var svg=c.querySelector('svg'), tip=c.querySelector('.tip'), cross=c.querySelector('.cross');
+  var head=c.querySelector('.ph-head'), body=c.querySelector('.ph-body'), feel=c.querySelector('.ph-feel');
+  function phase(i){
+    c.querySelectorAll('.ph').forEach(function(b,j){b.setAttribute('aria-pressed',j===i?'true':'false')});
+    c.querySelectorAll('.band').forEach(function(b,j){b.classList.toggle('on',j===i)});
+    var p=data.phases[i]; head.textContent=p.t; body.textContent=p.d; feel.textContent=p.f||''; feel.hidden=!p.f;
+  }
+  c.querySelectorAll('.ph').forEach(function(b,i){b.addEventListener('click',function(){phase(i)})});
+  function at(evt){
+    var r=svg.getBoundingClientRect(), vb=svg.viewBox.baseVal;
+    var x=(evt.clientX-r.left)*vb.width/r.width;
+    var day=Math.round((x-data.x0)/(data.x1-data.x0)*(data.days-1))+1;
+    day=Math.max(1,Math.min(data.days,day));
+    if(data.snap){day=data.snap.reduce(function(a,b){return Math.abs(b-day)<Math.abs(a-day)?b:a})}
+    var X=data.x0+(day-1)*(data.x1-data.x0)/(data.days-1);
+    cross.setAttribute('x1',X);cross.setAttribute('x2',X);cross.style.opacity=1;
+    var raw=data.series.some(function(s){return s.r});
+    var ab=raw?null:(data.abs||[]).find(function(a){return day>=a.from&&day<=a.to});
+    function fmt(v){return (v>=100?Math.round(v).toString():(Math.round(v*10)/10).toFixed(1)).replace('.',data.dec)}
+    var html='<div style="font-weight:500">'+(data.pl?data.pl[day-1]:data.dayLabel+' '+day)+(ab?' <span style="color:var(--muted-foreground);font-weight:450">· '+ab.label+'</span>':'')+'</div>';
+    data.series.forEach(function(s,i){
+      var v=s.v[day-1], val=s.tt?s.tt:(s.r?(s.r[day-1]!=null?fmt(s.r[day-1])+' '+s.u:'-'):(ab?ab.v[i]:data.levels[v<.34?0:(v<.67?1:2)]));
+      html+='<div><span class="sw" style="background:'+s.c+'"></span> '+s.n+' <span style="color:var(--muted-foreground)">'+val+'</span></div>';
+    });
+    if((raw||ab)&&data.absNote)html+='<div style="color:var(--muted-foreground);margin-top:2px;max-width:13rem;white-space:normal">'+data.absNote+'</div>';
+    if(raw&&data.thin.indexOf(day)>=0&&data.thinNote)html+='<div style="color:var(--muted-foreground);max-width:13rem;white-space:normal">'+data.thinNote+'</div>';
+    tip.innerHTML=html; tip.hidden=false;
+    var px=X*r.width/vb.width; var w=tip.offsetWidth;
+    tip.style.left=Math.max(4,Math.min(r.width-w-4,px+10))+'px'; tip.style.top='6px';
+    var idx=data.phases.findIndex(function(p){return day>=p.from&&day<=p.to}); if(idx>=0)phase(idx);
+  }
+  svg.addEventListener('pointermove',at); svg.addEventListener('pointerdown',at);
+  svg.addEventListener('pointerleave',function(){tip.hidden=true;cross.style.opacity=0});
+  phase(data.start||0);
+});
+document.querySelectorAll('.gp-check').forEach(function(c){
+  var data=JSON.parse(c.querySelector('script[type="application/json"]').textContent);
+  var qs=c.querySelectorAll('.q'), vals=[], keys=Object.keys(data.areas);
+  qs.forEach(function(){vals.push(null)});
+  var cnt=c.querySelector('.cnt'), top=c.querySelector('.top'), none=c.querySelector('.none'), bars=c.querySelector('.bars');
+  function upd(){
+    var n=0, score={}, max={};
+    keys.forEach(function(k){score[k]=0;max[k]=0});
+    qs.forEach(function(q,i){
+      q.dataset.areas.split(',').forEach(function(k){max[k]+=2;if(vals[i]!==null)score[k]+=vals[i]});
+      if(vals[i]!==null)n++;
+    });
+    cnt.textContent=data.count.replace('{n}',n).replace('{t}',qs.length);
+    var best=null, bestR=0;
+    keys.forEach(function(k){var r=max[k]?score[k]/max[k]:0;if(r>bestR){bestR=r;best=k}});
+    bars.hidden=n===0;
+    c.querySelectorAll('.bar').forEach(function(b){
+      var k=b.dataset.k, r=max[k]?score[k]/max[k]:0;
+      b.querySelector('.fill').style.width=Math.round(r*100)+'%';
+      b.classList.toggle('top',k===best&&n>=data.min);
+    });
+    var ready=n>=data.min;
+    top.hidden=!(ready&&best); none.hidden=!(ready&&!best);
+    if(ready&&best){var a=data.areas[best];top.querySelector('.t').textContent=a.label;top.querySelector('.d').textContent=a.text;top.querySelector('.m').textContent=a.measure}
+  }
+  qs.forEach(function(q,i){
+    q.querySelectorAll('button').forEach(function(b){
+      b.addEventListener('click',function(){
+        var v=+b.dataset.v; vals[i]=vals[i]===v?null:v;
+        q.querySelectorAll('button').forEach(function(x){x.setAttribute('aria-pressed',vals[i]!==null&&+x.dataset.v===vals[i]?'true':'false')});
+        upd();
+      });
+    });
+  });
+  upd();
+});
+document.querySelectorAll('.gp-plan').forEach(function(p){
+  var data=JSON.parse(p.querySelector('script[type="application/json"]').textContent);
+  var list=p.querySelector('ol'), rows=[].slice.call(p.querySelectorAll('.row'));
+  function mins(v){var m=/^(\d{1,2}):(\d{2})/.exec(v||'');return m?(+m[1])*60+(+m[2]):null}
+  function fmt(t){t=((t%1440)+1440)%1440;var h=Math.floor(t/60),m=t%60;return (h<10?'0':'')+h+data.sep+(m<10?'0':'')+m}
+  function upd(){
+    var a={};
+    p.querySelectorAll('input[type=time]').forEach(function(i){var v=mins(i.value);if(v!==null)a[i.dataset.k]=v});
+    for(var pass=0;pass<3;pass++)Object.keys(data.derived).forEach(function(k){var d=data.derived[k];if(a[d.from]!=null)a[k]=a[d.from]+d.offset});
+    p.querySelectorAll('.out').forEach(function(o){o.textContent=a[o.dataset.k]!=null?fmt(a[o.dataset.k]):'-'});
+    var start=(a[data.order.at]||0)+(data.order.offset||0);
+    rows.forEach(function(r){
+      if(!r.dataset.at){r._k=1e6;return}
+      var base=a[r.dataset.at]; if(base==null)return;
+      var t=base+(+r.dataset.off), txt=fmt(t);
+      if(r.dataset.to!=null)txt+='-'+fmt(base+(+r.dataset.to));
+      r.querySelector('.tm').textContent=txt; r._k=((t-start)%1440+1440)%1440;
+    });
+    rows.slice().sort(function(x,y){return x._k-y._k}).forEach(function(r){list.appendChild(r)});
+  }
+  p.querySelectorAll('input[type=time]').forEach(function(i){i.addEventListener('input',upd);i.addEventListener('change',upd)});
+  upd();
+});
+document.querySelectorAll('.gp-cyclecalc').forEach(function(c){
+  var data=JSON.parse(c.querySelector('script[type="application/json"]').textContent);
+  var st=c.querySelector('.cc-start'), ln=c.querySelector('.cc-len'), ul=c.querySelector('.cc-measure');
+  var d0=new Date(); d0.setHours(0,0,0,0); var def=new Date(d0); def.setDate(def.getDate()-9);
+  st.value=def.toISOString().slice(0,10);
+  function fmt(d){return d.toLocaleDateString(data.locale,{weekday:'short',day:'numeric',month:'long'})}
+  function upd(){
+    if(!st.value)return; var s=new Date(st.value+'T00:00:00'), L=Math.max(21,Math.min(40,+ln.value||28));
+    var today=new Date(); today.setHours(0,0,0,0);
+    var diff=Math.floor((today-s)/864e5); if(diff<0)diff=0; var day=(diff%L)+1;
+    var start=new Date(s); start.setDate(start.getDate()+diff-(diff%L));
+    var ov=L-14, k=day<=5?'menstruation':(day<ov-1?'follicular':(day<=ov+1?'ovulation':'luteal'));
+    var p=data.phases[k]||{label:'',text:''};
+    c.querySelector('.cc-day').textContent=data.ui.day+' '+day+' '+data.ui.of;
+    c.querySelector('.cc-phase').textContent=p.label; c.querySelector('.cc-text').textContent=p.text;
+    ul.innerHTML='';
+    data.measure.forEach(function(m){
+      var dn=m.before?L-m.before:m.day; if(!dn)return;
+      var dt=new Date(start); dt.setDate(dt.getDate()+dn-1); if(dt<today){dt.setDate(dt.getDate()+L)}
+      var li=document.createElement('li');
+      li.innerHTML='<p class="text-[14px] font-medium leading-snug"></p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground"></p>';
+      li.children[0].textContent=m.label+': '+data.ui.around+' '+fmt(dt)+' ('+data.ui.dayword+' '+dn+')';
+      li.children[1].textContent=m.text; ul.appendChild(li);
+    });
+  }
+  st.addEventListener('change',upd); ln.addEventListener('input',upd); upd();
+});
+document.querySelectorAll('.gp-filter').forEach(function(bar){
+  var list=document.getElementById(bar.dataset.target);
+  bar.querySelectorAll('button').forEach(function(b){
+    b.addEventListener('click',function(){
+      bar.querySelectorAll('button').forEach(function(x){x.setAttribute('aria-pressed',x===b?'true':'false')});
+      var want=b.dataset.dir;
+      list.querySelectorAll('[data-dir]').forEach(function(r){
+        r.hidden = !(want==='all' || r.dataset.dir===want || (want==='exclude' && r.dataset.dir==='check'));
+      });
+    });
+  });
+});
+</script>
+  <button type="button" class="gp-back" aria-label="Bekijk de hele guide">↑ Bekijk de hele guide</button>
+  <script>
+(function(){
+  var id=decodeURIComponent(location.hash.slice(1)), el=id&&document.getElementById(id);
+  if(!el||!el.hasAttribute('data-jump'))return;
+  el.classList.add('gp-on');
+  function go(){el.scrollIntoView({block:'start'});}
+  go();
+  window.addEventListener('load',function(){go();el.classList.add('gp-hl');});
+  document.querySelectorAll('nav[aria-label="Taal / Language"] a').forEach(function(a){a.setAttribute('href',a.getAttribute('href').split('#')[0]+location.hash);});
+  var b=document.querySelector('.gp-back');if(!b)return;
+  b.classList.add('on');
+  b.addEventListener('click',function(){b.classList.remove('on');window.scrollTo({top:0,behavior:'smooth'});});
+  var seen=false;window.addEventListener('scroll',function(){if(window.scrollY<120&&seen)b.classList.remove('on');seen=true;},{passive:true});
+})();
+</script>
+</body>
+</html>
