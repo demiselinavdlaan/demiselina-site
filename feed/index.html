@@ -15,20 +15,13 @@
 <body>
 <p id="m">Loading...</p>
 <script>
-// Feed share link (Demi, 2-11): Feed runs on Demi's Mac behind a tunnel whose address changes. ~/Code/feed/scripts/
-// share-tunnel.py writes the current one into host.txt, read fresh every time (a cached page would point at an old one).
-// The secret comes after the # in the link, so it never reaches this site.
+// Feed share link (Demi, 2-11): forwards to the online copy of Feed on Cloudflare (https://feed-share.demi-87b.workers.dev), which Feed keeps up to date
+// and which also stores Jorn's feedback, so it works with Demi's Mac off.
+// The code comes after the #, so it never reaches this site.
 const key = location.hash.slice(1)
 const say = (html) => { document.getElementById('m').innerHTML = html }
-if (!/^[\w-]{16,}$/.test(key)) say('This link is incomplete.')
-else fetch('host.txt?t=' + Date.now(), { cache: 'no-store' })
-  .then((r) => r.text())
-  .then((host) => {
-    host = host.trim()
-    if (!/^[a-z0-9-]+\.trycloudflare\.com$/.test(host)) throw new Error()
-    return fetch('https://' + host + '/robots.txt', { cache: 'no-store' }).then((r) => { if (!r.ok) throw new Error(); location.replace('https://' + host + '/' + key + '/') })
-  })
-  .catch(() => say('Feed isn\'t open right now. <a href="" onclick="location.reload(); return false">Try again</a> in a while.'))
+if (!/^[\w-]{16,}$/.test(key)) say('Ask Demi for the link with the code.')
+else location.replace('https://feed-share.demi-87b.workers.dev/' + key + '/')
 </script>
 </body>
 </html>

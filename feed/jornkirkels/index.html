@@ -15,23 +15,15 @@
 <body>
 <p id="m">Loading...</p>
 <script>
-// Feed share link (Demi, 2-11): Feed runs on Demi's Mac behind a tunnel whose address changes. ~/Code/feed/scripts/
-// share-tunnel.py writes the current one into host.txt, read fresh every time (a cached page would point at an old one).
-// demiselina.com/feed/jornkirkels#<code> (Demi 2-11): the code comes after the # once per device and is kept in this
-// browser, so the plain link works there afterwards. The code never reaches GitHub or this site.
+// Feed share link (Demi, 2-11): forwards to the online copy of Feed on Cloudflare (https://feed-share.demi-87b.workers.dev), which Feed keeps up to date
+// and which also stores Jorn's feedback, so it works with Demi's Mac off.
+// The code comes after the # once per device and is kept in this browser; it never reaches GitHub or this site.
 const KEEP = 'feed.key.jornkirkels'
 if (/^#[\w-]{16,}$/.test(location.hash)) { localStorage.setItem(KEEP, location.hash.slice(1)); history.replaceState(null, '', location.pathname) }
 const key = localStorage.getItem(KEEP) || ''
 const say = (html) => { document.getElementById('m').innerHTML = html }
 if (!/^[\w-]{16,}$/.test(key)) say('Ask Demi for the link with the code.')
-else fetch('../host.txt?t=' + Date.now(), { cache: 'no-store' })
-  .then((r) => r.text())
-  .then((host) => {
-    host = host.trim()
-    if (!/^[a-z0-9-]+\.trycloudflare\.com$/.test(host)) throw new Error()
-    return fetch('https://' + host + '/robots.txt', { cache: 'no-store' }).then((r) => { if (!r.ok) throw new Error(); location.replace('https://' + host + '/' + key + '/') })
-  })
-  .catch(() => say('Feed isn\'t open right now. <a href="" onclick="location.reload(); return false">Try again</a> in a while.'))
+else location.replace('https://feed-share.demi-87b.workers.dev/' + key + '/')
 </script>
 </body>
 </html>
