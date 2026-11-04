@@ -9,16 +9,16 @@
     "nl": "Wat je laat testen voor je hart"
   },
   "subtitle": {
-    "en": "At 22 I could have had a heart attack. I thought I was healthy.",
-    "nl": "Op mijn 22e had ik een hartaanval kunnen krijgen. Ik dacht dat ik gezond was."
+    "en": "How I brought my LDL from 4.35 to 1.42 mmol/L.",
+    "nl": "Hoe ik mijn LDL van 4,35 naar 1,42 mmol/L bracht."
   },
   "description": {
     "en": "What to test for your heart and why: LDL, ApoB, Lp(a), hs-CRP and your resting heart rate, with the studies behind each one. By Jorn Kirkels, founder of Cellular.",
     "nl": "Wat je laat testen voor je hart en waarom: LDL, ApoB, Lp(a), hs-CRP en je rusthartslag, met de studies erbij. Van Jorn Kirkels, oprichter van Cellular."
   },
   "intro": {
-    "en": "At 22 my LDL cholesterol was 7 mmol/L. I thought I was healthy. In reality I could have had a heart attack at any moment. This page is what I wish I'd known back then: which markers to test for your heart, what each one tells you, and the three changes that brought my LDL down to 1.4.",
-    "nl": "Op mijn 22e was mijn LDL-cholesterol 7 mmol/L. Ik dacht dat ik gezond was. In werkelijkheid had ik op elk moment een hartaanval kunnen krijgen. Deze pagina is wat ik toen had willen weten: welke waarden je voor je hart laat testen, wat elke waarde zegt, en de drie dingen waardoor mijn LDL naar 1,4 ging."
+    "en": "In February 2024 my LDL cholesterol was 4.35 mmol/L. In January 2026 it was 1.42. This page is what I wish I'd known earlier: which markers to test for your heart, what each one tells you, and the three changes that brought my LDL down.",
+    "nl": "In februari 2024 was mijn LDL-cholesterol 4,35 mmol/L. In januari 2026 was het 1,42. Op deze pagina staat wat ik eerder had willen weten: welke waarden je voor je hart test, wat elke waarde je vertelt, en de drie veranderingen waarmee mijn LDL daalde."
   },
   "sections": [
     {
@@ -96,16 +96,16 @@
         },
         {
           "stat": {
-            "en": "7 mmol/L",
-            "nl": "7 mmol/L"
+            "en": "4.35 → 1.42",
+            "nl": "4,35 → 1,42"
           },
           "title": {
-            "en": "My LDL at 22, while I felt healthy",
-            "nl": "Mijn LDL op mijn 22e, terwijl ik me gezond voelde"
+            "en": "My LDL, from February 2024 to January 2026",
+            "nl": "Mijn LDL, van februari 2024 tot januari 2026"
           },
           "text": {
-            "en": "You don't feel a high LDL. You only see it in your blood. Mine was 7 mmol/L at 22. The European guideline counts anyone above 4.9 as high risk on that number alone, whatever else is going on.",
-            "nl": "Een hoog LDL voel je niet. Je ziet het alleen in je bloed. Het mijne was 7 mmol/L, op mijn 22e. De Europese richtlijn rekent iedereen boven de 4,9 alleen op dat getal al tot de hoge-risicogroep, wat er verder ook speelt."
+            "en": "You don't feel a high LDL. You only see it in your blood. Mine went from 4.35 to 1.42 mmol/L. For comparison, the European guideline goal for people at low risk is below 3.0 mmol/L.",
+            "nl": "Een hoog LDL voel je niet. Je ziet het alleen in je bloed. Het mijne ging van 4,35 naar 1,42 mmol/L. Ter vergelijking: het doel in de Europese richtlijn voor mensen met een laag risico is onder 3,0 mmol/L."
           },
           "label": {
             "en": "My own data",
@@ -145,8 +145,8 @@
     },
     {
       "title": {
-        "en": "At 22, I thought I was healthy",
-        "nl": "Op mijn 22e dacht ik dat ik gezond was"
+        "en": "I thought I was healthy",
+        "nl": "Ik dacht dat ik gezond was"
       },
       "text": {
         "en": "I lived for my work. I drank more than eight coffees a day and ate almost only meat: the carnivore diet. I thought that was healthy. Meanwhile I had panic attacks and felt anxious all the time.",
@@ -160,46 +160,35 @@
         "items": [
           {
             "label": {
-              "en": "At 22",
-              "nl": "Op mijn 22e"
+              "en": "Feb 2024",
+              "nl": "Feb 2024"
             },
-            "value": 7.0,
+            "value": 4.35,
             "display": {
-              "en": "7.0",
-              "nl": "7,0"
+              "en": "4.35",
+              "nl": "4,35"
             }
           },
           {
             "label": {
-              "en": "Later",
-              "nl": "Later"
+              "en": "Jan 2026",
+              "nl": "Jan 2026"
             },
-            "value": 4.2,
+            "value": 1.42,
             "display": {
-              "en": "4.2",
-              "nl": "4,2"
-            }
-          },
-          {
-            "label": {
-              "en": "After 3 changes",
-              "nl": "Na 3 veranderingen"
-            },
-            "value": 1.4,
-            "display": {
-              "en": "1.4",
-              "nl": "1,4"
+              "en": "1.42",
+              "nl": "1,42"
             }
           }
         ],
         "caption": {
-          "en": "Three moments. For comparison, the European guideline goal for people at low risk is below 3.0 mmol/L.",
-          "nl": "Drie momenten. Ter vergelijking: het doel in de Europese richtlijn voor mensen met een laag risico is onder 3,0 mmol/L."
+          "en": "Two moments: 27 February 2024 and 13 January 2026. For comparison, the European guideline goal for people at low risk is below 3.0 mmol/L.",
+          "nl": "Twee momenten: 27 februari 2024 en 13 januari 2026. Ter vergelijking: het doel in de Europese richtlijn voor mensen met een laag risico is onder 3,0 mmol/L."
         }
       },
       "after": {
-        "en": "I started testing regularly. At a later test my LDL was 4.2. With three changes I brought it down to 1.4: more than 50 grams of fibre a day, only lean steak, and 120 minutes of zone 2 training a week. Each change is in part 2. I wasn't the only one: in a survey of 2,029 people on a carnivore diet, the 462 who shared their LDL had a median of 4.5 mmol/L. That survey relied on what people reported themselves.",
-        "nl": "Ik ben regelmatig gaan testen. Bij een latere test was mijn LDL 4,2. Met drie veranderingen kreeg ik hem naar 1,4: meer dan 50 gram vezels per dag, alleen magere stukken vlees, en 120 minuten zone 2-training per week. Elke verandering staat in deel 2. Ik was niet de enige: in een enquête onder 2.029 mensen op een carnivoordieet hadden de 462 die hun LDL deelden een mediaan van 4,5 mmol/L. Die enquête ging uit van wat mensen zelf opgaven."
+        "en": "I started testing regularly. In February 2024 my LDL was 4.35. With three changes I brought it down to 1.42 by January 2026: more than 50 grams of fibre a day, only lean steak, and 120 minutes of zone 2 training a week. Each change is in part 2. I wasn't the only one: in a survey of 2,029 people on a carnivore diet, the 462 who shared their LDL had a median of 4.5 mmol/L. That survey relied on what people reported themselves.",
+        "nl": "Ik ben regelmatig gaan testen. In februari 2024 was mijn LDL 4,35. Met drie veranderingen kreeg ik hem in januari 2026 naar 1,42: meer dan 50 gram vezels per dag, alleen magere stukken vlees, en 120 minuten zone 2-training per week. Elke verandering staat in deel 2. Ik was niet de enige: in een enquête onder 2.029 mensen op een carnivoordieet hadden de 462 die hun LDL deelden een mediaan van 4,5 mmol/L. Die enquête ging uit van wat mensen zelf opgaven."
       },
       "sources": [
         {
@@ -211,12 +200,8 @@
       ],
       "items": [
         {
-          "en": "Then I had my blood tested. My LDL cholesterol was 7 mmol/L. LDL is the particle that carries cholesterol through your blood, and it can get stuck in the walls of your blood vessels.",
-          "nl": "Toen liet ik mijn bloed testen. Mijn LDL-cholesterol was 7 mmol/L. LDL is het deeltje dat cholesterol door je bloed vervoert, en het kan vast blijven zitten in de wand van je bloedvaten."
-        },
-        {
-          "en": "With an LDL that high, I could have had a heart attack at any moment, at 22. The European guideline puts anyone above 4.9 mmol/L in the high-risk group on that number alone.",
-          "nl": "Met een LDL die zo hoog was, had ik op elk moment een hartaanval kunnen krijgen, op mijn 22e. De Europese richtlijn zet iedereen boven de 4,9 mmol/L alleen op dat getal al in de hoge-risicogroep."
+          "en": "Then I had my blood tested. LDL is the particle that carries cholesterol through your blood, and it can get stuck in the walls of your blood vessels.",
+          "nl": "Toen liet ik mijn bloed testen. LDL is het deeltje dat cholesterol door je bloed vervoert, en het kan vast komen te zitten in de wanden van je bloedvaten."
         },
         {
           "en": "My data showed me what I was doing to my body. That was the turning point. From then on, I started working with my body.",
@@ -672,8 +657,8 @@
         "nl": "Deel 2"
       },
       "title": {
-        "en": "How I brought my LDL from 4.2 to 1.4",
-        "nl": "Hoe ik mijn LDL van 4,2 naar 1,4 kreeg"
+        "en": "How I brought my LDL from 4.35 to 1.42",
+        "nl": "Hoe ik mijn LDL van 4,35 naar 1,42 kreeg"
       },
       "subtitle": {
         "en": "Three changes at once, so I don't know which did the most. Per change: what I did and what research says.",
@@ -836,44 +821,16 @@
     },
     {
       "title": {
-        "en": "My resting heart rate: 53 to 37 in 12 months",
-        "nl": "Mijn rusthartslag: van 53 naar 37 in 12 maanden"
+        "en": "My heart rate at night: 42 to 43",
+        "nl": "Mijn hartslag 's nachts: 42 tot 43"
       },
       "text": {
-        "en": "Over 12 months my resting heart rate went from 53 to 37. I walked on a walking pad under my desk with a 10 kg weighted vest, for 30,000 to 40,000 steps a day. Each week I also did 200 minutes in zone 2 and 30 to 60 minutes in zone 4 or higher (so hard you can only say a few words). I changed more than one thing, so I don't know which part did the most.",
-        "nl": "In 12 maanden ging mijn rusthartslag van 53 naar 37. Ik liep op een loopband onder mijn bureau met een gewichtsvest van 10 kilo: 30.000 tot 40.000 stappen per dag. Per week deed ik daarnaast 200 minuten in zone 2 en 30 tot 60 minuten in zone 4 of hoger (zo zwaar dat je nog maar een paar woorden kunt zeggen). Ik veranderde meer dan één ding, dus wat het meeste deed, weet ik niet."
-      },
-      "bars": {
-        "title": {
-          "en": "My resting heart rate (beats per minute)",
-          "nl": "Mijn rusthartslag (slagen per minuut)"
-        },
-        "items": [
-          {
-            "label": {
-              "en": "Before",
-              "nl": "Ervoor"
-            },
-            "value": 53,
-            "display": "53"
-          },
-          {
-            "label": {
-              "en": "12 months later",
-              "nl": "12 maanden later"
-            },
-            "value": 37,
-            "display": "37"
-          }
-        ],
-        "caption": {
-          "en": "Two measurements, 12 months apart.",
-          "nl": "Twee metingen, 12 maanden na elkaar."
-        }
+        "en": "My lowest heart rate at night was 42 to 43 beats a minute, as a monthly average from April to September 2026. I measure it with my Oura ring. I work on a walking pad at my desk, sometimes with a 10 kg weighted vest, and my daily goal is 30,000 steps. From 10 October to 3 November 2026 I walked 281 km that way. I do more than one thing, so I don't know which part does the most.",
+        "nl": "Mijn laagste hartslag 's nachts was 42 tot 43 slagen per minuut, als maandgemiddelde van april tot september 2026. Dat meet ik met mijn Oura-ring. Ik werk op een loopband onder mijn bureau, soms met een vest van 10 kg, en mijn doel is 30.000 stappen per dag. Van 10 oktober tot 3 november 2026 liep ik zo 281 km. Ik doe meer dan één ding, dus ik weet niet welk deel het meeste doet."
       },
       "after": {
-        "en": "Across 191 studies, endurance training lowered resting heart rate, more in people who started higher. On steps, the research is clear up to a point: in 47,471 adults, the risk of dying kept falling up to 8,000 to 10,000 steps a day for people under 60, and up to 6,000 to 8,000 for people over 60. My 30,000 to 40,000 is far beyond that, so the research can't tell whether the extra steps did anything for my heart. The GP guideline advises sitting no more than 8 hours a day, and a walking pad is one way to get there.",
-        "nl": "In 191 studies verlaagde duurtraining de rusthartslag, meer bij mensen die hoger begonnen. Over stappen is het onderzoek duidelijk tot een bepaald punt: bij 47.471 volwassenen bleef de kans om te overlijden dalen tot 8.000 à 10.000 stappen per dag bij mensen onder de 60, en tot 6.000 à 8.000 bij mensen boven de 60. Mijn 30.000 tot 40.000 zit daar ver boven, dus het onderzoek kan niet zeggen of die extra stappen iets voor mijn hart deden. De huisartsenrichtlijn adviseert niet meer dan 8 uur per dag te zitten, en een loopband onder je bureau is één manier om daar te komen."
+        "en": "Across 191 studies, endurance training lowered resting heart rate, more in people who started higher. On steps, the research is clear up to a point: in 47,471 adults, the risk of dying kept falling up to 8,000 to 10,000 steps a day for people under 60, and up to 6,000 to 8,000 for people over 60. My 30,000 is far beyond that, so the research can't tell whether the extra steps did anything for my heart. The GP guideline advises sitting no more than 8 hours a day, and a walking pad is one way to get there.",
+        "nl": "In 191 studies verlaagde duurtraining de rusthartslag, meer bij mensen die hoger begonnen. Over stappen is het onderzoek duidelijk tot een bepaald punt: bij 47.471 volwassenen bleef de kans om te overlijden dalen tot 8.000 à 10.000 stappen per dag bij mensen onder de 60, en tot 6.000 à 8.000 bij mensen boven de 60. Mijn 30.000 zit daar ver boven, dus het onderzoek kan niet zeggen of die extra stappen iets voor mijn hart deden. De huisartsenrichtlijn adviseert niet meer dan 8 uur per dag te zitten, en een loopband onder je bureau is één manier om daar te komen."
       },
       "caution": {
         "en": "A resting heart rate this low is common in trained endurance athletes: without symptoms, a heart rate of 30 or more counts as normal for them. A low heart rate with dizziness or fainting is a reason to see your GP.",
@@ -1126,7 +1083,7 @@
         ],
         [
           "Connect",
-          "Link your wearable, or get a free 30-day WHOOP."
+          "Link your wearable. Don't have one? We arrange a 30-day WHOOP trial for you."
         ],
         [
           "Analyse",
@@ -1144,7 +1101,7 @@
         ],
         [
           "Koppelen",
-          "Koppel je wearable, of krijg 30 dagen gratis een WHOOP."
+          "Koppel je wearable. Heb je er geen? Dan regelen we een WHOOP trial van 30 dagen voor je."
         ],
         [
           "Analyse",
