@@ -245,24 +245,12 @@
             "at": "bed",
             "offset": -120,
             "title": {
-              "nl": "Stop met werken",
-              "en": "Stop working"
+              "nl": "Stop met werken en drinken",
+              "en": "Stop working and drinking"
             },
             "text": {
-              "nl": "Laptop dicht, chats uit. Je hoofd heeft tijd nodig om te landen, net als een vliegtuig. Laat een app-blokker, een app die je andere apps op slot zet, nu automatisch aangaan. Dan hangt het niet af van je wilskracht.",
-              "en": "Laptop shut, chats off. Your mind needs time to land, like a plane. Set an app blocker, an app that locks your other apps, to switch on now. Then it doesn't come down to willpower."
-            }
-          },
-          {
-            "at": "bed",
-            "offset": -120,
-            "title": {
-              "nl": "Stop met drinken",
-              "en": "Stop drinking"
-            },
-            "text": {
-              "nl": "Drink je water vooral vóór ongeveer 17.00 uur, daarna nog een paar slokken en vanaf nu niets meer. 's Nachts plassen is geen gewoonte: een volle blaas maakt je wakker, en dat breekt je slaap. Moet je er toch uit? Laat het grote licht uit.",
-              "en": "Drink most of your water before about 5 pm, then just a few sips, and from now on nothing. Waking up to go to the toilet isn't a habit: a full bladder wakes you, and that breaks up your sleep. Have to get up anyway? Leave the big light off."
+              "nl": "Laptop dicht, chats uit, glas weg. Je hoofd heeft tijd nodig om te landen, net als een vliegtuig. Laat een app-blokker, een app die je andere apps op slot zet, nu automatisch aangaan. Dan hangt het niet af van je wilskracht.",
+              "en": "Laptop shut, chats off, glass away. Your mind needs time to land, like a plane. Set an app blocker, an app that locks your other apps, to switch on now. Then it doesn't come down to willpower."
             }
           },
           {
@@ -671,8 +659,8 @@
             "en": "2 hours before bed: no more work or drinking"
           },
           "note": {
-            "nl": "Werken: gewoonte, zonder studie. Ik zie het als een vliegtuig dat landt: je hoofd heeft na het werk tijd nodig om tot rust te komen. Drinken: minder drinken in de avond is het eerste advies van artsen tegen 's nachts plassen. Bij 56 patiënten die 's nachts vaak moesten plassen, daalde dat met minder drinken en drie andere aanpassingen in 4 weken van 3,6 naar 2,7 keer per nacht; een vergelijkingsgroep was er niet. Elke keer dat je eruit gaat, breekt je slaap af, en in de tweede helft van de nacht is dat het deel met de meeste REM-slaap. Moet je elke nacht twee keer of vaker plassen? Ga dan naar je huisarts. Bij ruim 3.700 Finnen was de kwaliteit van leven lager vanaf twee keer per nacht.",
-            "en": "Work: habit, no trial. I see it as landing a plane: after work, your mind needs time to come down. Drinking: less in the evening is the first thing doctors advise against waking up to go to the toilet. In 56 patients who often had to get up at night, drinking less plus three other changes cut their night-time toilet trips from 3.6 to 2.7 in 4 weeks; there was no comparison group. Every time you get up, your sleep breaks off, and in the second half of the night that's the part with the most REM sleep. Up to go to the toilet twice or more every night? See your GP. In over 3,700 adults in Finland, quality of life was lower from two times a night."
+            "nl": "Gewoonte, zonder studie. Ik zie het als een vliegtuig dat landt: je hoofd heeft na het werk tijd nodig om tot rust te komen. Minder drinken in de avond is een standaardadvies tegen 's nachts plassen, zonder onderzoek bij gezonde volwassenen.",
+            "en": "Habit, no trial. I see it as landing a plane: after work, your mind needs time to come down. Drinking less in the evening is standard advice against night-time toilet trips, without a trial in healthy adults."
           }
         },
         {
@@ -707,12 +695,6 @@
         },
         {
           "pmid": "40531150"
-        },
-        {
-          "pmid": "20643422"
-        },
-        {
-          "pmid": "19361907"
         },
         {
           "pmid": "21193540"
@@ -766,13 +748,13 @@
           "en": "Get light: outside if you can, otherwise by a bright lamp. On dark mornings I wear light therapy glasses."
         },
         {
-          "nl": "Douche kort koud. Bij mij zijn 30 seconden genoeg; hieronder lees je hoe je het opbouwt.",
-          "en": "Take a short cold shower. For me, 30 seconds is enough; below is how to build up to it."
+          "nl": "Douche kort koud. Bij mij zijn 30 seconden genoeg.",
+          "en": "Take a short cold shower. For me, 30 seconds is enough."
         }
       ],
       "after": {
-        "nl": "Kantoormedewerkers die 's ochtends veel licht kregen, vielen 's avonds sneller in slaap, vooral in de winter. Bij ruim 400.000 Britten ging elk extra uur buiten overdag samen met makkelijker opstaan en minder vaak moe zijn. Dit zijn verbanden; een oorzaak is niet bewezen. Hoe je cortisol 's ochtends hoort te lopen en wat stress ermee doet, legt Demi uit in haar guide.",
-        "en": "Office workers who got a lot of light in the morning fell asleep faster at night, especially in winter. In over 400,000 people in the UK, each extra hour outdoors during the day went with getting up more easily and feeling tired less often. These are links; they don't prove cause. How your cortisol should run in the morning, and what stress does to it, Demi explains in her guide."
+        "nl": "Kantoormedewerkers die 's ochtends veel licht kregen, vielen 's avonds sneller in slaap, vooral in de winter. Bij ruim 400.000 Britten ging elk extra uur buiten overdag samen met makkelijker opstaan en minder vaak moe zijn. Dit zijn verbanden; een oorzaak is niet bewezen. In een Nederlandse studie bij 3.018 mensen gaf een warme douche met 30 tot 90 seconden koud aan het eind 29% minder ziekteverzuim, al waren ze niet minder vaak ziek. Hoe je cortisol 's ochtends hoort te lopen en wat stress ermee doet, legt Demi uit in haar guide.",
+        "en": "Office workers who got a lot of light in the morning fell asleep faster at night, especially in winter. In over 400,000 people in the UK, each extra hour outdoors during the day went with getting up more easily and feeling tired less often. These are links; they don't prove cause. In a Dutch trial of 3,018 people, ending a warm shower with 30 to 90 seconds of cold cut sick days off work by 29%, though people weren't ill less often. How your cortisol should run in the morning, and what stress does to it, Demi explains in her guide."
       },
       "sources": [
         {
@@ -788,6 +770,9 @@
           "pmid": "34488088"
         },
         {
+          "pmid": "27631616"
+        },
+        {
           "label": {
             "nl": "Guide van Demi: Moe wakker worden (cortisol)",
             "en": "Demi's guide: Waking up tired (cortisol)"
@@ -797,68 +782,6 @@
             "en": "demiselina.com/moe"
           },
           "url": "https://demiselina.com/moe/"
-        }
-      ]
-    },
-    {
-      "id": "cold-shower",
-      "title": {
-        "nl": "Warm of koud douchen in de ochtend?",
-        "en": "Warm or cold shower in the morning?"
-      },
-      "text": {
-        "nl": "Mijn douche begint koud: de eerste 30 seconden. Een warme douche in de ochtend werkt voor mij als een rem. Koud water doet het omgekeerde: zodra het je huid raakt, schieten je hartslag en je ademhaling omhoog. Dat heet de koudeshock-reactie, en zo weet mijn lichaam dat het dag is. De eerste keren zijn zwaar, dus bouw het in twee weken op.",
-        "en": "My shower starts cold: the first 30 seconds. For me, a warm shower in the morning works like a brake. Cold water does the opposite: as soon as it hits your skin, your heart rate and breathing shoot up. That's called the cold shock response, and it tells my body it's day. The first few times are tough, so build it up over two weeks."
-      },
-      "markers": [
-        {
-          "name": {
-            "nl": "Week 1: 15 seconden koud",
-            "en": "Week 1: 15 seconds of cold"
-          },
-          "note": {
-            "nl": "Douche zo warm als je wilt en eindig met 15 seconden op de koudste stand.",
-            "en": "Shower as warm as you like and end with 15 seconds on the coldest setting."
-          }
-        },
-        {
-          "name": {
-            "nl": "Week 2: 30 seconden koud",
-            "en": "Week 2: 30 seconds of cold"
-          },
-          "note": {
-            "nl": "Hetzelfde, met 30 seconden koud aan het eind.",
-            "en": "The same, with 30 seconds of cold at the end."
-          }
-        },
-        {
-          "name": {
-            "nl": "Daarna: begin koud",
-            "en": "After that: start cold"
-          },
-          "note": {
-            "nl": "Zoals ik: de eerste 30 seconden koud. Langer hoeft niet; in de Nederlandse studie hieronder werkte 30 seconden even goed als 90.",
-            "en": "Like me: the first 30 seconds cold. Longer isn't needed; in the Dutch trial below, 30 seconds worked as well as 90."
-          }
-        }
-      ],
-      "after": {
-        "nl": "Je lichaam went er snel aan. Bij 145 mensen die steeds opnieuw in koud water gingen, steeg hun hartslag na een paar keer, meestal rond de vierde, gemiddeld 14 slagen per minuut minder. In een Nederlandse studie bij 3.018 werkende volwassenen gaf een maand lang een warme douche met 30, 60 of 90 seconden koud aan het eind 29% minder ziekteverzuim, al waren ze niet minder vaak ziek. Veel deelnemers zeiden dat ze meer energie hadden, maar ze wisten in welke groep ze zaten. Voor meer energie of focus is het bewijs dus beperkt. Warm water helpt wel in de avond: in 13 studies vielen mensen sneller in slaap na een warme douche of bad van 40 tot 42,5 °C, 1 tot 2 uur voor bed. Het warme water stuurt bloed naar je handen en voeten, waardoor je lichaam daarna warmte kwijtraakt en afkoelt. Of een warme douche je 's ochtends afremt, is niet onderzocht.",
-        "en": "Your body gets used to it fast. In 145 people who got into cold water again and again, the rise in heart rate was on average 14 beats per minute smaller after a few times, usually around the fourth. In a Dutch trial of 3,018 working adults, a month of warm showers ending with 30, 60 or 90 seconds of cold meant 29% fewer days off sick, though people weren't ill less often. Many said they had more energy, but they knew which group they were in. So for energy or focus, the evidence is limited. Warm water does help in the evening: across 13 studies, people fell asleep faster after a warm shower or bath of 40 to 42.5 °C, 1 to 2 hours before bed. The warm water sends blood to your hands and feet, so your body loses heat and cools down afterwards. Whether a warm shower slows you down in the morning hasn't been studied."
-      },
-      "caution": {
-        "nl": "Koud water laat je hartslag en ademhaling flink stijgen en kan je hartritme verstoren. De Nederlandse studie liet mensen met een hart- of longziekte buiten. Heb je die? Overleg dan eerst met je huisarts.",
-        "en": "Cold water makes your heart rate and breathing jump and can upset your heart rhythm. The Dutch trial left out people with heart or lung disease. Do you have one? Check with your GP first."
-      },
-      "sources": [
-        {
-          "pmid": "38211547"
-        },
-        {
-          "pmid": "27631616"
-        },
-        {
-          "pmid": "31102877"
         }
       ]
     },
@@ -874,8 +797,8 @@
       "numbered": false,
       "items": [
         {
-          "nl": "Slaap minstens 7 uur. Minder stapelt zich op zonder dat je het merkt; meer daarover in deel 3.",
-          "en": "Sleep at least 7 hours. Less adds up without you noticing; more on that in Part 3."
+          "nl": "Slaap minstens 7 uur. Na 14 nachten van 6 uur presteerden mensen zo slecht als na tot 2 nachten zonder slaap, en ze merkten het zelf nauwelijks.",
+          "en": "Sleep at least 7 hours. After 14 nights of 6 hours, people performed as badly as after up to 2 nights without sleep, and barely noticed."
         },
         {
           "nl": "Sta elke dag op dezelfde tijd op, ook in het weekend. Het verschil tussen werkdagen en weekend heet sociale jetlag; bij 61 studenten liep de klok van onregelmatige slapers zo'n 2,5 uur later.",
@@ -905,6 +828,9 @@
       "sources": [
         {
           "pmid": "26039963"
+        },
+        {
+          "pmid": "12683469"
         },
         {
           "pmid": "28607474"
@@ -948,32 +874,9 @@
         "en": "How you know it's working"
       },
       "subtitle": {
-        "nl": "Waarom je niet op je gevoel kunt varen, en hoe je je wearable leest.",
-        "en": "Why you can't go by feel, and how to read your wearable."
+        "nl": "Wat je wearable laat zien, en hoe je het leest.",
+        "en": "What your wearable shows, and how to read it."
       }
-    },
-    {
-      "id": "sleep-debt",
-      "title": {
-        "nl": "Waarom je niks merkt als je minder slaapt",
-        "en": "Why you don't notice sleeping less"
-      },
-      "text": {
-        "nl": "Een verandering in je slaap merk je vaak pas een week of twee later, en dat geldt twee kanten op: als je minder gaat slapen en als je beter gaat slapen. De eerste dagen na een paar korte nachten voelen vaak gewoon goed. Daarom kun je je slaap niet beoordelen op hoe je je na één nacht voelt.",
-        "en": "You often only notice a change in your sleep a week or two later, and that works both ways: when you start sleeping less and when you start sleeping better. The first days after a few short nights often feel fine. That's why you can't judge your sleep by how you feel after one night."
-      },
-      "after": {
-        "nl": "In een slaaplab lagen gezonde volwassenen 14 nachten lang 4, 6 of 8 uur in bed. Met 4 of 6 uur werden ze elke dag slechter op tests van aandacht en denken; na twee weken met 6 uur waren ze zo slecht als na tot 2 nachten zonder slaap. Hoe slaperig ze zich voelden, steeg alleen de eerste dagen en bleef daarna bijna gelijk. Ze merkten dus nauwelijks hoe slecht ze het deden. Herstel gaat ook langzaam: in een andere studie hadden mensen die een week 5 of 7 uur in bed lagen, na 3 nachten van 8 uur hun oude niveau nog niet terug. Daarom vergelijk ik gemiddelden over een à twee weken, zoals hieronder.",
-        "en": "In a sleep lab, healthy adults spent 14 nights with 4, 6 or 8 hours in bed. With 4 or 6 hours they got worse every day on tests of attention and thinking; after two weeks of 6 hours they did as badly as after up to 2 nights without sleep. How sleepy they felt rose only in the first days and then barely changed, so they hardly noticed how badly they were doing. Recovery is slow too: in another study, people who spent a week with 5 or 7 hours in bed still hadn't got back to their old level after 3 nights of 8 hours. That's why I compare averages over one to two weeks, as below."
-      },
-      "sources": [
-        {
-          "pmid": "12683469"
-        },
-        {
-          "pmid": "12603781"
-        }
-      ]
     },
     {
       "title": {

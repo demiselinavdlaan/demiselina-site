@@ -250,14 +250,14 @@
           {
             "at": "lunch",
             "offset": 20,
-            "to": 35,
+            "to": 30,
             "title": {
-              "nl": "10 tot 15 minuten lopen",
-              "en": "Walk for 10 to 15 minutes"
+              "nl": "10 minuten wandelen",
+              "en": "Walk for 10 minutes"
             },
             "text": {
-              "nl": "Direct na het eten, zeker als er koolhydraten in je lunch zaten. Een rondje om het blok is genoeg. Kun je niet weg? Werk dan zo lang staand of lopend.",
-              "en": "Straight after eating, especially if your lunch had carbs. Once round the block is enough. Can't get away? Work standing up or walking for that time."
+              "nl": "Direct na het eten. Een rondje om het blok is genoeg.",
+              "en": "Straight after eating. Once round the block is enough."
             }
           },
           {
@@ -365,8 +365,8 @@
             "en": "A walking pad under my desk"
           },
           "note": {
-            "nl": "Ik loop terwijl ik werk, met een gewichtsvest van 10 kilo. Op een gewone werkdag kom ik zo zonder moeite op 26.000 tot 30.000 stappen.",
-            "en": "I walk while I work, with a 10 kg weighted vest. On a normal workday that gets me 26,000 to 30,000 steps without any effort."
+            "nl": "Ik loop terwijl ik werk, met een gewichtsvest van 10 kilo. Zo kom ik op 30.000 tot 40.000 stappen per dag.",
+            "en": "I walk while I work, with a 10 kg weighted vest. That's how I get 30,000 to 40,000 steps a day."
           }
         },
         {
@@ -608,58 +608,6 @@
       ]
     },
     {
-      "id": "desk",
-      "title": {
-        "nl": "Waarom je focus wegzakt achter je bureau",
-        "en": "Why you lose focus at your desk"
-      },
-      "text": {
-        "nl": "Ik loop terwijl ik werk: op een gewone werkdag kom ik zo zonder moeite op 26.000 tot 30.000 stappen. Achter de meeste bureaus is het probleem dat je de hele dag in één houding zit. Het uur na de lunch telt het zwaarst.",
-        "en": "I walk while I work: on a normal workday that gets me 26,000 to 30,000 steps without any effort. At most desks the problem is one posture all day. The hour after lunch counts most."
-      },
-      "items": [
-        {
-          "nl": "Na een maaltijd met koolhydraten (brood, pasta, rijst) stijgt je glucose, de suiker in je bloed.",
-          "en": "After a meal with carbs (bread, pasta, rice), your glucose, the sugar in your blood, goes up."
-        },
-        {
-          "nl": "Blijf je daarna zitten, dan stijgt hij hoger dan als je staat of loopt.",
-          "en": "If you stay seated, it goes up further than if you stand or walk."
-        },
-        {
-          "nl": "Lopen remt die stijging meer dan staan, en ook de insuline die je lichaam erbij maakt.",
-          "en": "Walking holds that rise back more than standing does, and the insulin your body makes for it too."
-        },
-        {
-          "nl": "Een rustiger bloedsuiker geeft mij een rustiger focus. Daarom loop ik na de lunch 10 tot 15 minuten, of werk ik staand of lopend.",
-          "en": "For me, steadier blood sugar means steadier focus. So after lunch I walk for 10 to 15 minutes, or work standing or walking."
-        }
-      ],
-      "after": {
-        "nl": "In 7 labstudies verlaagde vaak even opstaan de glucose na het eten een beetje, vergeleken met blijven zitten. Rustig lopen verlaagde zowel glucose als insuline, en meer dan staan. Elke studie duurde één dag, met korte pauzes verspreid over de dag in plaats van één wandeling na de lunch. In twee kleine studies gaf elk half uur of elk uur een paar minuten lopen minder moeheid, en in één ervan meer energie en een betere stemming aan het eind van de dag. De scores op tests van aandacht en geheugen werden niet beter. Dat lopen je focus zelf verbetert, is dus niet bewezen.",
-        "en": "In 7 lab studies, standing up often lowered glucose after meals a little compared with staying seated. Light walking lowered both glucose and insulin, and more than standing did. Each study lasted one day, with short breaks spread over the day rather than one walk after lunch. In two small studies, a few minutes of walking every half hour or hour meant less tiredness, and in one of them more energy and a better mood by the end of the day. Scores on attention and memory tests didn't improve. So it isn't proven that walking improves focus itself."
-      },
-      "meta": {
-        "nl": [
-          "Studie met 30 kantoormensen: mede-auteurs van Johnson & Johnson"
-        ],
-        "en": [
-          "Study of 30 office workers: co-authors from Johnson & Johnson"
-        ]
-      },
-      "sources": [
-        {
-          "pmid": "35147898"
-        },
-        {
-          "pmid": "26920441"
-        },
-        {
-          "pmid": "27809874"
-        }
-      ]
-    },
-    {
       "title": {
         "nl": "Genoeg koolhydraten: minstens 2 gram per kilo",
         "en": "Enough carbs: at least 2 grams per kilo"
@@ -803,6 +751,14 @@
           "en": "Put your hardest work in your sharpest hours; these depend on whether you're a morning or an evening person."
         },
         {
+          "nl": "Wandel 10 minuten na de lunch: lopen verlaagt je bloedsuiker na het eten duidelijker dan staan.",
+          "en": "Walk for 10 minutes after lunch: walking lowers your blood sugar after meals more clearly than standing."
+        },
+        {
+          "nl": "Sta elk half uur op en loop een paar minuten: in twee kleine studies gaf dat minder moeheid dan blijven zitten.",
+          "en": "Get up every half hour and walk for a few minutes: in two small studies that meant less tiredness than staying seated."
+        },
+        {
           "nl": "Drink je koolhydraten niet: sinaasappelsap gaf meer insuline dan hele sinaasappels met evenveel suiker.",
           "en": "Don't drink your carbs: orange juice raised insulin more than whole oranges with the same sugar."
         },
@@ -811,6 +767,14 @@
           "en": "Keep a bottle of water on your desk: after losing just over 1% of their weight in fluid, young men felt more tired, although the research is mixed."
         }
       ],
+      "meta": {
+        "nl": [
+          "Studie met 30 kantoormensen: mede-auteurs van Johnson & Johnson"
+        ],
+        "en": [
+          "Study of 30 office workers: co-authors from Johnson & Johnson"
+        ]
+      },
       "sources": [
         {
           "pmid": "26039963"
@@ -820,6 +784,15 @@
         },
         {
           "pmid": "18066734"
+        },
+        {
+          "pmid": "35147898"
+        },
+        {
+          "pmid": "26920441"
+        },
+        {
+          "pmid": "27809874"
         },
         {
           "pmid": "6259919"
