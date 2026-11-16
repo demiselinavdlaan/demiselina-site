@@ -1,0 +1,993 @@
+{
+  "slug": "full-body",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "title": {
+    "nl": "Full body, 3 dagen per week: elke spiergroep op tijd",
+    "en": "Full body, 3 days a week: every muscle on time"
+  },
+  "subtitle": {
+    "nl": "Een schema dat je zo kunt gebruiken, met sets en herhalingen, een versie voor 2 dagen, de regel om elke week sterker te worden en hoe je ziet of je hersteld bent. Met het onderzoek bij elke stap.",
+    "en": "A ready-to-use plan with sets and reps, a 2-day version, the rule for getting stronger every week, and how to tell you've recovered. With the research behind every step."
+  },
+  "description": {
+    "nl": "Een full body-schema voor 3 dagen per week (of 2) van Jorn Kirkels, oprichter van Cellular: sets, herhalingen, de progressieregel, cardio en herstel, met de studies erbij.",
+    "en": "A full-body plan for 3 days a week (or 2) by Jorn Kirkels, founder of Cellular: sets, reps, the progression rule, cardio and recovery, with the studies behind it."
+  },
+  "intro": {
+    "nl": "Veel mensen trainen elke spier te laat. Borst op maandag, en de volgende borsttraining pas een week later: 72 uur of meer ertussen. Dan train je wel, maar je maakt minder progressie dan mogelijk is, en je staat er relatief lang voor in de gym. Vroeger trainde ik zelf in splits, met elke dag andere spieren, anderhalf tot twee uur per keer. Het venster is korter: ongeveer 48 uur. Is een spier hersteld, dan wil ik daar zijn volgende training. Daarom moet je training full body zijn, en moet hij passen bij je cardio. Hieronder staat de full body-week die ik voor klanten bouw, klaar om te gebruiken: drie dagen, of twee als je niet meer hebt. Daarna waarom het werkt, hoe je elke week een beetje sterker wordt en hoe je ziet of je hersteld bent. Onder elke stap staat het onderzoek, ook waar het zwak is.",
+    "en": "Many people train each muscle too late. Chest on Monday, and the next chest session a week later: 72 hours or more in between. You do train, but you make less progress than you could, and you spend a lot of time in the gym for it. I used to train in splits myself, with different muscles on different days, one and a half to two hours a session. The window is shorter: about 48 hours. Once a muscle has recovered, that's where I want its next session. That's why the training has to be full body, and it has to fit with your cardio. Below is the full-body week I build for clients, ready to use: three days, or two if that's what you have. Then why it works, how to get a little stronger every week, and how to tell whether you've recovered. Under every step is the research, including where it's weak."
+  },
+  "sections": [
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 1",
+        "en": "Part 1"
+      },
+      "title": {
+        "nl": "Jouw full body-week",
+        "en": "Your full-body week"
+      },
+      "subtitle": {
+        "nl": "Klaar om te gebruiken. Drie dagen, of twee.",
+        "en": "Ready to use. Three days, or two."
+      }
+    },
+    {
+      "title": {
+        "nl": "Je week",
+        "en": "Your week"
+      },
+      "text": {
+        "nl": "Drie krachttrainingen, elk voor je hele lichaam, met steeds een dag ertussen. Zo zit er ongeveer 48 uur tussen twee trainingen voor dezelfde spier, en 72 uur over het weekend. Je cardio komt op de dagen ertussen. Zone 2 is rustige duurtraining: een hartslag zo laag dat je nog kunt praten.",
+        "en": "Three strength sessions, each for your whole body, with a day in between. That puts about 48 hours between two sessions for the same muscle, and 72 over the weekend. Your cardio goes on the days in between. Zone 2 is easy endurance training: a heart rate low enough that you can still talk."
+      },
+      "markers": [
+        {
+          "name": {
+            "nl": "Maandag: training A",
+            "en": "Monday: workout A"
+          },
+          "note": {
+            "nl": "Kracht, full body. 45 tot 60 minuten.",
+            "en": "Strength, full body. 45 to 60 minutes."
+          }
+        },
+        {
+          "name": {
+            "nl": "Dinsdag: zone 2",
+            "en": "Tuesday: zone 2"
+          },
+          "note": {
+            "nl": "45 tot 60 minuten: fietsen, bergop wandelen of rustig hardlopen.",
+            "en": "45 to 60 minutes: cycling, an uphill walk or an easy run."
+          }
+        },
+        {
+          "name": {
+            "nl": "Woensdag: training B",
+            "en": "Wednesday: workout B"
+          },
+          "note": {
+            "nl": "Kracht, full body. 45 tot 60 minuten.",
+            "en": "Strength, full body. 45 to 60 minutes."
+          }
+        },
+        {
+          "name": {
+            "nl": "Donderdag: zone 2",
+            "en": "Thursday: zone 2"
+          },
+          "note": {
+            "nl": "45 tot 60 minuten.",
+            "en": "45 to 60 minutes."
+          }
+        },
+        {
+          "name": {
+            "nl": "Vrijdag: training C",
+            "en": "Friday: workout C"
+          },
+          "note": {
+            "nl": "Kracht, full body. 45 tot 60 minuten.",
+            "en": "Strength, full body. 45 to 60 minutes."
+          }
+        },
+        {
+          "name": {
+            "nl": "Zaterdag: 4x4-intervallen of een sport",
+            "en": "Saturday: 4x4 intervals or a sport"
+          },
+          "note": {
+            "nl": "Intervallen zijn blokken hard werk met rustige blokken ertussen; zie deel 2. Padel of tennis kan ervoor in de plaats komen.",
+            "en": "Intervals are blocks of hard work with easy blocks in between; see part 2. Padel or tennis can take their place."
+          }
+        },
+        {
+          "name": {
+            "nl": "Zondag: rust",
+            "en": "Sunday: rest"
+          },
+          "note": {
+            "nl": "Wandelen kan altijd.",
+            "en": "A walk is always fine."
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Zo doe je elke training",
+        "en": "How each session works"
+      },
+      "text": {
+        "nl": "Een herhaling is één beweging, op en neer. Een set is een reeks herhalingen zonder pauze. 3 × 6-10 betekent 3 sets van 6 tot 10 herhalingen. Herhalingen over (in het Engels reps in reserve) zijn de herhalingen die je aan het eind van een set nog had kunnen doen.",
+        "en": "A rep is one movement, up and down. A set is a run of reps without a break. 3 × 6-10 means 3 sets of 6 to 10 reps. Reps in reserve are the reps you could still have done at the end of a set."
+      },
+      "items": [
+        {
+          "nl": "Warm op met 5 minuten rustige cardio en daarna 1 of 2 lichte sets van je eerste oefening.",
+          "en": "Warm up with 5 minutes of easy cardio, then 1 or 2 light sets of your first exercise."
+        },
+        {
+          "nl": "Doe de oefeningen in de volgorde van het schema. De grote, waarbij meerdere gewrichten bewegen, komen eerst.",
+          "en": "Do the exercises in the order given. The big ones, which move several joints, come first."
+        },
+        {
+          "nl": "Kies een gewicht waarmee je de herhalingen haalt met 1 tot 3 herhalingen over. De laatste herhalingen voelen zwaar, en je techniek blijft hetzelfde.",
+          "en": "Pick a weight with which you reach the reps with 1 to 3 reps in reserve. The last reps feel hard, and your form stays the same."
+        },
+        {
+          "nl": "Rust 2 tot 3 minuten tussen de sets van de eerste twee oefeningen, en 1 tot 2 minuten bij de rest.",
+          "en": "Rest 2 to 3 minutes between sets of the first two exercises, and 1 to 2 minutes for the rest."
+        },
+        {
+          "nl": "Schrijf van elke set het gewicht en de herhalingen op. In deel 2 lees je wanneer je zwaarder gaat.",
+          "en": "Write down the weight and reps of every set. Part 2 tells you when to go heavier."
+        }
+      ],
+      "after": {
+        "nl": "Het American College of Sports Medicine adviseert grote oefeningen voor kleine te doen. Bij 21 getrainde mannen die 8 weken lang drie full body-trainingen per week deden, gaf 3 minuten rust tussen de sets meer kracht en meer spier in de bovenbenen dan 1 minuut rust.",
+        "en": "The American College of Sports Medicine advises doing big exercises before small ones. In 21 trained men who did three full-body sessions a week for 8 weeks, resting 3 minutes between sets built more strength and more thigh muscle than resting 1 minute."
+      },
+      "sources": [
+        {
+          "pmid": "19204579"
+        },
+        {
+          "pmid": "26605807"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Maandag: training A",
+        "en": "Monday: workout A"
+      },
+      "text": {
+        "nl": "Zo'n 16 sets. Elke grote spiergroep komt aan bod: benen, billen, borst, rug, schouders en romp. Met romp bedoel ik de spieren van je buik, je zij en je onderrug.",
+        "en": "About 16 sets. Every big muscle group gets work: legs, glutes, chest, back, shoulders and core. By core I mean the muscles of your stomach, your sides and your lower back."
+      },
+      "markers": [
+        {
+          "name": {
+            "nl": "Squat: 3 × 6-10",
+            "en": "Squat: 3 × 6-10"
+          },
+          "note": {
+            "nl": "Benen en billen. Zak door alsof je op een lage stoel gaat zitten, met een stang op je rug of een dumbbell tegen je borst (goblet squat).",
+            "en": "Legs and glutes. Sit down as if onto a low chair, with a barbell on your back or a dumbbell held at your chest (goblet squat)."
+          }
+        },
+        {
+          "name": {
+            "nl": "Bankdrukken: 3 × 6-10",
+            "en": "Bench press: 3 × 6-10"
+          },
+          "note": {
+            "nl": "Borst, voorkant van je schouders en triceps (de achterkant van je bovenarm). Met een stang of twee dumbbells.",
+            "en": "Chest, front of your shoulders and triceps (the back of your upper arm). With a barbell or two dumbbells."
+          }
+        },
+        {
+          "name": {
+            "nl": "Roeien aan de kabel: 3 × 8-12",
+            "en": "Seated cable row: 3 × 8-12"
+          },
+          "note": {
+            "nl": "Rug en biceps. Ga zitten, trek de handgreep naar je buik en knijp je schouderbladen samen.",
+            "en": "Back and biceps. Sit, pull the handle to your stomach and squeeze your shoulder blades together."
+          }
+        },
+        {
+          "name": {
+            "nl": "Roemeense deadlift: 3 × 8-12",
+            "en": "Romanian deadlift: 3 × 8-12"
+          },
+          "note": {
+            "nl": "Hamstrings (de achterkant van je bovenbenen), billen en onderrug. Knieën licht gebogen, duw je heupen naar achteren met het gewicht dicht langs je benen tot je rek voelt, en kom weer omhoog.",
+            "en": "Hamstrings (the back of your thighs), glutes and lower back. Knees slightly bent, push your hips back with the weight close to your legs until you feel a stretch, then stand up."
+          }
+        },
+        {
+          "name": {
+            "nl": "Lateral raise: 2 × 12-15",
+            "en": "Lateral raise: 2 × 12-15"
+          },
+          "note": {
+            "nl": "Zijkant van je schouders. Breng twee lichte dumbbells zijwaarts omhoog tot schouderhoogte.",
+            "en": "Side of your shoulders. Raise two light dumbbells out to the side, up to shoulder height."
+          }
+        },
+        {
+          "name": {
+            "nl": "Plank: 2 × 30-45 seconden",
+            "en": "Plank: 2 × 30-45 seconds"
+          },
+          "note": {
+            "nl": "Romp. Houd je lichaam in een rechte lijn op je onderarmen en tenen.",
+            "en": "Core. Hold your body in a straight line on your forearms and toes."
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Woensdag: training B",
+        "en": "Wednesday: workout B"
+      },
+      "text": {
+        "nl": "Zo'n 17 sets, met andere oefeningen voor dezelfde spiergroepen.",
+        "en": "About 17 sets, with other exercises for the same muscle groups."
+      },
+      "markers": [
+        {
+          "name": {
+            "nl": "Leg press: 3 × 8-12",
+            "en": "Leg press: 3 × 8-12"
+          },
+          "note": {
+            "nl": "Benen en billen. Duw het platform weg met je hele voet.",
+            "en": "Legs and glutes. Push the platform away with your whole foot."
+          }
+        },
+        {
+          "name": {
+            "nl": "Lat pulldown of optrekken: 3 × 6-10",
+            "en": "Lat pulldown or pull-up: 3 × 6-10"
+          },
+          "note": {
+            "nl": "Rug en biceps. Trek de stang naar je bovenborst, of trek jezelf op aan een stang.",
+            "en": "Back and biceps. Pull the bar down to your upper chest, or pull yourself up to a bar."
+          }
+        },
+        {
+          "name": {
+            "nl": "Schouderdrukken met dumbbells: 3 × 8-12",
+            "en": "Dumbbell shoulder press: 3 × 8-12"
+          },
+          "note": {
+            "nl": "Schouders en triceps. Druk twee dumbbells boven je hoofd, zittend of staand.",
+            "en": "Shoulders and triceps. Press two dumbbells overhead, seated or standing."
+          }
+        },
+        {
+          "name": {
+            "nl": "Hip thrust: 3 × 8-12",
+            "en": "Hip thrust: 3 × 8-12"
+          },
+          "note": {
+            "nl": "Billen en hamstrings. Bovenrug tegen een bank, gewicht op je heupen, duw je heupen omhoog tot je lichaam recht is.",
+            "en": "Glutes and hamstrings. Upper back against a bench, weight on your hips, push your hips up until your body is straight."
+          }
+        },
+        {
+          "name": {
+            "nl": "Leg curl: 2 × 10-15",
+            "en": "Leg curl: 2 × 10-15"
+          },
+          "note": {
+            "nl": "Hamstrings. Buig op een machine je knieën tegen het kussen in.",
+            "en": "Hamstrings. On a machine, bend your knees against the pad."
+          }
+        },
+        {
+          "name": {
+            "nl": "Opdrukken of dips: 3 × 8-15",
+            "en": "Push-ups or dips: 3 × 8-15"
+          },
+          "note": {
+            "nl": "Borst en triceps. Lukt opdrukken nog niet, doe het dan op je knieën of met je handen op een bank.",
+            "en": "Chest and triceps. Can't do push-ups yet? Do them on your knees or with your hands on a bench."
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Vrijdag: training C",
+        "en": "Friday: workout C"
+      },
+      "text": {
+        "nl": "Zo'n 16 sets, deels met één been of één arm tegelijk.",
+        "en": "About 16 sets, partly with one leg or one arm at a time."
+      },
+      "markers": [
+        {
+          "name": {
+            "nl": "Bulgarian split squat: 3 × 8-12 per been",
+            "en": "Bulgarian split squat: 3 × 8-12 per leg"
+          },
+          "note": {
+            "nl": "Benen en billen. Een lunge met je achterste voet op een bankje achter je.",
+            "en": "Legs and glutes. A lunge with your back foot on a bench behind you."
+          }
+        },
+        {
+          "name": {
+            "nl": "Schuin bankdrukken met dumbbells: 3 × 8-12",
+            "en": "Incline dumbbell press: 3 × 8-12"
+          },
+          "note": {
+            "nl": "Bovenkant van je borst en schouders. Druk twee dumbbells omhoog op een schuin gezette bank.",
+            "en": "Upper chest and shoulders. Press two dumbbells up on a bench set at an angle."
+          }
+        },
+        {
+          "name": {
+            "nl": "Eenarmig roeien met een dumbbell: 3 × 8-12 per arm",
+            "en": "One-arm dumbbell row: 3 × 8-12 per arm"
+          },
+          "note": {
+            "nl": "Rug en biceps. Eén hand en knie op een bank, trek de dumbbell naar je heup.",
+            "en": "Back and biceps. One hand and knee on a bench, pull the dumbbell to your hip."
+          }
+        },
+        {
+          "name": {
+            "nl": "Rugstrekken: 3 × 10-15",
+            "en": "Back extension: 3 × 10-15"
+          },
+          "note": {
+            "nl": "Onderrug, billen en hamstrings. Buig op een rugstrekbank voorover vanuit je heupen en kom omhoog tot je lichaam recht is.",
+            "en": "Lower back, glutes and hamstrings. On a back extension bench, bend forward at your hips and come up until your body is straight."
+          }
+        },
+        {
+          "name": {
+            "nl": "Face pull: 2 × 12-15",
+            "en": "Face pull: 2 × 12-15"
+          },
+          "note": {
+            "nl": "Achterkant van je schouders en bovenrug. Trek een touw aan de kabel naar je gezicht, ellebogen hoog.",
+            "en": "Back of your shoulders and upper back. Pull a rope on the cable towards your face, elbows high."
+          }
+        },
+        {
+          "name": {
+            "nl": "Dead bug: 2 × 10-12 per kant",
+            "en": "Dead bug: 2 × 10-12 per side"
+          },
+          "note": {
+            "nl": "Romp. Op je rug, armen en benen omhoog. Laat langzaam één arm en het andere been zakken, met je onderrug tegen de grond.",
+            "en": "Core. On your back, arms and legs up. Slowly lower one arm and the opposite leg, keeping your lower back on the floor."
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Maar twee dagen per week?",
+        "en": "Only two days a week?"
+      },
+      "text": {
+        "nl": "Doe dan training A en training B, met zoveel mogelijk dagen ertussen: maandag en donderdag, of dinsdag en vrijdag. Elke spier traint dan nog steeds twee keer per week. Doe bij de eerste drie oefeningen van elke training een set extra, 4 in plaats van 3, zodat je aantal sets per week dicht bij de week van 3 dagen blijft. Zet zone 2 op twee andere dagen, als dat lukt.",
+        "en": "Then do workout A and workout B, with as many days in between as you can: Monday and Thursday, or Tuesday and Friday. Each muscle is still trained twice a week. Add one set to the first three exercises of each workout, 4 instead of 3, so your weekly number of sets stays close to the 3-day week. Put zone 2 on two other days, if you can."
+      },
+      "after": {
+        "nl": "In 10 studies gaf een spier twee keer per week trainen meer spiergroei dan één keer. Of drie keer beter is dan twee, is nog niet duidelijk. Het schema werkt voor vrouwen hetzelfde: in 10 studies kwamen vrouwen en mannen, vergeleken met waar ze begonnen, evenveel spier aan, en vrouwen werden in hun bovenlichaam naar verhouding sterker.",
+        "en": "In 10 studies, training a muscle twice a week built more muscle than once a week. Whether three times beats twice is still unclear. The plan works the same for women: in 10 studies, women and men gained the same amount of muscle relative to where they started, and women gained relatively more upper-body strength."
+      },
+      "sources": [
+        {
+          "pmid": "27102172"
+        },
+        {
+          "pmid": "32218059"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Wat ik zelf gebruik",
+        "en": "What I use myself"
+      },
+      "text": {
+        "nl": "Dit gebruik ik elke week. Merken noem ik niet. Lees bij het supplement eerst de regel onderaan.",
+        "en": "This is what I use every week. I don't name brands. For the supplement, read the line at the bottom first."
+      },
+      "markers": [
+        {
+          "name": {
+            "nl": "Een wearable, elke ochtend",
+            "en": "A wearable, every morning"
+          },
+          "note": {
+            "nl": "Eerst schrijf ik op hoe ik denk dat ik heb geslapen. Daarna kijk ik naar mijn HRV en mijn rusthartslag van de nacht. Mijn laagste hartslag 's nachts was 42 tot 43 slagen per minuut, als maandgemiddelde van april tot september 2026. In deel 3 lees je wat beide getallen zeggen.",
+            "en": "First I write down how I think I slept. Then I look at my HRV and my resting heart rate from the night. My lowest heart rate at night was 42 to 43 beats a minute, as a monthly average from April to September 2026. Part 3 explains what both numbers tell you."
+          }
+        },
+        {
+          "name": {
+            "nl": "Zone 2 en één intervaltraining per week",
+            "en": "Zone 2 and one interval session a week"
+          },
+          "note": {
+            "nl": "Ik train minstens 240 minuten per week in zone 2, plus één keer per week Noorse 4x4-intervallen op een airbike, een hometrainer met bewegende handvatten. Ik train voor een ultra van 50 km in Dubai.",
+            "en": "I train at least 240 minutes a week in zone 2, plus Norwegian 4x4 intervals once a week on an airbike, an exercise bike with moving handles. I'm training for a 50 km ultra in Dubai."
+          }
+        },
+        {
+          "name": {
+            "nl": "Een loopband onder mijn bureau",
+            "en": "A walking pad under my desk"
+          },
+          "note": {
+            "nl": "Mijn doel is 30.000 stappen per dag, soms met een vest van 10 kg.",
+            "en": "My goal is 30,000 steps a day, sometimes with a 10 kg weighted vest."
+          }
+        },
+        {
+          "name": {
+            "nl": "Creatine: 5 gram per dag",
+            "en": "Creatine: 5 g a day"
+          },
+          "note": {
+            "nl": "Creatine is een stof die je spieren en hersenen gebruiken om snel energie te maken. Ik neem 5 gram per dag; het tijdstip maakt niet uit. Volgens EFSA, de Europese autoriteit voor voedselveiligheid, geeft tot 3 gram per dag waarschijnlijk geen risico, en 3 gram is ook de hoeveelheid achter de goedgekeurde EU-claim voor korte, zware inspanning. Boven 3 gram is er te weinig onderzoek om te zeggen of het veilig is. Heb je nierproblemen, neem het dan niet.",
+            "en": "Creatine is a substance your muscles and brain use to make energy fast. I take 5 g a day; the time of day doesn't matter. EFSA, the European food safety authority, says up to 3 g a day is unlikely to pose any risk, and 3 g is also the amount behind the EU's approved claim for short, intense exercise. Above 3 g there's too little research to say whether it's safe. If you have kidney problems, don't take it."
+          }
+        }
+      ],
+      "caution": {
+        "nl": "Het verkeerde supplement kan klachten erger maken, en zonder meten is het meeste giswerk. Gebruik je medicijnen, ben je zwanger of heb je nierproblemen? Overleg dan eerst met je huisarts of apotheker.",
+        "en": "The wrong supplement can make symptoms worse, and without measuring, most of it is guesswork. Do you take medication, are you pregnant or do you have kidney problems? Check with your GP or pharmacist first."
+      },
+      "caution_label": {
+        "nl": "Start nooit zonder data.",
+        "en": "Never start without data."
+      },
+      "sources": [
+        {
+          "label": {
+            "nl": "EFSA: creatinemonohydraat (2004)",
+            "en": "EFSA: creatine monohydrate (2004)"
+          },
+          "note": {
+            "nl": "Tot 3 gram per dag waarschijnlijk geen risico; hoge laaddoses vermijden",
+            "en": "Up to 3 g a day unlikely to pose any risk; avoid high loading doses"
+          },
+          "url": "https://doi.org/10.2903/j.efsa.2004.36"
+        },
+        {
+          "label": {
+            "nl": "EU-verordening 432/2012: goedgekeurde gezondheidsclaims",
+            "en": "EU Regulation 432/2012: authorised health claims"
+          },
+          "note": {
+            "nl": "Creatine: claim alleen bij 3 gram per dag, voor volwassenen die kort en zwaar trainen",
+            "en": "Creatine: claim only at 3 g a day, for adults doing short, intense exercise"
+          },
+          "url": "https://eur-lex.europa.eu/eli/reg/2012/432/oj/eng"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 2",
+        "en": "Part 2"
+      },
+      "title": {
+        "nl": "Waarom het werkt",
+        "en": "Why it works"
+      },
+      "subtitle": {
+        "nl": "Eerst vijf bevindingen, dan het bewijs per stap, ook waar het zwak is.",
+        "en": "Five findings first, then the evidence per step, including where it's weak."
+      }
+    },
+    {
+      "title": {
+        "nl": "Wat bijna niemand weet",
+        "en": "What almost nobody knows"
+      },
+      "text": {
+        "nl": "Vijf bevindingen over trainen en herstel, elk met het getal erbij en wat je ermee doet.",
+        "en": "Five findings about training and recovery, each with its number and what to do with it."
+      },
+      "facts": [
+        {
+          "stat": {
+            "nl": "28 uur",
+            "en": "28 hours"
+          },
+          "title": {
+            "nl": "In een getrainde spier was de extra aanmaak na 28 uur al voorbij",
+            "en": "In a trained muscle, the extra building was over by 28 hours"
+          },
+          "text": {
+            "nl": "Spiereiwitsynthese is hoe een spier na een training nieuw eiwit aanmaakt, om te herstellen en te groeien. Tien jonge mannen trainden 8 weken lang één been. Na een nieuwe training steeg de aanmaak in beide benen. In het getrainde been was die na 28 uur al terug op het rustniveau; in het ongetrainde been was hij nog verhoogd. Hoe getrainder de spier, hoe korter dat venster lijkt te zijn. Train je een spier één keer per week, dan is de extra aanmaak allang voorbij voor de volgende training.",
+            "en": "Muscle protein synthesis is how a muscle builds new protein after training, to repair and grow. Ten young men trained one leg for 8 weeks. After a new session, building rose in both legs. In the trained leg it was back to its resting level by 28 hours; in the untrained leg it was still raised. The more trained the muscle, the shorter that window seems to be. Train a muscle once a week, and the extra building has long stopped before the next session."
+          },
+          "label": {
+            "nl": "Studie met 10 jonge mannen",
+            "en": "Study of 10 young men"
+          }
+        },
+        {
+          "stat": {
+            "nl": "48 uur",
+            "en": "48 hours"
+          },
+          "title": {
+            "nl": "Tot falen trainen vertraagde het herstel tot 48 uur lang",
+            "en": "Training to failure slowed recovery for up to 48 hours"
+          },
+          "text": {
+            "nl": "Falen is het punt waarop je geen herhaling meer afkrijgt. Tien getrainde mannen deden bankdrukken en squats op drie manieren. Na sets tot falen was hun herstel 24 tot 48 uur later nog trager dan wanneer ze elke set halverwege stopten, ook bij evenveel werk in totaal. Dat zagen de onderzoekers aan hun snelheid, hun spronghoogte en waarden in hun bloed. In dit schema stop je elke set met 1 tot 3 herhalingen over, zodat dezelfde spier eerder weer klaar is.",
+            "en": "Failure is the point where you can't finish another rep. Ten trained men did bench press and squats in three ways. After sets to failure, their recovery was still slower 24 to 48 hours later than after stopping each set halfway, even with the same total work. The researchers saw it in their speed, their jump height and markers in their blood. In this plan you stop each set with 1 to 3 reps in reserve, so the same muscle is ready again sooner."
+          },
+          "label": {
+            "nl": "Studie met 10 getrainde mannen",
+            "en": "Study of 10 trained men"
+          }
+        },
+        {
+          "stat": "60%",
+          "title": {
+            "nl": "Lichte gewichten bouwden evenveel spier als zware",
+            "en": "Light weights built as much muscle as heavy ones"
+          },
+          "text": {
+            "nl": "Je one-rep max is het meeste gewicht dat je één keer kunt tillen. In 21 studies bouwden gewichten van 60% daarvan of minder evenveel spier als zwaardere gewichten, zolang elke set tot falen ging. Zware gewichten gaven wel meer maximale kracht. Thuis trainen met lichte dumbbells werkt dus voor spier, als de laatste herhalingen echt zwaar zijn. Wil je sterker worden, ga dan zwaarder.",
+            "en": "Your one-rep max is the most weight you can lift once. In 21 studies, weights of 60% of that or less built as much muscle as heavier weights, as long as every set went to failure. Heavy weights did give more maximal strength. So training at home with light dumbbells works for muscle, as long as the last reps are really hard. If you want to get stronger, go heavier."
+          },
+          "label": {
+            "nl": "21 studies",
+            "en": "21 studies"
+          }
+        },
+        {
+          "stat": "43",
+          "title": {
+            "nl": "Cardio kostte geen spier in 43 studies",
+            "en": "Cardio didn't cost muscle in 43 studies"
+          },
+          "text": {
+            "nl": "Concurrent training betekent kracht en cardio in dezelfde week. In 43 studies remde extra cardio de spiergroei en de maximale kracht niet. Alleen explosieve kracht, zoals hoe hoog je springt, nam minder toe, vooral als cardio en kracht in dezelfde training zaten in plaats van minstens 3 uur uit elkaar. Houd je cardio dus, en geef die een eigen dag.",
+            "en": "Concurrent training means strength and cardio in the same week. In 43 studies, adding cardio didn't reduce muscle growth or maximal strength. Only explosive strength, such as how high you jump, rose less, mainly when cardio and weights were in the same session instead of at least 3 hours apart. So keep your cardio, and give it its own day."
+          },
+          "label": {
+            "nl": "43 studies",
+            "en": "43 studies"
+          }
+        },
+        {
+          "stat": "18%",
+          "title": {
+            "nl": "Eén nacht zonder slaap remde de spieraanmaak met 18%",
+            "en": "One night without sleep cut muscle building by 18%"
+          },
+          "text": {
+            "nl": "13 gezonde jonge volwassenen bleven één nacht wakker. De middag erna was hun spieraanmaak na een maaltijd 18% lager dan na een normale nacht. Hun cortisol, een stresshormoon, was 21% hoger en hun testosteron 24% lager. Testosteron is het belangrijkste mannelijke geslachtshormoon; vrouwen maken het ook, in kleinere hoeveelheden. Slecht geslapen? Dan is slaap het eerste wat je oplost, nog voor je extra gaat trainen.",
+            "en": "13 healthy young adults stayed awake for one night. The next afternoon, their muscle building after a meal was 18% lower than after a normal night. Their cortisol, a stress hormone, was 21% higher and their testosterone 24% lower. Testosterone is the main male sex hormone; women make it too, in smaller amounts. Sleeping badly? Then sleep is the first thing to fix, before you add training."
+          },
+          "label": {
+            "nl": "Studie met 13 volwassenen",
+            "en": "Study of 13 adults"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "18032468"
+        },
+        {
+          "pmid": "28965198"
+        },
+        {
+          "pmid": "28834797"
+        },
+        {
+          "pmid": "34757594"
+        },
+        {
+          "pmid": "33400856"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Waarom elke spier binnen zo'n 48 uur weer aan de beurt is",
+        "en": "Why every muscle again within about 48 hours"
+      },
+      "text": {
+        "nl": "Spiereiwitsynthese is hoe een spier nieuw eiwit aanmaakt, om te herstellen en te groeien. Een training zet die aanmaak aan, en hij blijft geen week aan. Daarom telt de timing:",
+        "en": "Muscle protein synthesis is how a muscle builds new protein, to repair and grow. Training switches it on, and it doesn't stay on for a week. That's why timing counts:"
+      },
+      "items": [
+        {
+          "nl": "Een zware training zet de spieraanmaak binnen een paar uur aan.",
+          "en": "A hard session switches muscle building on within hours."
+        },
+        {
+          "nl": "Ongeveer een dag later is die het hoogst, ruwweg het dubbele van normaal.",
+          "en": "About a day later it is at its highest, roughly double the normal rate."
+        },
+        {
+          "nl": "Na anderhalf tot twee dagen is die bijna terug op het normale niveau. Hoe getrainder de spier, hoe eerder.",
+          "en": "After a day and a half to two days it is close to normal again. The more trained the muscle, the sooner."
+        },
+        {
+          "nl": "Train je die spier rond dat moment opnieuw, dan begint een nieuwe stijging. Wacht je een week, dan leveren de dagen ertussen niets extra op.",
+          "en": "Train that muscle again around then, and a new rise begins. Wait a week, and the days in between add nothing extra."
+        }
+      ],
+      "after": {
+        "nl": "Bij 6 jonge mannen was de spieraanmaak in de getrainde arm na 24 uur meer dan verdubbeld en na 36 uur bijna terug op het normale niveau. Bij 8 ongetrainde mensen was die na 48 uur nog 34% hoger. Na 8 weken training was een getraind been na 28 uur al terug op het rustniveau. In 10 studies gaf een spier twee keer per week trainen meer spiergroei dan één keer. Er is wel een kanttekening: in 25 studies maakte het voor spiergroei weinig uit hoe vaak mensen trainden, zolang het aantal sets per week gelijk was. Een analyse uit 2026 van 67 studies met 2.058 mensen vond hetzelfde voor spier; kracht nam wel toe met meer trainingen per week. Split of full body maakte in 14 studies geen verschil, ook weer bij evenveel sets. Het aantal zware sets per week telt dus minstens zo zwaar als hoe vaak je traint. Met drie keer per week full body pas je die sets makkelijk in korte trainingen, en is elke spier op tijd weer aan de beurt.",
+        "en": "In 6 young men, muscle building in the trained arm was more than double at 24 hours and almost back to normal at 36 hours. In 8 untrained people it was still 34% higher after 48 hours. After 8 weeks of training, a trained leg was back to its resting level by 28 hours. In 10 studies, training a muscle twice a week built more muscle than once a week. There's a catch: in 25 studies, once the number of sets per week was equal, how often people trained made little difference to muscle growth. A 2026 analysis of 67 studies with 2,058 people found the same for muscle, while strength did rise with more sessions a week. Split or full body made no difference in 14 studies, again with equal sets. So the number of hard sets a week counts at least as much as how often you train. Full body three times a week makes it easy to fit those sets into short sessions, with every muscle back on time."
+      },
+      "sources": [
+        {
+          "pmid": "8563679"
+        },
+        {
+          "pmid": "9252485"
+        },
+        {
+          "pmid": "18032468"
+        },
+        {
+          "pmid": "27102172"
+        },
+        {
+          "pmid": "30558493"
+        },
+        {
+          "pmid": "41343037"
+        },
+        {
+          "pmid": "38595233"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "De progressieregel: eerst herhalingen, dan gewicht",
+        "en": "The progression rule: reps first, then weight"
+      },
+      "text": {
+        "nl": "Progressive overload betekent dat je een spier na verloop van tijd steeds iets meer laat doen: meer gewicht, meer herhalingen of meer sets. Til je elke week hetzelfde gewicht even vaak, dan krijgt je lichaam geen nieuwe reden om zich aan te passen. De regel in dit schema heet dubbele progressie: eerst gaan je herhalingen omhoog, dan je gewicht.",
+        "en": "Progressive overload means asking a little more of a muscle over time: more weight, more reps or more sets. If you lift the same weight for the same reps every week, your body gets no new reason to adapt. The rule in this plan is called double progression: first your reps go up, then your weight."
+      },
+      "items": [
+        {
+          "nl": "Elke oefening heeft een bereik, bijvoorbeeld 6 tot 10 herhalingen.",
+          "en": "Every exercise has a rep range, such as 6 to 10."
+        },
+        {
+          "nl": "Begin met een gewicht waarmee je de onderkant van dat bereik haalt, met 1 tot 3 herhalingen over.",
+          "en": "Start with a weight you can lift for the bottom of that range, with 1 to 3 reps in reserve."
+        },
+        {
+          "nl": "Probeer elke training een herhaling meer te doen met hetzelfde gewicht.",
+          "en": "Each session, try to add a rep with the same weight."
+        },
+        {
+          "nl": "Haal je bij elke set de bovenkant van het bereik met goede techniek? Ga dan de volgende keer 2 tot 10% zwaarder, meestal de kleinste stap die je gym heeft, en klim opnieuw door het bereik.",
+          "en": "Reach the top of the range on every set with good form? Then go 2 to 10% heavier next time, usually the smallest step your gym has, and climb back up through the range."
+        },
+        {
+          "nl": "Zit je drie trainingen op rij vast op hetzelfde aantal? Kijk dan eerst naar je slaap, je eten en je herstel, voor je meer gaat trainen.",
+          "en": "Stuck at the same reps for three sessions in a row? Look at your sleep, your food and your recovery before you add training."
+        }
+      ],
+      "after": {
+        "nl": "Het American College of Sports Medicine adviseert 2 tot 10% zwaarder te gaan zodra je 1 tot 2 herhalingen meer haalt dan je doel. Bij 43 mensen met minstens een jaar trainingservaring gaf herhalingen toevoegen met hetzelfde gewicht in 8 weken evenveel spiergroei als gewicht toevoegen; kracht steeg iets meer met gewicht. Meer sets gingen samen met meer groei: in 15 studies leverde elke extra set per week zo'n 0,4% extra spiergroei op. Dit schema geeft elke grote spiergroep ongeveer 9 tot 11 zware sets per week. Hoe dicht bij falen? In 15 studies gaf helemaal tot falen gaan geen duidelijk extra spier. Een latere analyse van het onderzoek vond iets meer spiergroei als sets dichter bij falen eindigden, met vergelijkbare kracht over een breed bereik; de onderzoekers noemen het verkennend. Daarom stop je met 1 tot 3 herhalingen over: dicht genoeg om te groeien, ver genoeg om op tijd te herstellen.",
+        "en": "The American College of Sports Medicine advises going 2 to 10% heavier once you can do 1 to 2 reps more than your target. In 43 people with at least a year of training, adding reps with the same weight built as much muscle over 8 weeks as adding weight; strength rose slightly more with weight. More sets went with more growth: in 15 studies, each extra set a week added about 0.4% to the gain in muscle size. This plan gives each big muscle group about 9 to 11 hard sets a week. How close to failure? In 15 studies, going all the way to failure gave no clear extra muscle. A later analysis of the research found somewhat more muscle when sets ended closer to failure, with similar strength across a wide range; its authors call it exploratory. That's why you stop with 1 to 3 reps in reserve: close enough to grow, far enough to recover in time."
+      },
+      "sources": [
+        {
+          "pmid": "19204579"
+        },
+        {
+          "pmid": "36199287"
+        },
+        {
+          "pmid": "27433992"
+        },
+        {
+          "pmid": "36334240"
+        },
+        {
+          "pmid": "38970765"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Cardio op de dagen ertussen",
+        "en": "Cardio on the days in between"
+      },
+      "text": {
+        "nl": "In het schema zitten zone 2 en intervallen op de dagen tussen je krachttrainingen. Intervallen zijn blokken hard werk met rustige blokken ertussen. Je VO2max is de hoeveelheid zuurstof die je lichaam per minuut maximaal kan gebruiken bij een volle inspanning.",
+        "en": "In the plan, zone 2 and intervals sit on the days between your strength sessions. Intervals are blocks of hard work with easy blocks in between. Your VO2max is the most oxygen your body can use per minute during an all-out effort."
+      },
+      "items": [
+        {
+          "nl": "Zone 2 op dinsdag en donderdag, 45 tot 60 minuten, in een tempo waarin je nog kunt praten.",
+          "en": "Zone 2 on Tuesday and Thursday, 45 to 60 minutes, at a pace where you can still talk."
+        },
+        {
+          "nl": "4x4-intervallen op zaterdag: 4 minuten op 90 tot 95% van je maximale hartslag, dan 3 minuten rustig op ongeveer 70%. Herhaal dat vier keer.",
+          "en": "4x4 intervals on Saturday: 4 minutes at 90 to 95% of your maximum heart rate, then 3 minutes easy at about 70%. Repeat four times."
+        },
+        {
+          "nl": "Cardio en kracht op dezelfde dag? Houd er minstens 3 uur tussen.",
+          "en": "Cardio and strength on the same day? Keep at least 3 hours between them."
+        }
+      ],
+      "after": {
+        "nl": "In 43 studies remde extra cardio naast krachttraining de spiergroei en de maximale kracht niet. Explosieve kracht, zoals springen, nam minder toe, vooral als beide in dezelfde training zaten in plaats van minstens 3 uur uit elkaar. Hardlopen of fietsen maakte daarbij geen verschil. Bij 40 redelijk getrainde mannen steeg de VO2max na 8 weken 4x4-intervallen met 7%, meer dan met evenveel werk op een rustig of middelhoog tempo. De WHO adviseert volwassenen 150 tot 300 minuten matig intensief bewegen per week, of 75 tot 150 minuten zwaar, en op elke leeftijd regelmatig spierversterkende training.",
+        "en": "In 43 studies, adding cardio to strength training didn't reduce muscle growth or maximal strength. Explosive strength, such as jumping, rose less, mostly when both were in the same session rather than at least 3 hours apart. Running or cycling made no difference to that. In 40 moderately trained men, 8 weeks of 4x4 intervals raised VO2max by 7%, more than the same amount of work at an easy or medium pace. The WHO advises adults 150 to 300 minutes of moderate exercise a week, or 75 to 150 minutes of hard exercise, and regular muscle strengthening at every age."
+      },
+      "caution": {
+        "nl": "Zware intervallen vragen echt iets van je hart. Ben je nieuw met zware training, of heb je pijn op de borst, duizeligheid of een hartaandoening? Overleg dan eerst met je huisarts.",
+        "en": "Hard intervals put real strain on your heart. New to hard training, or do you have chest pain, dizziness or a heart condition? Check with your GP first."
+      },
+      "sources": [
+        {
+          "pmid": "34757594"
+        },
+        {
+          "pmid": "17414804"
+        },
+        {
+          "pmid": "33239350"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Eiwit: ongeveer 1,6 gram per kilo per dag",
+        "en": "Protein: about 1.6 grams per kilo a day"
+      },
+      "text": {
+        "nl": "Eiwit is het bouwmateriaal voor nieuwe spier. Het bestaat uit aminozuren: kleine bouwstenen die je lichaam weer aan elkaar zet tot spier. Training zet de spieraanmaak aan, eiwit levert het materiaal. Hoe je ook eet, maak eiwit je prioriteit.",
+        "en": "Protein is the building material for new muscle. It's made of amino acids: small building blocks your body puts back together into muscle. Training switches muscle building on, and protein supplies the material. Whatever way you eat, make protein your priority."
+      },
+      "items": [
+        {
+          "nl": "Eet ongeveer 1,6 gram eiwit per kilo lichaamsgewicht per dag. Bij 75 kilo is dat 120 gram.",
+          "en": "Aim for about 1.6 g of protein per kilo of body weight a day. At 75 kg, that's 120 g."
+        },
+        {
+          "nl": "Verdeel het over 4 maaltijden van ongeveer 0,4 gram per kilo: zo'n 30 gram per maaltijd bij 75 kilo.",
+          "en": "Spread it over 4 meals of about 0.4 g per kilo: around 30 g a meal at 75 kg."
+        },
+        {
+          "nl": "Eet je liever minder, grotere maaltijden? Dan is een grote portie eiwit niet verspild.",
+          "en": "Prefer fewer, bigger meals? Then a big portion of protein isn't wasted."
+        },
+        {
+          "nl": "Op dagen dat je traint, cardio meegerekend, blijft je eiwit gelijk en eet je meer koolhydraten. Ik adviseer minstens 2 gram koolhydraten per kilo per dag, en 50 tot 100 gram meer op trainingsdagen.",
+          "en": "On days you train, cardio included, your protein stays the same and your carbs go up. I advise at least 2 g of carbs per kilo a day, and 50 to 100 g more on training days."
+        }
+      ],
+      "after": {
+        "nl": "In 49 studies met 1.863 mensen die aan krachttraining deden, gaf extra eiwit iets meer spier en kracht. Boven ongeveer 1,6 gram per kilo per dag leverde het geen extra spier meer op. De ISSN, de International Society of Sports Nutrition, noemt 1,4 tot 2,0 gram per kilo per dag genoeg voor de meeste mensen die sporten, ook om spier op te bouwen, en adviseert duursporters genoeg koolhydraten te eten. Een overzicht van het onderzoek per maaltijd adviseert 0,4 gram per kilo, verdeeld over minstens vier maaltijden. In Maastricht kregen jonge mannen na een full body-training 100 of 25 gram eiwit. Met 100 gram was de spieraanmaak groter en duurde die langer dan 12 uur. Je eiwit kun je uit gewoon eten halen; een shake is alleen een handige manier om aan je totaal te komen.",
+        "en": "In 49 studies with 1,863 people doing strength training, extra protein gave a little more muscle and strength. Above about 1.6 g per kilo a day, it added no more muscle. The ISSN, the International Society of Sports Nutrition, calls 1.4 to 2.0 g per kilo a day enough for most people who exercise, also to build muscle, and advises endurance athletes to eat enough carbohydrates. A review of the per-meal research advises 0.4 g per kilo across at least four meals. In Maastricht, young men got 100 or 25 g of protein after a full-body workout. With 100 g, muscle building was larger and lasted over 12 hours. You can get your protein from normal food; a shake is just a practical way to reach your total."
+      },
+      "caution": {
+        "nl": "Heb je een nieraandoening? Bespreek je eiwit dan eerst met je huisarts.",
+        "en": "Do you have a kidney condition? Discuss your protein intake with your GP first."
+      },
+      "sources": [
+        {
+          "pmid": "28698222"
+        },
+        {
+          "pmid": "28642676"
+        },
+        {
+          "pmid": "29497353"
+        },
+        {
+          "pmid": "38118410"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "De basis",
+        "en": "The basics"
+      },
+      "text": {
+        "nl": "Deze ken je waarschijnlijk al. Ze tellen nog steeds, dus hier staan ze kort bij elkaar.",
+        "en": "You probably know these already. They still count, so here they are in one list."
+      },
+      "numbered": false,
+      "items": [
+        {
+          "nl": "Slaap minstens 7 uur per nacht; dat is het advies voor volwassenen.",
+          "en": "Sleep at least 7 hours a night; that's the advice for adults."
+        },
+        {
+          "nl": "Ben je nieuw met krachttraining? Gebruik dan de eerste maanden 8 tot 12 herhalingen bij elke oefening. Dat bereik adviseert het American College of Sports Medicine voor beginners.",
+          "en": "New to strength training? Then use 8 to 12 reps on every exercise for your first months. That's the range the American College of Sports Medicine advises for beginners."
+        },
+        {
+          "nl": "Leer elke beweging eerst met een licht gewicht voor je zwaar gaat. Jezelf een keer filmen helpt.",
+          "en": "Learn each movement with a light weight before you go heavy. Filming yourself once helps."
+        },
+        {
+          "nl": "Heb je pijn in een gewricht, of een hartaandoening? Ga dan eerst naar je huisarts of een fysiotherapeut.",
+          "en": "Pain in a joint, or a heart condition? See your GP or a physiotherapist first."
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "26039963"
+        },
+        {
+          "pmid": "19204579"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "nl": "Deel 3",
+        "en": "Part 3"
+      },
+      "title": {
+        "nl": "Zo weet je of je hersteld bent",
+        "en": "How you know you've recovered"
+      },
+      "subtitle": {
+        "nl": "Wat je logboek, je lichaam en je wearable je vertellen.",
+        "en": "What your logbook, your body and your wearable tell you."
+      }
+    },
+    {
+      "title": {
+        "nl": "Meer trainen is niet altijd meer progressie",
+        "en": "More training isn't always more progress"
+      },
+      "text": {
+        "nl": "Na een periode van overtraining stond mijn testosteron op 8,8 nmol/L. Net binnen het bereik, dus op papier 'normaal'. Overtraining is wekenlang meer trainen dan je herstelt, tot je prestaties dalen en de moeheid niet meer weggaat. Testosteron is het belangrijkste mannelijke geslachtshormoon; vrouwen maken het ook, in kleinere hoeveelheden. Het speelt een rol bij je spieren, je botten en je zin in seks.",
+        "en": "After a period of overtraining, my testosterone was 8.8 nmol/L. Just inside the range, so 'normal' on paper. Overtraining means training more than you recover from, for weeks, until your performance drops and the tiredness doesn't go away. Testosterone is the main male sex hormone; women make it too, in smaller amounts. It plays a part in your muscles, your bones and your sex drive."
+      },
+      "after": {
+        "nl": "In een overzicht van 38 studies waren de hormoonwaarden in rust bij overtrainde sporters meestal normaal. Een bloedtest alleen laat dus niet zien of je overtraind bent. Je logboek en hoe je je voelt zeggen meer, net als de getallen hieronder. Bespreek een afwijkende waarde altijd met je huisarts.",
+        "en": "In a review of 38 studies, the resting hormone levels of overtrained athletes were mostly normal. So a blood test alone won't tell you whether you're overtrained. Your logbook and how you feel tell you more, and so do the numbers below. Always discuss an abnormal result with your GP."
+      },
+      "sources": [
+        {
+          "pmid": "28785411"
+        }
+      ]
+    },
+    {
+      "title": {
+        "nl": "Vier signalen dat je hersteld bent",
+        "en": "Four signs you've recovered"
+      },
+      "text": {
+        "nl": "Spierpijn die een dag of twee na de training opkomt, heet DOMS: delayed onset muscle soreness, uitgestelde spierpijn. HRV (hartslagvariabiliteit) is het kleine verschil in tijd tussen je hartslagen. Een hogere HRV betekent meestal dat je lichaam goed hersteld is; hij zakt vaak na een korte nacht of een drukke week. Je rusthartslag is hoe vaak je hart per minuut klopt als je helemaal in rust bent. Lees ze in deze volgorde:",
+        "en": "Muscle soreness that starts a day or two after training is called DOMS: delayed onset muscle soreness. HRV (heart rate variability) is the small variation in time between your heartbeats. A higher HRV usually means your body has recovered well; it often drops after a short night or a stressful week. Your resting heart rate is how many times your heart beats per minute when you're fully at rest. Read them in this order:"
+      },
+      "items": [
+        {
+          "nl": "Je logboek. Haal je hetzelfde gewicht en dezelfde herhalingen als vorige keer? Dan is die spier genoeg hersteld. Twee trainingen op rij minder herhalingen? Neem dan een extra rustdag voor je iets toevoegt.",
+          "en": "Your logbook. Can you match last session's weight and reps? Then that muscle has recovered enough. Fewer reps two sessions in a row? Then take an extra rest day before you add anything."
+        },
+        {
+          "nl": "Spierpijn. Lichte spierpijn die tijdens je warming-up wegtrekt, is geen reden om een training over te slaan. Hoeveel pijn je hebt, zegt weinig over hoeveel schade je spier heeft.",
+          "en": "Soreness. Mild soreness that fades during your warm-up is no reason to skip a session. How sore you are says little about how much your muscle was damaged."
+        },
+        {
+          "nl": "HRV. Vergelijk hem met je eigen gemiddelde over de afgelopen week. Eén lage nacht zegt weinig.",
+          "en": "HRV. Compare it with your own average over the past week. One low night says little."
+        },
+        {
+          "nl": "Rusthartslag. Een paar ochtenden op rij duidelijk boven je normale waarde, en voel je je lusteloos? Doe dan zone 2 in plaats van intervallen, of neem een rustdag.",
+          "en": "Resting heart rate. Several mornings in a row clearly above your normal, and you feel flat? Then swap intervals for zone 2, or take a rest day."
+        },
+        {
+          "nl": "Twee of drie signalen samen zeggen meer dan één getal op zichzelf.",
+          "en": "Two or three signs together count for more than one number on its own."
+        }
+      ],
+      "after": {
+        "nl": "Bij 110 mannen hing spierpijn na de training nauwelijks samen met andere tekenen van spierschade, zoals krachtverlies en zwelling. HRV-onderzoekers adviseren naar gemiddelden over meerdere dagen te kijken. In 11 studies daalde de HRV na slaaptekort, en in de meeste van 37 studies veranderde hij bij stress. Trainen op je dagelijkse HRV gaf een betere HRV en minder mensen die slecht reageerden, maar de winst in conditie was klein en onzeker; dat onderzoek gaat vooral over duurtraining. Bij wedstrijdsporters ging de rusthartslag na hooguit 2 weken extra zwaar trainen matig omhoog. De veranderingen waren klein, vaak binnen de gewone schommelingen van dag tot dag, dus de onderzoekers adviseren ze naast andere signalen te lezen. De rusthartslag en HRV 's nachts van Oura en WHOOP kwamen bij 13 volwassenen in 536 nachten dicht bij een ECG (een hartfilmpje).",
+        "en": "In 110 men, soreness after training barely matched other signs of muscle damage, such as loss of strength and swelling. HRV researchers advise looking at averages over several days. Across 11 studies, HRV dropped after sleep loss, and in most of 37 studies it changed with stress. Adjusting training to daily HRV gave a better HRV and fewer people who responded badly, but the gain in fitness was small and uncertain; that research is mostly in endurance training. In competitive athletes, up to 2 weeks of extra-hard training raised resting heart rate moderately. The changes were small, often within normal day-to-day swings, so the researchers advise reading them next to other signs. Night-time resting heart rate and HRV from Oura and WHOOP came close to an ECG (a heart trace) in 13 adults over 536 nights."
+      },
+      "sources": [
+        {
+          "pmid": "12453160"
+        },
+        {
+          "pmid": "23852425"
+        },
+        {
+          "pmid": "40895095"
+        },
+        {
+          "pmid": "29486547"
+        },
+        {
+          "pmid": "34639599"
+        },
+        {
+          "pmid": "18308872"
+        },
+        {
+          "pmid": "40834291"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "nl": "Kies de week van 3 of van 2 dagen, schrijf elke set op en volg de progressieregel 8 weken. Kijk dan terug. Gaan je getallen omhoog? Ga zo door. Lopen ze vast, kijk dan eerst naar je slaap, je eten en je herstel. Daarbij helpen de getallen van een wearable, naast hoe je je voelt. In de trial leggen we je training naast je eigen data, zoals je HRV, rusthartslag en slaap, en passen we je week aan. Bespreek een afwijkende waarde altijd met je huisarts.",
+    "en": "Pick the 3-day or the 2-day week, write down every set and follow the progression rule for 8 weeks. Then look back. Are your numbers going up? Keep going. If they stall, look at your sleep, your food and your recovery first. The numbers from a wearable help with that, next to how you feel. In the trial we put your training next to your own data, such as your HRV, resting heart rate and sleep, and adjust your week. Always discuss an abnormal result with your GP."
+  },
+  "cta": {
+    "button_url": "#start-trial",
+    "title": {
+      "nl": "Stem je training af op je herstel",
+      "en": "Time your training to your recovery"
+    },
+    "steps": {
+      "nl": [
+        [
+          "Aanmelden",
+          "Klik op de knop en laat je gegevens achter."
+        ],
+        [
+          "Koppelen",
+          "Koppel je wearable. Heb je er geen? Dan regelen we een WHOOP trial van 30 dagen voor je."
+        ],
+        [
+          "Analyse",
+          "We lezen 30+ waarden uit, zoals je HRV, rusthartslag en slaap, en zien hoe je herstelt van je trainingsweek. Je krijgt je protocol per video."
+        ],
+        [
+          "Opvolging",
+          "In een call kijken we of je op tijd herstelt en progressie blijft maken."
+        ]
+      ],
+      "en": [
+        [
+          "Sign up",
+          "Click the button and leave your details."
+        ],
+        [
+          "Connect",
+          "Link your wearable. Don't have one? We arrange a 30-day WHOOP trial for you."
+        ],
+        [
+          "Analyse",
+          "We read 30+ biometrics, like your HRV, resting heart rate and sleep, and see how you recover from your training week. You get your protocol by video."
+        ],
+        [
+          "Follow-up",
+          "A call to see whether you recover in time and keep making progress."
+        ]
+      ]
+    }
+  }
+}

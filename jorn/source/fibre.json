@@ -1,0 +1,1110 @@
+{
+  "slug": "fibre",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "title": {
+    "en": "More fibre, without the bloating",
+    "nl": "Meer vezels, zonder opgeblazen buik"
+  },
+  "subtitle": {
+    "en": "Your gut is like a muscle: you build it up. A 6-week plan, with the research behind every step.",
+    "nl": "Je darm is net een spier: bouw het rustig op. Een schema van 6 weken, met het onderzoek bij elke stap."
+  },
+  "description": {
+    "en": "Jorn Kirkels on eating more fibre without a bloated belly: a 6-week build-up, why fibre bloats at first, which fibre to start with, and the research behind every step.",
+    "nl": "Jorn Kirkels over meer vezels eten zonder opgeblazen buik: een opbouwschema van 6 weken, waarom vezels in het begin opblazen, met welke vezels je begint, en het onderzoek bij elke stap."
+  },
+  "intro": {
+    "en": "Fibre is the food trend after protein. Many people add a lot of it at once, have a bloated belly within days and give up. Usually they went too fast. I eat more than 50 grams of fibre a day, and it was one of the three changes that brought my LDL cholesterol from 4.35 to 1.42. Right below is a plan to build up in 6 weeks without the bloating. Then why fibre bloats at first, which fibre to start with, and when it's something else. Under every step is the research, including where it's weak.",
+    "nl": "Vezels zijn de voedingstrend na eiwit. Veel mensen gaan er in één keer veel van eten, hebben binnen een paar dagen een opgeblazen buik en stoppen ermee. Meestal gingen ze te snel. Zelf eet ik meer dan 50 gram vezels per dag, en dat was een van de drie veranderingen waardoor mijn LDL-cholesterol van 4,35 naar 1,42 ging. Direct hieronder staat een schema om in 6 weken op te bouwen zonder opgeblazen buik. Daarna lees je waarom vezels in het begin opblazen, met welke vezels je begint en wanneer het iets anders is. Onder elke stap staat het onderzoek, ook waar het zwak is."
+  },
+  "sections": [
+    {
+      "kind": "group",
+      "eyebrow": {
+        "en": "Part 1",
+        "nl": "Deel 1"
+      },
+      "title": {
+        "en": "Your 6-week build-up",
+        "nl": "Je opbouw in 6 weken"
+      },
+      "subtitle": {
+        "en": "About 5 grams more each week, one food at a time.",
+        "nl": "Elke week zo'n 5 gram meer, één ding tegelijk."
+      }
+    },
+    {
+      "title": {
+        "en": "Build it up like training",
+        "nl": "Bouw het op zoals training"
+      },
+      "text": {
+        "en": "Fibre is the part of plant food your gut can't digest. The best way to see it: your gut is a muscle. Just like in the gym: if you've never been, you don't do a 20 kg curl in one go; you build up. If you add fibre too fast, you're trying to lift that 20 kg dumbbell while your gut can only handle 12 kg, and everything comes loose. So add about 5 grams a week, one food at a time. Dutch adults eat 21 grams a day on average. Start there, and you're at 50 grams after 6 weeks. Over time you can go to 40 to 60 grams a day. That's above the Dutch Health Council's advice; why I aim there is in part 4.",
+        "nl": "Vezels zijn het deel van plantaardig eten dat je darm niet kan verteren. Zie je darm het best als een spier. Net als in de gym: ben je er nog nooit geweest, dan doe je niet in één keer een curl met 20 kilo; je bouwt het op. Voeg je te snel vezels toe, dan probeer je die dumbbell van 20 kilo te tillen terwijl je darm maar 12 kilo aankan, en dan gaat alles mis. Voeg dus elke week zo'n 5 gram toe, één ding tegelijk. Volwassenen in Nederland eten gemiddeld 21 gram per dag. Begin je daar, dan zit je na 6 weken op 50 gram. Op termijn kun je naar 40 tot 60 gram per dag. Dat is meer dan de Gezondheidsraad adviseert; waarom ik daarop mik, lees je in deel 4."
+      },
+      "bars": {
+        "title": {
+          "en": "Fibre a day in grams, if you start at 20",
+          "nl": "Vezels per dag in gram, als je bij 20 begint"
+        },
+        "max": 60,
+        "items": [
+          {
+            "label": {
+              "en": "Now",
+              "nl": "Nu"
+            },
+            "value": 20,
+            "display": "20"
+          },
+          {
+            "label": {
+              "en": "Week 1",
+              "nl": "Week 1"
+            },
+            "value": 25,
+            "display": "25"
+          },
+          {
+            "label": {
+              "en": "Week 2",
+              "nl": "Week 2"
+            },
+            "value": 30,
+            "display": "30"
+          },
+          {
+            "label": {
+              "en": "Week 3",
+              "nl": "Week 3"
+            },
+            "value": 35,
+            "display": "35"
+          },
+          {
+            "label": {
+              "en": "Week 4",
+              "nl": "Week 4"
+            },
+            "value": 40,
+            "display": "40"
+          },
+          {
+            "label": {
+              "en": "Week 5",
+              "nl": "Week 5"
+            },
+            "value": 45,
+            "display": "45"
+          },
+          {
+            "label": {
+              "en": "Week 6",
+              "nl": "Week 6"
+            },
+            "value": 50,
+            "display": "50"
+          }
+        ],
+        "caption": {
+          "en": "Start from your own number: write down what you eat on three normal days and add up the grams. All amounts are rounded.",
+          "nl": "Begin bij je eigen getal: schrijf drie gewone dagen op wat je eet en tel de grammen op. Alle hoeveelheden zijn afgerond."
+        }
+      },
+      "markers": [
+        {
+          "name": {
+            "en": "Week 1: about 25 g",
+            "nl": "Week 1: ongeveer 25 gram"
+          },
+          "note": {
+            "en": "Add 40 g of oats at breakfast: about 4 g of fibre. Your day: oats for breakfast, your usual lunch and dinner.",
+            "nl": "Voeg 40 gram havermout toe aan je ontbijt: ongeveer 4 gram vezels. Je dag: havermout als ontbijt, je gewone lunch en avondeten."
+          }
+        },
+        {
+          "name": {
+            "en": "Week 2: about 30 g",
+            "nl": "Week 2: ongeveer 30 gram"
+          },
+          "note": {
+            "en": "Add 2 green kiwis, at breakfast or as a snack: about 4 to 5 g. Your day: oats with 2 kiwis, your usual lunch and dinner.",
+            "nl": "Voeg 2 groene kiwi's toe, bij je ontbijt of als tussendoortje: ongeveer 4 tot 5 gram. Je dag: havermout met 2 kiwi's, je gewone lunch en avondeten."
+          }
+        },
+        {
+          "name": {
+            "en": "Week 3: about 35 g",
+            "nl": "Week 3: ongeveer 35 gram"
+          },
+          "note": {
+            "en": "Add 150 g of cooked carrots or green beans to dinner: about 4 to 5 g. Your day: oats with kiwis, your usual lunch, dinner with an extra portion of cooked vegetables.",
+            "nl": "Voeg 150 gram gekookte wortels of sperziebonen toe aan je avondeten: ongeveer 4 tot 5 gram. Je dag: havermout met kiwi's, je gewone lunch, avondeten met een extra portie gekookte groente."
+          }
+        },
+        {
+          "name": {
+            "en": "Week 4: about 40 g",
+            "nl": "Week 4: ongeveer 40 gram"
+          },
+          "note": {
+            "en": "Add 5 g of psyllium husk, stirred into yoghurt or a large glass of water: about 4 g. Psyllium is the husk of a plant seed that forms a gel with water; read the line about it in part 3 first. Your day: as in week 3, with psyllium in the morning.",
+            "nl": "Voeg 5 gram psylliumvezels toe, door je yoghurt of in een groot glas water: ongeveer 4 gram. Psyllium is het vliesje om een plantenzaadje dat met water een gel vormt; lees eerst de regel erover in deel 3. Je dag: zoals in week 3, met psyllium in de ochtend."
+          }
+        },
+        {
+          "name": {
+            "en": "Week 5: about 45 g",
+            "nl": "Week 5: ongeveer 45 gram"
+          },
+          "note": {
+            "en": "Add 15 g of chia seeds, a heaped tablespoon, soaked in yoghurt or stirred into your oats: about 5 g. Your day: oats with kiwis and chia, your usual lunch, dinner with extra vegetables, psyllium.",
+            "nl": "Voeg 15 gram chiazaad toe, een volle eetlepel, geweekt in yoghurt of door je havermout: ongeveer 5 gram. Je dag: havermout met kiwi's en chia, je gewone lunch, avondeten met extra groente, psyllium."
+          }
+        },
+        {
+          "name": {
+            "en": "Week 6: about 50 g",
+            "nl": "Week 6: ongeveer 50 gram"
+          },
+          "note": {
+            "en": "Add 60 g of cooked lentils or chickpeas, about 4 tablespoons, to lunch or dinner: about 5 g. Your day: everything above, plus lentils or chickpeas.",
+            "nl": "Voeg 60 gram gekookte linzen of kikkererwten toe, ongeveer 4 eetlepels, aan je lunch of avondeten: ongeveer 5 gram. Je dag: alles hierboven, plus linzen of kikkererwten."
+          }
+        },
+        {
+          "name": {
+            "en": "After week 6",
+            "nl": "Na week 6"
+          },
+          "note": {
+            "en": "Stay at this level for a few weeks. Is your gut calm? Then swap white bread, pasta and rice for wholegrain to move towards 60 g.",
+            "nl": "Blijf een paar weken op dit niveau. Is je darm rustig? Ruil dan wit brood, pasta en rijst voor volkoren om richting 60 gram te gaan."
+          }
+        }
+      ],
+      "after": {
+        "en": "Why the slow build-up? When 20 healthy people took a fast-fermenting fibre every day, they passed wind 18 times a day at first instead of 12. After 3 weeks it was down to 11, while they kept taking it. Their gut bacteria had adapted. Drink an extra glass of water with every step too: fibre holds water. More on that in part 3.",
+        "nl": "Waarom zo rustig opbouwen? Toen 20 gezonde mensen elke dag een vezel namen die snel vergist, lieten ze eerst 18 keer per dag een wind in plaats van 12. Na 3 weken was dat 11, terwijl ze hem bleven nemen. Hun darmbacteriën hadden zich aangepast. Drink bij elke stap ook een extra glas water: vezels houden water vast. Meer daarover in deel 3."
+      },
+      "sources": [
+        {
+          "label": {
+            "en": "RIVM: Dutch National Food Consumption Survey 2019-2021, fibre",
+            "nl": "RIVM: Voedselconsumptiepeiling 2019-2021, vezel"
+          },
+          "note": {
+            "en": "Dutch adults eat 21 g of fibre a day on average: men 23 g, women 18 g",
+            "nl": "Volwassenen in Nederland eten gemiddeld 21 gram vezels per dag: mannen 23 gram, vrouwen 18 gram"
+          },
+          "url": "https://www.wateetnederland.nl/resultaten/energie-en-macronutrienten/vezel"
+        },
+        {
+          "pmid": "28078750"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "When your belly reacts",
+        "nl": "Als je buik reageert"
+      },
+      "text": {
+        "en": "A bit more wind in the first days is normal. In studies it eased within 1 to 3 weeks while people kept eating the same amount. When it's more than a bit, the steps are simple.",
+        "nl": "Iets meer winden in de eerste dagen is normaal. In onderzoek werd het binnen 1 tot 3 weken minder, terwijl mensen evenveel bleven eten. Is het meer dan een beetje, dan zijn de stappen simpel."
+      },
+      "items": [
+        {
+          "en": "Add one food at a time and give it a full week. Then you know what your gut reacts to.",
+          "nl": "Voeg één ding tegelijk toe en geef het een hele week. Dan weet je waar je darm op reageert."
+        },
+        {
+          "en": "Too much wind, cramps or a tight, bloated belly? Go back one step and stay there for a week. You should notice it gets less. Then build up again.",
+          "nl": "Te veel winden, krampen of een strakke, opgeblazen buik? Ga een stap terug en blijf daar een week. Je zou moeten merken dat het minder wordt. Bouw daarna weer op."
+        },
+        {
+          "en": "Still bloated after a week at the lower step? Then the type of fibre may matter more than the amount. Swap the last food you added for another one from this page, such as kiwi for lentils.",
+          "nl": "Na een week op de lagere stap nog steeds opgeblazen? Dan telt het soort vezel misschien meer dan de hoeveelheid. Ruil het laatste wat je toevoegde voor iets anders van deze pagina, zoals kiwi in plaats van linzen."
+        },
+        {
+          "en": "Pain, blood, or a change in your stools that stays? That doesn't fit with building up. See part 5.",
+          "nl": "Pijn, bloed, of ontlasting die blijvend anders is? Dat past niet bij opbouwen. Kijk bij deel 5."
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "22104320"
+        },
+        {
+          "pmid": "28078750"
+        },
+        {
+          "label": {
+            "en": "EMA (2013): EU herbal monograph on psyllium husk",
+            "nl": "EMA (2013): Europese monografie over psylliumvezels"
+          },
+          "note": {
+            "en": "At least 30 ml of water per gram, not just before bed, apart from medicines; 85% soluble fibre; wind usually passes during use; about 7% lower LDL",
+            "nl": "Minstens 30 ml water per gram, niet vlak voor het slapen, apart van medicijnen; 85% oplosbare vezels; winderigheid gaat meestal over tijdens gebruik; zo'n 7% lager LDL"
+          },
+          "url": "https://www.ema.europa.eu/en/medicines/herbal/plantaginis-ovatae-seminis-tegumentum"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "en": "Part 2",
+        "nl": "Deel 2"
+      },
+      "title": {
+        "en": "Why fibre bloats at first",
+        "nl": "Waarom vezels in het begin opblazen"
+      },
+      "subtitle": {
+        "en": "What happens in your gut, and why it gets better.",
+        "nl": "Wat er in je darm gebeurt, en waarom het beter wordt."
+      }
+    },
+    {
+      "title": {
+        "en": "What almost nobody knows",
+        "nl": "Wat bijna niemand weet"
+      },
+      "text": {
+        "en": "Five findings about fibre and your gut, each with a number and what to do with it.",
+        "nl": "Vijf bevindingen over vezels en je darm, elk met een getal en wat je ermee doet."
+      },
+      "facts": [
+        {
+          "stat": {
+            "en": "3 weeks",
+            "nl": "3 weken"
+          },
+          "title": {
+            "en": "The extra wind went away while people kept going",
+            "nl": "De extra winden verdwenen terwijl mensen doorgingen"
+          },
+          "text": {
+            "en": "Fermentation is how your gut bacteria break down fibre you can't digest yourself. It makes gas. 20 healthy people took 2.8 g a day of a prebiotic: a fibre meant to feed your gut bacteria, which ferments fast. In the first days they passed wind 18 times a day instead of 12. After 3 weeks it was 11, while they still took it every day. Their bacteria had adapted. So a bit more wind at the start is no reason to stop.",
+            "nl": "Vergisting, ook wel fermentatie, is hoe je darmbacteriën vezels afbreken die je zelf niet kunt verteren. Daarbij ontstaat gas. 20 gezonde mensen namen elke dag 2,8 gram van een prebioticum: een vezel die je darmbacteriën voedt en snel vergist. De eerste dagen lieten ze 18 keer per dag een wind in plaats van 12. Na 3 weken was dat 11, terwijl ze het nog elke dag namen. Hun bacteriën hadden zich aangepast. Iets meer winden in het begin is dus geen reden om te stoppen."
+          },
+          "label": {
+            "en": "Study of 20 people, partly by the maker",
+            "nl": "Studie met 20 mensen, deels door de fabrikant"
+          }
+        },
+        {
+          "stat": "6%",
+          "title": {
+            "en": "Wind from beans: half in week 1, 6% in week 2",
+            "nl": "Winden van bonen: de helft in week 1, 6% in week 2"
+          },
+          "text": {
+            "en": "In three trials, adults ate half a cup of beans a day, about 90 grams, for 8 to 12 weeks. With pinto beans, half noticed more wind in the first week. In the second week, 6% did. Most people who had more wind felt it was gone by week 2 or 3. With black-eyed beans only 19% noticed anything in week 1. So beans get easier if you keep going.",
+            "nl": "In drie trials aten volwassenen 8 tot 12 weken lang elke dag een half kopje bonen, zo'n 90 gram. Met pintobonen merkte de helft in de eerste week meer winden. In de tweede week was dat 6%. De meeste mensen met meer winden vonden dat het in week 2 of 3 over was. Met zwartoogbonen merkte maar 19% iets in week 1. Bonen worden dus makkelijker als je doorgaat."
+          },
+          "label": {
+            "en": "3 trials with beans",
+            "nl": "3 trials met bonen"
+          }
+        },
+        {
+          "stat": "0.7 L",
+          "title": {
+            "en": "Passing up to 1.5 litres of gas a day is normal",
+            "nl": "Tot 1,5 liter gas per dag is normaal"
+          },
+          "text": {
+            "en": "10 healthy people ate their normal diet plus 200 g of baked beans. Over 24 hours they passed 0.5 to 1.5 litres of gas, 0.7 litres in the middle. On a fibre-free liquid diet for 2 days it fell to about 0.2 litres, and the gases from fermentation almost disappeared. So most of your wind comes from bacteria feeding on fibre. Wind on its own isn't a sign that something's wrong.",
+            "nl": "10 gezonde mensen aten hun gewone eten plus 200 gram witte bonen in tomatensaus. In 24 uur lieten ze 0,5 tot 1,5 liter gas, in het midden 0,7 liter. Met 2 dagen vloeibare voeding zonder vezels zakte dat naar ongeveer 0,2 liter, en de gassen uit vergisting verdwenen bijna. De meeste winden komen dus van bacteriën die vezels eten. Winden alleen zijn geen teken dat er iets mis is."
+          },
+          "label": {
+            "en": "Study of 10 healthy people",
+            "nl": "Studie met 10 gezonde mensen"
+          }
+        },
+        {
+          "stat": "80%",
+          "title": {
+            "en": "Psyllium cut the gas from inulin by about 80%",
+            "nl": "Psyllium haalde het gas van inuline met zo'n 80% omlaag"
+          },
+          "text": {
+            "en": "Inulin is a fibre from chicory root that's added to many high-fibre products. It ferments fast. Psyllium ferments slowly. In 19 people with IBS (irritable bowel syndrome: a sensitive gut with pain and changing stools), 20 g of inulin filled the large intestine with gas on an MRI scan, a scan that shows the inside of your body. Taken together with 20 g of psyllium, there was about 80% less gas. Check labels for inulin, chicory fibre and oligofructose.",
+            "nl": "Inuline is een vezel uit cichoreiwortel die aan veel vezelrijke producten wordt toegevoegd. Het vergist snel. Psyllium vergist langzaam. Bij 19 mensen met PDS (prikkelbaredarmsyndroom: een gevoelige darm met buikpijn en wisselende ontlasting) vulde 20 gram inuline de dikke darm met gas op een MRI-scan, een scan die de binnenkant van je lichaam laat zien. Samen met 20 gram psyllium was er zo'n 80% minder gas. Kijk op etiketten naar inuline, cichoreivezel en oligofructose."
+          },
+          "label": {
+            "en": "MRI study, 19 people with IBS",
+            "nl": "MRI-studie, 19 mensen met PDS"
+          }
+        },
+        {
+          "stat": "57%",
+          "title": {
+            "en": "In Dutch GP practices, psyllium helped from the first month",
+            "nl": "Bij Nederlandse huisartsen hielp psyllium vanaf de eerste maand"
+          },
+          "text": {
+            "en": "Soluble fibre dissolves in water, like psyllium. Insoluble fibre doesn't, like wheat bran. 275 people with IBS took 10 g a day of psyllium, bran or a dummy powder for 12 weeks. In the first month, 57% on psyllium had enough relief, against 35% on the dummy. Bran only did better than the dummy in the third month, and not in every analysis. Most early drop-outs were in the bran group, mainly because their complaints got worse. So go easy on bran at the start.",
+            "nl": "Oplosbare vezels lossen op in water, zoals psyllium. Onoplosbare vezels niet, zoals tarwezemelen. 275 mensen met PDS namen 12 weken lang elke dag 10 gram psyllium, zemelen of een neppoeder. In de eerste maand had 57% met psyllium genoeg verlichting, tegen 35% met het neppoeder. Zemelen deden het alleen in de derde maand beter dan het neppoeder, en niet in elke analyse. De meeste mensen die vroeg stopten zaten in de zemelengroep, vooral omdat hun klachten erger werden. Doe dus rustig aan met zemelen in het begin."
+          },
+          "label": {
+            "en": "Trial in 275 people with IBS",
+            "nl": "Trial met 275 mensen met PDS"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "28078750"
+        },
+        {
+          "pmid": "22104320"
+        },
+        {
+          "pmid": "1648028"
+        },
+        {
+          "pmid": "34353864"
+        },
+        {
+          "pmid": "19713235"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "What fibre does in your gut",
+        "nl": "Wat vezels in je darm doen"
+      },
+      "text": {
+        "en": "Your small intestine absorbs most of what you eat. Fibre passes through and reaches your large intestine, where most of your gut bacteria live. What happens there depends on the type of fibre:",
+        "nl": "Je dunne darm neemt het meeste op van wat je eet. Vezels gaan erdoorheen en komen in je dikke darm, waar de meeste darmbacteriën wonen. Wat daar gebeurt, hangt af van het soort vezel:"
+      },
+      "items": [
+        {
+          "en": "Soluble fibre dissolves in water. Some kinds, as in oats and psyllium, form a gel that holds water and makes your stools softer.",
+          "nl": "Oplosbare vezels lossen op in water. Sommige soorten, zoals in havermout en psyllium, vormen een gel die water vasthoudt en je ontlasting zachter maakt."
+        },
+        {
+          "en": "Insoluble fibre doesn't dissolve, as in wheat bran and the skins of seeds. It adds bulk.",
+          "nl": "Onoplosbare vezels lossen niet op, zoals in tarwezemelen en de schil van zaden. Ze geven volume."
+        },
+        {
+          "en": "Your gut bacteria ferment part of the fibre: they break it down as food. That gives short-chain fatty acids, small fats your body takes up and uses, and gas: mostly hydrogen and carbon dioxide, and in some people methane.",
+          "nl": "Je darmbacteriën vergisten een deel van de vezels: ze breken het af als voedsel. Dat geeft korteketenvetzuren, kleine vetten die je lichaam opneemt en gebruikt, en gas: vooral waterstof en koolzuur, en bij sommige mensen methaan."
+        },
+        {
+          "en": "Some fibres ferment fast, such as inulin and the sugar chains in beans, and make a lot of gas in a short time. Others, such as psyllium, ferment slowly and only in part.",
+          "nl": "Sommige vezels vergisten snel, zoals inuline en de suikerketens in bonen, en maken in korte tijd veel gas. Andere, zoals psyllium, vergisten langzaam en maar voor een deel."
+        },
+        {
+          "en": "Gas stretches your gut. Most people barely feel it. With a sensitive gut you feel it sooner, as bloating, cramps or pain.",
+          "nl": "Gas rekt je darm op. De meeste mensen voelen dat nauwelijks. Met een gevoelige darm voel je het sneller, als een opgeblazen gevoel, krampen of pijn."
+        }
+      ],
+      "after": {
+        "en": "A large review of fibre and gut health sums it up: how a fibre behaves depends on how well it dissolves, how thick a gel it forms and how fast it ferments, and that differs by source and processing. In a lab test with stool from people with IBS, inulin made more gas than psyllium. In 16 healthy people, 40 g of inulin clearly filled the large intestine with gas on an MRI scan, yet gave few complaints. So gas is normal; how much you feel it differs from person to person.",
+        "nl": "Een groot overzicht van vezels en darmgezondheid vat het samen: hoe een vezel zich gedraagt, hangt af van hoe goed hij oplost, hoe dik de gel is die hij vormt en hoe snel hij vergist, en dat verschilt per bron en bewerking. In een labtest met ontlasting van mensen met PDS maakte inuline meer gas dan psyllium. Bij 16 gezonde mensen vulde 40 gram inuline de dikke darm duidelijk met gas op een MRI-scan, maar het gaf weinig klachten. Gas is dus normaal; hoeveel je ervan voelt, verschilt per persoon."
+      },
+      "sources": [
+        {
+          "pmid": "33208922"
+        },
+        {
+          "pmid": "1648028"
+        },
+        {
+          "pmid": "34353864"
+        },
+        {
+          "pmid": "24247211"
+        },
+        {
+          "label": {
+            "en": "EMA (2013): EU herbal monograph on psyllium husk",
+            "nl": "EMA (2013): Europese monografie over psylliumvezels"
+          },
+          "note": {
+            "en": "At least 30 ml of water per gram, not just before bed, apart from medicines; 85% soluble fibre; wind usually passes during use; about 7% lower LDL",
+            "nl": "Minstens 30 ml water per gram, niet vlak voor het slapen, apart van medicijnen; 85% oplosbare vezels; winderigheid gaat meestal over tijdens gebruik; zo'n 7% lager LDL"
+          },
+          "url": "https://www.ema.europa.eu/en/medicines/herbal/plantaginis-ovatae-seminis-tegumentum"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): irritable bowel syndrome",
+            "nl": "Thuisarts: prikkelbare-darm-syndroom"
+          },
+          "note": {
+            "en": "When to see your GP, how a sensitive gut works, why not to cut out many foods yourself",
+            "nl": "Wanneer naar de huisarts, hoe een gevoelige darm werkt, waarom je niet zelf veel eten moet schrappen"
+          },
+          "url": "https://www.thuisarts.nl/pds/ik-heb-prikkelbare-darm-syndroom"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "FODMAPs: what ferments fastest",
+        "nl": "FODMAP's: wat het snelst vergist"
+      },
+      "text": {
+        "en": "FODMAP stands for fermentable oligo-, di- and monosaccharides and polyols: short sugar chains and sugar alcohols that your small intestine absorbs poorly. Not all of them are fibre, but they act in a similar way. They pull water into your small intestine and reach your large intestine fast, where bacteria ferment them quickly. The main groups:",
+        "nl": "FODMAP staat voor fermenteerbare oligo-, di- en monosachariden en polyolen: korte suikerketens en suikeralcoholen die je dunne darm slecht opneemt. Niet allemaal zijn het vezels, maar ze werken op een vergelijkbare manier. Ze trekken water je dunne darm in en komen snel in je dikke darm, waar bacteriën ze snel vergisten. De belangrijkste groepen:"
+      },
+      "numbered": false,
+      "items": [
+        {
+          "en": "Fructans: chains of fructose, in wheat, onion and garlic. Inulin from chicory root is one of them.",
+          "nl": "Fructanen: ketens van fructose, in tarwe, ui en knoflook. Inuline uit cichoreiwortel is er een van."
+        },
+        {
+          "en": "Galacto-oligosaccharides (GOS): sugar chains in beans, lentils and chickpeas.",
+          "nl": "Galacto-oligosachariden (GOS): suikerketens in bonen, linzen en kikkererwten."
+        },
+        {
+          "en": "Lactose: the sugar in milk, for people who don't digest it well.",
+          "nl": "Lactose: de suiker in melk, bij mensen die die slecht verteren."
+        },
+        {
+          "en": "Extra fructose: fruit sugar in fruits that have more of it than glucose, such as apple, pear, mango and watermelon.",
+          "nl": "Extra fructose: vruchtensuiker in fruit dat er meer van heeft dan glucose, zoals appel, peer, mango en watermeloen."
+        },
+        {
+          "en": "Polyols: sugar alcohols such as sorbitol, in some fruits and sugar-free sweets.",
+          "nl": "Polyolen: suikeralcoholen zoals sorbitol, in sommige fruitsoorten en suikervrij snoep."
+        }
+      ],
+      "after": {
+        "en": "On an MRI scan, fructose drew water into the small intestine, while inulin filled the large intestine with gas. A diet low in FODMAPs reduces gut complaints in people with IBS, and the complaints came back when the FODMAPs did. That diet is meant for a few months, with a dietitian, to find out what triggers you. Cutting out many foods on your own can leave you short of nutrients, and eating less fibre can even give you more complaints.",
+        "nl": "Op een MRI-scan trok fructose water de dunne darm in, terwijl inuline de dikke darm met gas vulde. Een dieet met weinig FODMAP's vermindert darmklachten bij mensen met PDS, en de klachten kwamen terug toen de FODMAP's terugkwamen. Dat dieet is bedoeld voor een paar maanden, met een diëtist, om uit te zoeken waar jij op reageert. Schrap je zelf veel soorten eten, dan krijg je misschien te weinig voedingsstoffen binnen, en van minder vezels kun je juist meer klachten krijgen."
+      },
+      "sources": [
+        {
+          "pmid": "20136989"
+        },
+        {
+          "pmid": "19123815"
+        },
+        {
+          "pmid": "24247211"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): eating well with IBS",
+            "nl": "Thuisarts: gezond eten bij het prikkelbare-darm-syndroom"
+          },
+          "note": {
+            "en": "Psyllium in yoghurt or water with an extra glass of water, 1.5 to 2 litres a day, the FODMAP diet only with a dietitian",
+            "nl": "Psyllium door yoghurt of in water met een extra glas water, 1,5 tot 2 liter per dag, het FODMAP-dieet alleen met een diëtist"
+          },
+          "url": "https://www.thuisarts.nl/pds/prikkelbare-darm-syndroom-gezond-eten"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): irritable bowel syndrome",
+            "nl": "Thuisarts: prikkelbare-darm-syndroom"
+          },
+          "note": {
+            "en": "When to see your GP, how a sensitive gut works, why not to cut out many foods yourself",
+            "nl": "Wanneer naar de huisarts, hoe een gevoelige darm werkt, waarom je niet zelf veel eten moet schrappen"
+          },
+          "url": "https://www.thuisarts.nl/pds/ik-heb-prikkelbare-darm-syndroom"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "en": "Part 3",
+        "nl": "Deel 3"
+      },
+      "title": {
+        "en": "Which fibre to start with",
+        "nl": "Met welke vezels je begint"
+      },
+      "subtitle": {
+        "en": "The gentle ones first, the fast fermenters later.",
+        "nl": "Eerst de rustige, de snelle vergisters later."
+      }
+    },
+    {
+      "title": {
+        "en": "Start with these",
+        "nl": "Begin hiermee"
+      },
+      "text": {
+        "en": "These four come first in the plan. Per food: what it gives you, and how strong the evidence is.",
+        "nl": "Deze vier komen als eerste in het schema. Per voedingsmiddel: wat het je geeft, en hoe sterk het bewijs is."
+      },
+      "markers": [
+        {
+          "name": {
+            "en": "Oats",
+            "nl": "Havermout"
+          },
+          "note": {
+            "en": "40 g gives about 4 g of fibre. Oats contain beta-glucan, a soluble fibre that forms a gel. In 28 trials, 3 g of oat beta-glucan a day lowered LDL cholesterol by 0.25 mmol/L. Oats are on this list for that. Whether they give fewer complaints than other grains has hardly been tested.",
+            "nl": "40 gram geeft ongeveer 4 gram vezels. Havermout bevat bètaglucaan, een oplosbare vezel die een gel vormt. In 28 trials verlaagde 3 gram bètaglucaan uit haver per dag het LDL-cholesterol met 0,25 mmol/L. Daarom staat havermout op deze lijst. Of het minder klachten geeft dan andere granen, is nauwelijks onderzocht."
+          }
+        },
+        {
+          "name": {
+            "en": "Green kiwi",
+            "nl": "Groene kiwi"
+          },
+          "note": {
+            "en": "Two a day give about 4 to 5 g. In a trial with 184 people in New Zealand, Italy and Japan, 2 green kiwis a day for 4 weeks gave people with constipation 1.5 more complete bowel movements a week and a calmer gut. In a US trial, kiwi gave the fewest side effects of kiwi, prunes and psyllium, and the kiwi group reported less bloating.",
+            "nl": "Twee per dag geven ongeveer 4 tot 5 gram. In een trial met 184 mensen in Nieuw-Zeeland, Italië en Japan gaven 2 groene kiwi's per dag, 4 weken lang, mensen met verstopping 1,5 keer per week vaker een volledige stoelgang en een rustigere buik. In een Amerikaanse trial gaf kiwi de minste bijwerkingen van kiwi, pruimen en psyllium, en de kiwigroep had minder last van een opgeblazen gevoel."
+          }
+        },
+        {
+          "name": {
+            "en": "Cooked vegetables",
+            "nl": "Gekookte groente"
+          },
+          "note": {
+            "en": "150 g of cooked carrots or green beans gives about 4 to 5 g. Start with vegetables such as carrots, green beans, courgette and spinach: cabbage, onion and garlic give some people more gas. Cooking makes vegetables softer. When 29 vegetables were steamed, part of the insoluble fibre turned soluble in 18 of them, and the fructans stayed. So cooking doesn't remove FODMAPs; which vegetable you choose counts.",
+            "nl": "150 gram gekookte wortels of sperziebonen geeft ongeveer 4 tot 5 gram. Begin met groente zoals wortel, sperziebonen, courgette en spinazie: van kool, ui en knoflook krijgen sommige mensen meer gas. Koken maakt groente zachter. Toen 29 groenten gestoomd werden, werd bij 18 een deel van de onoplosbare vezels oplosbaar, en de fructanen bleven. Koken haalt FODMAP's er dus niet uit; welke groente je kiest, telt."
+          }
+        },
+        {
+          "name": {
+            "en": "A small amount of psyllium",
+            "nl": "Een beetje psyllium"
+          },
+          "note": {
+            "en": "Psyllium husk is the husk of a plant seed. 85% of it is soluble fibre: it holds water, forms a gel and ferments slowly. Start with 5 g, about 4 g of fibre. In the Dutch GP trial, 10 g a day helped people with IBS. In the US trial, 12 g a day gave more side effects than kiwi or prunes. So start small.",
+            "nl": "Psylliumvezels zijn het vliesje om een plantenzaadje. 85% ervan is oplosbare vezel: het houdt water vast, vormt een gel en vergist langzaam. Begin met 5 gram, ongeveer 4 gram vezels. In de Nederlandse huisartsentrial hielp 10 gram per dag mensen met PDS. In de Amerikaanse trial gaf 12 gram per dag meer bijwerkingen dan kiwi of pruimen. Begin dus klein."
+          }
+        }
+      ],
+      "caution_label": {
+        "en": "Never start without data.",
+        "nl": "Start nooit zonder data."
+      },
+      "caution": {
+        "en": "The wrong amount of psyllium can make your complaints worse. Take at least 30 ml of water per gram, so 150 ml for 5 g, and an extra glass after. Not just before bed, and 30 to 60 minutes apart from medicines, because it can slow how your body takes them up. On thyroid or diabetes medication? Talk to your GP first. Trouble swallowing? Don't take it.",
+        "nl": "De verkeerde hoeveelheid psyllium kan je klachten erger maken. Neem minstens 30 ml water per gram, dus 150 ml bij 5 gram, en daarna een extra glas. Niet vlak voor het slapen, en 30 tot 60 minuten apart van medicijnen, omdat het kan vertragen hoe je lichaam ze opneemt. Gebruik je medicijnen voor je schildklier of diabetes? Overleg dan eerst met je huisarts. Moeite met slikken? Neem het dan niet."
+      },
+      "meta": {
+        "en": [
+          "Kiwi trial of 184 people: funded by a kiwifruit company"
+        ],
+        "nl": [
+          "Kiwitrial met 184 mensen: betaald door een kiwibedrijf"
+        ]
+      },
+      "sources": [
+        {
+          "pmid": "25411276"
+        },
+        {
+          "pmid": "36537785"
+        },
+        {
+          "pmid": "34074830"
+        },
+        {
+          "pmid": "29252035"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): abdominal pain in adults",
+            "nl": "Thuisarts: buikpijn bij volwassenen"
+          },
+          "note": {
+            "en": "Foods that cause gas, such as cabbage, beans, onion and garlic, and when to call your GP",
+            "nl": "Eten dat voor gas zorgt, zoals kool, bonen, uien en knoflook, en wanneer je de huisarts belt"
+          },
+          "url": "https://www.thuisarts.nl/buikpijn-bij-volwassenen/ik-heb-buikpijn"
+        },
+        {
+          "pmid": "19713235"
+        },
+        {
+          "label": {
+            "en": "EMA (2013): EU herbal monograph on psyllium husk",
+            "nl": "EMA (2013): Europese monografie over psylliumvezels"
+          },
+          "note": {
+            "en": "At least 30 ml of water per gram, not just before bed, apart from medicines; 85% soluble fibre; wind usually passes during use; about 7% lower LDL",
+            "nl": "Minstens 30 ml water per gram, niet vlak voor het slapen, apart van medicijnen; 85% oplosbare vezels; winderigheid gaat meestal over tijdens gebruik; zo'n 7% lager LDL"
+          },
+          "url": "https://www.ema.europa.eu/en/medicines/herbal/plantaginis-ovatae-seminis-tegumentum"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): eating well with IBS",
+            "nl": "Thuisarts: gezond eten bij het prikkelbare-darm-syndroom"
+          },
+          "note": {
+            "en": "Psyllium in yoghurt or water with an extra glass of water, 1.5 to 2 litres a day, the FODMAP diet only with a dietitian",
+            "nl": "Psyllium door yoghurt of in water met een extra glas water, 1,5 tot 2 liter per dag, het FODMAP-dieet alleen met een diëtist"
+          },
+          "url": "https://www.thuisarts.nl/pds/prikkelbare-darm-syndroom-gezond-eten"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Hold these back for now",
+        "nl": "Wacht hier nog even mee"
+      },
+      "text": {
+        "en": "These ferment fast, or often give complaints at the start. You don't have to avoid them for good. Add them from week 6, one at a time, in small amounts.",
+        "nl": "Deze vergisten snel, of geven in het begin vaak klachten. Je hoeft ze niet voorgoed te laten staan. Voeg ze toe vanaf week 6, één tegelijk, in kleine hoeveelheden."
+      },
+      "markers": [
+        {
+          "name": {
+            "en": "Beans, lentils and chickpeas",
+            "nl": "Bonen, linzen en kikkererwten"
+          },
+          "note": {
+            "en": "Rich in fibre and in GOS, sugar chains that ferment fast. With half a cup of beans a day, up to half the people noticed more wind in week 1; most found it was gone by week 2 or 3. Start with 3 to 4 tablespoons.",
+            "nl": "Rijk aan vezels en aan GOS, suikerketens die snel vergisten. Met een half kopje bonen per dag merkte tot de helft van de mensen meer winden in week 1; de meesten vonden dat het in week 2 of 3 over was. Begin met 3 tot 4 eetlepels."
+          }
+        },
+        {
+          "name": {
+            "en": "Chicory root fibre (inulin)",
+            "nl": "Cichoreivezel (inuline)"
+          },
+          "note": {
+            "en": "Added to many high-fibre breads, bars, yoghurts and shakes. On the label: inulin, chicory fibre, oligofructose or FOS. In 26 healthy adults, up to 10 g of inulin a day was well tolerated, but 10 g of oligofructose, a short-chain form, clearly gave more wind and bloating.",
+            "nl": "Toegevoegd aan veel vezelrijk brood, repen, yoghurt en shakes. Op het etiket: inuline, cichoreivezel, oligofructose of FOS. Bij 26 gezonde volwassenen ging tot 10 gram inuline per dag goed, maar 10 gram oligofructose, een vorm met kortere ketens, gaf duidelijk meer winden en een opgeblazen gevoel."
+          }
+        },
+        {
+          "name": {
+            "en": "Wheat bran",
+            "nl": "Tarwezemelen"
+          },
+          "note": {
+            "en": "Insoluble fibre. In the Dutch GP trial, most early drop-outs were in the bran group, mainly because their complaints got worse.",
+            "nl": "Onoplosbare vezels. In de Nederlandse huisartsentrial zaten de meeste mensen die vroeg stopten in de zemelengroep, vooral omdat hun klachten erger werden."
+          }
+        },
+        {
+          "name": {
+            "en": "Cabbage, onion and garlic",
+            "nl": "Kool, ui en knoflook"
+          },
+          "note": {
+            "en": "They give some people gas and pain, as do spicy food and nuts. They're healthy, so only cut down for a few weeks if you notice it every time.",
+            "nl": "Sommige mensen krijgen er gas en buikpijn van, net als van pittig eten en noten. Ze zijn gezond, dus eet er alleen een paar weken minder van als je het elke keer merkt."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "22104320"
+        },
+        {
+          "pmid": "20497775"
+        },
+        {
+          "pmid": "19713235"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): abdominal pain in adults",
+            "nl": "Thuisarts: buikpijn bij volwassenen"
+          },
+          "note": {
+            "en": "Foods that cause gas, such as cabbage, beans, onion and garlic, and when to call your GP",
+            "nl": "Eten dat voor gas zorgt, zoals kool, bonen, uien en knoflook, en wanneer je de huisarts belt"
+          },
+          "url": "https://www.thuisarts.nl/buikpijn-bij-volwassenen/ik-heb-buikpijn"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): eating well with IBS",
+            "nl": "Thuisarts: gezond eten bij het prikkelbare-darm-syndroom"
+          },
+          "note": {
+            "en": "Psyllium in yoghurt or water with an extra glass of water, 1.5 to 2 litres a day, the FODMAP diet only with a dietitian",
+            "nl": "Psyllium door yoghurt of in water met een extra glas water, 1,5 tot 2 liter per dag, het FODMAP-dieet alleen met een diëtist"
+          },
+          "url": "https://www.thuisarts.nl/pds/prikkelbare-darm-syndroom-gezond-eten"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Drink more as you go",
+        "nl": "Drink meer naarmate je opbouwt"
+      },
+      "text": {
+        "en": "Fibre holds water: psyllium can take up to 40 times its own weight. Drink too little, and more fibre can make constipation worse.",
+        "nl": "Vezels houden water vast: psyllium kan tot 40 keer zijn eigen gewicht opnemen. Drink je te weinig, dan kan meer vezels je verstopping juist erger maken."
+      },
+      "items": [
+        {
+          "en": "Drink 1.5 to 2 litres a day, about 6 to 10 glasses, mostly water or tea without sugar.",
+          "nl": "Drink 1,5 tot 2 liter per dag, ongeveer 6 tot 10 glazen, vooral water of thee zonder suiker."
+        },
+        {
+          "en": "Add one extra glass of water with every step of the plan, and an extra glass after psyllium.",
+          "nl": "Neem bij elke stap van het schema één glas water extra, en een extra glas na psyllium."
+        }
+      ],
+      "after": {
+        "en": "In a trial, 117 people with constipation ate about 25 g of fibre a day for two months. Both groups went to the toilet more often. The group told to drink 2 litres of water a day drank 2.1 litres on average, against 1.1 in the other group, and improved clearly more: more bowel movements and fewer laxatives.",
+        "nl": "In een trial aten 117 mensen met verstopping twee maanden lang ongeveer 25 gram vezels per dag. Beide groepen gingen vaker naar de wc. De groep die 2 liter water per dag moest drinken, dronk gemiddeld 2,1 liter, tegen 1,1 in de andere groep, en ging duidelijk meer vooruit: vaker ontlasting en minder laxeermiddelen."
+      },
+      "sources": [
+        {
+          "pmid": "9684123"
+        },
+        {
+          "label": {
+            "en": "EMA (2013): EU herbal monograph on psyllium husk",
+            "nl": "EMA (2013): Europese monografie over psylliumvezels"
+          },
+          "note": {
+            "en": "At least 30 ml of water per gram, not just before bed, apart from medicines; 85% soluble fibre; wind usually passes during use; about 7% lower LDL",
+            "nl": "Minstens 30 ml water per gram, niet vlak voor het slapen, apart van medicijnen; 85% oplosbare vezels; winderigheid gaat meestal over tijdens gebruik; zo'n 7% lager LDL"
+          },
+          "url": "https://www.ema.europa.eu/en/medicines/herbal/plantaginis-ovatae-seminis-tegumentum"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): eating well with IBS",
+            "nl": "Thuisarts: gezond eten bij het prikkelbare-darm-syndroom"
+          },
+          "note": {
+            "en": "Psyllium in yoghurt or water with an extra glass of water, 1.5 to 2 litres a day, the FODMAP diet only with a dietitian",
+            "nl": "Psyllium door yoghurt of in water met een extra glas water, 1,5 tot 2 liter per dag, het FODMAP-dieet alleen met een diëtist"
+          },
+          "url": "https://www.thuisarts.nl/pds/prikkelbare-darm-syndroom-gezond-eten"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "en": "Part 4",
+        "nl": "Deel 4"
+      },
+      "title": {
+        "en": "My own 50 grams",
+        "nl": "Mijn eigen 50 gram"
+      },
+      "subtitle": {
+        "en": "What fibre did for my LDL, and what I do myself.",
+        "nl": "Wat vezels deden voor mijn LDL, en wat ik zelf doe."
+      }
+    },
+    {
+      "title": {
+        "en": "From 4.35 to 1.42",
+        "nl": "Van 4,35 naar 1,42"
+      },
+      "text": {
+        "en": "LDL cholesterol is a blood value for your heart: LDL is the particle that carries cholesterol through your blood, and a high LDL is linked to heart and vascular disease. In February 2024 mine was 4.35 mmol/L. In January 2026 it was 1.42. I changed three things at once: more than 50 grams of fibre a day, only lean steak, and 120 minutes of zone 2 a week, easy endurance training at a pace where you can still talk. So I don't know how much of the drop came from fibre.",
+        "nl": "LDL-cholesterol is een bloedwaarde voor je hart: LDL is het deeltje dat cholesterol door je bloed vervoert, en een hoog LDL hangt samen met hart- en vaatziekten. In februari 2024 was het mijne 4,35 mmol/L. In januari 2026 was het 1,42. Ik veranderde drie dingen tegelijk: meer dan 50 gram vezels per dag, alleen mager vlees, en 120 minuten zone 2 per week, rustige duurtraining op een tempo waarbij je nog kunt praten. Hoeveel van de daling door vezels kwam, weet ik dus niet."
+      },
+      "bars": {
+        "title": {
+          "en": "My LDL cholesterol (mmol/L)",
+          "nl": "Mijn LDL-cholesterol (mmol/L)"
+        },
+        "items": [
+          {
+            "label": {
+              "en": "Feb 2024",
+              "nl": "Feb 2024"
+            },
+            "value": 4.35,
+            "display": {
+              "en": "4.35",
+              "nl": "4,35"
+            }
+          },
+          {
+            "label": {
+              "en": "Jan 2026",
+              "nl": "Jan 2026"
+            },
+            "value": 1.42,
+            "display": {
+              "en": "1.42",
+              "nl": "1,42"
+            }
+          }
+        ],
+        "caption": {
+          "en": "Two blood tests: 27 February 2024 and 13 January 2026. For comparison, the European guideline goal for people at low risk is below 3.0 mmol/L.",
+          "nl": "Twee bloedtesten: 27 februari 2024 en 13 januari 2026. Ter vergelijking: het doel in de Europese richtlijn voor mensen met een laag risico is onder 3,0 mmol/L."
+        }
+      },
+      "after": {
+        "en": "Soluble fibre works through your bile, the fluid your liver makes from cholesterol to digest fat. Soluble fibre holds on to bile in your gut, so more of it leaves your body, and your liver takes cholesterol from your blood to make new bile. Per gram the effect is small. In 67 trials, each gram of soluble fibre lowered LDL by about 0.06 mmol/L; 3 g of soluble fibre from oats, about 84 g of oats, lowered it by about 0.13. Psyllium lowered LDL by about 7% in people with mildly to moderately raised cholesterol. Why aim for 40 to 60 grams? In 185 long-term studies, the people who ate the most fibre had a 15 to 30% lower risk of dying and of heart and vascular disease than those who ate the least. The benefit was clearest at 25 to 29 grams a day, and the curves suggested that more could help more. The Dutch Health Council advises 3.0 to 3.5 grams per megajoule, a unit of energy of about 240 kcal: about 25 to 29 grams if you eat 2,000 kcal a day, and 32 to 37 at 2,500. The Netherlands Nutrition Centre says more isn't needed. My 50 grams is well above that. Still, in my view fibre has the highest return.",
+        "nl": "Oplosbare vezels werken via je gal, het vocht dat je lever van cholesterol maakt om vet te verteren. Oplosbare vezels houden gal vast in je darm, zodat er meer van je lichaam verlaat, en je lever haalt cholesterol uit je bloed om nieuwe gal te maken. Per gram is het effect klein. In 67 trials verlaagde elke gram oplosbare vezels het LDL met zo'n 0,06 mmol/L; 3 gram oplosbare vezels uit haver, ongeveer 84 gram havermout, verlaagde het met zo'n 0,13. Psyllium verlaagde het LDL met ongeveer 7% bij mensen met een licht tot matig verhoogd cholesterol. Waarom mikken op 40 tot 60 gram? In 185 langlopende studies hadden de mensen die de meeste vezels aten 15 tot 30% minder kans om te overlijden en op hart- en vaatziekten dan de mensen die er het minst aten. Het voordeel was het duidelijkst bij 25 tot 29 gram per dag, en de curves wezen erop dat meer nog meer kan helpen. De Gezondheidsraad adviseert 3,0 tot 3,5 gram per megajoule, een eenheid van energie van ongeveer 240 kcal: zo'n 25 tot 29 gram als je 2.000 kcal per dag eet, en 32 tot 37 bij 2.500. Het Voedingscentrum zegt dat meer niet nodig is. Mijn 50 gram zit daar ruim boven. Toch leveren vezels volgens mij het meeste op."
+      },
+      "sources": [
+        {
+          "pmid": "9925120"
+        },
+        {
+          "pmid": "25411276"
+        },
+        {
+          "label": {
+            "en": "EMA (2013): EU herbal monograph on psyllium husk",
+            "nl": "EMA (2013): Europese monografie over psylliumvezels"
+          },
+          "note": {
+            "en": "At least 30 ml of water per gram, not just before bed, apart from medicines; 85% soluble fibre; wind usually passes during use; about 7% lower LDL",
+            "nl": "Minstens 30 ml water per gram, niet vlak voor het slapen, apart van medicijnen; 85% oplosbare vezels; winderigheid gaat meestal over tijdens gebruik; zo'n 7% lager LDL"
+          },
+          "url": "https://www.ema.europa.eu/en/medicines/herbal/plantaginis-ovatae-seminis-tegumentum"
+        },
+        {
+          "pmid": "30638909"
+        },
+        {
+          "label": {
+            "en": "Dutch Health Council (2026): dietary reference values for fats, carbohydrates and fibre",
+            "nl": "Gezondheidsraad (2026): Voedingsnormen voor vetten, vetzuren, verteerbare koolhydraten en voedingsvezels"
+          },
+          "note": {
+            "en": "3.0 to 3.5 g of fibre per megajoule (12.6 to 14.6 g per 1,000 kcal), from wholegrains, vegetables, fruit, legumes and nuts",
+            "nl": "3,0 tot 3,5 gram vezels per megajoule (12,6 tot 14,6 gram per 1.000 kcal), uit volkorenproducten, groente, fruit, peulvruchten en noten"
+          },
+          "url": "https://www.gezondheidsraad.nl/adviesonderwerpen/voedingsnormen/voedingsnormen-voor-vetten-vetzuren-verteerbare-koolhydraten-en-voedingsvezels"
+        },
+        {
+          "label": {
+            "en": "Netherlands Nutrition Centre: fibre",
+            "nl": "Voedingscentrum: vezels"
+          },
+          "note": {
+            "en": "At least 24 g (women) and 30 g (men) a day; more isn't needed; build up step by step and drink enough",
+            "nl": "Minstens 24 gram (vrouwen) en 30 gram (mannen) per dag; meer is niet nodig; bouw stap voor stap op en drink genoeg"
+          },
+          "url": "https://www.voedingscentrum.nl/encyclopedie/vezels.aspx"
+        },
+        {
+          "label": {
+            "en": "My heart guide: what to test for your heart",
+            "nl": "Mijn hartguide: wat je laat testen voor je hart"
+          },
+          "note": {
+            "en": "My whole LDL story and the other two changes: lean steak and zone 2",
+            "nl": "Mijn hele LDL-verhaal en de andere twee veranderingen: mager vlees en zone 2"
+          },
+          "url": "../heart/"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "What I use myself",
+        "nl": "Wat ik zelf gebruik"
+      },
+      "text": {
+        "en": "These are my own habits around fibre. No brands, nothing to buy.",
+        "nl": "Dit zijn mijn eigen gewoontes rond vezels. Geen merken, niets om te kopen."
+      },
+      "markers": [
+        {
+          "name": {
+            "en": "More than 50 grams of fibre a day",
+            "nl": "Meer dan 50 gram vezels per dag"
+          },
+          "note": {
+            "en": "With clients I build it up step by step, and when their gut reacts, we pull the fibre in their meals down for a week. If it continues, we try a different type of fibre.",
+            "nl": "Met klanten bouw ik het stap voor stap op, en als hun darm reageert, halen we de vezels in hun maaltijden een week wat omlaag. Houdt het aan, dan proberen we een ander soort vezel."
+          }
+        },
+        {
+          "name": {
+            "en": "Carbs never on their own",
+            "nl": "Koolhydraten nooit los"
+          },
+          "note": {
+            "en": "When I eat carbs, I always eat fibre and protein with them. In 8 healthy young people, glucose and insulin rose least when they ate their rice after the vegetables and the meat.",
+            "nl": "Als ik koolhydraten eet, eet ik er altijd vezels en eiwit bij. Bij 8 gezonde jongeren stegen glucose en insuline het minst als ze hun rijst na de groente en het vlees aten."
+          }
+        },
+        {
+          "name": {
+            "en": "No juice",
+            "nl": "Geen sap"
+          },
+          "note": {
+            "en": "I don't drink my carbs. Juice gives you the sugar without the fibre.",
+            "nl": "Ik drink mijn koolhydraten niet. Sap geeft je de suiker zonder de vezels."
+          }
+        },
+        {
+          "name": {
+            "en": "Blood tests to see what changed",
+            "nl": "Bloedtesten om te zien wat er veranderde"
+          },
+          "note": {
+            "en": "I started testing regularly. That's how I saw my LDL go from 4.35 to 1.42, instead of guessing.",
+            "nl": "Ik ben regelmatig gaan testen. Zo zag ik mijn LDL van 4,35 naar 1,42 gaan, in plaats van te gokken."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "pmid": "30381620"
+        }
+      ]
+    },
+    {
+      "kind": "group",
+      "eyebrow": {
+        "en": "Part 5",
+        "nl": "Deel 5"
+      },
+      "title": {
+        "en": "When it isn't the fibre",
+        "nl": "Als het niet aan de vezels ligt"
+      },
+      "subtitle": {
+        "en": "Signs to take to your GP.",
+        "nl": "Signalen om met je huisarts te bespreken."
+      }
+    },
+    {
+      "title": {
+        "en": "See your GP if you notice this",
+        "nl": "Ga naar je huisarts als je dit merkt"
+      },
+      "text": {
+        "en": "Wind and some bloating while you build up are normal. The signs below don't fit with that. Make an appointment with your GP if you notice one or more of them:",
+        "nl": "Winden en wat opgeblazen gevoel tijdens het opbouwen zijn normaal. De signalen hieronder passen daar niet bij. Maak een afspraak met je huisarts als je er een of meer van merkt:"
+      },
+      "numbered": false,
+      "items": [
+        {
+          "en": "Blood in or on your stools.",
+          "nl": "Bloed bij of in je ontlasting."
+        },
+        {
+          "en": "You suddenly go much more or much less often than you're used to, or your stools are suddenly much thinner or much harder.",
+          "nl": "Je gaat opeens veel vaker of veel minder vaak naar de wc dan je gewend bent, of je ontlasting is opeens veel dunner of veel harder."
+        },
+        {
+          "en": "You often feel you need to go, but nothing comes.",
+          "nl": "Je hebt vaak het gevoel dat je moet, maar er komt niets."
+        },
+        {
+          "en": "You lose weight without knowing why.",
+          "nl": "Je valt af zonder dat je weet waarom."
+        },
+        {
+          "en": "You're 50 or older and have bowel complaints for the first time.",
+          "nl": "Je bent 50 of ouder en hebt voor het eerst darmklachten."
+        },
+        {
+          "en": "Pain that doesn't go away or slowly gets worse, or a fever of 38 °C or higher.",
+          "nl": "Buikpijn die niet weggaat of langzaam erger wordt, of koorts van 38 °C of hoger."
+        },
+        {
+          "en": "Bowel disease runs in your family.",
+          "nl": "Er komen darmziekten voor in je familie."
+        }
+      ],
+      "after": {
+        "en": "Call your GP or the out-of-hours GP service straight away with sudden severe pain, pain that keeps getting worse, black and sticky stools, or blood from your back passage. Your GP can also check for coeliac disease, an inflammation of the gut caused by gluten, a protein in wheat, barley and rye, with a blood or stool test. Do several foods give you complaints? Don't cut them all out on your own: a dietitian can work out with you what triggers it. Always discuss complaints that stay with your GP.",
+        "nl": "Bel direct je huisarts of de huisartsenpost bij plotselinge heftige buikpijn, buikpijn die steeds erger wordt, zwarte en plakkerige ontlasting, of bloed uit je anus. Je huisarts kan ook kijken of je coeliakie hebt, een ontsteking van je darm door gluten, een eiwit in tarwe, gerst en rogge, met een bloed- of poeptest. Krijg je van meerdere soorten eten klachten? Schrap ze dan niet allemaal zelf: een diëtist zoekt met je uit waar het door komt. Bespreek klachten die blijven altijd met je huisarts."
+      },
+      "sources": [
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): irritable bowel syndrome",
+            "nl": "Thuisarts: prikkelbare-darm-syndroom"
+          },
+          "note": {
+            "en": "When to see your GP, how a sensitive gut works, why not to cut out many foods yourself",
+            "nl": "Wanneer naar de huisarts, hoe een gevoelige darm werkt, waarom je niet zelf veel eten moet schrappen"
+          },
+          "url": "https://www.thuisarts.nl/pds/ik-heb-prikkelbare-darm-syndroom"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): abdominal pain in adults",
+            "nl": "Thuisarts: buikpijn bij volwassenen"
+          },
+          "note": {
+            "en": "Foods that cause gas, such as cabbage, beans, onion and garlic, and when to call your GP",
+            "nl": "Eten dat voor gas zorgt, zoals kool, bonen, uien en knoflook, en wanneer je de huisarts belt"
+          },
+          "url": "https://www.thuisarts.nl/buikpijn-bij-volwassenen/ik-heb-buikpijn"
+        },
+        {
+          "label": {
+            "en": "Thuisarts (Dutch GP guidance): eating well with IBS",
+            "nl": "Thuisarts: gezond eten bij het prikkelbare-darm-syndroom"
+          },
+          "note": {
+            "en": "Psyllium in yoghurt or water with an extra glass of water, 1.5 to 2 litres a day, the FODMAP diet only with a dietitian",
+            "nl": "Psyllium door yoghurt of in water met een extra glas water, 1,5 tot 2 liter per dag, het FODMAP-dieet alleen met een diëtist"
+          },
+          "url": "https://www.thuisarts.nl/pds/prikkelbare-darm-syndroom-gezond-eten"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "en": "Your gut is like a muscle: give it time. Start with week 1 today, one food at a time, with an extra glass of water. Go back a step when your belly reacts, then build again. Over a few months you can get to 40 to 60 grams a day. What you don't measure stays guesswork, so I start everyone with data, next to how they feel. Always discuss an abnormal result with your GP.",
+    "nl": "Je darm is net een spier: geef hem tijd. Begin vandaag met week 1, één ding tegelijk, met een extra glas water. Ga een stap terug als je buik reageert, en bouw daarna weer op. In een paar maanden kun je naar 40 tot 60 gram per dag. Wat je niet meet, blijft gissen, dus ik begin bij iedereen met data, naast hoe ze zich voelen. Bespreek een afwijkende waarde altijd met je huisarts."
+  },
+  "cta": {
+    "button_url": "#start-trial",
+    "title": {
+      "en": "Make your build-up personal",
+      "nl": "Maak je opbouw persoonlijk"
+    },
+    "steps": {
+      "en": [
+        [
+          "Sign up",
+          "Click the button and leave your details."
+        ],
+        [
+          "Connect",
+          "Link your wearable. Don't have one? We arrange a 30-day WHOOP trial for you."
+        ],
+        [
+          "Analyse",
+          "We read 30+ biometrics, like your sleep, HRV and recovery. You get your protocol by video."
+        ],
+        [
+          "Follow-up",
+          "A call to see how your body handles the build-up, and what to change next."
+        ]
+      ],
+      "nl": [
+        [
+          "Aanmelden",
+          "Klik op de knop en laat je gegevens achter."
+        ],
+        [
+          "Koppelen",
+          "Koppel je wearable. Heb je er geen? Dan regelen we een WHOOP trial van 30 dagen voor je."
+        ],
+        [
+          "Analyse",
+          "We lezen 30+ waarden uit, zoals je slaap, HRV en herstel. Je krijgt je protocol per video."
+        ],
+        [
+          "Opvolging",
+          "In een call kijken we hoe je lichaam de opbouw aankan, en wat je daarna verandert."
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,813 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hardlopen zonder kapot te gaan: mijn zone 2-plan · Jorn Kirkels · Cellular</title>
+  <meta name="description" content="Jorn Kirkels over hardlopen in zone 2: vind je hartslagzone in twee minuten, een opbouw van 8 weken in minuten, waarom je hartslag omhoogschiet en waar je op je wearable naar kijkt. Met de studies erbij." />
+  <meta property="og:title" content="Hardlopen zonder kapot te gaan: mijn zone 2-plan" />
+  <meta property="og:description" content="Jorn Kirkels over hardlopen in zone 2: vind je hartslagzone in twee minuten, een opbouw van 8 weken in minuten, waarom je hartslag omhoogschiet en waar je op je wearable naar kijkt. Met de studies erbij." />
+  <meta property="og:image" content="https://demiselina.com/jorn/running/jorn.jpg" />
+  <meta property="og:locale" content="nl_NL" />
+  <meta name="robots" content="noindex" />
+  <link rel="alternate" hreflang="en" href="https://demiselina.com/jorn/running/index.html" />
+  <link rel="alternate" hreflang="nl" href="https://demiselina.com/jorn/running/nl.html" />
+  <link rel="preload" href="InterVariable.woff2" as="font" type="font/woff2" crossorigin />
+  <style>@font-face{font-family:"Inter";font-style:normal;font-weight:100 900;font-display:swap;src:url("InterVariable.woff2") format("woff2")}@font-face{font-family:"Inter Variable";font-style:normal;font-weight:100 900;font-display:swap;src:url("InterVariable.woff2") format("woff2")}</style>
+  <link rel="stylesheet" href="page.css?v=1794823531" />
+  <style>
+.gp-flow .node rect{fill:var(--card);stroke:var(--border);stroke-width:1;transition:fill .2s,stroke .2s}
+.gp-flow .node.accent rect{fill:var(--muted)}
+.gp-flow .node{cursor:pointer;outline:none}
+.gp-flow .node text{fill:var(--foreground);font-size:11.5px;font-weight:500;pointer-events:none}
+.gp-flow .node text .sub{fill:var(--muted-foreground);font-weight:450}
+.gp-flow .node:hover rect,.gp-flow .node:focus-visible rect{stroke:var(--muted-foreground)}
+.gp-flow .node.on rect{stroke:var(--info);fill:color-mix(in oklab,var(--info) 9%,var(--card))}
+.gp-flow .edge{fill:none;stroke:var(--border);stroke-width:1.2;transition:stroke .2s,opacity .2s}
+.gp-flow .flowline{fill:none;stroke:var(--info);stroke-width:1.4;stroke-dasharray:3 5;opacity:0;transition:opacity .2s}
+.gp-flow .flowline.on{opacity:1;animation:gpdash 1.1s linear infinite}
+.gp-flow .head{fill:var(--border);transition:fill .2s}
+.gp-flow .head.on{fill:var(--info)}
+@keyframes gpdash{to{stroke-dashoffset:-16}}
+@media (prefers-reduced-motion:reduce){.gp-flow .flowline.on{animation:none}}
+.gp-flow .panel{min-height:4.2rem}
+.gp-filter button[aria-pressed=true]{background:var(--muted);color:var(--foreground);font-weight:500}
+.gp-week .day{border:1px solid transparent;transition:background .15s,border-color .15s}
+.gp-week .day[aria-pressed=true]{background:var(--muted);border-color:var(--border)}
+.gp-week .day[aria-pressed=true] .dl{color:var(--foreground);font-weight:500}
+.gp-week .dot{width:7px;height:7px;border-radius:9999px;display:inline-block}
+.gp-week ol{counter-reset:s}
+.gp-week ol li{counter-increment:s;display:flex;gap:.6rem}
+.gp-week ol li::before{content:counter(s);width:1rem;flex-shrink:0;color:var(--muted-foreground);font-size:12px;padding-top:1px}
+.gp-cycle .band{fill:transparent;transition:fill .2s}
+.gp-cycle .band.on{fill:var(--muted)}
+.gp-cycle .ln{fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;transition:opacity .2s}
+.gp-cycle .grid{stroke:var(--border);stroke-width:1}
+.gp-cycle .ax{fill:var(--muted-foreground);font-size:10px}
+.gp-cycle .lab{fill:var(--foreground);font-size:9.5px;font-weight:500}
+.gp-cycle .cross{stroke:var(--muted-foreground);stroke-width:1;stroke-dasharray:2 3}
+.gp-cycle .tip{position:absolute;pointer-events:none;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:6px 8px;font-size:11.5px;line-height:1.45;box-shadow:0 2px 8px rgb(0 0 0 / .06);white-space:nowrap}
+.gp-cycle .ph[aria-pressed=true]{background:var(--muted);color:var(--foreground);font-weight:500}
+.gp-cycle .sw{display:inline-block;width:14px;height:2px;border-radius:2px;vertical-align:middle}
+.gp-check .seg button{border-radius:5px;padding:.4rem 0;color:var(--muted-foreground);transition:background .15s,color .15s}
+.gp-check .seg button:hover{color:var(--foreground)}
+.gp-check .seg button[aria-pressed=true]{background:var(--foreground);color:var(--background);font-weight:500}
+.gp-check .track{height:6px;border-radius:9999px;background:var(--muted);overflow:hidden}
+.gp-check .fill{height:100%;width:0;border-radius:9999px;background:var(--muted-foreground);transition:width .35s ease-out,background .2s}
+.gp-check .bar.top .fill{background:var(--foreground)}
+.gp-check .bar.top .bl{color:var(--foreground);font-weight:500}
+@media (prefers-reduced-motion:reduce){.gp-check .fill{transition:none}}
+</style>
+</head>
+<body class="antialiased bg-sidebar text-foreground">
+  <main class="mx-auto min-h-svh w-full max-w-[600px] border-x border-border-faint bg-background">
+    <div class="flex h-12 items-center justify-between border-b border-border-faint px-5">
+      <img src="logo-cellular.png" alt="Cellular" class="h-[15px] w-auto dark:invert" />
+      <nav aria-label="Taal / Language" class="flex items-center rounded-md border border-border-faint p-0.5 text-[12px]"><a href="index.html" hreflang="en" class="rounded-[5px] px-2 py-0.5 text-muted-foreground hover:text-foreground">EN</a><a href="nl.html" hreflang="nl" class="rounded-[5px] px-2 py-0.5 bg-muted font-medium text-foreground">NL</a></nav>
+    </div>
+    <div class="px-6 pt-8">
+      <div class="flex items-center gap-3">
+        <img src="jorn.jpg" alt="Jorn Kirkels" class="size-10 shrink-0 rounded-full object-cover" />
+        <div class="grid gap-0.5 leading-tight">
+          <span class="flex items-center gap-1 text-[14px] font-medium">Jorn Kirkels <svg class="size-3.5 shrink-0 text-info" viewBox="0 0 16 16" fill="currentColor" aria-label="Geverifieerd"><path d="M8 .9 9.7 2.3l2.2-.2.6 2.1 1.9 1.1-.8 2.1.8 2.1-1.9 1.1-.6 2.1-2.2-.2L8 13.9 6.3 12.5l-2.2.2-.6-2.1L1.6 9.5l.8-2.1-.8-2.1 1.9-1.1.6-2.1 2.2.2Z"/><path d="m5.6 7.6 1.7 1.7 3.2-3.4" fill="none" stroke="var(--background)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span class="text-[12.5px] text-muted-foreground">@jornkirkels</span>
+        </div>
+      </div>
+      <h1 class="mt-8 text-[26px] font-normal leading-[1.15] tracking-[-0.02em]">Hardlopen zonder kapot te gaan: mijn zone 2-plan</h1>
+      <p class="mt-2 text-[15px] text-muted-foreground">Vind je zone 2 in twee minuten, bouw in 8 weken rustig op, en zie waarom je hartslag omhoogschiet tijdens een rustig rondje. Met het onderzoek bij elke stap.</p>
+      <p class="mt-6 text-[15px] leading-[1.7] text-foreground/85">Ben je na het hardlopen helemaal kapot, dan was je hartslag te hoog en was het rondje vooral extra stress voor je lichaam. De klassieke fout als je begint: te hard lopen. Je wilt je hartslag zo stabiel houden dat het voelt alsof je eindeloos door kunt. Denk je na afloop 'ik kan gewoon nog verder', dan zit je goed. Van alles wat ik heb geprobeerd, verlaagde hardlopen mijn stress het meest. Inmiddels train ik minstens 240 minuten per week in zone 2, een rustig tempo waarop je nog kunt praten, en ik train voor een ultra van 50 km in Dubai. Zone 2 voelt nog steeds stom: je pusht totaal niet, en ook voor mij is het nog wennen. Deze pagina begint met wat bijna niemand weet. Daarna vind je je zone 2, krijg je een plan voor 8 weken en zie je waarom je hartslag doet wat hij doet. Onder elke stap staat het onderzoek, ook waar het zwak is.</p>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat bijna niemand weet</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Vijf bevindingen over rustig hardlopen, elk met een getal en wat je ermee doet.</p><div class="mt-5 grid gap-2.5"><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">60-90%</p><p class="mt-3 text-[15px] font-medium leading-snug">Waar rustig overgaat in zwaar, verschilt enorm per persoon</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">Je maximale hartslag is de hoogste hartslag die je haalt als je alles geeft. Je eerste drempel is het punt waarop rustig lopen overgaat in zwaarder werk: je ademhaling versnelt en er hoopt zich lactaat op in je bloed, een stof die je spieren maken als ze snel suiker verbranden. Bij 100 volwassenen in een lab lag die drempel ergens tussen 60 en 90% van hun maximale hartslag. Een percentage uit een formule is dus alleen een begin. Check het met de praattest hieronder.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Labstudie bij 100 volwassenen</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">17,8 vs 7,7</p><p class="mt-3 text-[15px] font-medium leading-snug">Beginners raken per uur hardlopen ruim twee keer zo vaak geblesseerd</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">In 13 studies hadden beginners 17,8 blessures per 1.000 uur hardlopen, tegen 7,7 bij lopers met meer ervaring. Een blessure is hier pijn in je benen of rug waardoor je niet kunt lopen. De studies gebruikten verschillende definities, dus neem de precieze getallen niet te letterlijk. De richting is duidelijk: bouw je eerste weken rustig op, ook als het te makkelijk voelt.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Overzicht van 13 studies</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">19%</p><p class="mt-3 text-[15px] font-medium leading-snug">In de warmte steeg de hartslag 19% in een half uur, op hetzelfde tempo</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">Cardiale drift is het langzaam oplopen van je hartslag tijdens een rondje terwijl je tempo gelijk blijft. Bij 35 °C liepen 7 actieve mannen op een rustig, gelijkmatig tempo. Tussen minuut 15 en minuut 45 steeg hun hartslag 19%, terwijl hun hart per slag minder bloed rondpompte. Volgens de onderzoekers was die stijging echte extra belasting: hetzelfde tempo kostte een groter deel van wat hun lichaam kon. Loop op warme dagen dus langzamer, of wandel, zodra je hartslag boven zone 2 komt.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Labstudie, 7 mannen bij 35 °C</p></div><div class="rounded-xl border border-border-faint bg-card p-4"><p class="text-[30px] font-medium leading-none tracking-[-0.03em] tabular-nums">26</p><p class="mt-3 text-[15px] font-medium leading-snug">In 26 studies liet cafeïne de hartslag gelijk en voelde de inspanning lichter</p><p class="mt-1.5 text-[13.5px] leading-[1.6] text-muted-foreground">Mensen namen 3 tot 6 mg cafeïne per kilo lichaamsgewicht, 30 tot 90 minuten voor een gelijkmatige inspanning. Voor iemand van 70 kilo is dat 210 tot 420 mg, ongeveer 2 tot 4 koppen koffie. Hun hartslag was even hoog als met een placebo, een nepmiddel. De inspanning voelde wel lichter. Na een koffie kun je dus boven zone 2 uitkomen zonder dat je het merkt. Blijf de praattest doen.</p><p class="mt-3 text-[11.5px] text-muted-foreground/80">Overzicht van 26 studies</p></div></div>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31479001/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">A Critical Evaluation of Current Methods for Exercise Prescription in Women and Men.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Iannetta D, Inglis EC, Mattu AT, Fontana FY, Pogliaghi S et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">31479001</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/25951917/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Videbæk S, Bueno AM, Nielsen RO, Rasmussen S</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sports Med 2015 <span class="px-1 text-border">·</span> PMID <span class="text-info">25951917</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4473093</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/32102057/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Cardiovascular Drift and Maximal Oxygen Uptake during Running and Cycling in the Heat.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Wingo JE, Stone T, Ng J</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">32102057</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28872376/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Caffeine and Physiological Responses to Submaximal Exercise: A Meta-Analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Glaister M, Gissane C</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Int J Sports Physiol Perform 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">28872376</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30513777/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Reimers AK, Knapp G, Reimers CD</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Clin Med 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">30513777</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6306777</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 1</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Jouw zone 2 en je eerste 8 weken</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Vind je zone in twee minuten en bouw daarna op in minuten.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Vind je zone 2 in twee minuten</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Hartslagzones verdelen je inspanning in vijf stukken, van heel rustig (zone 1) tot alles geven (zone 5). Zone 2 is het tweede stuk: denk aan een rustig loopje of een rustige fietstocht, onder je eerste drempel. Zoals ik het zeg: je kunt nog net praten, maar liever praat je niet. Dat is de bovenkant van je zone 2. Waar die ligt, is persoonlijk. Je vindt hem in drie stappen, en de praattest heeft het laatste woord.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>De praattest. Zeg tijdens het lopen twee of drie hele zinnen hardop, bijvoorbeeld je adres en wat je vandaag hebt gedaan. Gaat dat makkelijk? Dan zit je in zone 2 of lager. Moet je midden in een zin stoppen om adem te halen? Dan ga je te snel. Loop langzamer of wandel tot je weer kunt praten.</li><li>De formule. Je maximale hartslag is ongeveer 208 min 0,7 keer je leeftijd. Neem als voorzichtig begin 60 tot 70% daarvan als je zone 2. Ben je 30, dan is het 208 min 21 = 187, dus zone 2 ligt rond 112 tot 131. Zoek je leeftijd op in de tabel hieronder.</li><li>Je wearable. Vul je leeftijd in en loop met je hartslag in beeld. Doe de praattest aan de bovenkant van je zone. Zeggen ze iets anders, volg dan de praattest en pas je zones aan in de app als dat kan.</li></ol><div id="s68017m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">20 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 194 · zone 2 ongeveer 116 tot 136</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">25 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 191 · zone 2 ongeveer 114 tot 133</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">30 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 187 · zone 2 ongeveer 112 tot 131</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">35 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 184 · zone 2 ongeveer 110 tot 128</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">40 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 180 · zone 2 ongeveer 108 tot 126</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">45 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 177 · zone 2 ongeveer 106 tot 124</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">50 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 173 · zone 2 ongeveer 104 tot 121</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">55 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 170 · zone 2 ongeveer 102 tot 119</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">60 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 166 · zone 2 ongeveer 100 tot 116</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">65 jaar</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Max ongeveer 163 · zone 2 ongeveer 98 tot 114</p></div>
+          
+        </div></div><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">De praattest is goed onderzocht. Bij 16 gezonde volwassenen viel het moment waarop praten voor het eerst lastig werd vrijwel precies samen met de ventilatoire drempel: het punt waarop je ademhaling sneller stijgt dan je inspanning. Dat gold op een loopband en op een fiets. Een overzichtsartikel noemt de praattest betrouwbaar, bruikbaar en goedkoop, van topsporters tot hartpatiënten. De formule komt uit 351 studies met 18.712 mensen: de maximale hartslag was ongeveer 208 min 0,7 keer de leeftijd, voor mannen en vrouwen gelijk. De bekende 220 min je leeftijd schat de maximale hartslag van oudere volwassenen te laag. De tabel is een voorzichtig begin: in de studie bij 100 volwassenen lag de eerste drempel tussen 60 en 90% van het maximum, dus met 60 tot 70% zit je aan de lage kant. Gemiddeld ligt zone 2 ergens rond 120 tot 140 slagen per minuut, zeg ik tegen cliënten. Die van jou kan lager of hoger liggen. Is de praattest aan de bovenkant van je zone nog makkelijk, dan kun je een paar slagen hoger.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">Maximale hartslag: 208 min 0,7 × je leeftijd <span class="px-1 text-border">·</span> Zone 2 in de tabel: 60 tot 70% daarvan</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/15354048/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Consistency of the talk test for exercise prescription.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Persinger R, Foster C, Gibson M, Fater DC, Porcari JP</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2004 <span class="px-1 text-border">·</span> PMID <span class="text-info">15354048</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/25010379/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">The talk test: a useful tool for prescribing and monitoring exercise intensity.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Reed JL, Pipe AL</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Curr Opin Cardiol 2014 <span class="px-1 text-border">·</span> PMID <span class="text-info">25010379</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/11153730/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Age-predicted maximal heart rate revisited.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Tanaka H, Monahan KD, Seals DR</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Am Coll Cardiol 2001 <span class="px-1 text-border">·</span> PMID <span class="text-info">11153730</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31479001/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">A Critical Evaluation of Current Methods for Exercise Prescription in Women and Men.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Iannetta D, Inglis EC, Mattu AT, Fontana FY, Pogliaghi S et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">31479001</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Je eerste 8 weken: drie keer per week, in minuten</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Loop drie keer per week, met een rustdag ertussen. Tel in minuten, niet in kilometers, zodat je niet sneller gaat lopen om een afstand af te maken. Wandelpauzes horen bij het plan, en elke minuut blijft in zone 2: lukt de praattest niet, wandel dan tot je weer kunt praten. Begin elke keer met 5 minuten stevig wandelen; die tellen niet mee. In het begin schiet je hartslag alle kanten op, en dat is prima: je traint je hart. Na ongeveer 4 tot 8 weken wordt hij stabieler en kun je langer door. Drie keer per week 30 minuten is voor mij de sweet spot voor je VO2max: de hoeveelheid zuurstof die je lichaam per minuut maximaal kan gebruiken als je alles geeft. In week 8 loop je drie keer 40 minuten: de 120 minuten per week in zone 2 die ik aanraad.</p><figure class="mt-5"><div class="rounded-xl border border-border-faint bg-card px-4 py-3"><p class="text-[13px] font-medium">Minuten per week in zone 2</p><div class="mt-1.5">
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Week 1</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:52.5%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">63</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Week 2</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:60.0%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">72</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Week 3</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:62.5%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">75</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Week 4</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:70.0%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">84</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Week 5</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:75.0%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">90</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Week 6</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:82.5%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">99</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Week 7</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:90.0%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">108</span>
+          </div>
+          <div class="grid grid-cols-[7.5rem_1fr_auto] items-center gap-3 py-1.5">
+            <span class="text-[12.5px] leading-tight text-muted-foreground">Week 8</span>
+            <span class="relative block h-2 rounded-full bg-muted"><span class="absolute inset-y-0 left-0 rounded-full" style="width:100.0%;background:#eb6834"></span></span>
+            <span class="w-10 text-right text-[12.5px] font-medium">120</span>
+          </div></div></div><p class="mt-2 text-[12px] leading-snug text-muted-foreground">Over twee weken stijgt het totaal hooguit zo'n 20%. Week 8 komt uit op 120 minuten.</p></figure><div id="s27744m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Week 1: 21 minuten</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">1 minuut hardlopen, 2 minuten wandelen. Dat 7 keer.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Week 2: 24 minuten</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">2 minuten lopen, 2 wandelen. 6 keer.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Week 3: 25 minuten</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">3 minuten lopen, 2 wandelen. 5 keer.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Week 4: 28 minuten</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">5 minuten lopen, 2 wandelen. 4 keer.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Week 5: 30 minuten</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">8 minuten lopen, 2 wandelen. 3 keer.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Week 6: 33 minuten</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">10 minuten lopen, 1 wandelen. 3 keer.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Week 7: 36 minuten</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">17 minuten lopen, 1 wandelen. 2 keer.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Week 8: 40 minuten</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">40 minuten achter elkaar lopen. Wandel zodra de praattest niet meer lukt.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Voelde het zwaar, of nog spierpijn na twee dagen?</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Herhaal de week. Een week gemist? Ga er één terug.</p></div>
+          
+        </div></div><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Waarom zo rustig? In 13 studies raakten beginners per uur hardlopen ruim twee keer zo vaak geblesseerd als ervaren lopers. Bij 874 Deense beginners met een gps-horloge leken lopers die in twee weken meer dan 30% verder gingen lopen vaker een overbelastingsblessure te krijgen, zoals een lopersknie (pijn rond de knieschijf). Dat was een verkennende studie, dus geen bewijs. Een langzamer schema alleen beschermt je ook niet: in een Nederlandse trial met 532 beginners raakte ongeveer 1 op de 5 geblesseerd, met een schema van 13 weken en met een schema van 8 weken. Wandelpauzes kosten je weinig: in een marathon finishten 42 amateurlopers met en zonder wandelpauzes in ongeveer dezelfde tijd, en de groep met wandelpauzes had na afloop minder spierpijn en vermoeidheid. En je hebt niet veel nodig: bij 55.137 volwassenen die gemiddeld 15 jaar werden gevolgd, hadden hardlopers 30% minder kans om te overlijden dan niet-lopers, ook bij 5 tot 10 minuten per dag op een rustig tempo. Dat is een verband, geen bewijs dat hardlopen de oorzaak is.</p><p class="mt-4 rounded-md bg-muted/60 px-3.5 py-2.5 text-[13px] leading-[1.6] text-foreground/85"><span class="font-medium">Let op.</span> Pijn waardoor je anders gaat lopen, pijn op de borst, duizeligheid of ongewone kortademigheid: stop. Heb je jaren niet bewogen, of heb je een hartaandoening? Overleg dan eerst met je huisarts.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/25951917/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Videbæk S, Bueno AM, Nielsen RO, Rasmussen S</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sports Med 2015 <span class="px-1 text-border">·</span> PMID <span class="text-info">25951917</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4473093</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/25155475/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Excessive progression in weekly running distance and risk of running-related injuries: an association which varies according to type of injury.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Nielsen RØ, Parner ET, Nohr EA, Sørensen H, Lind M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Orthop Sports Phys Ther 2014 <span class="px-1 text-border">·</span> PMID <span class="text-info">25155475</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/17940147/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">No effect of a graded training program on the number of running-related injuries in novice runners: a randomized controlled trial.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Buist I, Bredeweg SW, van Mechelen W, Lemmink KA, Pepping GJ et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Am J Sports Med 2008 <span class="px-1 text-border">·</span> PMID <span class="text-info">17940147</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/25467199/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Does a run/walk strategy decrease cardiac stress during a marathon in non-elite runners?</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Hottenrott K, Ludyga S, Schulze S, Gronwald T, Jäger FS</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Sci Med Sport 2016 <span class="px-1 text-border">·</span> PMID <span class="text-info">25467199</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/25082581/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Leisure-time running reduces all-cause and cardiovascular mortality risk.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Lee DC, Pate RR, Lavie CJ, Sui X, Church TS et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Am Coll Cardiol 2014 <span class="px-1 text-border">·</span> PMID <span class="text-info">25082581</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4131752</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Na week 8: veel rustig, een beetje heel zwaar</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Zone 3 is het stuk net boven zone 2. Het voelt alsof je werkt en het kost veel belasting, maar volgens mij past je lichaam zich er weinig op aan: weinig extra voor je conditie, veel extra stress. Train dus het liefst veel in zone 2, of heel zwaar, en weinig daartussen. Zo doe ik het zelf: het grootste deel van mijn week in zone 2, en één keer per week 4x4-intervallen.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>4 minuten hard: 90 tot 95% van je maximale hartslag.</li><li>3 minuten rustig joggen, op ongeveer 70%.</li><li>Doe dat vier keer, één keer per week, en pas na je eerste 8 weken.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Topsporters in duursport trainen zo. Bij 11 jonge langlaufers op nationaal niveau bleef ongeveer 75% van de trainingen onder de eerste drempel, zat 8% ertussen en was 17% zwaar. In een trial met 48 goed getrainde duursporters verhoogde deze mix de VO2max in 9 weken met 11,7%; vooral in het midden trainen leverde niets meetbaars op. In 17 studies samen is het beeld bescheidener: de mix was iets beter voor de VO2max, vooral bij goed getrainde sporters, en even goed voor wedstrijdtijden. Bij 40 matig getrainde mannen verhoogden 8 weken 4x4-intervallen de VO2max met 7%, meer dan hetzelfde werk op een rustig tempo of op de drempel.</p><p class="mt-4 rounded-md bg-muted/60 px-3.5 py-2.5 text-[13px] leading-[1.6] text-foreground/85"><span class="font-medium">Let op.</span> Harde intervallen vragen echt iets van je hart. Heb je pijn op de borst, duizeligheid of een hartaandoening? Overleg dan eerst met je huisarts.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/16430681/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Quantifying training intensity distribution in elite endurance athletes: is there evidence for an "optimal" distribution?</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Seiler KS, Kjerland GØ</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Scand J Med Sci Sports 2006 <span class="px-1 text-border">·</span> PMID <span class="text-info">16430681</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/24550842/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Polarized training has greater impact on key endurance variables than threshold, high intensity, or high volume training.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Stöggl T, Sperlich B</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Front Physiol 2014 <span class="px-1 text-border">·</span> PMID <span class="text-info">24550842</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC3912323</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/38717713/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Comparison of Polarized Versus Other Types of Endurance Training Intensity Distribution on Athletes' Endurance Performance: A Systematic Review with Meta-analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Silva Oliveira P, Boppre G, Fonseca H</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sports Med 2024 <span class="px-1 text-border">·</span> PMID <span class="text-info">38717713</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC11329428</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/17414804/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Aerobic high-intensity intervals improve VO2max more than moderate training.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Helgerud J, Høydal K, Wang E, Karlsen T, Berg P et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2007 <span class="px-1 text-border">·</span> PMID <span class="text-info">17414804</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat ik zelf gebruik</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Dit gebruik en doe ik elke week. Merken noem ik niet.</p><div id="s3418m" class="mt-4 divide-y divide-border-faint border-y border-border-faint">
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Elke ochtend mijn wearable</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Eerst schrijf ik op hoe ik denk dat ik sliep. Dan kijk ik naar mijn laagste hartslag van de nacht en mijn HRV (hartslagvariabiliteit): het kleine verschil in tijd tussen je hartslagen. Wat die getallen betekenen, lees je in deel 4.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Minstens 240 minuten zone 2 per week</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Eerst was dat 120. Van alles wat ik heb geprobeerd, verlaagde hardlopen mijn stress het meest.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Eén keer per week 4x4-intervallen, op een airbike</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Een airbike is een hometrainer met een grote ventilator: hoe harder je trapt en duwt, hoe zwaarder hij wordt. Dit is mijn 'heel zwaar' van de week.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Een loopband onder mijn bureau</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">Mijn doel is 30.000 stappen per dag, soms met een gewichtsvest van 10 kilo. Van 10 oktober tot 8 november 2026 liep ik er 311,6 km op.</p></div>
+          
+        </div>
+        <div class="flex items-start justify-between gap-3 py-3" data-dir="none">
+          <div class="min-w-0"><p class="text-[14px] font-medium leading-snug">Cafeïnevrije koffie, en cafeïne uit een capsule</p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground">30 tot 60 mg per dag, zodat ik precies weet hoeveel ik binnen heb. Vroeger dronk ik meer dan acht koppen koffie per dag. EFSA, de Europese autoriteit voor voedselveiligheid, ziet tot 400 mg per dag geen veiligheidsrisico voor gezonde volwassenen (200 mg als je zwanger bent).</p></div>
+          
+        </div></div>
+      
+      
+      <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4102" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">EFSA (2015): veiligheid van cafeïne</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Veilige hoeveelheden voor volwassenen en in de zwangerschap</p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 2</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Waarom je hartslag omhoogschiet</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Begin met de check. Lees daarna wat elke oorzaak doet, en wat je eraan doet.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat duwt jouw hartslag omhoog?</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Denk aan je laatste rustige rondjes en kies per vraag nee, soms of vaak. Elk antwoord telt mee bij één of twee oorzaken.</p>
+      <div class="gp-check mt-5">
+        <div class="overflow-hidden rounded-xl border border-border-faint bg-card">
+          <ol class="divide-y divide-border-faint"><li class="q px-4 py-3.5" data-areas="heat"><p class="text-[14px] leading-snug">Je hartslag blijft oplopen naarmate je langer loopt, op hetzelfde tempo.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="heat"><p class="text-[14px] leading-snug">Je loopt op warme dagen of midden op de dag.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="heat"><p class="text-[14px] leading-snug">Je drinkt weinig in de uren voor een rondje.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="sleep"><p class="text-[14px] leading-snug">Je sliep de nacht ervoor korter dan 7 uur.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="sleep,stress"><p class="text-[14px] leading-snug">Je rustige tempo voelt zwaarder dan vorige week.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="stress"><p class="text-[14px] leading-snug">Je loopt na een lange, drukke werkdag.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="stress"><p class="text-[14px] leading-snug">Je komt 's avonds moeilijk tot rust.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="pace"><p class="text-[14px] leading-snug">Je neemt koffie, een energiedrank of pre-workout (sportpoeder met cafeïne) in de 2 uur voor je loopt.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="pace"><p class="text-[14px] leading-snug">Je probeert een vast tempo per kilometer vast te houden.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li><li class="q px-4 py-3.5" data-areas="pace"><p class="text-[14px] leading-snug">In je eerste 10 minuten lukt een hele zin niet.</p><div class="seg mt-2.5 grid grid-cols-3 gap-0.5 rounded-md border border-border-faint p-0.5 text-[12.5px]" role="group"><button type="button" data-v="0" aria-pressed="false">Nee</button><button type="button" data-v="1" aria-pressed="false">Soms</button><button type="button" data-v="2" aria-pressed="false">Vaak</button></div></li></ol>
+          <div class="border-t border-border-faint bg-muted/30 px-4 py-4" aria-live="polite">
+            <p class="cnt text-[12px] text-muted-foreground"></p>
+            <div class="bars mt-3 space-y-2.5"><div class="bar" data-k="heat"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Warmte en vocht</span></div><div class="track mt-1"><div class="fill"></div></div></div><div class="bar" data-k="sleep"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Slaap</span></div><div class="track mt-1"><div class="fill"></div></div></div><div class="bar" data-k="stress"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Stress en herstel</span></div><div class="track mt-1"><div class="fill"></div></div></div><div class="bar" data-k="pace"><div class="flex items-baseline justify-between text-[12.5px]"><span class="bl text-muted-foreground">Tempo</span></div><div class="track mt-1"><div class="fill"></div></div></div></div>
+            <div class="top mt-5 border-t border-border-faint pt-4" hidden>
+              <p class="text-[12px] text-muted-foreground">Kijk eerst naar</p>
+              <p class="t mt-0.5 text-[18px] font-medium tracking-[-0.01em]"></p>
+              <p class="d mt-1 text-[13.5px] leading-[1.55] text-muted-foreground"></p>
+              <p class="mt-3 text-[12px] text-muted-foreground">Wat je kunt meten</p>
+              <p class="m mt-0.5 text-[13.5px] leading-[1.55]"></p>
+              <a href="#trial" class="mt-3 inline-block text-[13.5px] font-medium text-info">Naar de trial &rarr;</a>
+            </div>
+            <p class="none mt-4 text-[13.5px] leading-[1.55] text-muted-foreground" hidden>Je herkent weinig van deze signalen. Meten laat zien of dat klopt.</p>
+          </div>
+        </div>
+        <p class="mt-2 text-[11.5px] text-muted-foreground">Tik per vraag op een antwoord. Je antwoorden worden nergens opgeslagen.</p><p class="mt-2 text-[12px] leading-snug text-muted-foreground">Deze check stelt niets vast. Hij laat zien waar je het eerst naar kunt kijken. Pijn op de borst, duizeligheid of een hartslag die onregelmatig voelt? Stop en ga naar je huisarts.</p>
+        <script type="application/json">{"areas": {"heat": {"label": "Warmte en vocht", "text": "Je antwoorden wijzen op warmte en vocht. Als je het warm krijgt, loopt je hartslag op terwijl je tempo gelijk blijft, en hoe meer vocht je verliest, hoe hoger hij gaat.", "measure": "Je hartslag tijdens een rondje op hetzelfde tempo, op een warme en op een koele dag."}, "sleep": {"label": "Slaap", "text": "Je antwoorden wijzen op je slaap. Na een korte nacht voelt hetzelfde tempo zwaarder, en je HRV is de ochtend erna vaak lager.", "measure": "Je slaapduur en HRV de nacht voor elk rondje, met een wearable."}, "stress": {"label": "Stress en herstel", "text": "Je antwoorden wijzen op een vol hoofd. Na zwaar denkwerk voelt dezelfde inspanning zwaarder, en stress zie je terug in je HRV.", "measure": "Je HRV en rusthartslag over een paar weken: veranderen ze in drukke weken?"}, "pace": {"label": "Tempo", "text": "Je antwoorden wijzen op je tempo: waarschijnlijk loop je sneller dan je zone 2. Cafeïne maakt dat lastiger te merken, en in je eerste weken schiet je hartslag sowieso alle kanten op.", "measure": "Je hartslag in de eerste 10 minuten van een rondje, naast de praattest."}}, "count": "{n} van {t} beantwoord", "min": 3}</script>
+      </div>
+      
+      
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Warmte: je hartslag loopt op terwijl je tempo gelijk blijft</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Als je lichaam opwarmt en je vocht verliest door te zweten, gaat je hartslag omhoog en pompt je hart per slag minder bloed rond. Dat is de cardiale drift van hierboven, en die begint meestal na 10 tot 20 minuten.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Loop op hartslag, niet op tempo. Kom je boven je zone 2, loop dan langzamer of wandel.</li><li>Loop op warme dagen vroeg in de ochtend of in de avond, en in de schaduw als het kan.</li><li>Begin goed gedronken, en neem water mee op lange rondjes.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In de studie met de 19% van hierboven concludeerden de onderzoekers dat hetzelfde tempo een groter deel kostte van wat het lichaam van de mannen kon. Je hartslag geeft dus een eerlijk beeld van de belasting, en langzamer gaan om in zone 2 te blijven is logisch. Bij 8 getrainde wielrenners die 2 uur fietsten bij 33 °C gold: hoe meer vocht ze verloren, hoe hoger hun hartslag en lichaamstemperatuur opliepen. Een overzichtsartikel noemt warmte, vochtverlies, inspanning en de temperatuur om je heen als de belangrijkste oorzaken.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/32102057/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Cardiovascular Drift and Maximal Oxygen Uptake during Running and Cycling in the Heat.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Wingo JE, Stone T, Ng J</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2020 <span class="px-1 text-border">·</span> PMID <span class="text-info">32102057</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/15692320/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Cardiovascular drift is related to reduced maximal oxygen uptake during heat stress.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Wingo JE, Lafrenz AJ, Ganio MS, Edwards GL, Cureton KJ</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2005 <span class="px-1 text-border">·</span> PMID <span class="text-info">15692320</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/1447078/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Influence of graded dehydration on hyperthermia and cardiovascular drift during exercise.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Montain SJ, Coyle EF</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Appl Physiol (1985) 1992 <span class="px-1 text-border">·</span> PMID <span class="text-info">1447078</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/11337829/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Cardiovascular drift during prolonged exercise: new perspectives.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Coyle EF, González-Alonso J</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Exerc Sport Sci Rev 2001 <span class="px-1 text-border">·</span> PMID <span class="text-info">11337829</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/25943659/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Exercise intensity prescription during heat stress: A brief review.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Wingo JE</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Scand J Med Sci Sports 2015 <span class="px-1 text-border">·</span> PMID <span class="text-info">25943659</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Na een korte nacht of een drukke dag voelt hetzelfde tempo zwaarder</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Ervaren inspanning is hoe zwaar een rondje voor jou voelt; onderzoekers laten mensen dat scoren op een schaal. Na een korte nacht of een dag met zwaar denkwerk gaat die omhoog, ook als je hartslag gelijk blijft. Wil je dan toch je gewone tempo halen, dan kom je kapot thuis. Je wilt je hartslag juist redelijk stabiel houden, zodat het voelt alsof je eindeloos door kunt.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Na een nacht korter dan 6 uur: houd het kort en rustig, of wandel. Loop als het kan in de ochtend.</li><li>Na een dag met zwaar denkwerk: volg de praattest en laat de afstand die je in je hoofd had los.</li><li>Kijk 's ochtends naar je HRV. Duidelijk lager dan je weekgemiddelde? Maak er een rustige dag van.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In 69 studies verlaagde slaaptekort (6 uur of minder) de prestatie gemiddeld met ongeveer 7,6%. Vooral taken in de middag en avond leden eronder; taken in de ochtend bleven grotendeels gelijk. In een oudere studie liepen 8 mensen stevig op een loopband na 36 uur zonder slaap: ze stopten 11% eerder en de inspanning voelde zwaarder, terwijl hun hartslag gelijk bleef. Bij 16 mensen zorgde 90 minuten zwaar denkwerk ervoor dat ze 15% eerder stopten met fietsen, met vrijwel dezelfde hartslag; ze vonden de inspanning zwaarder. Allebei zie je terug in je HRV: in 11 studies verlaagde slaaptekort de RMSSD, de HRV-maat die veel wearables laten zien, en in de meeste van 37 studies veranderde HRV door stress.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/35708888/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of Acute Sleep Loss on Physical Performance: A Systematic and Meta-Analytical Review.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Craven J, McCartney D, Desbrow B, Sabapathy S, Bellinger P et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sports Med 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">35708888</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC9584849</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/7199438/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effect of sleep deprivation on tolerance of prolonged exercise.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Martin BJ</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Eur J Appl Physiol Occup Physiol 1981 <span class="px-1 text-border">·</span> PMID <span class="text-info">7199438</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/19131473/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Mental fatigue impairs physical performance in humans.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Marcora SM, Staiano W, Manning V</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Appl Physiol (1985) 2009 <span class="px-1 text-border">·</span> PMID <span class="text-info">19131473</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/40895095/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of sleep deprivation on heart rate variability: a systematic review and meta-analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Zhang S, Niu X, Ma J, Wei X, Zhang J et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Front Neurol 2025 <span class="px-1 text-border">·</span> PMID <span class="text-info">40895095</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC12394884</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/29486547/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Stress and Heart Rate Variability: A Meta-Analysis and Review of the Literature.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kim HG, Cheon EJ, Bai DS, Lee YH, Koo BH</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Psychiatry Investig 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">29486547</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC5900369</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Cafeïne laat hetzelfde tempo lichter voelen</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Cafeïne is de oppepper in koffie, thee, cola, energiedrank en pre-workout. Voor een rondje laat het de inspanning lichter voelen, terwijl je hartslag ongeveer gelijk blijft. Met cafeïne in je lijf kun je dus uit zone 2 lopen zonder dat je het voelt. Let op je hartslag en blijf de praattest doen.</p><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In de 26 studies van hierboven veranderde de hartslag niet. De ervaren inspanning ging omlaag, en de ademhaling en het lactaat gingen iets omhoog. Zelf neem ik 30 tot 60 mg per dag. Ik raad aan onder de 100 mg per dag te blijven, ongeveer één kop koffie, met je laatste cafeïne 10 uur voor je bedtijd.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28872376/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Caffeine and Physiological Responses to Submaximal Exercise: A Meta-Analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Glaister M, Gissane C</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Int J Sports Physiol Perform 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">28872376</span></p>
+      </a>
+      <a href="https://www.efsa.europa.eu/en/topics/topic/caffeine" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">EFSA: cafeïne</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Hoeveel cafeïne er in koffie, thee, cola, energiedrank en chocolade zit</p>
+      </a>
+    </div>
+    <div class="mx-6 mt-12 pt-10 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Waarom het na 4 tot 8 weken makkelijker wordt</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">In het begin schiet je hartslag snel omhoog, ook op een rustig tempo. Dat is normaal: je traint je hart. Duurtraining vergroot de hoeveelheid bloed in je lichaam, en dat gaat in stappen.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>In de eerste 2 tot 4 weken is bijna al het extra bloed plasma: het vloeibare deel van je bloed.</li><li>Daarna nemen ook je rode bloedcellen toe, die zuurstof vervoeren.</li><li>Met meer bloed vult je hart zich beter en pompt het per slag meer rond. In een trial steeg dat na 8 weken intervallen met ongeveer 10%.</li><li>Je hart heeft dan minder slagen nodig voor hetzelfde tempo.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Daarom begint het plan met wandelpauzes: in week 1 kan zelfs een rustig loopje je uit zone 2 halen. Na ongeveer 4 tot 8 weken wordt je hartslag stabieler en kun je langer door. Je ziet het aan een sneller tempo bij dezelfde hartslag.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/1798375/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Blood volume: its adaptation to endurance training.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Convertino VA, New Collective Author</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 1991 <span class="px-1 text-border">·</span> PMID <span class="text-info">1798375</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/17414804/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Aerobic high-intensity intervals improve VO2max more than moderate training.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Helgerud J, Høydal K, Wang E, Karlsen T, Berg P et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2007 <span class="px-1 text-border">·</span> PMID <span class="text-info">17414804</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 3</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Hardlopen en je slaap</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Wanneer je loopt als je dieper wilt slapen.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Het beste moment om te lopen voor je slaap</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Diepe slaap is de fase waarin je het diepst slaapt en het moeilijkst wakker wordt. Ik merk het zelf altijd: als ik overdag hardloop, is mijn activiteit hoger en krijg ik veel meer diepe slaap. Mijn focus is beter, en mijn humeur is vaak beter omdat ik buiten ben geweest. Het beeld dat tijdens het lopen langs je heen beweegt, werkt bij mij ontspannend. In het begin is het even wennen. Als het eenmaal een gewoonte is, is het een megawinst.</p><ul class="mt-3 list-disc space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Voor mij het beste: overdag en buiten, dan krijg je er daglicht bij.</li><li>Een rustig rondje in zone 2 in de avond kan prima.</li><li>Houd zware trainingen uit het laatste uur voor je bedtijd.</li></ul><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">Het onderzoek vindt een kleiner effect dan ik voel. In 66 studies gaf één keer sporten een kleine winst in totale slaap en diepe slaap, en regelmatig sporten een middelgrote winst in slaapkwaliteit. Wat het tijdstip betreft is er geen duidelijke winnaar: 25 studies die ochtend en avond vergeleken, vonden geen voordeel voor de ochtend. Sporten in de avond ging samen met iets vaker wakker worden in de nacht, vooral na zware trainingen. In 23 studies schaadde sporten in de avond de slaap niet; alleen zware training die minder dan een uur voor bedtijd eindigde, leek dat te doen. In één kleine studie kregen 20 volwassenen met een licht verhoogde bloeddruk meer diepe slaap na 30 minuten op een loopband om 7.00 uur dan om 13.00 uur. Buiten telt ook: in 11 kleine trials gaf wandelen of hardlopen buiten meer energie en minder spanning dan hetzelfde binnen. Wel wezen de resultaten erop dat mensen zich daarna iets minder kalm voelden, en de studies waren zwak. Bij ruim 400.000 Britten ging elk extra uur buiten overdag samen met makkelijker opstaan en minder vaak moe zijn. Dat is een verband, geen bewijs van oorzaak.</p>
+      
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/25596964/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">The effects of physical activity on sleep: a meta-analytic review.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Kredlow MA, Capozzoli MC, Hearon BA, Calkins AW, Otto MW</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Behav Med 2015 <span class="px-1 text-border">·</span> PMID <span class="text-info">25596964</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/42632303/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of morning versus evening exercise on sleep: a systematic review of comparative studies with a meta-analysis of randomized controlled trials.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Souabni M, Del Sordo GC, Saurel M, Peyrel P, Giacomoni M et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sleep Med Rev 2026 <span class="px-1 text-border">·</span> PMID <span class="text-info">42632303</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30374942/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of Evening Exercise on Sleep in Healthy Participants: A Systematic Review and Meta-Analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Stutz J, Eiholzer R, Spengler CM</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sports Med 2019 <span class="px-1 text-border">·</span> PMID <span class="text-info">30374942</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/25540588/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of exercise timing on sleep architecture and nocturnal blood pressure in prehypertensives.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Fairbrother K, Cartner B, Alley JR, Curry CD, Dickinson DL et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Vasc Health Risk Manag 2014 <span class="px-1 text-border">·</span> PMID <span class="text-info">25540588</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC4270305</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/21291246/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Does participating in physical activity in outdoor natural environments have a greater effect on physical and mental wellbeing than physical activity indoors? A systematic review.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Thompson Coon J, Boddy K, Stein K, Whear R, Barton J et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Environ Sci Technol 2011 <span class="px-1 text-border">·</span> PMID <span class="text-info">21291246</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/34488088/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Time spent in outdoor light is associated with mood, sleep, and circadian rhythm-related outcomes: A cross-sectional and longitudinal study in over 400,000 UK Biobank participants.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Burns AC, Saxena R, Vetter C, Phillips AJK, Lane JM et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Affect Disord 2021 <span class="px-1 text-border">·</span> PMID <span class="text-info">34488088</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC8892387</span></p>
+      </a>
+    </div>
+    <div class="mx-6 mt-24">
+      <p class="text-[12px] text-muted-foreground">Deel 4</p>
+      <h2 class="mt-1 text-[22px] font-normal leading-tight tracking-[-0.02em]">Zo weet je of het werkt</h2>
+      <p class="mt-2 text-[15px] text-muted-foreground">Waar je op je wearable naar kijkt, en wat elk getal betekent.</p>
+    </div>
+    <div class="mx-6 mt-6 pt-8 border-t border-border-faint">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Waar je op je wearable naar kijkt</h2>
+      <p class="mt-3 text-[15px] leading-[1.7] text-foreground/85">Een wearable is een ring, horloge of band die je dag en nacht draagt. Hij meet je hartslag en je bewegingen en rekent daaruit de rest uit. Kijk voor hardlopen naar drie getallen uit de nacht, en één tijdens het lopen.</p><ol class="mt-3 list-decimal space-y-1.5 pl-4 text-[15px] leading-[1.7] text-foreground/85"><li>Rusthartslag: hoe vaak je hart per minuut slaat als je helemaal stil ligt. Veel wearables laten het laagste punt van je nacht zien. Met weken zone 2 hoort hij langzaam te dalen. Ligt hij op een ochtend een paar slagen boven je normaal? Maak er dan een rustige dag van.</li><li>HRV: het kleine verschil in tijd tussen je hartslagen. Een hogere HRV betekent meestal dat je lichaam goed hersteld is; hij daalt na een korte nacht, alcohol of stress. Vergelijk hem met je eigen weekgemiddelde, nooit met dat van een ander. Lager dan normaal? Houd je rondje kort en rustig.</li><li>Diepe slaap: de fase waarin je het diepst slaapt en het moeilijkst wakker wordt. Zie het als een ruwe aanwijzing: wearables zitten bij je slaapfasen maar zo'n 50 tot 65% van de tijd goed. Kijk naar de trend over een à twee weken.</li><li>Je hartslag tijdens het lopen: een sensor om je pols is minder nauwkeurig dan een borstband. Ziet een getal er vreemd uit? Check het met de praattest.</li><li>Na 4 tot 8 weken: een sneller tempo bij dezelfde hartslag. Dat is je hart dat fitter wordt.</li></ol><p class="mt-4 text-[15px] leading-[1.7] text-foreground/85">In 191 studies verlaagde duurtraining de rusthartslag, meer bij mensen die hoger begonnen. Trainen op HRV (rustig als hij laag is) gaf in 8 studies ongeveer dezelfde winst in VO2max als een vast schema, met minder mensen bij wie de prestatie niet verbeterde. Bij 53 volwassenen in een slaaplab zaten zes wearables bij de slaapfasen 50 tot 65% van de tijd goed. Tijdens het sporten kwam een borstband bij 50 volwassenen vrijwel precies overeen met een hartfilmpje (ECG); polssensoren waren minder nauwkeurig, afhankelijk van het apparaat en de sport. 's Nachts, als je stil ligt, gaat het beter: bij 13 volwassenen over 536 nachten lagen rusthartslag en HRV van de beste ringen en banden dicht bij een ECG, en deden sommige merken het minder goed. HRV-onderzoekers raden aan naar een gemiddelde over meerdere dagen te kijken. Bespreek een afwijkende waarde altijd met je huisarts.</p>
+      <p class="mt-3 text-[12px] text-muted-foreground">De onderzoeksgroep van de vergelijking van zes wearables krijgt steun van WHOOP</p>
+      
+      <a href="https://pubmed.ncbi.nlm.nih.gov/30513777/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Reimers AK, Knapp G, Reimers CD</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Clin Med 2018 <span class="px-1 text-border">·</span> PMID <span class="text-info">30513777</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC6306777</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/34489178/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Monitoring and adapting endurance training on the basis of heart rate variability monitored by wearable technologies: A systematic review with meta-analysis.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Düking P, Zinner C, Trabelsi K, Reed JL, Holmberg HC et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">J Sci Med Sport 2021 <span class="px-1 text-border">·</span> PMID <span class="text-info">34489178</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/36016077/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">A Validation of Six Wearable Devices for Estimating Sleep, Heart Rate and Heart Rate Variability in Healthy Adults.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Miller DJ, Sargent C, Roach GD</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sensors (Basel) 2022 <span class="px-1 text-border">·</span> PMID <span class="text-info">36016077</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC9412437</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/28709155/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Variable Accuracy of Wearable Heart Rate Monitors during Aerobic Exercise.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Gillinov S, Etiwy M, Wang R, Blackburn G, Phelan D et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Med Sci Sports Exerc 2017 <span class="px-1 text-border">·</span> PMID <span class="text-info">28709155</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/40834291/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Validation of nocturnal resting heart rate and heart rate variability in consumer wearables.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Dial MB, Hollander ME, Vatne EA, Emerson AM, Edwards NA et al.</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Physiol Rep 2025 <span class="px-1 text-border">·</span> PMID <span class="text-info">40834291</span> <span class="px-1 text-border">·</span> PMCID <span class="text-info">PMC12367097</span></p>
+      </a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/23852425/" class="mt-5 block border-l border-border pl-4">
+        <p class="text-[14px] font-medium leading-snug">Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.</p>
+        <p class="mt-1.5 text-[12.5px] leading-snug text-info">Plews DJ, Laursen PB, Stanley J, Kilding AE, Buchheit M</p>
+        <p class="mt-1 text-[12px] text-muted-foreground">Sports Med 2013 <span class="px-1 text-border">·</span> PMID <span class="text-info">23852425</span></p>
+      </a>
+    </div><p class="mx-6 mt-12 border-t border-border-faint pt-10 text-[15px] leading-[1.7] text-foreground/85">Verander niet alles tegelijk. Begin met week 1 en de praattest, en geef het 8 weken voor je oordeelt. Wat je niet meet, blijft gissen. Daarom begin ik bij iedereen met data: je rusthartslag, je HRV en je slaap, naast hoe je rondjes voelen. Dan zie je wat bij jou het verschil maakt.</p>
+    <div id="trial" class="mx-6 mt-12 rounded-xl border border-border-faint bg-card p-6 text-card-foreground">
+      <p class="text-[12px] text-muted-foreground">De trial</p>
+      <p class="mt-1 text-[17px] font-normal tracking-[-0.01em]">Maak je zone 2 persoonlijk</p>
+      <ol class="mt-4 space-y-2.5">
+        <li class="flex gap-3">
+          <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">01</span>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Aanmelden.</span> <span class="text-muted-foreground">Klik op de knop en laat je gegevens achter.</span></p>
+        </li>
+        <li class="flex gap-3">
+          <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">02</span>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Koppelen.</span> <span class="text-muted-foreground">Koppel je wearable, of we regelen een WHOOP-trial van 30 dagen voor je.</span></p>
+        </li>
+        <li class="flex gap-3">
+          <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">03</span>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Analyse.</span> <span class="text-muted-foreground">We lezen 30+ waarden uit, zoals je rusthartslag, HRV en slaap, en zien wat je rondjes met je herstel doen. Je krijgt je protocol per video.</span></p>
+        </li>
+        <li class="flex gap-3">
+          <span class="w-5 shrink-0 pt-px text-[12px] text-muted-foreground">04</span>
+          <p class="text-[13.5px] leading-[1.55]"><span class="font-medium">Opvolging.</span> <span class="text-muted-foreground">In een call kijken we of je rustige rondjes makkelijker worden.</span></p>
+        </li></ol>
+      <div class="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2.5"><img src="logo-whoop.png" alt="WHOOP" class="w-auto shrink-0 opacity-80 dark:invert" style="height:10px" /><img src="logo-withings.png" alt="Withings" class="w-auto shrink-0 opacity-80 dark:invert" style="height:9px" /><img src="logo-oura.png" alt="Oura" class="w-auto shrink-0 opacity-80 dark:invert" style="height:11px" /><img src="logo-apple.png" alt="Apple" class="w-auto shrink-0 opacity-80 dark:invert" style="height:14px" /><img src="logo-fitbit.png" alt="Google Fitbit" class="w-auto shrink-0 opacity-80 dark:invert" style="height:12px" /></div>
+      <div class="mt-5 flex items-center gap-3 border-t border-border-faint pt-5"><div class="flex shrink-0 -space-x-2"><img src="leontine.jpg" alt="Leontine Borsato" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="daniel.jpg" alt="Daniel Dalen" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="bas.jpg" alt="Bas Lengers" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="thijs.jpg" alt="Thijs Verlangen" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /><img src="simone.jpg" alt="Simone Levie" class="size-6 shrink-0 rounded-full object-cover ring-2 ring-card" /></div><p class="text-[13px] font-medium">Vertrouwd door 400+ mensen</p></div>
+      
+      <a href="#start-trial" class="group/button inline-flex shrink-0 cursor-(--pointer) items-center justify-center rounded-md border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all duration-50 ease-out outline-none select-none active:translate-y-px bg-primary text-primary-foreground hover:bg-primary/90 h-9 gap-1.5 px-3 mt-5 w-full">Start de trial</a>
+      <p class="mt-3 text-center text-[11.5px] text-muted-foreground">Wordt privé afgehandeld door ons team.</p>
+    </div>
+    <div class="mx-6 mt-12 border-t border-border-faint pt-10">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Wat members zeggen</h2>
+      <div class="mt-5 grid gap-2.5" style="mask-image:linear-gradient(to bottom,#000 calc(100% - 8rem),transparent);-webkit-mask-image:linear-gradient(to bottom,#000 calc(100% - 8rem),transparent)">
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="leontine.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Leontine Borsato</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">Influencer, tv-presentatrice en celebrity</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Ik voel me heel goed! Het eten is wel wat lastig met zoveel reisjes, maar alles op z'n tijd.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="jayjay.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">JayJay Boske</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">Ondernemer, spreker en influencer</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Als ik het niet zie, is het er voor mij niet.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="rob.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Rob Lipsett</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">Creator en ondernemer</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;This is super thorough, love it.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="ruud.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Ruud &amp; Renée</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">CEO en medeoprichter, Thrivin</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Heb echt gekke energie, hele dagen door. Echt super.&rdquo;</blockquote>
+        </figure>
+        <figure class="rounded-xl border border-border-faint bg-card p-4">
+          <figcaption class="flex items-center gap-2.5"><img src="daniel.jpg" alt="" class="size-8 shrink-0 rounded-full object-cover" />
+            <span class="grid min-w-0 gap-0.5"><span class="text-[14px] font-medium leading-[1.3]">Daniel Dalen</span><span class="truncate text-[12px] leading-[1.3] text-muted-foreground">CEO en oprichter, Ecomflow</span></span></figcaption>
+          <blockquote class="mt-3 text-[15px] leading-[1.65] text-foreground/85">&ldquo;Haha, je bent echt een beast, bro.&rdquo;</blockquote>
+        </figure>
+      </div>
+    </div>
+    <div class="mx-6 mt-12 border-t border-border-faint pt-10">
+      <h2 class="text-[19px] font-normal tracking-[-0.01em]">Meer guides</h2>
+      <div class="mt-5 grid grid-cols-2 gap-2.5">
+        <a href="../full-body/nl.html" class="group col-span-2 block p-5 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[12px] text-muted-foreground">Volgende guide</p>
+          <p class="mt-1 text-[17px] font-normal leading-[1.3] tracking-[-0.01em]">Full body, 3 dagen per week: elke spiergroep op tijd</p>
+          <p class="mt-1.5 line-clamp-2 text-[13.5px] leading-[1.55] text-muted-foreground">Een schema dat je zo kunt gebruiken, met sets en herhalingen, een versie voor 2 dagen, de regel om elke week sterker te worden en hoe je ziet of je hersteld bent. Met het onderzoek bij elke stap.</p>
+          <div class="mt-4 flex items-center justify-between border-t border-border-faint pt-3.5 text-[13px]"><span class="text-muted-foreground">33 studies · 3 delen</span>
+            <span class="font-medium">Lees de guide <span class="inline-block transition-transform group-hover:translate-x-0.5">&rarr;</span></span></div>
+        </a>
+        <a href="../fibre/nl.html" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Meer vezels, zonder opgeblazen buik</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>18 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../energy/nl.html" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Waarom je om 15.00 uur instort</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>42 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../waking-up/nl.html" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Elke ochtend fit wakker worden</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>47 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../focus/nl.html" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Mijn 10 focus-tips</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>42 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../blood-markers/nl.html" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">De bloedwaarden die ik laat meten</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>31 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+        <a href="../heart/nl.html" class="group flex flex-col justify-between gap-4 p-4 rounded-xl border border-border-faint bg-card transition-colors hover:border-border">
+          <p class="text-[14.5px] font-normal leading-[1.35]">Wat je laat testen voor je hart</p>
+          <p class="flex items-center justify-between text-[12px] text-muted-foreground"><span>34 studies</span><span class="transition-transform group-hover:translate-x-0.5">&rarr;</span></p>
+        </a>
+      </div>
+    </div>
+    <div class="px-6 pt-12">
+      <details class="group border-y border-border-faint"><summary class="flex cursor-pointer list-none items-center justify-between gap-3 py-3 text-[13px] font-medium [&::-webkit-details-marker]:hidden"><span>Alle bronnen <span class="font-normal text-muted-foreground">(39)</span></span><svg class="size-3.5 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></summary><ol class="mb-4 mt-1 list-decimal space-y-1.5 pl-4 text-xs leading-snug text-muted-foreground"><li><a href="https://pubmed.ncbi.nlm.nih.gov/31479001/" class="hover:text-foreground">Iannetta D et al., Med Sci Sports Exerc 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/25951917/" class="hover:text-foreground">Videbæk S et al., Sports Med 2015</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/32102057/" class="hover:text-foreground">Wingo JE et al., Med Sci Sports Exerc 2020</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/28872376/" class="hover:text-foreground">Glaister M et al., Int J Sports Physiol Perform 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/30513777/" class="hover:text-foreground">Reimers AK et al., J Clin Med 2018</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/15354048/" class="hover:text-foreground">Persinger R et al., Med Sci Sports Exerc 2004</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/25010379/" class="hover:text-foreground">Reed JL et al., Curr Opin Cardiol 2014</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/11153730/" class="hover:text-foreground">Tanaka H et al., J Am Coll Cardiol 2001</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/25155475/" class="hover:text-foreground">Nielsen RØ et al., J Orthop Sports Phys Ther 2014</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17940147/" class="hover:text-foreground">Buist I et al., Am J Sports Med 2008</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/25467199/" class="hover:text-foreground">Hottenrott K et al., J Sci Med Sport 2016</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/25082581/" class="hover:text-foreground">Lee DC et al., J Am Coll Cardiol 2014</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/16430681/" class="hover:text-foreground">Seiler KS et al., Scand J Med Sci Sports 2006</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/24550842/" class="hover:text-foreground">Stöggl T et al., Front Physiol 2014</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/38717713/" class="hover:text-foreground">Silva Oliveira P et al., Sports Med 2024</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/17414804/" class="hover:text-foreground">Helgerud J et al., Med Sci Sports Exerc 2007</a></li><li><a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4102" class="hover:text-foreground">EFSA (2015): veiligheid van cafeïne</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/15692320/" class="hover:text-foreground">Wingo JE et al., Med Sci Sports Exerc 2005</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/1447078/" class="hover:text-foreground">Montain SJ et al., J Appl Physiol (1985) 1992</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/11337829/" class="hover:text-foreground">Coyle EF et al., Exerc Sport Sci Rev 2001</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/25943659/" class="hover:text-foreground">Wingo JE, Scand J Med Sci Sports 2015</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/35708888/" class="hover:text-foreground">Craven J et al., Sports Med 2022</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/7199438/" class="hover:text-foreground">Martin BJ, Eur J Appl Physiol Occup Physiol 1981</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/19131473/" class="hover:text-foreground">Marcora SM et al., J Appl Physiol (1985) 2009</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/40895095/" class="hover:text-foreground">Zhang S et al., Front Neurol 2025</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/29486547/" class="hover:text-foreground">Kim HG et al., Psychiatry Investig 2018</a></li><li><a href="https://www.efsa.europa.eu/en/topics/topic/caffeine" class="hover:text-foreground">EFSA: cafeïne</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/1798375/" class="hover:text-foreground">Convertino VA et al., Med Sci Sports Exerc 1991</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/25596964/" class="hover:text-foreground">Kredlow MA et al., J Behav Med 2015</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/42632303/" class="hover:text-foreground">Souabni M et al., Sleep Med Rev 2026</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/30374942/" class="hover:text-foreground">Stutz J et al., Sports Med 2019</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/25540588/" class="hover:text-foreground">Fairbrother K et al., Vasc Health Risk Manag 2014</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/21291246/" class="hover:text-foreground">Thompson Coon J et al., Environ Sci Technol 2011</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/34488088/" class="hover:text-foreground">Burns AC et al., J Affect Disord 2021</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/34489178/" class="hover:text-foreground">Düking P et al., J Sci Med Sport 2021</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/36016077/" class="hover:text-foreground">Miller DJ et al., Sensors (Basel) 2022</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/28709155/" class="hover:text-foreground">Gillinov S et al., Med Sci Sports Exerc 2017</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/40834291/" class="hover:text-foreground">Dial MB et al., Physiol Rep 2025</a></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/23852425/" class="hover:text-foreground">Plews DJ et al., Sports Med 2013</a></li></ol></details>
+      <p class="mt-4 pb-10 text-xs text-muted-foreground">Deze pagina is informatie, geen medisch advies.</p>
+    </div>
+  </main>
+  <script>
+document.querySelectorAll('.gp-flow').forEach(function(f){
+  var data=JSON.parse(f.querySelector('script[type="application/json"]').textContent);
+  var title=f.querySelector('.panel .t'), body=f.querySelector('.panel .d');
+  function sel(id){
+    f.querySelectorAll('.node').forEach(function(n){n.classList.toggle('on',n.dataset.id===id)});
+    f.querySelectorAll('[data-edge]').forEach(function(e){
+      var ends=e.dataset.edge.split('>'); e.classList.toggle('on',ends[0]===id||ends[1]===id);
+    });
+    var d=data[id]; title.textContent=d.t; body.textContent=d.d;
+  }
+  f.querySelectorAll('.node').forEach(function(n){
+    n.addEventListener('click',function(){sel(n.dataset.id)});
+    n.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();sel(n.dataset.id)}});
+  });
+  sel(f.dataset.start);
+});
+document.querySelectorAll('.gp-week').forEach(function(w){
+  var data=JSON.parse(w.querySelector('script[type="application/json"]').textContent);
+  var head=w.querySelector('.wk-head'), am=w.querySelector('.wk-am'), pm=w.querySelector('.wk-pm');
+  function fill(ol,steps){ol.innerHTML='';steps.forEach(function(t){var li=document.createElement('li');li.textContent=t;ol.appendChild(li)})}
+  function sel(i){
+    w.querySelectorAll('.day').forEach(function(b,j){b.setAttribute('aria-pressed',j===i?'true':'false')});
+    var d=data.days[i]; head.textContent=d.title; fill(am,d.am); fill(pm,d.pm);
+  }
+  w.querySelectorAll('.day').forEach(function(b,i){b.addEventListener('click',function(){sel(i)})});
+  sel(data.start||0);
+});
+document.querySelectorAll('.gp-cycle').forEach(function(c){
+  var data=JSON.parse(c.querySelector('script[type="application/json"]').textContent);
+  var svg=c.querySelector('svg'), tip=c.querySelector('.tip'), cross=c.querySelector('.cross');
+  var head=c.querySelector('.ph-head'), body=c.querySelector('.ph-body'), feel=c.querySelector('.ph-feel');
+  function phase(i){
+    c.querySelectorAll('.ph').forEach(function(b,j){b.setAttribute('aria-pressed',j===i?'true':'false')});
+    c.querySelectorAll('.band').forEach(function(b,j){b.classList.toggle('on',j===i)});
+    var p=data.phases[i]; head.textContent=p.t; body.textContent=p.d; feel.textContent=p.f||''; feel.hidden=!p.f;
+  }
+  c.querySelectorAll('.ph').forEach(function(b,i){b.addEventListener('click',function(){phase(i)})});
+  function at(evt){
+    var r=svg.getBoundingClientRect(), vb=svg.viewBox.baseVal;
+    var x=(evt.clientX-r.left)*vb.width/r.width;
+    var day=Math.round((x-data.x0)/(data.x1-data.x0)*(data.days-1))+1;
+    day=Math.max(1,Math.min(data.days,day));
+    if(data.snap){day=data.snap.reduce(function(a,b){return Math.abs(b-day)<Math.abs(a-day)?b:a})}
+    var X=data.x0+(day-1)*(data.x1-data.x0)/(data.days-1);
+    cross.setAttribute('x1',X);cross.setAttribute('x2',X);cross.style.opacity=1;
+    var raw=data.series.some(function(s){return s.r});
+    var ab=raw?null:(data.abs||[]).find(function(a){return day>=a.from&&day<=a.to});
+    function fmt(v){return (v>=100?Math.round(v).toString():(Math.round(v*10)/10).toFixed(1)).replace('.',data.dec)}
+    var html='<div style="font-weight:500">'+(data.pl?data.pl[day-1]:data.dayLabel+' '+day)+(ab?' <span style="color:var(--muted-foreground);font-weight:450">· '+ab.label+'</span>':'')+'</div>';
+    data.series.forEach(function(s,i){
+      var v=s.v[day-1], val=s.tt?s.tt:(s.r?(s.r[day-1]!=null?fmt(s.r[day-1])+' '+s.u:'-'):(ab?ab.v[i]:data.levels[v<.34?0:(v<.67?1:2)]));
+      html+='<div><span class="sw" style="background:'+s.c+'"></span> '+s.n+' <span style="color:var(--muted-foreground)">'+val+'</span></div>';
+    });
+    if((raw||ab)&&data.absNote)html+='<div style="color:var(--muted-foreground);margin-top:2px;max-width:13rem;white-space:normal">'+data.absNote+'</div>';
+    if(raw&&data.thin.indexOf(day)>=0&&data.thinNote)html+='<div style="color:var(--muted-foreground);max-width:13rem;white-space:normal">'+data.thinNote+'</div>';
+    tip.innerHTML=html; tip.hidden=false;
+    var px=X*r.width/vb.width; var w=tip.offsetWidth;
+    tip.style.left=Math.max(4,Math.min(r.width-w-4,px+10))+'px'; tip.style.top='6px';
+    var idx=data.phases.findIndex(function(p){return day>=p.from&&day<=p.to}); if(idx>=0)phase(idx);
+  }
+  svg.addEventListener('pointermove',at); svg.addEventListener('pointerdown',at);
+  svg.addEventListener('pointerleave',function(){tip.hidden=true;cross.style.opacity=0});
+  phase(data.start||0);
+});
+document.querySelectorAll('.gp-check').forEach(function(c){
+  var data=JSON.parse(c.querySelector('script[type="application/json"]').textContent);
+  var qs=c.querySelectorAll('.q'), vals=[], keys=Object.keys(data.areas);
+  qs.forEach(function(){vals.push(null)});
+  var cnt=c.querySelector('.cnt'), top=c.querySelector('.top'), none=c.querySelector('.none'), bars=c.querySelector('.bars');
+  function upd(){
+    var n=0, score={}, max={};
+    keys.forEach(function(k){score[k]=0;max[k]=0});
+    qs.forEach(function(q,i){
+      q.dataset.areas.split(',').forEach(function(k){max[k]+=2;if(vals[i]!==null)score[k]+=vals[i]});
+      if(vals[i]!==null)n++;
+    });
+    cnt.textContent=data.count.replace('{n}',n).replace('{t}',qs.length);
+    var best=null, bestR=0;
+    keys.forEach(function(k){var r=max[k]?score[k]/max[k]:0;if(r>bestR){bestR=r;best=k}});
+    bars.hidden=n===0;
+    c.querySelectorAll('.bar').forEach(function(b){
+      var k=b.dataset.k, r=max[k]?score[k]/max[k]:0;
+      b.querySelector('.fill').style.width=Math.round(r*100)+'%';
+      b.classList.toggle('top',k===best&&n>=data.min);
+    });
+    var ready=n>=data.min;
+    top.hidden=!(ready&&best); none.hidden=!(ready&&!best);
+    if(ready&&best){var a=data.areas[best];top.querySelector('.t').textContent=a.label;top.querySelector('.d').textContent=a.text;top.querySelector('.m').textContent=a.measure}
+  }
+  qs.forEach(function(q,i){
+    q.querySelectorAll('button').forEach(function(b){
+      b.addEventListener('click',function(){
+        var v=+b.dataset.v; vals[i]=vals[i]===v?null:v;
+        q.querySelectorAll('button').forEach(function(x){x.setAttribute('aria-pressed',vals[i]!==null&&+x.dataset.v===vals[i]?'true':'false')});
+        upd();
+      });
+    });
+  });
+  upd();
+});
+document.querySelectorAll('.gp-plan').forEach(function(p){
+  var data=JSON.parse(p.querySelector('script[type="application/json"]').textContent);
+  var list=p.querySelector('ol'), rows=[].slice.call(p.querySelectorAll('.row'));
+  function mins(v){var m=/^(\d{1,2}):(\d{2})/.exec(v||'');return m?(+m[1])*60+(+m[2]):null}
+  function fmt(t){t=((t%1440)+1440)%1440;var h=Math.floor(t/60),m=t%60;return (h<10?'0':'')+h+data.sep+(m<10?'0':'')+m}
+  function upd(){
+    var a={};
+    p.querySelectorAll('input[type=time]').forEach(function(i){var v=mins(i.value);if(v!==null)a[i.dataset.k]=v});
+    for(var pass=0;pass<3;pass++)Object.keys(data.derived).forEach(function(k){var d=data.derived[k];if(a[d.from]!=null)a[k]=a[d.from]+d.offset});
+    p.querySelectorAll('.out').forEach(function(o){o.textContent=a[o.dataset.k]!=null?fmt(a[o.dataset.k]):'-'});
+    var start=(a[data.order.at]||0)+(data.order.offset||0);
+    rows.forEach(function(r){
+      if(!r.dataset.at){r._k=1e6;return}
+      var base=a[r.dataset.at]; if(base==null)return;
+      var t=base+(+r.dataset.off), txt=fmt(t);
+      if(r.dataset.to!=null)txt+='-'+fmt(base+(+r.dataset.to));
+      r.querySelector('.tm').textContent=txt; r._k=((t-start)%1440+1440)%1440;
+    });
+    rows.slice().sort(function(x,y){return x._k-y._k}).forEach(function(r){list.appendChild(r)});
+  }
+  p.querySelectorAll('input[type=time]').forEach(function(i){i.addEventListener('input',upd);i.addEventListener('change',upd)});
+  upd();
+});
+document.querySelectorAll('.gp-cyclecalc').forEach(function(c){
+  var data=JSON.parse(c.querySelector('script[type="application/json"]').textContent);
+  var st=c.querySelector('.cc-start'), ln=c.querySelector('.cc-len'), ul=c.querySelector('.cc-measure');
+  var d0=new Date(); d0.setHours(0,0,0,0); var def=new Date(d0); def.setDate(def.getDate()-9);
+  st.value=def.toISOString().slice(0,10);
+  function fmt(d){return d.toLocaleDateString(data.locale,{weekday:'short',day:'numeric',month:'long'})}
+  function upd(){
+    if(!st.value)return; var s=new Date(st.value+'T00:00:00'), L=Math.max(21,Math.min(40,+ln.value||28));
+    var today=new Date(); today.setHours(0,0,0,0);
+    var diff=Math.floor((today-s)/864e5); if(diff<0)diff=0; var day=(diff%L)+1;
+    var start=new Date(s); start.setDate(start.getDate()+diff-(diff%L));
+    var ov=L-14, k=day<=5?'menstruation':(day<ov-1?'follicular':(day<=ov+1?'ovulation':'luteal'));
+    var p=data.phases[k]||{label:'',text:''};
+    c.querySelector('.cc-day').textContent=data.ui.day+' '+day+' '+data.ui.of;
+    c.querySelector('.cc-phase').textContent=p.label; c.querySelector('.cc-text').textContent=p.text;
+    ul.innerHTML='';
+    data.measure.forEach(function(m){
+      var dn=m.before?L-m.before:m.day; if(!dn)return;
+      var dt=new Date(start); dt.setDate(dt.getDate()+dn-1); if(dt<today){dt.setDate(dt.getDate()+L)}
+      var li=document.createElement('li');
+      li.innerHTML='<p class="text-[14px] font-medium leading-snug"></p><p class="mt-0.5 text-[13px] leading-[1.5] text-muted-foreground"></p>';
+      li.children[0].textContent=m.label+': '+data.ui.around+' '+fmt(dt)+' ('+data.ui.dayword+' '+dn+')';
+      li.children[1].textContent=m.text; ul.appendChild(li);
+    });
+  }
+  st.addEventListener('change',upd); ln.addEventListener('input',upd); upd();
+});
+document.querySelectorAll('.gp-filter').forEach(function(bar){
+  var list=document.getElementById(bar.dataset.target);
+  bar.querySelectorAll('button').forEach(function(b){
+    b.addEventListener('click',function(){
+      bar.querySelectorAll('button').forEach(function(x){x.setAttribute('aria-pressed',x===b?'true':'false')});
+      var want=b.dataset.dir;
+      list.querySelectorAll('[data-dir]').forEach(function(r){
+        r.hidden = !(want==='all' || r.dataset.dir===want || (want==='exclude' && r.dataset.dir==='check'));
+      });
+    });
+  });
+});
+</script>
+</body>
+</html>
